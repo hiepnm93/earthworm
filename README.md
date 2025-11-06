@@ -1,7 +1,7 @@
 <div align="center">
   <img alt="Earthworm" width="120" height="120" src="./assets/logo/logo-1000.png">
   <h1>Earthworm</h1>
-  <span>English | <a href="./README.zh-CN.md">中文</a></span>
+  <span>English | <a href="./README.zh-CN.md">中文</a> | <a href="./README.vi.md">Tiếng Việt</a></span>
 </div>
 
 <div align="center">
