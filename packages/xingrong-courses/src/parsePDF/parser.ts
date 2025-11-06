@@ -26,7 +26,7 @@ export function parse(text: string) {
 
   for (let i = 0; i < textList.length; i++) {
     let data = {
-      chinese: "",
+      vietnamese: "",
       english: "",
       soundmark: "",
     };
@@ -43,7 +43,7 @@ export function parse(text: string) {
           i++;
         }
 
-        data.chinese = parseChinese(chinese);
+        data.vietnamese = parseChinese(chinese);
       } else {
         englishAndSoundmark += element;
 

@@ -17,7 +17,7 @@
       {{ courseStore.currentStatement?.soundmark }}
     </div>
     <div class="my-6 text-xl text-gray-500">
-      {{ courseStore.currentStatement?.chinese }}
+      {{ courseStore.currentStatement?.vietnamese }}
     </div>
     <button
       class="btn btn-outline btn-sm"

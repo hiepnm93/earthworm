@@ -10,14 +10,14 @@
         v-for="(item, index) in contentsList"
         :key="item.id"
         :class="getItemClassNames(index)"
-        :data-tippy-content="`${item.english}<br>${item.chinese}`"
+        :data-tippy-content="`${item.english}<br>${item.vietnamese}`"
         @click="jumpTo(index, item)"
         @mouseenter="$lazyTippy"
       >
         <div class="flex whitespace-pre-wrap border-b py-1 dark:border-slate-600">
           <div class="w-12 text-center">{{ index + 1 }}</div>
           <div class="flex-1 truncate text-left">
-            {{ item.chinese }}
+            {{ item.vietnamese }}
             {{ item.isMastered ? "✅" : "" }}
           </div>
         </div>

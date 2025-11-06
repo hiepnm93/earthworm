@@ -32,7 +32,7 @@
                 <span class="i-simple-icons-twitter h-6 w-6 self-start text-[#03a9f4]"></span>
               </div>
               <p class="mt-4 text-sm text-gray-700 dark:text-gray-300 lg:text-base">
-                {{ item.chinese }}
+                {{ item.vietnamese }}
               </p>
               <div class="my-2 flex items-center justify-between">
                 <div class="text-xs text-gray-500">
