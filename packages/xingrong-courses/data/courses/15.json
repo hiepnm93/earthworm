@@ -1,627 +1,627 @@
 [
 	{
-		"chinese": "支付；付钱",
 		"english": "to pay",
-		"soundmark": "/tə/ /pe/"
+		"soundmark": "/tə/ /pe/",
+		"vietnamese": "[VI:支付；付钱]"
 	},
 	{
-		"chinese": "账单",
 		"english": "the bill",
-		"soundmark": "/ðə/ /bɪl/"
+		"soundmark": "/ðə/ /bɪl/",
+		"vietnamese": "[VI:账单]"
 	},
 	{
-		"chinese": "支付账单",
 		"english": "to pay the bill",
-		"soundmark": "/tə/ /pe/ /ðə/ /bɪl/"
+		"soundmark": "/tə/ /pe/ /ðə/ /bɪl/",
+		"vietnamese": "[VI:支付账单]"
 	},
 	{
-		"chinese": "他",
 		"english": "him",
-		"soundmark": "/hɪm/"
+		"soundmark": "/hɪm/",
+		"vietnamese": "Anh ấy"
 	},
 	{
-		"chinese": "付钱给他",
 		"english": "to pay him",
-		"soundmark": "/tə/ /pe/ /hɪm/"
+		"soundmark": "/tə/ /pe/ /hɪm/",
+		"vietnamese": "付钱给Anh ấy"
 	},
 	{
-		"chinese": "你",
 		"english": "you",
-		"soundmark": "/ju/"
+		"soundmark": "/ju/",
+		"vietnamese": "Bạn"
 	},
 	{
-		"chinese": "你(过去)付钱给他",
 		"english": "you paid him",
-		"soundmark": "/ju/ /ped/ /hɪm/"
+		"soundmark": "/ju/ /ped/ /hɪm/",
+		"vietnamese": "Bạn(过去)付钱给Anh ấy"
 	},
 	{
-		"chinese": "十",
 		"english": "ten",
-		"soundmark": "/tɛn/"
+		"soundmark": "/tɛn/",
+		"vietnamese": "[VI:十]"
 	},
 	{
-		"chinese": "美元",
 		"english": "dollars",
-		"soundmark": "/'dɑlɚz/"
+		"soundmark": "/'dɑlɚz/",
+		"vietnamese": "[VI:美元]"
 	},
 	{
-		"chinese": "十美元",
 		"english": "ten dollars",
-		"soundmark": "/tɛn/ /'dɑlɚz/"
+		"soundmark": "/tɛn/ /'dɑlɚz/",
+		"vietnamese": "[VI:十美元]"
 	},
 	{
-		"chinese": "你(过去)付给他十美元",
 		"english": "you paid him ten dollars",
-		"soundmark": "/ju/ /ped/ /hɪm/ /tɛn/ /'dɑlɚz/"
+		"soundmark": "/ju/ /ped/ /hɪm/ /tɛn/ /'dɑlɚz/",
+		"vietnamese": "Bạn(过去)付给Anh ấy十美元"
 	},
 	{
-		"chinese": "你(过去)没有付给他十美元",
 		"english": "you didn't pay him ten dollars",
-		"soundmark": "/ju/ /'dɪdnt/ /pe/ /hɪm/ /tɛn/ /'dɑlɚz/"
+		"soundmark": "/ju/ /'dɪdnt/ /pe/ /hɪm/ /tɛn/ /'dɑlɚz/",
+		"vietnamese": "Bạn(过去)没有付给Anh ấy十美元"
 	},
 	{
-		"chinese": "做",
 		"english": "to do",
-		"soundmark": "/tə/ /du/"
+		"soundmark": "/tə/ /du/",
+		"vietnamese": "làm"
 	},
 	{
-		"chinese": "做这件事",
 		"english": "to do it",
-		"soundmark": "/tə/ /du/ /ɪt/"
+		"soundmark": "/tə/ /du/ /ɪt/",
+		"vietnamese": "làm điều này"
 	},
 	{
-		"chinese": "你(过去)付钱给他去做这件事",
 		"english": "you paid him to do it",
-		"soundmark": "/ju/ /ped/ /hɪm/ /tə/ /du/ /ɪt/"
+		"soundmark": "/ju/ /ped/ /hɪm/ /tə/ /du/ /ɪt/",
+		"vietnamese": "Bạn(过去)付钱给Anh ấy去làm điều này"
 	},
 	{
-		"chinese": "你(过去)没有付钱给他去做这件事",
 		"english": "you didn't pay him to do it",
-		"soundmark": "/ju/ /'dɪdnt/ /pe/ /hɪm/ /tə/ /du/ /ɪt/"
+		"soundmark": "/ju/ /'dɪdnt/ /pe/ /hɪm/ /tə/ /du/ /ɪt/",
+		"vietnamese": "Bạn(过去)没有付钱给Anh ấy去làm điều này"
 	},
 	{
-		"chinese": "你(过去)付给他十美元去做这件事",
 		"english": "you paid him ten dollars to do it",
-		"soundmark": "/ju/ /ped/ /hɪm/ /tɛn/ /'dɑlɚz/ /tə/ /du/ /ɪt/"
+		"soundmark": "/ju/ /ped/ /hɪm/ /tɛn/ /'dɑlɚz/ /tə/ /du/ /ɪt/",
+		"vietnamese": "Bạn(过去)付给Anh ấy十美元去làm điều này"
 	},
 	{
-		"chinese": "你(过去)没有付给他十美元去做这件事",
 		"english": "you didn't pay him ten dollars to do it",
-		"soundmark": "/ju/ /'dɪdnt/ /pe/ /hɪm/ /tɛn/ /'dɑlɚz/ /tə/ /du/ /ɪt/"
+		"soundmark": "/ju/ /'dɪdnt/ /pe/ /hɪm/ /tɛn/ /'dɑlɚz/ /tə/ /du/ /ɪt/",
+		"vietnamese": "Bạn(过去)没有付给Anh ấy十美元去làm điều này"
 	},
 	{
-		"chinese": "决定",
 		"english": "to decide",
-		"soundmark": "/tə/ /dɪ'saɪd/"
+		"soundmark": "/tə/ /dɪ'saɪd/",
+		"vietnamese": "[VI:决定]"
 	},
 	{
-		"chinese": "我们必须决定",
 		"english": "we have to decide",
-		"soundmark": "/wi/ /hæv/ /tə/ /dɪ'saɪd/"
+		"soundmark": "/wi/ /hæv/ /tə/ /dɪ'saɪd/",
+		"vietnamese": "Chúng tôiphải决定"
 	},
 	{
-		"chinese": "今晚",
 		"english": "tonight",
-		"soundmark": "/tə'naɪt/"
+		"soundmark": "/tə'naɪt/",
+		"vietnamese": "tối nay"
 	},
 	{
-		"chinese": "我们必须今晚决定",
 		"english": "we have to decide tonight",
-		"soundmark": "/wi/ /hæv/ /tə/ /dɪ'saɪd/ /tə'naɪt/"
+		"soundmark": "/wi/ /hæv/ /tə/ /dɪ'saɪd/ /tə'naɪt/",
+		"vietnamese": "Chúng tôiphảitối nay决定"
 	},
 	{
-		"chinese": "我们不必今晚决定",
 		"english": "we don't have to decide tonight",
-		"soundmark": "/wi/ /dont/ /hæv/ /tə/ /dɪ'saɪd/ /tə'naɪt/"
+		"soundmark": "/wi/ /dont/ /hæv/ /tə/ /dɪ'saɪd/ /tə'naɪt/",
+		"vietnamese": "Chúng tôikhông必tối nay决定"
 	},
 	{
-		"chinese": "我们决定",
 		"english": "we decide",
-		"soundmark": "/wi/ /dɪ'saɪd/"
+		"soundmark": "/wi/ /dɪ'saɪd/",
+		"vietnamese": "Chúng tôi决定"
 	},
 	{
-		"chinese": "去",
 		"english": "to go",
-		"soundmark": "/tə/ /ɡo/"
+		"soundmark": "/tə/ /ɡo/",
+		"vietnamese": "[VI:去]"
 	},
 	{
-		"chinese": "外面",
 		"english": "out",
-		"soundmark": "/aʊt/"
+		"soundmark": "/aʊt/",
+		"vietnamese": "[VI:外面]"
 	},
 	{
-		"chinese": "去外面",
 		"english": "to go out",
-		"soundmark": "/tə/ /ɡo/ /aʊt/"
+		"soundmark": "/tə/ /ɡo/ /aʊt/",
+		"vietnamese": "[VI:去外面]"
 	},
 	{
-		"chinese": "我们决定去外面",
 		"english": "we decide to go out",
-		"soundmark": "/wi/ /dɪ'saɪd/ /tə/ /ɡo/ /aʊt/"
+		"soundmark": "/wi/ /dɪ'saɪd/ /tə/ /ɡo/ /aʊt/",
+		"vietnamese": "Chúng tôi决定去外面"
 	},
 	{
-		"chinese": "为了",
 		"english": "for",
-		"soundmark": "/fɝ/"
+		"soundmark": "/fɝ/",
+		"vietnamese": "[VI:为了]"
 	},
 	{
-		"chinese": "晚餐",
 		"english": "dinner",
-		"soundmark": "/'dɪnɚ/"
+		"soundmark": "/'dɪnɚ/",
+		"vietnamese": "[VI:晚餐]"
 	},
 	{
-		"chinese": "为了晚餐",
 		"english": "for dinner",
-		"soundmark": "/fɝ/ /'dɪnɚ/"
+		"soundmark": "/fɝ/ /'dɪnɚ/",
+		"vietnamese": "[VI:为了晚餐]"
 	},
 	{
-		"chinese": "我们决定去外面为了晚餐",
 		"english": "we decide to go out for dinner",
-		"soundmark": "/wi/ /dɪ'saɪd/ /tə/ /ɡo/ /aʊt/ /fɝ/ /'dɪnɚ/"
+		"soundmark": "/wi/ /dɪ'saɪd/ /tə/ /ɡo/ /aʊt/ /fɝ/ /'dɪnɚ/",
+		"vietnamese": "Chúng tôi决定去外面为了晚餐"
 	},
 	{
-		"chinese": "决定(过去)",
 		"english": "decided",
-		"soundmark": "/dɪ'saɪdɪd/"
+		"soundmark": "/dɪ'saɪdɪd/",
+		"vietnamese": "[VI:决定(过去)]"
 	},
 	{
-		"chinese": "我们(过去)决定",
 		"english": "we decided",
-		"soundmark": "/wi/ /dɪ'saɪdɪd/"
+		"soundmark": "/wi/ /dɪ'saɪdɪd/",
+		"vietnamese": "Chúng tôi(过去)决定"
 	},
 	{
-		"chinese": "我们(过去)决定去外面为了晚餐",
 		"english": "we decided to go out for dinner",
-		"soundmark": "/wi/ /dɪ'saɪdɪd/ /tə/ /ɡo/ /aʊt/ /fɝ/ /'dɪnɚ/"
+		"soundmark": "/wi/ /dɪ'saɪdɪd/ /tə/ /ɡo/ /aʊt/ /fɝ/ /'dɪnɚ/",
+		"vietnamese": "Chúng tôi(过去)决定去外面为了晚餐"
 	},
 	{
-		"chinese": "驾驶",
 		"english": "to drive",
-		"soundmark": "/tə/ /draɪv/"
+		"soundmark": "/tə/ /draɪv/",
+		"vietnamese": "[VI:驾驶]"
 	},
 	{
-		"chinese": "那辆汽车",
 		"english": "the car",
-		"soundmark": "/ðə/ /kɑr/"
+		"soundmark": "/ðə/ /kɑr/",
+		"vietnamese": "[VI:那辆汽车]"
 	},
 	{
-		"chinese": "开那辆车",
 		"english": "to drive the car",
-		"soundmark": "/tə/ /draɪv/ /ðə/ /kɑr/"
+		"soundmark": "/tə/ /draɪv/ /ðə/ /kɑr/",
+		"vietnamese": "[VI:开那辆车]"
 	},
 	{
-		"chinese": "我(过去)决定",
 		"english": "I decided",
-		"soundmark": "/aɪ/ /dɪ'saɪdɪd/"
+		"soundmark": "/aɪ/ /dɪ'saɪdɪd/",
+		"vietnamese": "Tôi(过去)决定"
 	},
 	{
-		"chinese": "我(过去)决定开那辆车",
 		"english": "I decided to drive the car",
-		"soundmark": "/aɪ/ /dɪ'saɪdɪd/ /tə/ /draɪv/ /ðə/ /kɑr/"
+		"soundmark": "/aɪ/ /dɪ'saɪdɪd/ /tə/ /draɪv/ /ðə/ /kɑr/",
+		"vietnamese": "Tôi(过去)决定开那辆车"
 	},
 	{
-		"chinese": "我开那辆车",
 		"english": "I drive the car",
-		"soundmark": "/aɪ/ /draɪv/ /ðə/ /kɑr/"
+		"soundmark": "/aɪ/ /draɪv/ /ðə/ /kɑr/",
+		"vietnamese": "Tôi开那辆车"
 	},
 	{
-		"chinese": "我(过去)开那辆车",
 		"english": "I drove the car",
-		"soundmark": "/aɪ/ /drov/ /ðə/ /kɑr/"
+		"soundmark": "/aɪ/ /drov/ /ðə/ /kɑr/",
+		"vietnamese": "Tôi(过去)开那辆车"
 	},
 	{
-		"chinese": "昨天",
 		"english": "yesterday",
-		"soundmark": "/'jɛstɚde/"
+		"soundmark": "/'jɛstɚde/",
+		"vietnamese": "[VI:昨天]"
 	},
 	{
-		"chinese": "我昨天开了那辆车",
 		"english": "I drove the car yesterday",
-		"soundmark": "/aɪ/ /drov/ /ðə/ /kɑr/ /'jɛstɚde/"
+		"soundmark": "/aɪ/ /drov/ /ðə/ /kɑr/ /'jɛstɚde/",
+		"vietnamese": "Tôi昨天开了那辆车"
 	},
 	{
-		"chinese": "我昨天没有开那辆车",
 		"english": "I didn't drive the car yesterday",
-		"soundmark": "/aɪ/ /'dɪdnt/ /draɪv/ /ðə/ /kɑr/ /'jɛstɚde/"
+		"soundmark": "/aɪ/ /'dɪdnt/ /draɪv/ /ðə/ /kɑr/ /'jɛstɚde/",
+		"vietnamese": "Tôi昨天没有开那辆车"
 	},
 	{
-		"chinese": "相信",
 		"english": "to believe",
-		"soundmark": "/tə/ /bɪ'liv/"
+		"soundmark": "/tə/ /bɪ'liv/",
+		"vietnamese": "tin"
 	},
 	{
-		"chinese": "我",
 		"english": "me",
-		"soundmark": "/mi/"
+		"soundmark": "/mi/",
+		"vietnamese": "Tôi"
 	},
 	{
-		"chinese": "相信我",
 		"english": "to believe me",
-		"soundmark": "/tə/ /bɪ'liv/ /mi/"
+		"soundmark": "/tə/ /bɪ'liv/ /mi/",
+		"vietnamese": "tin tôi"
 	},
 	{
-		"chinese": "你需要",
 		"english": "you need",
-		"soundmark": "/ju/ /nid/"
+		"soundmark": "/ju/ /nid/",
+		"vietnamese": "Bạncần"
 	},
 	{
-		"chinese": "你需要相信我",
 		"english": "you need to believe me",
-		"soundmark": "/ju/ /nid/ /tə/ /bɪ'liv/ /mi/"
+		"soundmark": "/ju/ /nid/ /tə/ /bɪ'liv/ /mi/",
+		"vietnamese": "Bạncầntin tôi"
 	},
 	{
-		"chinese": "你相信我",
 		"english": "you believe me",
-		"soundmark": "/ju/ /bɪ'liv/ /mi/"
+		"soundmark": "/ju/ /bɪ'liv/ /mi/",
+		"vietnamese": "Bạntin tôi"
 	},
 	{
-		"chinese": "你不相信我",
 		"english": "you don't believe me",
-		"soundmark": "/ju/ /dont/ /bɪ'liv/ /mi/"
+		"soundmark": "/ju/ /dont/ /bɪ'liv/ /mi/",
+		"vietnamese": "Bạnkhôngtin tôi"
 	},
 	{
-		"chinese": "你(过去)相信我",
 		"english": "you believed me",
-		"soundmark": "/ju/ /bɪ'livd/ /mi/"
+		"soundmark": "/ju/ /bɪ'livd/ /mi/",
+		"vietnamese": "Bạn(过去)tin tôi"
 	},
 	{
-		"chinese": "你(过去)不相信我",
 		"english": "you didn't believe me",
-		"soundmark": "/ju/ /'dɪdnt/ /bɪ'liv/ /mi/"
+		"soundmark": "/ju/ /'dɪdnt/ /bɪ'liv/ /mi/",
+		"vietnamese": "Bạn(过去)khôngtin tôi"
 	},
 	{
-		"chinese": "但是",
 		"english": "but",
-		"soundmark": "/bət/"
+		"soundmark": "/bət/",
+		"vietnamese": "但là"
 	},
 	{
-		"chinese": "但是你(过去)不相信我",
 		"english": "but you didn't believe me",
-		"soundmark": "/bət/ /ju/ /'dɪdnt/ /bɪ'liv/ /mi/"
+		"soundmark": "/bət/ /ju/ /'dɪdnt/ /bɪ'liv/ /mi/",
+		"vietnamese": "但làBạn(过去)khôngtin tôi"
 	},
 	{
-		"chinese": "我昨天开了那辆车但是你(过去)不相信我",
 		"english": "I drove the car yesterday but you didn't believe me",
-		"soundmark": "/aɪ/ /drov/ /ðə/ /kɑr/ /'jɛstɚde/ /bət/ /ju/ /'dɪdnt/ /bɪ'liv/ /mi/"
+		"soundmark": "/aɪ/ /drov/ /ðə/ /kɑr/ /'jɛstɚde/ /bət/ /ju/ /'dɪdnt/ /bɪ'liv/ /mi/",
+		"vietnamese": "Tôi昨天开了那辆车但làBạn(过去)khôngtin tôi"
 	},
 	{
-		"chinese": "改变",
 		"english": "to change",
-		"soundmark": "/tə/ /tʃendʒ/"
+		"soundmark": "/tə/ /tʃendʒ/",
+		"vietnamese": "[VI:改变]"
 	},
 	{
-		"chinese": "想法",
 		"english": "mind",
-		"soundmark": "/maɪnd/"
+		"soundmark": "/maɪnd/",
+		"vietnamese": "[VI:想法]"
 	},
 	{
-		"chinese": "我的",
 		"english": "my",
-		"soundmark": "/maɪ/"
+		"soundmark": "/maɪ/",
+		"vietnamese": "Tôi的"
 	},
 	{
-		"chinese": "我的想法",
 		"english": "my mind",
-		"soundmark": "/maɪ/ /maɪnd/"
+		"soundmark": "/maɪ/ /maɪnd/",
+		"vietnamese": "Tôi的想法"
 	},
 	{
-		"chinese": "改变我的想法",
 		"english": "to change my mind",
-		"soundmark": "/tə/ /tʃendʒ/ /maɪ/ /maɪnd/"
+		"soundmark": "/tə/ /tʃendʒ/ /maɪ/ /maɪnd/",
+		"vietnamese": "改变Tôi的想法"
 	},
 	{
-		"chinese": "我想要",
 		"english": "I want",
-		"soundmark": "/aɪ/ /wɑnt/"
+		"soundmark": "/aɪ/ /wɑnt/",
+		"vietnamese": "Tôi muốn"
 	},
 	{
-		"chinese": "我想要改变我的想法",
 		"english": "I want to change my mind",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /tʃendʒ/ /maɪ/ /maɪnd/"
+		"soundmark": "/aɪ/ /wɑnt/ /tə/ /tʃendʒ/ /maɪ/ /maɪnd/",
+		"vietnamese": "Tôi muốn改变Tôi的想法"
 	},
 	{
-		"chinese": "我改变我的想法",
 		"english": "I change my mind",
-		"soundmark": "/aɪ/ /tʃendʒ/ /maɪ/ /maɪnd/"
+		"soundmark": "/aɪ/ /tʃendʒ/ /maɪ/ /maɪnd/",
+		"vietnamese": "Tôi改变我的想法"
 	},
 	{
-		"chinese": "改变了",
 		"english": "changed",
-		"soundmark": "/tʃendʒd/"
+		"soundmark": "/tʃendʒd/",
+		"vietnamese": "[VI:改变了]"
 	},
 	{
-		"chinese": "我改变了我的想法",
 		"english": "I changed my mind",
-		"soundmark": "/aɪ/ /tʃendʒd/ /maɪ/ /maɪnd/"
+		"soundmark": "/aɪ/ /tʃendʒd/ /maɪ/ /maɪnd/",
+		"vietnamese": "Tôi改变了我的想法"
 	},
 	{
-		"chinese": "再次",
 		"english": "again",
-		"soundmark": "/ə'ɡɛn/"
+		"soundmark": "/ə'ɡɛn/",
+		"vietnamese": "[VI:再次]"
 	},
 	{
-		"chinese": "我再次改变了我的想法",
 		"english": "I changed my mind again",
-		"soundmark": "/aɪ/ /tʃendʒd/ /maɪ/ /maɪnd/ /ə'ɡɛn/"
+		"soundmark": "/aɪ/ /tʃendʒd/ /maɪ/ /maɪnd/ /ə'ɡɛn/",
+		"vietnamese": "Tôi再次改变了我的想法"
 	},
 	{
-		"chinese": "决定",
 		"english": "to decide",
-		"soundmark": "/tə/ /dɪ'saɪd/"
+		"soundmark": "/tə/ /dɪ'saɪd/",
+		"vietnamese": "[VI:决定]"
 	},
 	{
-		"chinese": "开那辆车",
 		"english": "to drive the car",
-		"soundmark": "/tə/ /draɪv/ /ðə/ /kɑr/"
+		"soundmark": "/tə/ /draɪv/ /ðə/ /kɑr/",
+		"vietnamese": "[VI:开那辆车]"
 	},
 	{
-		"chinese": "我(过去)决定开那辆车",
 		"english": "I decided to drive the car",
-		"soundmark": "/aɪ/ /dɪ'saɪdɪd/ /tə/ /draɪv/ /ðə/ /kɑr/"
+		"soundmark": "/aɪ/ /dɪ'saɪdɪd/ /tə/ /draɪv/ /ðə/ /kɑr/",
+		"vietnamese": "Tôi(过去)决定开那辆车"
 	},
 	{
-		"chinese": "我再次改变了我的想法我(过去)决定开那辆车",
 		"english": "I changed my mind again I decided to drive the car",
-		"soundmark": "/aɪ/ /tʃendʒd/ /maɪ/ /maɪnd/ /ə'ɡɛn/ /aɪ/ /dɪ'saɪdɪd/ /tə/ /draɪv/ /ðə/ /kɑr/"
+		"soundmark": "/aɪ/ /tʃendʒd/ /maɪ/ /maɪnd/ /ə'ɡɛn/ /aɪ/ /dɪ'saɪdɪd/ /tə/ /draɪv/ /ðə/ /kɑr/",
+		"vietnamese": "Tôi再次改变了我的想法我(过去)决定开那辆车"
 	},
 	{
-		"chinese": "尝试",
 		"english": "to try",
-		"soundmark": "/tə/ /traɪ/"
+		"soundmark": "/tə/ /traɪ/",
+		"vietnamese": "[VI:尝试]"
 	},
 	{
-		"chinese": "我(过去)决定尝试",
 		"english": "I decided to try",
-		"soundmark": "/aɪ/ /dɪ'saɪdɪd/ /tə/ /traɪ/"
+		"soundmark": "/aɪ/ /dɪ'saɪdɪd/ /tə/ /traɪ/",
+		"vietnamese": "Tôi(过去)决定尝试"
 	},
 	{
-		"chinese": "我(过去)决定尝试开那辆车",
 		"english": "I decided to try to drive the car",
-		"soundmark": "/aɪ/ /dɪ'saɪdɪd/ /tə/ /traɪ/ /tə/ /draɪv/ /ðə/ /kɑr/"
+		"soundmark": "/aɪ/ /dɪ'saɪdɪd/ /tə/ /traɪ/ /tə/ /draɪv/ /ðə/ /kɑr/",
+		"vietnamese": "Tôi(过去)决定尝试开那辆车"
 	},
 	{
-		"chinese": "我(过去)没有决定尝试开那辆车",
 		"english": "I didn't decide to try to drive the car",
-		"soundmark": "/aɪ/ /'dɪdnt/ /dɪ'saɪd/ /tə/ /traɪ/ /tə/ /draɪv/ /ðə/ /kɑr/"
+		"soundmark": "/aɪ/ /'dɪdnt/ /dɪ'saɪd/ /tə/ /traɪ/ /tə/ /draɪv/ /ðə/ /kɑr/",
+		"vietnamese": "Tôi(过去)没有决定尝试开那辆车"
 	},
 	{
-		"chinese": "我尝试开那辆车",
 		"english": "I try to drive the car",
-		"soundmark": "/aɪ/ /traɪ/ /tə/ /draɪv/ /ðə/ /kɑr/"
+		"soundmark": "/aɪ/ /traɪ/ /tə/ /draɪv/ /ðə/ /kɑr/",
+		"vietnamese": "Tôi尝试开那辆车"
 	},
 	{
-		"chinese": "我不尝试开那辆车",
 		"english": "I don't try to drive the car",
-		"soundmark": "/aɪ/ /dont/ /traɪ/ /tə/ /draɪv/ /ðə/ /kɑr/"
+		"soundmark": "/aɪ/ /dont/ /traɪ/ /tə/ /draɪv/ /ðə/ /kɑr/",
+		"vietnamese": "Tôikhông尝试开那辆车"
 	},
 	{
-		"chinese": "我(过去)尝试开那辆车",
 		"english": "I tried to drive the car",
-		"soundmark": "/aɪ/ /traɪd/ /tə/ /draɪv/ /ðə/ /kɑr/"
+		"soundmark": "/aɪ/ /traɪd/ /tə/ /draɪv/ /ðə/ /kɑr/",
+		"vietnamese": "Tôi(过去)尝试开那辆车"
 	},
 	{
-		"chinese": "我(过去)没有尝试开那辆车",
 		"english": "I didn't try to drive the car",
-		"soundmark": "/aɪ/ /'dɪdnt/ /traɪ/ /tə/ /draɪv/ /ðə/ /kɑr/"
+		"soundmark": "/aɪ/ /'dɪdnt/ /traɪ/ /tə/ /draɪv/ /ðə/ /kɑr/",
+		"vietnamese": "Tôi(过去)没有尝试开那辆车"
 	},
 	{
-		"chinese": "我开那辆车",
 		"english": "I drive the car",
-		"soundmark": "/aɪ/ /draɪv/ /ðə/ /kɑr/"
+		"soundmark": "/aɪ/ /draɪv/ /ðə/ /kɑr/",
+		"vietnamese": "Tôi开那辆车"
 	},
 	{
-		"chinese": "我不开那辆车",
 		"english": "I don't drive the car",
-		"soundmark": "/aɪ/ /dont/ /draɪv/ /ðə/ /kɑr/"
+		"soundmark": "/aɪ/ /dont/ /draɪv/ /ðə/ /kɑr/",
+		"vietnamese": "Tôikhông开那辆车"
 	},
 	{
-		"chinese": "我(过去)开那辆车",
 		"english": "I drove the car",
-		"soundmark": "/aɪ/ /drov/ /ðə/ /kɑr/"
+		"soundmark": "/aɪ/ /drov/ /ðə/ /kɑr/",
+		"vietnamese": "Tôi(过去)开那辆车"
 	},
 	{
-		"chinese": "我(过去)没有开那辆车",
 		"english": "I didn't drive the car",
-		"soundmark": "/aɪ/ /'dɪdnt/ /draɪv/ /ðə/ /kɑr/"
+		"soundmark": "/aɪ/ /'dɪdnt/ /draɪv/ /ðə/ /kɑr/",
+		"vietnamese": "Tôi(过去)没有开那辆车"
 	},
 	{
-		"chinese": "停止；阻止",
 		"english": "to stop",
-		"soundmark": "/tə/ /stɑp/"
+		"soundmark": "/tə/ /stɑp/",
+		"vietnamese": "[VI:停止；阻止]"
 	},
 	{
-		"chinese": "他",
 		"english": "him",
-		"soundmark": "/hɪm/"
+		"soundmark": "/hɪm/",
+		"vietnamese": "Anh ấy"
 	},
 	{
-		"chinese": "阻止他",
 		"english": "to stop him",
-		"soundmark": "/tə/ /stɑp/ /hɪm/"
+		"soundmark": "/tə/ /stɑp/ /hɪm/",
+		"vietnamese": "阻止Anh ấy"
 	},
 	{
-		"chinese": "我(过去)尝试阻止他",
 		"english": "I tried to stop him",
-		"soundmark": "/aɪ/ /traɪd/ /tə/ /stɑp/ /hɪm/"
+		"soundmark": "/aɪ/ /traɪd/ /tə/ /stɑp/ /hɪm/",
+		"vietnamese": "Tôi(过去)尝试阻止Anh ấy"
 	},
 	{
-		"chinese": "我(过去)没有尝试阻止他",
 		"english": "I didn't try to stop him",
-		"soundmark": "/aɪ/ /'dɪdnt/ /traɪ/ /tə/ /stɑp/ /hɪm/"
+		"soundmark": "/aɪ/ /'dɪdnt/ /traɪ/ /tə/ /stɑp/ /hɪm/",
+		"vietnamese": "Tôi(过去)没有尝试阻止Anh ấy"
 	},
 	{
-		"chinese": "找到",
 		"english": "to find",
-		"soundmark": "/tə/ /faɪnd/"
+		"soundmark": "/tə/ /faɪnd/",
+		"vietnamese": "[VI:找到]"
 	},
 	{
-		"chinese": "一个方法",
 		"english": "a way",
-		"soundmark": "/ə/ /we/"
+		"soundmark": "/ə/ /we/",
+		"vietnamese": "[VI:一个方法]"
 	},
 	{
-		"chinese": "找到一个方法",
 		"english": "to find a way",
-		"soundmark": "/tə/ /faɪnd/ /ə/ /we/"
+		"soundmark": "/tə/ /faɪnd/ /ə/ /we/",
+		"vietnamese": "[VI:找到一个方法]"
 	},
 	{
-		"chinese": "我必须找到一个方法",
 		"english": "I have to find a way",
-		"soundmark": "/aɪ/ /hæv/ /tə/ /faɪnd/ /ə/ /we/"
+		"soundmark": "/aɪ/ /hæv/ /tə/ /faɪnd/ /ə/ /we/",
+		"vietnamese": "Tôi phải找到一个方法"
 	},
 	{
-		"chinese": "阻止他",
 		"english": "to stop him",
-		"soundmark": "/tə/ /stɑp/ /hɪm/"
+		"soundmark": "/tə/ /stɑp/ /hɪm/",
+		"vietnamese": "阻止Anh ấy"
 	},
 	{
-		"chinese": "我必须找到一个方法阻止他",
 		"english": "I have to find a way to stop him",
-		"soundmark": "/aɪ/ /hæv/ /tə/ /faɪnd/ /ə/ /we/ /tə/ /stɑp/ /hɪm/"
+		"soundmark": "/aɪ/ /hæv/ /tə/ /faɪnd/ /ə/ /we/ /tə/ /stɑp/ /hɪm/",
+		"vietnamese": "Tôi phải找到一个方法阻止Anh ấy"
 	},
 	{
-		"chinese": "我不必找到一个方法阻止他",
 		"english": "I don't have to find a way to stop him",
-		"soundmark": "/aɪ/ /dont/ /hæv/ /tə/ /faɪnd/ /ə/ /we/ /tə/ /stɑp/ /hɪm/"
+		"soundmark": "/aɪ/ /dont/ /hæv/ /tə/ /faɪnd/ /ə/ /we/ /tə/ /stɑp/ /hɪm/",
+		"vietnamese": "Tôikhông必找到一个方法阻止Anh ấy"
 	},
 	{
-		"chinese": "我(过去)必须",
 		"english": "I had to",
-		"soundmark": "/aɪ/ /hæd/ /tə/"
+		"soundmark": "/aɪ/ /hæd/ /tə/",
+		"vietnamese": "Tôi(过去)phải"
 	},
 	{
-		"chinese": "我(过去)必须找到一个方法",
 		"english": "I had to find a way",
-		"soundmark": "/aɪ/ /hæd/ /tə/ /faɪnd/ /ə/ /we/"
+		"soundmark": "/aɪ/ /hæd/ /tə/ /faɪnd/ /ə/ /we/",
+		"vietnamese": "Tôi(过去)phải找到一个方法"
 	},
 	{
-		"chinese": "我(过去)必须找到一个方法阻止他",
 		"english": "I had to find a way to stop him",
-		"soundmark": "/aɪ/ /hæd/ /tə/ /faɪnd/ /ə/ /we/ /tə/ /stɑp/ /hɪm/"
+		"soundmark": "/aɪ/ /hæd/ /tə/ /faɪnd/ /ə/ /we/ /tə/ /stɑp/ /hɪm/",
+		"vietnamese": "Tôi(过去)phải找到一个方法阻止Anh ấy"
 	},
 	{
-		"chinese": "我(过去)不必找到一个方法阻止他",
 		"english": "I didn't have to find a way to stop him",
-		"soundmark": "/aɪ/ /'dɪdnt/ /hæv/ /tə/ /faɪnd/ /ə/ /we/ /tə/ /stɑp/ /hɪm/"
+		"soundmark": "/aɪ/ /'dɪdnt/ /hæv/ /tə/ /faɪnd/ /ə/ /we/ /tə/ /stɑp/ /hɪm/",
+		"vietnamese": "Tôi(过去)không必找到一个方法阻止Anh ấy"
 	},
 	{
-		"chinese": "我找到一个方法阻止他",
 		"english": "I find a way to stop him",
-		"soundmark": "/aɪ/ /faɪnd/ /ə/ /we/ /tə/ /stɑp/ /hɪm/"
+		"soundmark": "/aɪ/ /faɪnd/ /ə/ /we/ /tə/ /stɑp/ /hɪm/",
+		"vietnamese": "Tôi找到一个方法阻止Anh ấy"
 	},
 	{
-		"chinese": "我(过去)找到一个方法阻止他",
 		"english": "I found a way to stop him",
-		"soundmark": "/aɪ/ /faʊnd/ /ə/ /we/ /tə/ /stɑp/ /hɪm/"
+		"soundmark": "/aɪ/ /faʊnd/ /ə/ /we/ /tə/ /stɑp/ /hɪm/",
+		"vietnamese": "Tôi(过去)找到一个方法阻止Anh ấy"
 	},
 	{
-		"chinese": "我(过去)没有找到一个方法阻止他",
 		"english": "I didn't find a way to stop him",
-		"soundmark": "/aɪ/ /'dɪdnt/ /faɪnd/ /ə/ /we/ /tə/ /stɑp/ /hɪm/"
+		"soundmark": "/aɪ/ /'dɪdnt/ /faɪnd/ /ə/ /we/ /tə/ /stɑp/ /hɪm/",
+		"vietnamese": "Tôi(过去)没有找到一个方法阻止Anh ấy"
 	},
 	{
-		"chinese": "我阻止他",
 		"english": "I stop him",
-		"soundmark": "/aɪ/ /stɑp/ /hɪm/"
+		"soundmark": "/aɪ/ /stɑp/ /hɪm/",
+		"vietnamese": "Tôi阻止Anh ấy"
 	},
 	{
-		"chinese": "我阻止了他",
 		"english": "I stopped him",
-		"soundmark": "/aɪ/ /stɑpt/ /hɪm/"
+		"soundmark": "/aɪ/ /stɑpt/ /hɪm/",
+		"vietnamese": "Tôi阻止了Anh ấy"
 	},
 	{
-		"chinese": "我(过去)没有阻止他",
 		"english": "I didn't stop him",
-		"soundmark": "/aɪ/ /'dɪdnt/ /stɑp/ /hɪm/"
+		"soundmark": "/aɪ/ /'dɪdnt/ /stɑp/ /hɪm/",
+		"vietnamese": "Tôi(过去)没有阻止Anh ấy"
 	},
 	{
-		"chinese": "问",
 		"english": "to ask",
-		"soundmark": "/tə/ /æsk/"
+		"soundmark": "/tə/ /æsk/",
+		"vietnamese": "[VI:问]"
 	},
 	{
-		"chinese": "问过",
 		"english": "asked",
-		"soundmark": "/æskt/"
+		"soundmark": "/æskt/",
+		"vietnamese": "[VI:问过]"
 	},
 	{
-		"chinese": "他们",
 		"english": "them",
-		"soundmark": "/ðəm/"
+		"soundmark": "/ðəm/",
+		"vietnamese": "Họ"
 	},
 	{
-		"chinese": "问过他们",
 		"english": "asked them",
-		"soundmark": "/æskt/ /ðəm/"
+		"soundmark": "/æskt/ /ðəm/",
+		"vietnamese": "问过Họ"
 	},
 	{
-		"chinese": "我",
 		"english": "I",
-		"soundmark": "/aɪ/"
+		"soundmark": "/aɪ/",
+		"vietnamese": "Tôi"
 	},
 	{
-		"chinese": "我问过他们",
 		"english": "I asked them",
-		"soundmark": "/aɪ/ /æskt/ /ðəm/"
+		"soundmark": "/aɪ/ /æskt/ /ðəm/",
+		"vietnamese": "Tôi问过Họ"
 	},
 	{
-		"chinese": "那个问题",
 		"english": "the question",
-		"soundmark": "/ðə/ /'kwɛstʃən/"
+		"soundmark": "/ðə/ /'kwɛstʃən/",
+		"vietnamese": "[VI:那个问题]"
 	},
 	{
-		"chinese": "相同的",
 		"english": "same",
-		"soundmark": "/sem/"
+		"soundmark": "/sem/",
+		"vietnamese": "[VI:相同的]"
 	},
 	{
-		"chinese": "那个相同的问题",
 		"english": "the same question",
-		"soundmark": "/ðə/ /sem/ /'kwɛstʃən/"
+		"soundmark": "/ðə/ /sem/ /'kwɛstʃən/",
+		"vietnamese": "[VI:那个相同的问题]"
 	},
 	{
-		"chinese": "我问过他们那个相同的问题",
 		"english": "I asked them the same question",
-		"soundmark": "/aɪ/ /æskt/ /ðəm/ /ðə/ /sem/ /'kwɛstʃən/"
+		"soundmark": "/aɪ/ /æskt/ /ðəm/ /ðə/ /sem/ /'kwɛstʃən/",
+		"vietnamese": "Tôi问过Họ那个相同的问题"
 	},
 	{
-		"chinese": "我没有问过他们那个相同的问题",
 		"english": "I didn't ask them the same question",
-		"soundmark": "/aɪ/ /'dɪdnt/ /æsk/ /ðəm/ /ðə/ /sem/ /'kwɛstʃən/"
+		"soundmark": "/aɪ/ /'dɪdnt/ /æsk/ /ðəm/ /ðə/ /sem/ /'kwɛstʃən/",
+		"vietnamese": "Tôi没有问过Họ那个相同的问题"
 	},
 	{
-		"chinese": "回答",
 		"english": "to answer",
-		"soundmark": "/tə/ /'ænsɚ/"
+		"soundmark": "/tə/ /'ænsɚ/",
+		"vietnamese": "[VI:回答]"
 	},
 	{
-		"chinese": "回答过",
 		"english": "answered",
-		"soundmark": "/'ænsɚd/"
+		"soundmark": "/'ænsɚd/",
+		"vietnamese": "[VI:回答过]"
 	},
 	{
-		"chinese": "没有人",
 		"english": "nobody",
-		"soundmark": "/ˈnobɑdi/"
+		"soundmark": "/ˈnobɑdi/",
+		"vietnamese": "[VI:没有人]"
 	},
 	{
-		"chinese": "没有人回答过",
 		"english": "nobody answered",
-		"soundmark": "/ˈnobɑdi/ /'ænsɚd/"
+		"soundmark": "/ˈnobɑdi/ /'ænsɚd/",
+		"vietnamese": "[VI:没有人回答过]"
 	},
 	{
-		"chinese": "但是",
 		"english": "but",
-		"soundmark": "/bət/"
+		"soundmark": "/bət/",
+		"vietnamese": "但là"
 	},
 	{
-		"chinese": "但是没有人回答过",
 		"english": "but nobody answered",
-		"soundmark": "/bət/ /ˈnobɑdi/ /'ænsɚd/"
+		"soundmark": "/bət/ /ˈnobɑdi/ /'ænsɚd/",
+		"vietnamese": "但là没有人回答过"
 	},
 	{
-		"chinese": "我问过他们那个相同的问题但是没有人回答过",
 		"english": "I asked them the same question but nobody answered",
-		"soundmark": "/aɪ/ /æskt/ /ðəm/ /ðə/ /sem/ /'kwɛstʃən/ /bət/ /ˈnobɑdi/ /'ænsɚd/"
+		"soundmark": "/aɪ/ /æskt/ /ðəm/ /ðə/ /sem/ /'kwɛstʃən/ /bət/ /ˈnobɑdi/ /'ænsɚd/",
+		"vietnamese": "Tôi问过Họ那个相同的问题但là没有人回答过"
 	}
 ]

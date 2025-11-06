@@ -1,762 +1,762 @@
 [
 	{
-		"chinese": "工作",
 		"english": "job",
-		"soundmark": "/dʒɑb/"
+		"soundmark": "/dʒɑb/",
+		"vietnamese": "[VI:工作]"
 	},
 	{
-		"chinese": "工作；付出劳动",
 		"english": "to work",
-		"soundmark": "/tə/ /wɝk/"
+		"soundmark": "/tə/ /wɝk/",
+		"vietnamese": "[VI:工作；付出劳动]"
 	},
 	{
-		"chinese": "需要",
 		"english": "need",
-		"soundmark": "/nid/"
+		"soundmark": "/nid/",
+		"vietnamese": "cần"
 	},
 	{
-		"chinese": "他",
 		"english": "he",
-		"soundmark": "/hi/"
+		"soundmark": "/hi/",
+		"vietnamese": "Anh ấy"
 	},
 	{
-		"chinese": "他需要",
 		"english": "he needs",
-		"soundmark": "/hi/ /nidz/"
+		"soundmark": "/hi/ /nidz/",
+		"vietnamese": "Anh ấycần"
 	},
 	{
-		"chinese": "他需要工作",
 		"english": "he needs to work",
-		"soundmark": "/hi/ /nidz/ /tə/ /wɝk/"
+		"soundmark": "/hi/ /nidz/ /tə/ /wɝk/",
+		"vietnamese": "Anh ấycần工作"
 	},
 	{
-		"chinese": "家",
 		"english": "home",
-		"soundmark": "/hom/"
+		"soundmark": "/hom/",
+		"vietnamese": "[VI:家]"
 	},
 	{
-		"chinese": "家庭作业",
 		"english": "homework",
-		"soundmark": "/'homwɝk/"
+		"soundmark": "/'homwɝk/",
+		"vietnamese": "[VI:家庭作业]"
 	},
 	{
-		"chinese": "他的",
 		"english": "his",
-		"soundmark": "/hɪz/"
+		"soundmark": "/hɪz/",
+		"vietnamese": "Anh ấy的"
 	},
 	{
-		"chinese": "他的家庭作业",
 		"english": "his homework",
-		"soundmark": "/hɪz/ /'homwɝk/"
+		"soundmark": "/hɪz/ /'homwɝk/",
+		"vietnamese": "Anh ấy的家庭作业"
 	},
 	{
-		"chinese": "在......上",
 		"english": "on",
-		"soundmark": "/ɑn/"
+		"soundmark": "/ɑn/",
+		"vietnamese": "[VI:在......上]"
 	},
 	{
-		"chinese": "在他的家庭作业上",
 		"english": "on his homework",
-		"soundmark": "/ɑn/ /hɪz/ /'homwɝk/"
+		"soundmark": "/ɑn/ /hɪz/ /'homwɝk/",
+		"vietnamese": "在Anh ấy的家庭作业上"
 	},
 	{
-		"chinese": "他需要在他的家庭作业上工作",
 		"english": "he needs to work on his homework",
-		"soundmark": "/hi/ /nidz/ /tə/ /wɝk/ /ɑn/ /hɪz/ /'homwɝk/"
+		"soundmark": "/hi/ /nidz/ /tə/ /wɝk/ /ɑn/ /hɪz/ /'homwɝk/",
+		"vietnamese": "Anh ấycần在他的家庭作业上工作"
 	},
 	{
-		"chinese": "他在他的家庭作业上工作",
 		"english": "he works on his homework",
-		"soundmark": "/hi/ /wɝks/ /ɑn/ /hɪz/ /'homwɝk/"
+		"soundmark": "/hi/ /wɝks/ /ɑn/ /hɪz/ /'homwɝk/",
+		"vietnamese": "Anh ấy在他的家庭作业上工作"
 	},
 	{
-		"chinese": "工作(ing形式)",
 		"english": "working",
-		"soundmark": "/'wɝkɪŋ/"
+		"soundmark": "/'wɝkɪŋ/",
+		"vietnamese": "[VI:工作(ing形式)]"
 	},
 	{
-		"chinese": "是；赋值(原型)",
 		"english": "be",
-		"soundmark": "/bi/"
+		"soundmark": "/bi/",
+		"vietnamese": "là；赋值(原型)"
 	},
 	{
-		"chinese": "正在工作",
 		"english": "be working",
-		"soundmark": "/bi/ /'wɝkɪŋ/"
+		"soundmark": "/bi/ /'wɝkɪŋ/",
+		"vietnamese": "[VI:正在工作]"
 	},
 	{
-		"chinese": "他(现在)正在工作",
 		"english": "he is working",
-		"soundmark": "/hi/ /ɪz/ /'wɝkɪŋ/"
+		"soundmark": "/hi/ /ɪz/ /'wɝkɪŋ/",
+		"vietnamese": "Anh ấy(bây giờ)正在工作"
 	},
 	{
-		"chinese": "在他的家庭作业上",
 		"english": "on his homework",
-		"soundmark": "/ɑn/ /hɪz/ /'homwɝk/"
+		"soundmark": "/ɑn/ /hɪz/ /'homwɝk/",
+		"vietnamese": "在Anh ấy的家庭作业上"
 	},
 	{
-		"chinese": "他(现在)正在在他的家庭作业上工作",
 		"english": "he is working on his homework",
-		"soundmark": "/hi/ /ɪz/ /'wɝkɪŋ/ /ɑn/ /hɪz/ /'homwɝk/"
+		"soundmark": "/hi/ /ɪz/ /'wɝkɪŋ/ /ɑn/ /hɪz/ /'homwɝk/",
+		"vietnamese": "Anh ấy(bây giờ)正在在他的家庭作业上工作"
 	},
 	{
-		"chinese": "我的",
 		"english": "my",
-		"soundmark": "/maɪ/"
+		"soundmark": "/maɪ/",
+		"vietnamese": "Tôi的"
 	},
 	{
-		"chinese": "我的家庭作业",
 		"english": "my homework",
-		"soundmark": "/maɪ/ /'homwɝk/"
+		"soundmark": "/maɪ/ /'homwɝk/",
+		"vietnamese": "Tôi的家庭作业"
 	},
 	{
-		"chinese": "正在工作",
 		"english": "be working",
-		"soundmark": "/bi/ /'wɝkɪŋ/"
+		"soundmark": "/bi/ /'wɝkɪŋ/",
+		"vietnamese": "[VI:正在工作]"
 	},
 	{
-		"chinese": "我(现在)正在工作",
 		"english": "I am working",
-		"soundmark": "/aɪ/ /æm/ /'wɝkɪŋ/"
+		"soundmark": "/aɪ/ /æm/ /'wɝkɪŋ/",
+		"vietnamese": "Tôi(bây giờ)正在工作"
 	},
 	{
-		"chinese": "在......上",
 		"english": "on",
-		"soundmark": "/ɑn/"
+		"soundmark": "/ɑn/",
+		"vietnamese": "[VI:在......上]"
 	},
 	{
-		"chinese": "我(现在)正在在我的家庭作业上工作",
 		"english": "I am working on my homework",
-		"soundmark": "/aɪ/ /æm/ /'wɝkɪŋ/ /ɑn/ /maɪ/ /'homwɝk/"
+		"soundmark": "/aɪ/ /æm/ /'wɝkɪŋ/ /ɑn/ /maɪ/ /'homwɝk/",
+		"vietnamese": "Tôi(bây giờ)正在在我的家庭作业上工作"
 	},
 	{
-		"chinese": "它；那件事",
 		"english": "it",
-		"soundmark": "/ɪt/"
+		"soundmark": "/ɪt/",
+		"vietnamese": "Nó；那件事"
 	},
 	{
-		"chinese": "我(现在)正在在那件事上工作",
 		"english": "I am working on it",
-		"soundmark": "/aɪ/ /æm/ /'wɝkɪŋ/ /ɑn/ /ɪt/"
+		"soundmark": "/aɪ/ /æm/ /'wɝkɪŋ/ /ɑn/ /ɪt/",
+		"vietnamese": "Tôi(bây giờ)正在在那件事上工作"
 	},
 	{
-		"chinese": "仍然",
 		"english": "still",
-		"soundmark": "/stɪl/"
+		"soundmark": "/stɪl/",
+		"vietnamese": "[VI:仍然]"
 	},
 	{
-		"chinese": "我(现在)仍然正在在那件事上工作",
 		"english": "I am still working on it",
-		"soundmark": "/aɪ/ /æm/ /stɪl/ /'wɝkɪŋ/ /ɑn/ /ɪt/"
+		"soundmark": "/aɪ/ /æm/ /stɪl/ /'wɝkɪŋ/ /ɑn/ /ɪt/",
+		"vietnamese": "Tôi(bây giờ)仍然正在在那件事上工作"
 	},
 	{
-		"chinese": "我们",
 		"english": "we",
-		"soundmark": "/wi/"
+		"soundmark": "/wi/",
+		"vietnamese": "Chúng tôi"
 	},
 	{
-		"chinese": "我们(现在)正在在那件事上工作",
 		"english": "we are working on it",
-		"soundmark": "/wi/ /ɚ/ /'wɝkɪŋ/ /ɑn/ /ɪt/"
+		"soundmark": "/wi/ /ɚ/ /'wɝkɪŋ/ /ɑn/ /ɪt/",
+		"vietnamese": "Chúng tôi(bây giờ)正在在那件事上工作"
 	},
 	{
-		"chinese": "项目",
 		"english": "project",
-		"soundmark": "/ˈprɑdʒɛkt/"
+		"soundmark": "/ˈprɑdʒɛkt/",
+		"vietnamese": "[VI:项目]"
 	},
 	{
-		"chinese": "新的",
 		"english": "new",
-		"soundmark": "/nu/"
+		"soundmark": "/nu/",
+		"vietnamese": "[VI:新的]"
 	},
 	{
-		"chinese": "一个新的项目",
 		"english": "a new project",
-		"soundmark": "/ə/ /nu/ /ˈprɑdʒɛkt/"
+		"soundmark": "/ə/ /nu/ /ˈprɑdʒɛkt/",
+		"vietnamese": "[VI:一个新的项目]"
 	},
 	{
-		"chinese": "我们(现在)正在在一个新的项目上工作",
 		"english": "we are working on a new project",
-		"soundmark": "/wi/ /ɚ/ /'wɝkɪŋ/ /ɑn/ /ə/ /nu/ /ˈprɑdʒɛkt/"
+		"soundmark": "/wi/ /ɚ/ /'wɝkɪŋ/ /ɑn/ /ə/ /nu/ /ˈprɑdʒɛkt/",
+		"vietnamese": "Chúng tôi(bây giờ)正在在一个新的项目上工作"
 	},
 	{
-		"chinese": "将会",
 		"english": "will",
-		"soundmark": "/wɪl/"
+		"soundmark": "/wɪl/",
+		"vietnamese": "[VI:将会]"
 	},
 	{
-		"chinese": "正在工作",
 		"english": "be working",
-		"soundmark": "/bi/ /'wɝkɪŋ/"
+		"soundmark": "/bi/ /'wɝkɪŋ/",
+		"vietnamese": "[VI:正在工作]"
 	},
 	{
-		"chinese": "将会正在工作",
 		"english": "will be working",
-		"soundmark": "/wɪl/ /bi/ /'wɝkɪŋ/"
+		"soundmark": "/wɪl/ /bi/ /'wɝkɪŋ/",
+		"vietnamese": "[VI:将会正在工作]"
 	},
 	{
-		"chinese": "一个新的项目",
 		"english": "a new project",
-		"soundmark": "/ə/ /nu/ /ˈprɑdʒɛkt/"
+		"soundmark": "/ə/ /nu/ /ˈprɑdʒɛkt/",
+		"vietnamese": "[VI:一个新的项目]"
 	},
 	{
-		"chinese": "我们将会正在在一个新的项目上工作",
 		"english": "we will be working on a new project",
-		"soundmark": "/wi/ /wɪl/ /bi/ /'wɝkɪŋ/ /ɑn/ /ə/ /nu/ /ˈprɑdʒɛkt/"
+		"soundmark": "/wi/ /wɪl/ /bi/ /'wɝkɪŋ/ /ɑn/ /ə/ /nu/ /ˈprɑdʒɛkt/",
+		"vietnamese": "Chúng tôi将会正在在一个新的项目上工作"
 	},
 	{
-		"chinese": "周；星期",
 		"english": "week",
-		"soundmark": "/wik/"
+		"soundmark": "/wik/",
+		"vietnamese": "[VI:周；星期]"
 	},
 	{
-		"chinese": "下一个",
 		"english": "next",
-		"soundmark": "/nɛkst/"
+		"soundmark": "/nɛkst/",
+		"vietnamese": "[VI:下一个]"
 	},
 	{
-		"chinese": "下周",
 		"english": "next week",
-		"soundmark": "/nɛkst/ /wik/"
+		"soundmark": "/nɛkst/ /wik/",
+		"vietnamese": "[VI:下周]"
 	},
 	{
-		"chinese": "我们下周将会正在在一个新的项目上工作",
 		"english": "we will be working on a new project next week",
-		"soundmark": "/wi/ /wɪl/ /bi/ /'wɝkɪŋ/ /ɑn/ /ə/ /nu/ /ˈprɑdʒɛkt/ /nɛkst/ /wik/"
+		"soundmark": "/wi/ /wɪl/ /bi/ /'wɝkɪŋ/ /ɑn/ /ə/ /nu/ /ˈprɑdʒɛkt/ /nɛkst/ /wik/",
+		"vietnamese": "Chúng tôi下周将会正在在一个新的项目上工作"
 	},
 	{
-		"chinese": "它；那件事",
 		"english": "it",
-		"soundmark": "/ɪt/"
+		"soundmark": "/ɪt/",
+		"vietnamese": "Nó；那件事"
 	},
 	{
-		"chinese": "我们下周将会正在在那件事上工作",
 		"english": "we will be working on it next week",
-		"soundmark": "/wi/ /wɪl/ /bi/ /'wɝkɪŋ/ /ɑn/ /ɪt/ /nɛkst/ /wik/"
+		"soundmark": "/wi/ /wɪl/ /bi/ /'wɝkɪŋ/ /ɑn/ /ɪt/ /nɛkst/ /wik/",
+		"vietnamese": "Chúng tôi下周将会正在在那件事上工作"
 	},
 	{
-		"chinese": "我(现在)正在在那件事上工作",
 		"english": "I am working on it",
-		"soundmark": "/aɪ/ /æm/ /'wɝkɪŋ/ /ɑn/ /ɪt/"
+		"soundmark": "/aɪ/ /æm/ /'wɝkɪŋ/ /ɑn/ /ɪt/",
+		"vietnamese": "Tôi(bây giờ)正在在那件事上工作"
 	},
 	{
-		"chinese": "寻找",
 		"english": "to look for",
-		"soundmark": "/tə/ /lʊk/ /fɝ/"
+		"soundmark": "/tə/ /lʊk/ /fɝ/",
+		"vietnamese": "[VI:寻找]"
 	},
 	{
-		"chinese": "寻找(ing形式)",
 		"english": "looking for",
-		"soundmark": "/ˈlʊkɪŋ/ /fɝ/"
+		"soundmark": "/ˈlʊkɪŋ/ /fɝ/",
+		"vietnamese": "[VI:寻找(ing形式)]"
 	},
 	{
-		"chinese": "是；赋值(原型)",
 		"english": "be",
-		"soundmark": "/bi/"
+		"soundmark": "/bi/",
+		"vietnamese": "là；赋值(原型)"
 	},
 	{
-		"chinese": "正在寻找",
 		"english": "be looking for",
-		"soundmark": "/bi/ /ˈlʊkɪŋ/ /fɝ/"
+		"soundmark": "/bi/ /ˈlʊkɪŋ/ /fɝ/",
+		"vietnamese": "[VI:正在寻找]"
 	},
 	{
-		"chinese": "她",
 		"english": "she",
-		"soundmark": "/ʃi/"
+		"soundmark": "/ʃi/",
+		"vietnamese": "Cô ấy"
 	},
 	{
-		"chinese": "她(现在)正在寻找",
 		"english": "she is looking for",
-		"soundmark": "/ʃi/ /ɪz/ /ˈlʊkɪŋ/ /fɝ/"
+		"soundmark": "/ʃi/ /ɪz/ /ˈlʊkɪŋ/ /fɝ/",
+		"vietnamese": "Cô ấy(bây giờ)正在寻找"
 	},
 	{
-		"chinese": "她的",
 		"english": "her",
-		"soundmark": "/hɚ/"
+		"soundmark": "/hɚ/",
+		"vietnamese": "Cô ấy的"
 	},
 	{
-		"chinese": "玩具",
 		"english": "toy",
-		"soundmark": "/tɔɪ/"
+		"soundmark": "/tɔɪ/",
+		"vietnamese": "[VI:玩具]"
 	},
 	{
-		"chinese": "她的玩具",
 		"english": "her toy",
-		"soundmark": "/hɚ/ /tɔɪ/"
+		"soundmark": "/hɚ/ /tɔɪ/",
+		"vietnamese": "Cô ấy的玩具"
 	},
 	{
-		"chinese": "她(现在)正在寻找她的玩具",
 		"english": "she is looking for her toy",
-		"soundmark": "/ʃi/ /ɪz/ /ˈlʊkɪŋ/ /fɝ/ /hɚ/ /tɔɪ/"
+		"soundmark": "/ʃi/ /ɪz/ /ˈlʊkɪŋ/ /fɝ/ /hɚ/ /tɔɪ/",
+		"vietnamese": "Cô ấy(bây giờ)正在寻找她的玩具"
 	},
 	{
-		"chinese": "我的",
 		"english": "my",
-		"soundmark": "/maɪ/"
+		"soundmark": "/maɪ/",
+		"vietnamese": "Tôi的"
 	},
 	{
-		"chinese": "女儿",
 		"english": "daughter",
-		"soundmark": "/'dɔtɚ/"
+		"soundmark": "/'dɔtɚ/",
+		"vietnamese": "[VI:女儿]"
 	},
 	{
-		"chinese": "我的女儿",
 		"english": "my daughter",
-		"soundmark": "/maɪ/ /'dɔtɚ/"
+		"soundmark": "/maɪ/ /'dɔtɚ/",
+		"vietnamese": "Tôi的女儿"
 	},
 	{
-		"chinese": "我的女儿(现在)正在寻找她的玩具",
 		"english": "my daughter is looking for her toy",
-		"soundmark": "/maɪ/ /'dɔtɚ/ /ɪz/ /ˈlʊkɪŋ/ /fɝ/ /hɚ/ /tɔɪ/"
+		"soundmark": "/maɪ/ /'dɔtɚ/ /ɪz/ /ˈlʊkɪŋ/ /fɝ/ /hɚ/ /tɔɪ/",
+		"vietnamese": "Tôi的女儿(bây giờ)正在寻找Cô ấy的玩具"
 	},
 	{
-		"chinese": "找到",
 		"english": "to find",
-		"soundmark": "/tə/ /faɪnd/"
+		"soundmark": "/tə/ /faɪnd/",
+		"vietnamese": "[VI:找到]"
 	},
 	{
-		"chinese": "她的玩具",
 		"english": "her toy",
-		"soundmark": "/hɚ/ /tɔɪ/"
+		"soundmark": "/hɚ/ /tɔɪ/",
+		"vietnamese": "Cô ấy的玩具"
 	},
 	{
-		"chinese": "找到她的玩具",
 		"english": "to find her toy",
-		"soundmark": "/tə/ /faɪnd/ /hɚ/ /tɔɪ/"
+		"soundmark": "/tə/ /faɪnd/ /hɚ/ /tɔɪ/",
+		"vietnamese": "找到Cô ấy的玩具"
 	},
 	{
-		"chinese": "我的女儿",
 		"english": "my daughter",
-		"soundmark": "/maɪ/ /'dɔtɚ/"
+		"soundmark": "/maɪ/ /'dɔtɚ/",
+		"vietnamese": "Tôi的女儿"
 	},
 	{
-		"chinese": "我的女儿找到她的玩具",
 		"english": "my daughter finds her toy",
-		"soundmark": "/maɪ/ /'dɔtɚ/ /faɪndz/ /hɚ/ /tɔɪ/"
+		"soundmark": "/maɪ/ /'dɔtɚ/ /faɪndz/ /hɚ/ /tɔɪ/",
+		"vietnamese": "Tôi的女儿找到Cô ấy的玩具"
 	},
 	{
-		"chinese": "能",
 		"english": "can",
-		"soundmark": "/kæn/"
+		"soundmark": "/kæn/",
+		"vietnamese": "[VI:能]"
 	},
 	{
-		"chinese": "我的女儿可以找到她的玩具",
 		"english": "my daughter can find her toy",
-		"soundmark": "/maɪ/ /'dɔtɚ/ /kæn/ /faɪnd/ /hɚ/ /tɔɪ/"
+		"soundmark": "/maɪ/ /'dɔtɚ/ /kæn/ /faɪnd/ /hɚ/ /tɔɪ/",
+		"vietnamese": "Tôi的女儿可以找到Cô ấy的玩具"
 	},
 	{
-		"chinese": "不能",
 		"english": "can't",
-		"soundmark": "/kænt/"
+		"soundmark": "/kænt/",
+		"vietnamese": "không能"
 	},
 	{
-		"chinese": "我的女儿不能找到她的玩具",
 		"english": "my daughter can't find her toy",
-		"soundmark": "/maɪ/ /'dɔtɚ/ /kænt/ /faɪnd/ /hɚ/ /tɔɪ/"
+		"soundmark": "/maɪ/ /'dɔtɚ/ /kænt/ /faɪnd/ /hɚ/ /tɔɪ/",
+		"vietnamese": "Tôi的女儿không能找到Cô ấy的玩具"
 	},
 	{
-		"chinese": "但是",
 		"english": "but",
-		"soundmark": "/bʌt/"
+		"soundmark": "/bʌt/",
+		"vietnamese": "但là"
 	},
 	{
-		"chinese": "但是我的女儿不能找到她的玩具",
 		"english": "but my daughter can't find her toy",
-		"soundmark": "/bʌt/ /maɪ/ /'dɔtɚ/ /kænt/ /faɪnd/ /hɚ/ /tɔɪ/"
+		"soundmark": "/bʌt/ /maɪ/ /'dɔtɚ/ /kænt/ /faɪnd/ /hɚ/ /tɔɪ/",
+		"vietnamese": "但làTôi的女儿không能找到Cô ấy的玩具"
 	},
 	{
-		"chinese": "我的女儿(现在)正在寻找她的玩具",
 		"english": "my daughter is looking for her toy",
-		"soundmark": "/maɪ/ /'dɔtɚ/ /ɪz/ /ˈlʊkɪŋ/ /fɝ/ /hɚ/ /tɔɪ/"
+		"soundmark": "/maɪ/ /'dɔtɚ/ /ɪz/ /ˈlʊkɪŋ/ /fɝ/ /hɚ/ /tɔɪ/",
+		"vietnamese": "Tôi的女儿(bây giờ)正在寻找Cô ấy的玩具"
 	},
 	{
-		"chinese": "我的女儿(现在)正在寻找她的玩具但是我的女儿不能找到她的玩具",
 		"english": "my daughter is looking for her toy but my daughter can't find her toy",
-		"soundmark": "/maɪ/ /'dɔtɚ/ /ɪz/ /ˈlʊkɪŋ/ /fɝ/ /hɚ/ /tɔɪ/ /bʌt/ /maɪ/ /'dɔtɚ/ /kænt/ /faɪnd/ /hɚ/ /tɔɪ/"
+		"soundmark": "/maɪ/ /'dɔtɚ/ /ɪz/ /ˈlʊkɪŋ/ /fɝ/ /hɚ/ /tɔɪ/ /bʌt/ /maɪ/ /'dɔtɚ/ /kænt/ /faɪnd/ /hɚ/ /tɔɪ/",
+		"vietnamese": "Tôi的女儿(bây giờ)正在寻找Cô ấy的玩具但là我的女儿không能找到她的玩具"
 	},
 	{
-		"chinese": "她",
 		"english": "she",
-		"soundmark": "/ʃi/"
+		"soundmark": "/ʃi/",
+		"vietnamese": "Cô ấy"
 	},
 	{
-		"chinese": "它",
 		"english": "it",
-		"soundmark": "/ɪt/"
+		"soundmark": "/ɪt/",
+		"vietnamese": "Nó"
 	},
 	{
-		"chinese": "但是她不能找到它",
 		"english": "but she can't find it",
-		"soundmark": "/bʌt/ /ʃi/ /kænt/ /faɪnd/ /ɪt/"
+		"soundmark": "/bʌt/ /ʃi/ /kænt/ /faɪnd/ /ɪt/",
+		"vietnamese": "但làCô ấykhông能找到Nó"
 	},
 	{
-		"chinese": "我的女儿(现在)正在寻找她的玩具但是她不能找到它",
 		"english": "my daughter is looking for her toy but she can't find it",
-		"soundmark": "/maɪ/ /'dɔtɚ/ /ɪz/ /ˈlʊkɪŋ/ /fɝ/ /hɚ/ /tɔɪ/ /bʌt/ /ʃi/ /kænt/ /faɪnd/ /ɪt/"
+		"soundmark": "/maɪ/ /'dɔtɚ/ /ɪz/ /ˈlʊkɪŋ/ /fɝ/ /hɚ/ /tɔɪ/ /bʌt/ /ʃi/ /kænt/ /faɪnd/ /ɪt/",
+		"vietnamese": "Tôi的女儿(bây giờ)正在寻找Cô ấy的玩具但là她không能找到Nó"
 	},
 	{
-		"chinese": "我的女儿(过去)正在寻找她的玩具",
 		"english": "my daughter was looking for her toy",
-		"soundmark": "/maɪ/ /'dɔtɚ/ /wəz/ /ˈlʊkɪŋ/ /fɝ/ /hɚ/ /tɔɪ/"
+		"soundmark": "/maɪ/ /'dɔtɚ/ /wəz/ /ˈlʊkɪŋ/ /fɝ/ /hɚ/ /tɔɪ/",
+		"vietnamese": "Tôi的女儿(过去)正在寻找Cô ấy的玩具"
 	},
 	{
-		"chinese": "但是她(过去)不能找到它",
 		"english": "but she couldn't find it",
-		"soundmark": "/bʌt/ /ʃi/ /kʊdnt/ /faɪnd/ /ɪt/"
+		"soundmark": "/bʌt/ /ʃi/ /kʊdnt/ /faɪnd/ /ɪt/",
+		"vietnamese": "但làCô ấy(过去)không能找到Nó"
 	},
 	{
-		"chinese": "我的女儿(过去)正在寻找她的玩具但是她(过去)不能找到它",
 		"english": "my daughter was looking for her toy but she couldn't find it",
-		"soundmark": "/maɪ/ /'dɔtɚ/ /wəz/ /ˈlʊkɪŋ/ /fɝ/ /hɚ/ /tɔɪ/ /bʌt/ /ʃi/ /kʊdnt/ /faɪnd/ /ɪt/"
+		"soundmark": "/maɪ/ /'dɔtɚ/ /wəz/ /ˈlʊkɪŋ/ /fɝ/ /hɚ/ /tɔɪ/ /bʌt/ /ʃi/ /kʊdnt/ /faɪnd/ /ɪt/",
+		"vietnamese": "Tôi的女儿(过去)正在寻找Cô ấy的玩具但là她(过去)không能找到Nó"
 	},
 	{
-		"chinese": "听见；听说",
 		"english": "to hear",
-		"soundmark": "/tə/ /hɪr/"
+		"soundmark": "/tə/ /hɪr/",
+		"vietnamese": "[VI:听见；听说]"
 	},
 	{
-		"chinese": "我",
 		"english": "me",
-		"soundmark": "/mi/"
+		"soundmark": "/mi/",
+		"vietnamese": "Tôi"
 	},
 	{
-		"chinese": "听见我",
 		"english": "to hear me",
-		"soundmark": "/tə/ /hɪr/ /mi/"
+		"soundmark": "/tə/ /hɪr/ /mi/",
+		"vietnamese": "听见Tôi"
 	},
 	{
-		"chinese": "你",
 		"english": "you",
-		"soundmark": "/ju/"
+		"soundmark": "/ju/",
+		"vietnamese": "Bạn"
 	},
 	{
-		"chinese": "你听见我",
 		"english": "you hear me",
-		"soundmark": "/ju/ /hɪr/ /mi/"
+		"soundmark": "/ju/ /hɪr/ /mi/",
+		"vietnamese": "Bạn听见Tôi"
 	},
 	{
-		"chinese": "可以",
 		"english": "can",
-		"soundmark": "/kæn/"
+		"soundmark": "/kæn/",
+		"vietnamese": "[VI:可以]"
 	},
 	{
-		"chinese": "你可以听见我",
 		"english": "you can hear me",
-		"soundmark": "/ju/ /kæn/ /hɪr/ /mi/"
+		"soundmark": "/ju/ /kæn/ /hɪr/ /mi/",
+		"vietnamese": "Bạn可以听见Tôi"
 	},
 	{
-		"chinese": "是否",
 		"english": "if",
-		"soundmark": "/ɪf/"
+		"soundmark": "/ɪf/",
+		"vietnamese": "có hay không"
 	},
 	{
-		"chinese": "是否你可以听见我",
 		"english": "if you can hear me",
-		"soundmark": "/ɪf/ /ju/ /kæn/ /hɪr/ /mi/"
+		"soundmark": "/ɪf/ /ju/ /kæn/ /hɪr/ /mi/",
+		"vietnamese": "có hay khôngBạn可以听见Tôi"
 	},
 	{
-		"chinese": "我想要",
 		"english": "I want",
-		"soundmark": "/aɪ/ /wɑnt/"
+		"soundmark": "/aɪ/ /wɑnt/",
+		"vietnamese": "Tôi muốn"
 	},
 	{
-		"chinese": "知道",
 		"english": "to know",
-		"soundmark": "/tə/ /no/"
+		"soundmark": "/tə/ /no/",
+		"vietnamese": "biết"
 	},
 	{
-		"chinese": "我想要知道",
 		"english": "I want to know",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /no/"
+		"soundmark": "/aɪ/ /wɑnt/ /tə/ /no/",
+		"vietnamese": "Tôimuốn biết"
 	},
 	{
-		"chinese": "我想要知道是否你可以听见我",
 		"english": "I want to know if you can hear me",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /no/ /ɪf/ /ju/ /kæn/ /hɪr/ /mi/"
+		"soundmark": "/aɪ/ /wɑnt/ /tə/ /no/ /ɪf/ /ju/ /kæn/ /hɪr/ /mi/",
+		"vietnamese": "Tôimuốn biếtcó hay khôngBạn可以听见我"
 	},
 	{
-		"chinese": "我知道",
 		"english": "I know",
-		"soundmark": "/aɪ/ /no/"
+		"soundmark": "/aɪ/ /no/",
+		"vietnamese": "Tôibiết"
 	},
 	{
-		"chinese": "我知道你可以听见我",
 		"english": "I know you can hear me",
-		"soundmark": "/aɪ/ /no/ /ju/ /kæn/ /hɪr/ /mi/"
+		"soundmark": "/aɪ/ /no/ /ju/ /kæn/ /hɪr/ /mi/",
+		"vietnamese": "TôibiếtBạn可以听见我"
 	},
 	{
-		"chinese": "你可以听见我",
 		"english": "you can hear me",
-		"soundmark": "/ju/ /kæn/ /hɪr/ /mi/"
+		"soundmark": "/ju/ /kæn/ /hɪr/ /mi/",
+		"vietnamese": "Bạn可以听见Tôi"
 	},
 	{
-		"chinese": "你可以听见我吗？",
 		"english": "can you hear me",
-		"soundmark": "/kæn/ /ju/ /hɪr/ /mi/"
+		"soundmark": "/kæn/ /ju/ /hɪr/ /mi/",
+		"vietnamese": "Bạn可以听见Tôi吗？"
 	},
 	{
-		"chinese": "音乐",
 		"english": "music",
-		"soundmark": "/'mjuzɪk/"
+		"soundmark": "/'mjuzɪk/",
+		"vietnamese": "[VI:音乐]"
 	},
 	{
-		"chinese": "你可以听见音乐",
 		"english": "you can hear music",
-		"soundmark": "/ju/ /kæn/ /hɪr/ /'mjuzɪk/"
+		"soundmark": "/ju/ /kæn/ /hɪr/ /'mjuzɪk/",
+		"vietnamese": "Bạn可以听见音乐"
 	},
 	{
-		"chinese": "一些",
 		"english": "some",
-		"soundmark": "/səm/"
+		"soundmark": "/səm/",
+		"vietnamese": "[VI:一些]"
 	},
 	{
-		"chinese": "你可以听见一些音乐",
 		"english": "you can hear some music",
-		"soundmark": "/ju/ /kæn/ /hɪr/ /səm/ /'mjuzɪk/"
+		"soundmark": "/ju/ /kæn/ /hɪr/ /səm/ /'mjuzɪk/",
+		"vietnamese": "Bạn可以听见一些音乐"
 	},
 	{
-		"chinese": "听",
 		"english": "to listen",
-		"soundmark": "/tə/ /'lɪsn/"
+		"soundmark": "/tə/ /'lɪsn/",
+		"vietnamese": "[VI:听]"
 	},
 	{
-		"chinese": "我想要",
 		"english": "I want",
-		"soundmark": "/aɪ/ /wɑnt/"
+		"soundmark": "/aɪ/ /wɑnt/",
+		"vietnamese": "Tôi muốn"
 	},
 	{
-		"chinese": "我想要听",
 		"english": "I want to listen",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /'lɪsn/"
+		"soundmark": "/aɪ/ /wɑnt/ /tə/ /'lɪsn/",
+		"vietnamese": "Tôi muốn听"
 	},
 	{
-		"chinese": "我听",
 		"english": "I listen",
-		"soundmark": "/aɪ/ /'lɪsn/"
+		"soundmark": "/aɪ/ /'lɪsn/",
+		"vietnamese": "Tôi听"
 	},
 	{
-		"chinese": "听(ing形式)",
 		"english": "listening",
-		"soundmark": "/ˈlɪsnɪŋ/"
+		"soundmark": "/ˈlɪsnɪŋ/",
+		"vietnamese": "[VI:听(ing形式)]"
 	},
 	{
-		"chinese": "我(现在)正在听",
 		"english": "I am listening",
-		"soundmark": "/aɪ/ /æm/ /ˈlɪsnɪŋ/"
+		"soundmark": "/aɪ/ /æm/ /ˈlɪsnɪŋ/",
+		"vietnamese": "Tôi(bây giờ)正在听"
 	},
 	{
-		"chinese": "音乐",
 		"english": "music",
-		"soundmark": "/'mjuzɪk/"
+		"soundmark": "/'mjuzɪk/",
+		"vietnamese": "[VI:音乐]"
 	},
 	{
-		"chinese": "我(现在)正在听音乐",
 		"english": "I am listening to music",
-		"soundmark": "/aɪ/ /æm/ /ˈlɪsnɪŋ/ /tə/ /'mjuzɪk/"
+		"soundmark": "/aɪ/ /æm/ /ˈlɪsnɪŋ/ /tə/ /'mjuzɪk/",
+		"vietnamese": "Tôi(bây giờ)正在听音乐"
 	},
 	{
-		"chinese": "她",
 		"english": "she",
-		"soundmark": "/ʃi/"
+		"soundmark": "/ʃi/",
+		"vietnamese": "Cô ấy"
 	},
 	{
-		"chinese": "她(现在)正在听音乐",
 		"english": "she is listening to music",
-		"soundmark": "/ʃi/ /ɪz/ /ˈlɪsnɪŋ/ /tə/ /'mjuzɪk/"
+		"soundmark": "/ʃi/ /ɪz/ /ˈlɪsnɪŋ/ /tə/ /'mjuzɪk/",
+		"vietnamese": "Cô ấy(bây giờ)正在听音乐"
 	},
 	{
-		"chinese": "她(过去)正在听音乐",
 		"english": "she was listening to music",
-		"soundmark": "/ʃi/ /wəz/ /ˈlɪsnɪŋ/ /tə/ /'mjuzɪk/"
+		"soundmark": "/ʃi/ /wəz/ /ˈlɪsnɪŋ/ /tə/ /'mjuzɪk/",
+		"vietnamese": "Cô ấy(过去)正在听音乐"
 	},
 	{
-		"chinese": "我",
 		"english": "I",
-		"soundmark": "/aɪ/"
+		"soundmark": "/aɪ/",
+		"vietnamese": "Tôi"
 	},
 	{
-		"chinese": "我(过去)正在听音乐",
 		"english": "I was listening to music",
-		"soundmark": "/aɪ/ /wəz/ /ˈlɪsnɪŋ/ /tə/ /'mjuzɪk/"
+		"soundmark": "/aɪ/ /wəz/ /ˈlɪsnɪŋ/ /tə/ /'mjuzɪk/",
+		"vietnamese": "Tôi(过去)正在听音乐"
 	},
 	{
-		"chinese": "一些",
 		"english": "some",
-		"soundmark": "/səm/"
+		"soundmark": "/səm/",
+		"vietnamese": "[VI:一些]"
 	},
 	{
-		"chinese": "我(过去)正在听一些音乐",
 		"english": "I was listening to some music",
-		"soundmark": "/aɪ/ /wəz/ /ˈlɪsnɪŋ/ /tə/ /səm/ /'mjuzɪk/"
+		"soundmark": "/aɪ/ /wəz/ /ˈlɪsnɪŋ/ /tə/ /səm/ /'mjuzɪk/",
+		"vietnamese": "Tôi(过去)正在听一些音乐"
 	},
 	{
-		"chinese": "你(现在)正在听",
 		"english": "you are listening",
-		"soundmark": "/ju/ /ɚ/ /ˈlɪsnɪŋ/"
+		"soundmark": "/ju/ /ɚ/ /ˈlɪsnɪŋ/",
+		"vietnamese": "Bạn(bây giờ)正在听"
 	},
 	{
-		"chinese": "你(现在)正在听音乐",
 		"english": "you are listening to music",
-		"soundmark": "/ju/ /ɚ/ /ˈlɪsnɪŋ/ /tə/ /'mjuzɪk/"
+		"soundmark": "/ju/ /ɚ/ /ˈlɪsnɪŋ/ /tə/ /'mjuzɪk/",
+		"vietnamese": "Bạn(bây giờ)正在听音乐"
 	},
 	{
-		"chinese": "你听",
 		"english": "you listen",
-		"soundmark": "/ju/ /'lɪsn/"
+		"soundmark": "/ju/ /'lɪsn/",
+		"vietnamese": "Bạn听"
 	},
 	{
-		"chinese": "认真地",
 		"english": "carefully",
-		"soundmark": "/'kɛrfəli/"
+		"soundmark": "/'kɛrfəli/",
+		"vietnamese": "[VI:认真地]"
 	},
 	{
-		"chinese": "你认真地听",
 		"english": "you listen carefully",
-		"soundmark": "/ju/ /'lɪsn/ /'kɛrfəli/"
+		"soundmark": "/ju/ /'lɪsn/ /'kɛrfəli/",
+		"vietnamese": "Bạn认真地听"
 	},
 	{
-		"chinese": "如果",
 		"english": "if",
-		"soundmark": "/ɪf/"
+		"soundmark": "/ɪf/",
+		"vietnamese": "[VI:如果]"
 	},
 	{
-		"chinese": "如果你认真地听",
 		"english": "if you listen carefully",
-		"soundmark": "/ɪf/ /ju/ /'lɪsn/ /'kɛrfəli/"
+		"soundmark": "/ɪf/ /ju/ /'lɪsn/ /'kɛrfəli/",
+		"vietnamese": "如果Bạn认真地听"
 	},
 	{
-		"chinese": "你可以听到一些音乐",
 		"english": "you can hear some music",
-		"soundmark": "/ju/ /kæn/ /hɪr/ /səm/ /'mjuzɪk/"
+		"soundmark": "/ju/ /kæn/ /hɪr/ /səm/ /'mjuzɪk/",
+		"vietnamese": "Bạn可以听到一些音乐"
 	},
 	{
-		"chinese": "如果你认真地听你可以听到一些音乐",
 		"english": "if you listen carefully you can hear some music",
-		"soundmark": "/ɪf/ /ju/ /'lɪsn/ /'kɛrfəli/ /ju/ /kæn/ /hɪr/ /səm/ /'mjuzɪk/"
+		"soundmark": "/ɪf/ /ju/ /'lɪsn/ /'kɛrfəli/ /ju/ /kæn/ /hɪr/ /səm/ /'mjuzɪk/",
+		"vietnamese": "如果Bạn认真地听你可以听到一些音乐"
 	},
 	{
-		"chinese": "这段音乐",
 		"english": "the music",
-		"soundmark": "/ðə/ /'mjuzɪk/"
+		"soundmark": "/ðə/ /'mjuzɪk/",
+		"vietnamese": "[VI:这段音乐]"
 	},
 	{
-		"chinese": "如果你认真地听这段音乐",
 		"english": "if you listen to the music carefully",
-		"soundmark": "/ɪf/ /ju/ /'lɪsn/ /tə/ /ðə/ /'mjuzɪk/ /'kɛrfəli/"
+		"soundmark": "/ɪf/ /ju/ /'lɪsn/ /tə/ /ðə/ /'mjuzɪk/ /'kɛrfəli/",
+		"vietnamese": "如果Bạn认真地听这段音乐"
 	},
 	{
-		"chinese": "吉他",
 		"english": "guitar",
-		"soundmark": "/ɡɪ'tɑr/"
+		"soundmark": "/ɡɪ'tɑr/",
+		"vietnamese": "吉Anh ấy"
 	},
 	{
-		"chinese": "一把吉他",
 		"english": "a guitar",
-		"soundmark": "/ə/ /ɡɪ'tɑr/"
+		"soundmark": "/ə/ /ɡɪ'tɑr/",
+		"vietnamese": "一把吉Anh ấy"
 	},
 	{
-		"chinese": "你可以听见",
 		"english": "you can hear",
-		"soundmark": "/ju/ /kæn/ /hɪr/"
+		"soundmark": "/ju/ /kæn/ /hɪr/",
+		"vietnamese": "Bạn可以听见"
 	},
 	{
-		"chinese": "你可以听见一把吉他",
 		"english": "you can hear a guitar",
-		"soundmark": "/ju/ /kæn/ /hɪr/ /ə/ /ɡɪ'tɑr/"
+		"soundmark": "/ju/ /kæn/ /hɪr/ /ə/ /ɡɪ'tɑr/",
+		"vietnamese": "Bạn可以听见一把吉Anh ấy"
 	},
 	{
-		"chinese": "后面的",
 		"english": "back",
-		"soundmark": "/bæk/"
+		"soundmark": "/bæk/",
+		"vietnamese": "[VI:后面的]"
 	},
 	{
-		"chinese": "场地",
 		"english": "ground",
-		"soundmark": "/ɡraʊnd/"
+		"soundmark": "/ɡraʊnd/",
+		"vietnamese": "[VI:场地]"
 	},
 	{
-		"chinese": "背景",
 		"english": "background",
-		"soundmark": "/'bækɡraʊnd/"
+		"soundmark": "/'bækɡraʊnd/",
+		"vietnamese": "[VI:背景]"
 	},
 	{
-		"chinese": "在背景里",
 		"english": "in the background",
-		"soundmark": "/ɪn/ /ðə/ /'bækɡraʊnd/"
+		"soundmark": "/ɪn/ /ðə/ /'bækɡraʊnd/",
+		"vietnamese": "[VI:在背景里]"
 	},
 	{
-		"chinese": "你可以听见一把吉他在背景里",
 		"english": "you can hear a guitar in the background",
-		"soundmark": "/ju/ /kæn/ /hɪr/ /ə/ /ɡɪ'tɑr/ /ɪn/ /ðə/ /background/ /'bækɡraʊnd/"
+		"soundmark": "/ju/ /kæn/ /hɪr/ /ə/ /ɡɪ'tɑr/ /ɪn/ /ðə/ /background/ /'bækɡraʊnd/",
+		"vietnamese": "Bạn可以听见一把吉Anh ấy在背景里"
 	},
 	{
-		"chinese": "如果你认真地听这段音乐你可以听见一把吉他在背景里",
 		"english": "if you listen to the music carefully you can hear a guitar in the background",
-		"soundmark": "/ɪf/ /ju/ /'lɪsn/ /tə/ /ðə/ /'mjuzɪk/ /'kɛrfəli/ /ju/ /kæn/ /hɪr/ /ə/ /ɡɪ'tɑr/ /ɪn/ /ðə/ /'bækɡraʊnd/"
+		"soundmark": "/ɪf/ /ju/ /'lɪsn/ /tə/ /ðə/ /'mjuzɪk/ /'kɛrfəli/ /ju/ /kæn/ /hɪr/ /ə/ /ɡɪ'tɑr/ /ɪn/ /ðə/ /'bækɡraʊnd/",
+		"vietnamese": "如果Bạn认真地听这段音乐你可以听见一把吉Anh ấy在背景里"
 	},
 	{
-		"chinese": "你认真地听",
 		"english": "you listen carefully",
-		"soundmark": "/ju/ /'lɪsn/ /'kɛrfəli/"
+		"soundmark": "/ju/ /'lɪsn/ /'kɛrfəli/",
+		"vietnamese": "Bạn认真地听"
 	},
 	{
-		"chinese": "不",
 		"english": "don't",
-		"soundmark": "/dont/"
+		"soundmark": "/dont/",
+		"vietnamese": "không"
 	},
 	{
-		"chinese": "你不认真地听",
 		"english": "you don't listen carefully",
-		"soundmark": "/ju/ /dont/ /'lɪsn/ /'kɛrfəli/"
+		"soundmark": "/ju/ /dont/ /'lɪsn/ /'kɛrfəli/",
+		"vietnamese": "Bạnkhông认真地听"
 	},
 	{
-		"chinese": "如果",
 		"english": "if",
-		"soundmark": "/ɪf/"
+		"soundmark": "/ɪf/",
+		"vietnamese": "[VI:如果]"
 	},
 	{
-		"chinese": "如果你不认真地听",
 		"english": "if you don't listen carefully",
-		"soundmark": "/ɪf/ /ju/ /dont/ /'lɪsn/ /'kɛrfəli/"
+		"soundmark": "/ɪf/ /ju/ /dont/ /'lɪsn/ /'kɛrfəli/",
+		"vietnamese": "如果Bạnkhông认真地听"
 	},
 	{
-		"chinese": "听见",
 		"english": "to hear",
-		"soundmark": "/tə/ /hɪr/"
+		"soundmark": "/tə/ /hɪr/",
+		"vietnamese": "[VI:听见]"
 	},
 	{
-		"chinese": "你",
 		"english": "you",
-		"soundmark": "/ju/"
+		"soundmark": "/ju/",
+		"vietnamese": "Bạn"
 	},
 	{
-		"chinese": "你将会听见",
 		"english": "you will hear",
-		"soundmark": "/ju/ /wɪl/ /hɪr/"
+		"soundmark": "/ju/ /wɪl/ /hɪr/",
+		"vietnamese": "Bạn将会听见"
 	},
 	{
-		"chinese": "东西",
 		"english": "thing",
-		"soundmark": "/θɪŋ/"
+		"soundmark": "/θɪŋ/",
+		"vietnamese": "[VI:东西]"
 	},
 	{
-		"chinese": "没有东西",
 		"english": "nothing",
-		"soundmark": "/'nʌθɪŋ/"
+		"soundmark": "/'nʌθɪŋ/",
+		"vietnamese": "[VI:没有东西]"
 	},
 	{
-		"chinese": "你将会听见没有东西",
 		"english": "you will hear nothing",
-		"soundmark": "/ju/ /wɪl/ /hɪr/ /'nʌθɪŋ/"
+		"soundmark": "/ju/ /wɪl/ /hɪr/ /'nʌθɪŋ/",
+		"vietnamese": "Bạn将会听见没有东西"
 	},
 	{
-		"chinese": "如果你不认真地听",
 		"english": "if you don't listen carefully",
-		"soundmark": "/ɪf/ /ju/ /dont/ /'lɪsn/ /'kɛrfəli/"
+		"soundmark": "/ɪf/ /ju/ /dont/ /'lɪsn/ /'kɛrfəli/",
+		"vietnamese": "如果Bạnkhông认真地听"
 	},
 	{
-		"chinese": "如果你不认真地听你将会什么都听不到",
 		"english": "if you don't listen carefully you will hear nothing",
-		"soundmark": "/ɪf/ /ju/ /dont/ /'lɪsn/ /'kɛrfəli/ /ju/ /wɪl/ /hɪr/ /'nʌθɪŋ/"
+		"soundmark": "/ɪf/ /ju/ /dont/ /'lɪsn/ /'kɛrfəli/ /ju/ /wɪl/ /hɪr/ /'nʌθɪŋ/",
+		"vietnamese": "如果Bạnkhông认真地听你将会什么都听不到"
 	}
 ]

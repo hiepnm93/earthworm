@@ -1,767 +1,767 @@
 [
 	{
-		"chinese": "听见；听说",
 		"english": "to hear",
-		"soundmark": "/tə/ /hɪr/"
+		"soundmark": "/tə/ /hɪr/",
+		"vietnamese": "[VI:听见；听说]"
 	},
 	{
-		"chinese": "我",
 		"english": "me",
-		"soundmark": "/mi/"
+		"soundmark": "/mi/",
+		"vietnamese": "Tôi"
 	},
 	{
-		"chinese": "听见我",
 		"english": "to hear me",
-		"soundmark": "/tə/ /hɪr/ /mi/"
+		"soundmark": "/tə/ /hɪr/ /mi/",
+		"vietnamese": "听见Tôi"
 	},
 	{
-		"chinese": "你",
 		"english": "you",
-		"soundmark": "/ju/"
+		"soundmark": "/ju/",
+		"vietnamese": "Bạn"
 	},
 	{
-		"chinese": "你听见我",
 		"english": "you hear me",
-		"soundmark": "/ju/ /hɪr/ /mi/"
+		"soundmark": "/ju/ /hɪr/ /mi/",
+		"vietnamese": "Bạn听见Tôi"
 	},
 	{
-		"chinese": "可以",
 		"english": "can",
-		"soundmark": "/kæn/"
+		"soundmark": "/kæn/",
+		"vietnamese": "[VI:可以]"
 	},
 	{
-		"chinese": "你可以听见我",
 		"english": "you can hear me",
-		"soundmark": "/ju/ /kæn/ /hɪr/ /mi/"
+		"soundmark": "/ju/ /kæn/ /hɪr/ /mi/",
+		"vietnamese": "Bạn可以听见Tôi"
 	},
 	{
-		"chinese": "你可以听见我吗？",
 		"english": "can you hear me",
-		"soundmark": "/kæn/ /ju/ /hɪr/ /mi/"
+		"soundmark": "/kæn/ /ju/ /hɪr/ /mi/",
+		"vietnamese": "Bạn可以听见Tôi吗？"
 	},
 	{
-		"chinese": "你可以听见我",
 		"english": "you can hear me",
-		"soundmark": "/ju/ /kæn/ /hɪr/ /mi/"
+		"soundmark": "/ju/ /kæn/ /hɪr/ /mi/",
+		"vietnamese": "Bạn可以听见Tôi"
 	},
 	{
-		"chinese": "不可以",
 		"english": "can't",
-		"soundmark": "/kænt/"
+		"soundmark": "/kænt/",
+		"vietnamese": "không可以"
 	},
 	{
-		"chinese": "你不可以听见我",
 		"english": "you can't hear me",
-		"soundmark": "/ju/ /kænt/ /hɪr/ /mi/"
+		"soundmark": "/ju/ /kænt/ /hɪr/ /mi/",
+		"vietnamese": "Bạnkhông可以听见Tôi"
 	},
 	{
-		"chinese": "你不可以听见我吗？",
 		"english": "can't you hear me",
-		"soundmark": "/kænt/ /ju/ /hɪr/ /mi/"
+		"soundmark": "/kænt/ /ju/ /hɪr/ /mi/",
+		"vietnamese": "Bạnkhông可以听见Tôi吗？"
 	},
 	{
-		"chinese": "你不可以听见我",
 		"english": "you can't hear me",
-		"soundmark": "/ju/ /kænt/ /hɪr/ /mi/"
+		"soundmark": "/ju/ /kænt/ /hɪr/ /mi/",
+		"vietnamese": "Bạnkhông可以听见Tôi"
 	},
 	{
-		"chinese": "你听见我",
 		"english": "you hear me",
-		"soundmark": "/ju/ /hɪr/ /mi/"
+		"soundmark": "/ju/ /hɪr/ /mi/",
+		"vietnamese": "Bạn听见Tôi"
 	},
 	{
-		"chinese": "不；没有",
 		"english": "don't",
-		"soundmark": "/dont/"
+		"soundmark": "/dont/",
+		"vietnamese": "không；没有"
 	},
 	{
-		"chinese": "你没有听见我",
 		"english": "you don't hear me",
-		"soundmark": "/ju/ /dont/ /hɪr/ /mi/"
+		"soundmark": "/ju/ /dont/ /hɪr/ /mi/",
+		"vietnamese": "Bạn没有听见Tôi"
 	},
 	{
-		"chinese": "你没有听见我吗？",
 		"english": "don't you hear me",
-		"soundmark": "/dont/ /ju/ /hɪr/ /mi/"
+		"soundmark": "/dont/ /ju/ /hɪr/ /mi/",
+		"vietnamese": "Bạn没有听见Tôi吗？"
 	},
 	{
-		"chinese": "你没有听见我",
 		"english": "you don't hear me",
-		"soundmark": "/ju/ /dont/ /hɪr/ /mi/"
+		"soundmark": "/ju/ /dont/ /hɪr/ /mi/",
+		"vietnamese": "Bạn没有听见Tôi"
 	},
 	{
-		"chinese": "你有听见我",
 		"english": "you do hear me",
-		"soundmark": "/ju/ /du/ /hɪr/ /mi/"
+		"soundmark": "/ju/ /du/ /hɪr/ /mi/",
+		"vietnamese": "Bạn有听见Tôi"
 	},
 	{
-		"chinese": "你有听见我吗？",
 		"english": "do you hear me",
-		"soundmark": "/du/ /ju/ /hɪr/ /mi/"
+		"soundmark": "/du/ /ju/ /hɪr/ /mi/",
+		"vietnamese": "Bạn有听见Tôi吗？"
 	},
 	{
-		"chinese": "可以",
 		"english": "can",
-		"soundmark": "/kæn/"
+		"soundmark": "/kæn/",
+		"vietnamese": "[VI:可以]"
 	},
 	{
-		"chinese": "你可以听见我",
 		"english": "you can hear me",
-		"soundmark": "/ju/ /kæn/ /hɪr/ /mi/"
+		"soundmark": "/ju/ /kæn/ /hɪr/ /mi/",
+		"vietnamese": "Bạn可以听见Tôi"
 	},
 	{
-		"chinese": "你可以听见我吗？",
 		"english": "can you hear me",
-		"soundmark": "/kæn/ /ju/ /hɪr/ /mi/"
+		"soundmark": "/kæn/ /ju/ /hɪr/ /mi/",
+		"vietnamese": "Bạn可以听见Tôi吗？"
 	},
 	{
-		"chinese": "你没有听见我",
 		"english": "you don't hear me",
-		"soundmark": "/ju/ /dont/ /hɪr/ /mi/"
+		"soundmark": "/ju/ /dont/ /hɪr/ /mi/",
+		"vietnamese": "Bạn没有听见Tôi"
 	},
 	{
-		"chinese": "你有听见我吗？",
 		"english": "do you hear me",
-		"soundmark": "/du/ /ju/ /hɪr/ /mi/"
+		"soundmark": "/du/ /ju/ /hɪr/ /mi/",
+		"vietnamese": "Bạn有听见Tôi吗？"
 	},
 	{
-		"chinese": "你(过去)有听见我吗？",
 		"english": "did you hear me",
-		"soundmark": "/dɪd/ /ju/ /hɪr/ /mi/"
+		"soundmark": "/dɪd/ /ju/ /hɪr/ /mi/",
+		"vietnamese": "Bạn(过去)有听见Tôi吗？"
 	},
 	{
-		"chinese": "你(过去)有听见我",
 		"english": "you did hear me",
-		"soundmark": "/ju/ /dɪd/ /hɪr/ /mi/"
+		"soundmark": "/ju/ /dɪd/ /hɪr/ /mi/",
+		"vietnamese": "Bạn(过去)有听见Tôi"
 	},
 	{
-		"chinese": "做",
 		"english": "to do",
-		"soundmark": "/tə/ /du/"
+		"soundmark": "/tə/ /du/",
+		"vietnamese": "làm"
 	},
 	{
-		"chinese": "这件事",
 		"english": "it",
-		"soundmark": "/ɪt/"
+		"soundmark": "/ɪt/",
+		"vietnamese": "[VI:这件事]"
 	},
 	{
-		"chinese": "做这件事",
 		"english": "to do it",
-		"soundmark": "/tə/ /du/ /ɪt/"
+		"soundmark": "/tə/ /du/ /ɪt/",
+		"vietnamese": "làm điều này"
 	},
 	{
-		"chinese": "你做这件事",
 		"english": "you do it",
-		"soundmark": "/ju/ /du/ /ɪt/"
+		"soundmark": "/ju/ /du/ /ɪt/",
+		"vietnamese": "Bạnlàm điều này"
 	},
 	{
-		"chinese": "没有",
 		"english": "don't",
-		"soundmark": "/dont/"
+		"soundmark": "/dont/",
+		"vietnamese": "[VI:没有]"
 	},
 	{
-		"chinese": "你没有做这件事",
 		"english": "you don't do it",
-		"soundmark": "/ju/ /dont/ /du/ /ɪt/"
+		"soundmark": "/ju/ /dont/ /du/ /ɪt/",
+		"vietnamese": "Bạn没有làm điều này"
 	},
 	{
-		"chinese": "你有做这件事",
 		"english": "you do do it",
-		"soundmark": "/ju/ /du/ /du/ /ɪt/"
+		"soundmark": "/ju/ /du/ /du/ /ɪt/",
+		"vietnamese": "Bạn有làm điều này"
 	},
 	{
-		"chinese": "你没有做这件事",
 		"english": "you don't do it",
-		"soundmark": "/ju/ /dont/ /du/ /ɪt/"
+		"soundmark": "/ju/ /dont/ /du/ /ɪt/",
+		"vietnamese": "Bạn没有làm điều này"
 	},
 	{
-		"chinese": "你(过去)没有做这件事",
 		"english": "you didn't do it",
-		"soundmark": "/ju/ /ˈdɪdnt/ /du/ /ɪt/"
+		"soundmark": "/ju/ /ˈdɪdnt/ /du/ /ɪt/",
+		"vietnamese": "Bạn(过去)没有làm điều này"
 	},
 	{
-		"chinese": "你(过去)有做这件事",
 		"english": "you did do it",
-		"soundmark": "/ju/ /dɪd/ /du/ /ɪt/"
+		"soundmark": "/ju/ /dɪd/ /du/ /ɪt/",
+		"vietnamese": "Bạn(过去)有làm điều này"
 	},
 	{
-		"chinese": "你(过去)有做这件事吗？",
 		"english": "did you do it",
-		"soundmark": "/dɪd/ /ju/ /du/ /ɪt/"
+		"soundmark": "/dɪd/ /ju/ /du/ /ɪt/",
+		"vietnamese": "Bạn(过去)有làm điều này吗？"
 	},
 	{
-		"chinese": "如何",
 		"english": "how",
-		"soundmark": "/haʊ/"
+		"soundmark": "/haʊ/",
+		"vietnamese": "[VI:如何]"
 	},
 	{
-		"chinese": "为什么",
 		"english": "why",
-		"soundmark": "/waɪ/"
+		"soundmark": "/waɪ/",
+		"vietnamese": "[VI:为什么]"
 	},
 	{
-		"chinese": "什么时候",
 		"english": "when",
-		"soundmark": "/wɛn/"
+		"soundmark": "/wɛn/",
+		"vietnamese": "[VI:什么时候]"
 	},
 	{
-		"chinese": "在哪里",
 		"english": "where",
-		"soundmark": "/wɛr/"
+		"soundmark": "/wɛr/",
+		"vietnamese": "[VI:在哪里]"
 	},
 	{
-		"chinese": "什么",
 		"english": "what",
-		"soundmark": "/wɑt/"
+		"soundmark": "/wɑt/",
+		"vietnamese": "[VI:什么]"
 	},
 	{
-		"chinese": "如何",
 		"english": "how",
-		"soundmark": "/haʊ/"
+		"soundmark": "/haʊ/",
+		"vietnamese": "[VI:如何]"
 	},
 	{
-		"chinese": "你(过去)如何做这件事？",
 		"english": "how did you do it",
-		"soundmark": "/haʊ/ /dɪd/ /ju/ /du/ /ɪt/"
+		"soundmark": "/haʊ/ /dɪd/ /ju/ /du/ /ɪt/",
+		"vietnamese": "Bạn(过去)如何làm điều này？"
 	},
 	{
-		"chinese": "为什么",
 		"english": "why",
-		"soundmark": "/waɪ/"
+		"soundmark": "/waɪ/",
+		"vietnamese": "[VI:为什么]"
 	},
 	{
-		"chinese": "你(过去)为什么做这件事？",
 		"english": "why did you do it",
-		"soundmark": "/waɪ/ /dɪd/ /ju/ /du/ /ɪt/"
+		"soundmark": "/waɪ/ /dɪd/ /ju/ /du/ /ɪt/",
+		"vietnamese": "Bạn(过去)为什么làm điều này？"
 	},
 	{
-		"chinese": "什么时候",
 		"english": "when",
-		"soundmark": "/wɛn/"
+		"soundmark": "/wɛn/",
+		"vietnamese": "[VI:什么时候]"
 	},
 	{
-		"chinese": "你(过去)什么时候做这件事？",
 		"english": "when did you do it",
-		"soundmark": "/wɛn/ /dɪd/ /ju/ /du/ /ɪt/"
+		"soundmark": "/wɛn/ /dɪd/ /ju/ /du/ /ɪt/",
+		"vietnamese": "Bạn(过去)什么时候làm điều này？"
 	},
 	{
-		"chinese": "在哪里",
 		"english": "where",
-		"soundmark": "/wɛr/"
+		"soundmark": "/wɛr/",
+		"vietnamese": "[VI:在哪里]"
 	},
 	{
-		"chinese": "你(过去)在哪里做这件事？",
 		"english": "where did you do it",
-		"soundmark": "/wɛr/ /dɪd/ /ju/ /du/ /ɪt/"
+		"soundmark": "/wɛr/ /dɪd/ /ju/ /du/ /ɪt/",
+		"vietnamese": "Bạn(过去)在哪里làm điều này？"
 	},
 	{
-		"chinese": "什么",
 		"english": "what",
-		"soundmark": "/wɑt/"
+		"soundmark": "/wɑt/",
+		"vietnamese": "[VI:什么]"
 	},
 	{
-		"chinese": "你(过去)有做这件事吗？",
 		"english": "did you do it",
-		"soundmark": "/dɪd/ /ju/ /du/ /ɪt/"
+		"soundmark": "/dɪd/ /ju/ /du/ /ɪt/",
+		"vietnamese": "Bạn(过去)有làm điều này吗？"
 	},
 	{
-		"chinese": "你(过去)做了什么？",
 		"english": "what did you do",
-		"soundmark": "/wɑt/ /dɪd/ /ju/ /du/"
+		"soundmark": "/wɑt/ /dɪd/ /ju/ /du/",
+		"vietnamese": "Bạn(过去)làm了什么？"
 	},
 	{
-		"chinese": "找到",
 		"english": "to find",
-		"soundmark": "/tə/ /faɪnd/"
+		"soundmark": "/tə/ /faɪnd/",
+		"vietnamese": "[VI:找到]"
 	},
 	{
-		"chinese": "我",
 		"english": "me",
-		"soundmark": "/mi/"
+		"soundmark": "/mi/",
+		"vietnamese": "Tôi"
 	},
 	{
-		"chinese": "找到我",
 		"english": "to find me",
-		"soundmark": "/tə/ /faɪnd/ /mi/"
+		"soundmark": "/tə/ /faɪnd/ /mi/",
+		"vietnamese": "找到Tôi"
 	},
 	{
-		"chinese": "你(过去)是如何",
 		"english": "how did you",
-		"soundmark": "/haʊ/ /dɪd/ /ju/"
+		"soundmark": "/haʊ/ /dɪd/ /ju/",
+		"vietnamese": "Bạn(过去)là如何"
 	},
 	{
-		"chinese": "你(过去)是如何找到我的？",
 		"english": "how did you find me",
-		"soundmark": "/haʊ/ /dɪd/ /ju/ /faɪnd/ /mi/"
+		"soundmark": "/haʊ/ /dɪd/ /ju/ /faɪnd/ /mi/",
+		"vietnamese": "Bạn(过去)là如何找到Tôi的？"
 	},
 	{
-		"chinese": "她的",
 		"english": "her",
-		"soundmark": "/hɚ/"
+		"soundmark": "/hɚ/",
+		"vietnamese": "Cô ấy的"
 	},
 	{
-		"chinese": "名字",
 		"english": "name",
-		"soundmark": "/nem/"
+		"soundmark": "/nem/",
+		"vietnamese": "[VI:名字]"
 	},
 	{
-		"chinese": "她的名字",
 		"english": "her name",
-		"soundmark": "/hɚ/ /nem/"
+		"soundmark": "/hɚ/ /nem/",
+		"vietnamese": "Cô ấy的名字"
 	},
 	{
-		"chinese": "知道",
 		"english": "to know",
-		"soundmark": "/tə/ /no/"
+		"soundmark": "/tə/ /no/",
+		"vietnamese": "biết"
 	},
 	{
-		"chinese": "知道她的名字",
 		"english": "to know her name",
-		"soundmark": "/tə/ /no/ /hɚ/ /nem/"
+		"soundmark": "/tə/ /no/ /hɚ/ /nem/",
+		"vietnamese": "biếtCô ấy的名字"
 	},
 	{
-		"chinese": "你(过去)是如何",
 		"english": "how did you",
-		"soundmark": "/haʊ/ /dɪd/ /ju/"
+		"soundmark": "/haʊ/ /dɪd/ /ju/",
+		"vietnamese": "Bạn(过去)là如何"
 	},
 	{
-		"chinese": "你(过去)是如何知道她的名字的？",
 		"english": "how did you know her name",
-		"soundmark": "/haʊ/ /dɪd/ /ju/ /no/ /hɚ/ /nem/"
+		"soundmark": "/haʊ/ /dɪd/ /ju/ /no/ /hɚ/ /nem/",
+		"vietnamese": "Bạn(过去)là如何biếtCô ấy的名字的？"
 	},
 	{
-		"chinese": "电话",
 		"english": "phone",
-		"soundmark": "/fon/"
+		"soundmark": "/fon/",
+		"vietnamese": "[VI:电话]"
 	},
 	{
-		"chinese": "号码",
 		"english": "number",
-		"soundmark": "/'nʌmbɚ/"
+		"soundmark": "/'nʌmbɚ/",
+		"vietnamese": "[VI:号码]"
 	},
 	{
-		"chinese": "电话号码",
 		"english": "phone number",
-		"soundmark": "/fon/ /'nʌmbɚ/"
+		"soundmark": "/fon/ /'nʌmbɚ/",
+		"vietnamese": "[VI:电话号码]"
 	},
 	{
-		"chinese": "我的",
 		"english": "my",
-		"soundmark": "/maɪ/"
+		"soundmark": "/maɪ/",
+		"vietnamese": "Tôi的"
 	},
 	{
-		"chinese": "我的电话号码",
 		"english": "my phone number",
-		"soundmark": "/maɪ/ /fon/ /'nʌmbɚ/"
+		"soundmark": "/maɪ/ /fon/ /'nʌmbɚ/",
+		"vietnamese": "Tôi的电话号码"
 	},
 	{
-		"chinese": "知道",
 		"english": "to know",
-		"soundmark": "/tə/ /no/"
+		"soundmark": "/tə/ /no/",
+		"vietnamese": "biết"
 	},
 	{
-		"chinese": "知道我的电话号码",
 		"english": "to know my phone number",
-		"soundmark": "/tə/ /no/ /maɪ/ /fon/ /'nʌmbɚ/"
+		"soundmark": "/tə/ /no/ /maɪ/ /fon/ /'nʌmbɚ/",
+		"vietnamese": "biếtTôi的电话号码"
 	},
 	{
-		"chinese": "你(过去)是如何",
 		"english": "how did you",
-		"soundmark": "/haʊ/ /dɪd/ /ju/"
+		"soundmark": "/haʊ/ /dɪd/ /ju/",
+		"vietnamese": "Bạn(过去)là如何"
 	},
 	{
-		"chinese": "你(过去)是如何知道我的电话号码的？",
 		"english": "how did you know my phone number",
-		"soundmark": "/haʊ/ /dɪd/ /ju/ /no/ /maɪ/ /fon/ /'nʌmbɚ/"
+		"soundmark": "/haʊ/ /dɪd/ /ju/ /no/ /maɪ/ /fon/ /'nʌmbɚ/",
+		"vietnamese": "Bạn(过去)là如何biếtTôi的电话号码的？"
 	},
 	{
-		"chinese": "做",
 		"english": "to do",
-		"soundmark": "/tə/ /du/"
+		"soundmark": "/tə/ /du/",
+		"vietnamese": "làm"
 	},
 	{
-		"chinese": "这件事",
 		"english": "it",
-		"soundmark": "/ɪt/"
+		"soundmark": "/ɪt/",
+		"vietnamese": "[VI:这件事]"
 	},
 	{
-		"chinese": "做这件事",
 		"english": "to do it",
-		"soundmark": "/tə/ /du/ /ɪt/"
+		"soundmark": "/tə/ /du/ /ɪt/",
+		"vietnamese": "làm điều này"
 	},
 	{
-		"chinese": "决定",
 		"english": "to decide",
-		"soundmark": "/tə/ /dɪ'saɪd/"
+		"soundmark": "/tə/ /dɪ'saɪd/",
+		"vietnamese": "[VI:决定]"
 	},
 	{
-		"chinese": "决定做这件事",
 		"english": "to decide to do it",
-		"soundmark": "/tə/ /dɪ'saɪd/ /tə/ /du/ /ɪt/"
+		"soundmark": "/tə/ /dɪ'saɪd/ /tə/ /du/ /ɪt/",
+		"vietnamese": "决定làm điều này"
 	},
 	{
-		"chinese": "你(过去)为什么",
 		"english": "why did you",
-		"soundmark": "/waɪ/ /dɪd/ /ju/"
+		"soundmark": "/waɪ/ /dɪd/ /ju/",
+		"vietnamese": "Bạn(过去)为什么"
 	},
 	{
-		"chinese": "你(过去)为什么决定做这件事？",
 		"english": "why did you decide to do it",
-		"soundmark": "/waɪ/ /dɪd/ /ju/ /dɪ'saɪd/ /tə/ /du/ /ɪt/"
+		"soundmark": "/waɪ/ /dɪd/ /ju/ /dɪ'saɪd/ /tə/ /du/ /ɪt/",
+		"vietnamese": "Bạn(过去)为什么决定làm điều này？"
 	},
 	{
-		"chinese": "离开",
 		"english": "to leave",
-		"soundmark": "/tə/ /liv/"
+		"soundmark": "/tə/ /liv/",
+		"vietnamese": "[VI:离开]"
 	},
 	{
-		"chinese": "我",
 		"english": "me",
-		"soundmark": "/mi/"
+		"soundmark": "/mi/",
+		"vietnamese": "Tôi"
 	},
 	{
-		"chinese": "离开我",
 		"english": "to leave me",
-		"soundmark": "/tə/ /liv/ /mi/"
+		"soundmark": "/tə/ /liv/ /mi/",
+		"vietnamese": "离开Tôi"
 	},
 	{
-		"chinese": "你(过去)为什么",
 		"english": "why did you",
-		"soundmark": "/waɪ/ /dɪd/ /ju/"
+		"soundmark": "/waɪ/ /dɪd/ /ju/",
+		"vietnamese": "Bạn(过去)为什么"
 	},
 	{
-		"chinese": "你(过去)为什么离开我？",
 		"english": "why did you leave me",
-		"soundmark": "/waɪ/ /dɪd/ /ju/ /liv/ /mi/"
+		"soundmark": "/waɪ/ /dɪd/ /ju/ /liv/ /mi/",
+		"vietnamese": "Bạn(过去)为什么离开Tôi？"
 	},
 	{
-		"chinese": "说",
 		"english": "to say",
-		"soundmark": "/tə/ /seɪ/"
+		"soundmark": "/tə/ /seɪ/",
+		"vietnamese": "[VI:说]"
 	},
 	{
-		"chinese": "它；那句话",
 		"english": "it",
-		"soundmark": "/ɪt/"
+		"soundmark": "/ɪt/",
+		"vietnamese": "Nó；那句话"
 	},
 	{
-		"chinese": "说那句话",
 		"english": "to say it",
-		"soundmark": "/tə/ /seɪ/ /ɪt/"
+		"soundmark": "/tə/ /seɪ/ /ɪt/",
+		"vietnamese": "[VI:说那句话]"
 	},
 	{
-		"chinese": "你(过去)为什么",
 		"english": "why did you",
-		"soundmark": "/waɪ/ /dɪd/ /ju/"
+		"soundmark": "/waɪ/ /dɪd/ /ju/",
+		"vietnamese": "Bạn(过去)为什么"
 	},
 	{
-		"chinese": "你(过去)为什么说那句话？",
 		"english": "why did you say it",
-		"soundmark": "/waɪ/ /dɪd/ /ju/ /seɪ/ /ɪt/"
+		"soundmark": "/waɪ/ /dɪd/ /ju/ /seɪ/ /ɪt/",
+		"vietnamese": "Bạn(过去)为什么说那句话？"
 	},
 	{
-		"chinese": "到达",
 		"english": "to get",
-		"soundmark": "/tə/ /ɡɛt/"
+		"soundmark": "/tə/ /ɡɛt/",
+		"vietnamese": "[VI:到达]"
 	},
 	{
-		"chinese": "这里",
 		"english": "here",
-		"soundmark": "/hɪr/"
+		"soundmark": "/hɪr/",
+		"vietnamese": "ở đây"
 	},
 	{
-		"chinese": "到达这里",
 		"english": "to get here",
-		"soundmark": "/tə/ /ɡɛt/ /hɪr/"
+		"soundmark": "/tə/ /ɡɛt/ /hɪr/",
+		"vietnamese": "到达ở đây"
 	},
 	{
-		"chinese": "你(过去)什么时候",
 		"english": "when did you",
-		"soundmark": "/wɛn/ /dɪd/ /ju/"
+		"soundmark": "/wɛn/ /dɪd/ /ju/",
+		"vietnamese": "Bạn(过去)什么时候"
 	},
 	{
-		"chinese": "你(过去)什么时候到达这里的？",
 		"english": "when did you get here",
-		"soundmark": "/wɛn/ /dɪd/ /ju/ /ɡɛt/ /hɪr/"
+		"soundmark": "/wɛn/ /dɪd/ /ju/ /ɡɛt/ /hɪr/",
+		"vietnamese": "Bạn(过去)什么时候到达ở đây的？"
 	},
 	{
-		"chinese": "见到",
 		"english": "to meet",
-		"soundmark": "/tə/ /mit/"
+		"soundmark": "/tə/ /mit/",
+		"vietnamese": "gặp"
 	},
 	{
-		"chinese": "他",
 		"english": "him",
-		"soundmark": "/hɪm/"
+		"soundmark": "/hɪm/",
+		"vietnamese": "Anh ấy"
 	},
 	{
-		"chinese": "见到他",
 		"english": "to meet him",
-		"soundmark": "/tə/ /mit/ /hɪm/"
+		"soundmark": "/tə/ /mit/ /hɪm/",
+		"vietnamese": "gặpAnh ấy"
 	},
 	{
-		"chinese": "你(过去)什么时候",
 		"english": "when did you",
-		"soundmark": "/wɛn/ /dɪd/ /ju/"
+		"soundmark": "/wɛn/ /dɪd/ /ju/",
+		"vietnamese": "Bạn(过去)什么时候"
 	},
 	{
-		"chinese": "你(过去)什么时候见到他的？",
 		"english": "when did you meet him",
-		"soundmark": "/wɛn/ /dɪd/ /ju/ /mit/ /hɪm/"
+		"soundmark": "/wɛn/ /dɪd/ /ju/ /mit/ /hɪm/",
+		"vietnamese": "Bạn(过去)什么时候gặpAnh ấy的？"
 	},
 	{
-		"chinese": "家",
 		"english": "home",
-		"soundmark": "/hom/"
+		"soundmark": "/hom/",
+		"vietnamese": "[VI:家]"
 	},
 	{
-		"chinese": "工作",
 		"english": "work",
-		"soundmark": "/wɝk/"
+		"soundmark": "/wɝk/",
+		"vietnamese": "[VI:工作]"
 	},
 	{
-		"chinese": "家庭作业",
 		"english": "homework",
-		"soundmark": "/'homwɝk/"
+		"soundmark": "/'homwɝk/",
+		"vietnamese": "[VI:家庭作业]"
 	},
 	{
-		"chinese": "你的",
 		"english": "your",
-		"soundmark": "/jʊr/"
+		"soundmark": "/jʊr/",
+		"vietnamese": "Bạn的"
 	},
 	{
-		"chinese": "你的家庭作业",
 		"english": "your homework",
-		"soundmark": "/jʊr/ /'homwɝk/"
+		"soundmark": "/jʊr/ /'homwɝk/",
+		"vietnamese": "Bạn的家庭作业"
 	},
 	{
-		"chinese": "完成",
 		"english": "to finish",
-		"soundmark": "/tə/ /'fɪnɪʃ/"
+		"soundmark": "/tə/ /'fɪnɪʃ/",
+		"vietnamese": "[VI:完成]"
 	},
 	{
-		"chinese": "完成你的家庭做作业",
 		"english": "to finish your homework",
-		"soundmark": "/tə/ /'fɪnɪʃ/ /jʊr/ /'homwɝk/"
+		"soundmark": "/tə/ /'fɪnɪʃ/ /jʊr/ /'homwɝk/",
+		"vietnamese": "完成Bạn的家庭làm作业"
 	},
 	{
-		"chinese": "你(过去)什么时候",
 		"english": "when did you",
-		"soundmark": "/wɛn/ /dɪd/ /ju/"
+		"soundmark": "/wɛn/ /dɪd/ /ju/",
+		"vietnamese": "Bạn(过去)什么时候"
 	},
 	{
-		"chinese": "你(过去)什么时候完成你的家庭作业的？",
 		"english": "when did you finish your homework",
-		"soundmark": "/wɛn/ /dɪd/ /ju/ /'fɪnɪʃ/ /jʊr/ /'homwɝk/"
+		"soundmark": "/wɛn/ /dɪd/ /ju/ /'fɪnɪʃ/ /jʊr/ /'homwɝk/",
+		"vietnamese": "Bạn(过去)什么时候完成你的家庭作业的？"
 	},
 	{
-		"chinese": "找到",
 		"english": "to find",
-		"soundmark": "/tə/ /faɪnd/"
+		"soundmark": "/tə/ /faɪnd/",
+		"vietnamese": "[VI:找到]"
 	},
 	{
-		"chinese": "他们/她们/它们",
 		"english": "them",
-		"soundmark": "/ðəm/"
+		"soundmark": "/ðəm/",
+		"vietnamese": "Họ/Cô ấy们/Chúng"
 	},
 	{
-		"chinese": "找到他们",
 		"english": "to find them",
-		"soundmark": "/tə/ /faɪnd/ /ðəm/"
+		"soundmark": "/tə/ /faɪnd/ /ðəm/",
+		"vietnamese": "找到Họ"
 	},
 	{
-		"chinese": "你(过去)在哪里",
 		"english": "where did you",
-		"soundmark": "/wɛr/ /dɪd/ /ju/"
+		"soundmark": "/wɛr/ /dɪd/ /ju/",
+		"vietnamese": "Bạn(过去)在哪里"
 	},
 	{
-		"chinese": "你(过去)在哪里找到他们的？",
 		"english": "where did you find them",
-		"soundmark": "/wɛr/ /dɪd/ /ju/ /faɪnd/ /ðəm/"
+		"soundmark": "/wɛr/ /dɪd/ /ju/ /faɪnd/ /ðəm/",
+		"vietnamese": "Bạn(过去)在哪里找到Họ的？"
 	},
 	{
-		"chinese": "购买",
 		"english": "to buy",
-		"soundmark": "/tə/ /baɪ/"
+		"soundmark": "/tə/ /baɪ/",
+		"vietnamese": "[VI:购买]"
 	},
 	{
-		"chinese": "这个",
 		"english": "this",
-		"soundmark": "/ðɪs/"
+		"soundmark": "/ðɪs/",
+		"vietnamese": "[VI:这个]"
 	},
 	{
-		"chinese": "购买这个",
 		"english": "to buy this",
-		"soundmark": "/tə/ /baɪ/ /ðɪs/"
+		"soundmark": "/tə/ /baɪ/ /ðɪs/",
+		"vietnamese": "[VI:购买这个]"
 	},
 	{
-		"chinese": "你(过去)在哪里",
 		"english": "where did you",
-		"soundmark": "/wɛr/ /dɪd/ /ju/"
+		"soundmark": "/wɛr/ /dɪd/ /ju/",
+		"vietnamese": "Bạn(过去)在哪里"
 	},
 	{
-		"chinese": "你(过去)在哪里购买这个的？",
 		"english": "where did you buy this",
-		"soundmark": "/wɛr/ /dɪd/ /ju/ /baɪ/ /ðɪs/"
+		"soundmark": "/wɛr/ /dɪd/ /ju/ /baɪ/ /ðɪs/",
+		"vietnamese": "Bạn(过去)在哪里购买这个的？"
 	},
 	{
-		"chinese": "睡觉",
 		"english": "to sleep",
-		"soundmark": "/tə/ /slip/"
+		"soundmark": "/tə/ /slip/",
+		"vietnamese": "[VI:睡觉]"
 	},
 	{
-		"chinese": "你(过去)在哪里",
 		"english": "where did you",
-		"soundmark": "/wɛr/ /dɪd/ /ju/"
+		"soundmark": "/wɛr/ /dɪd/ /ju/",
+		"vietnamese": "Bạn(过去)在哪里"
 	},
 	{
-		"chinese": "你(过去)在哪里睡觉的？",
 		"english": "where did you sleep",
-		"soundmark": "/wɛr/ /dɪd/ /ju/ /slip/"
+		"soundmark": "/wɛr/ /dɪd/ /ju/ /slip/",
+		"vietnamese": "Bạn(过去)在哪里睡觉的？"
 	},
 	{
-		"chinese": "上一个",
 		"english": "last",
-		"soundmark": "/læst/"
+		"soundmark": "/læst/",
+		"vietnamese": "[VI:上一个]"
 	},
 	{
-		"chinese": "晚上",
 		"english": "night",
-		"soundmark": "/naɪt/"
+		"soundmark": "/naɪt/",
+		"vietnamese": "[VI:晚上]"
 	},
 	{
-		"chinese": "昨晚",
 		"english": "last night",
-		"soundmark": "/læst/ /naɪt/"
+		"soundmark": "/læst/ /naɪt/",
+		"vietnamese": "[VI:昨晚]"
 	},
 	{
-		"chinese": "你(过去)昨晚在哪里睡觉的？",
 		"english": "where did you sleep last night",
-		"soundmark": "/wɛr/ /dɪd/ /ju/ /slip/ /læst/ /naɪt/"
+		"soundmark": "/wɛr/ /dɪd/ /ju/ /slip/ /læst/ /naɪt/",
+		"vietnamese": "Bạn(过去)昨晚在哪里睡觉的？"
 	},
 	{
-		"chinese": "说",
 		"english": "to say",
-		"soundmark": "/tə/ /seɪ/"
+		"soundmark": "/tə/ /seɪ/",
+		"vietnamese": "[VI:说]"
 	},
 	{
-		"chinese": "你(过去)......了什么",
 		"english": "what did you",
-		"soundmark": "/wɑt/ /dɪd/ /ju/"
+		"soundmark": "/wɑt/ /dɪd/ /ju/",
+		"vietnamese": "Bạn(过去)......了什么"
 	},
 	{
-		"chinese": "你(过去)说了什么？",
 		"english": "what did you say",
-		"soundmark": "/wɑt/ /dɪd/ /ju/ /seɪ/"
+		"soundmark": "/wɑt/ /dɪd/ /ju/ /seɪ/",
+		"vietnamese": "Bạn(过去)说了什么？"
 	},
 	{
-		"chinese": "学",
 		"english": "to learn",
-		"soundmark": "/tə/ /lɝn/"
+		"soundmark": "/tə/ /lɝn/",
+		"vietnamese": "[VI:学]"
 	},
 	{
-		"chinese": "你(过去)......了什么",
 		"english": "what did you",
-		"soundmark": "/wɑt/ /dɪd/ /ju/"
+		"soundmark": "/wɑt/ /dɪd/ /ju/",
+		"vietnamese": "Bạn(过去)......了什么"
 	},
 	{
-		"chinese": "你(过去)学到了什么？",
 		"english": "what did you learn",
-		"soundmark": "/wɑt/ /dɪd/ /ju/ /lɝn/"
+		"soundmark": "/wɑt/ /dɪd/ /ju/ /lɝn/",
+		"vietnamese": "Bạn(过去)学到了什么？"
 	},
 	{
-		"chinese": "找到",
 		"english": "to find",
-		"soundmark": "/tə/ /faɪnd/"
+		"soundmark": "/tə/ /faɪnd/",
+		"vietnamese": "[VI:找到]"
 	},
 	{
-		"chinese": "你(过去)......了什么",
 		"english": "what did you",
-		"soundmark": "/wɑt/ /dɪd/ /ju/"
+		"soundmark": "/wɑt/ /dɪd/ /ju/",
+		"vietnamese": "Bạn(过去)......了什么"
 	},
 	{
-		"chinese": "你(过去)找到了什么？",
 		"english": "what did you find",
-		"soundmark": "/wɑt/ /dɪd/ /ju/ /faɪnd/"
+		"soundmark": "/wɑt/ /dɪd/ /ju/ /faɪnd/",
+		"vietnamese": "Bạn(过去)找到了什么？"
 	},
 	{
-		"chinese": "听到",
 		"english": "to hear",
-		"soundmark": "/tə/ /hɪr/"
+		"soundmark": "/tə/ /hɪr/",
+		"vietnamese": "[VI:听到]"
 	},
 	{
-		"chinese": "你(过去)......了什么",
 		"english": "what did you",
-		"soundmark": "/wɑt/ /dɪd/ /ju/"
+		"soundmark": "/wɑt/ /dɪd/ /ju/",
+		"vietnamese": "Bạn(过去)......了什么"
 	},
 	{
-		"chinese": "你(过去)听到了什么？",
 		"english": "what did you hear",
-		"soundmark": "/wɑt/ /dɪd/ /ju/ /hɪr/"
+		"soundmark": "/wɑt/ /dɪd/ /ju/ /hɪr/",
+		"vietnamese": "Bạn(过去)听到了什么？"
 	},
 	{
-		"chinese": "看到",
 		"english": "to see",
-		"soundmark": "/tə/ /si/"
+		"soundmark": "/tə/ /si/",
+		"vietnamese": "[VI:看到]"
 	},
 	{
-		"chinese": "你(过去)......了什么",
 		"english": "what did you",
-		"soundmark": "/wɑt/ /dɪd/ /ju/"
+		"soundmark": "/wɑt/ /dɪd/ /ju/",
+		"vietnamese": "Bạn(过去)......了什么"
 	},
 	{
-		"chinese": "你(过去)看到了什么？",
 		"english": "what did you see",
-		"soundmark": "/wɑt/ /dɪd/ /ju/ /si/"
+		"soundmark": "/wɑt/ /dɪd/ /ju/ /si/",
+		"vietnamese": "Bạn(过去)看到了什么？"
 	},
 	{
-		"chinese": "你(过去)如何做这件事？",
 		"english": "how did you do it",
-		"soundmark": "/haʊ/ /dɪd/ /ju/ /du/ /ɪt/"
+		"soundmark": "/haʊ/ /dɪd/ /ju/ /du/ /ɪt/",
+		"vietnamese": "Bạn(过去)如何làm điều này？"
 	},
 	{
-		"chinese": "你(过去)为什么做这件事？",
 		"english": "why did you do it",
-		"soundmark": "/waɪ/ /dɪd/ /ju/ /du/ /ɪt/"
+		"soundmark": "/waɪ/ /dɪd/ /ju/ /du/ /ɪt/",
+		"vietnamese": "Bạn(过去)为什么làm điều này？"
 	},
 	{
-		"chinese": "你(过去)什么时候做这件事？",
 		"english": "when did you do it",
-		"soundmark": "/wɛn/ /dɪd/ /ju/ /du/ /ɪt/"
+		"soundmark": "/wɛn/ /dɪd/ /ju/ /du/ /ɪt/",
+		"vietnamese": "Bạn(过去)什么时候làm điều này？"
 	},
 	{
-		"chinese": "你(过去)在哪里做这件事？",
 		"english": "where did you do it",
-		"soundmark": "/wɛr/ /dɪd/ /ju/ /du/ /ɪt/"
+		"soundmark": "/wɛr/ /dɪd/ /ju/ /du/ /ɪt/",
+		"vietnamese": "Bạn(过去)在哪里làm điều này？"
 	},
 	{
-		"chinese": "你(过去)做了什么？",
 		"english": "what did you do",
-		"soundmark": "/wɑt/ /dɪd/ /ju/ /du/"
+		"soundmark": "/wɑt/ /dɪd/ /ju/ /du/",
+		"vietnamese": "Bạn(过去)làm了什么？"
 	},
 	{
-		"chinese": "你(过去)如何......？",
 		"english": "how did you",
-		"soundmark": "/haʊ/ /dɪd/ /ju/"
+		"soundmark": "/haʊ/ /dɪd/ /ju/",
+		"vietnamese": "Bạn(过去)如何......？"
 	},
 	{
-		"chinese": "你(过去)为什么......？",
 		"english": "why did you",
-		"soundmark": "/waɪ/ /dɪd/ /ju/"
+		"soundmark": "/waɪ/ /dɪd/ /ju/",
+		"vietnamese": "Bạn(过去)为什么......？"
 	},
 	{
-		"chinese": "你(过去)什么时候......？",
 		"english": "when did you",
-		"soundmark": "/wɛn/ /dɪd/ /ju/"
+		"soundmark": "/wɛn/ /dɪd/ /ju/",
+		"vietnamese": "Bạn(过去)什么时候......？"
 	},
 	{
-		"chinese": "你(过去)在哪里......？",
 		"english": "where did you",
-		"soundmark": "/wɛr/ /dɪd/ /ju/"
+		"soundmark": "/wɛr/ /dɪd/ /ju/",
+		"vietnamese": "Bạn(过去)在哪里......？"
 	},
 	{
-		"chinese": "你(过去)......了什么？",
 		"english": "what did you",
-		"soundmark": "/wɑt/ /dɪd/ /ju/"
+		"soundmark": "/wɑt/ /dɪd/ /ju/",
+		"vietnamese": "Bạn(过去)......了什么？"
 	}
 ]

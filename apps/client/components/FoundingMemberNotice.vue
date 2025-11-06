@@ -5,7 +5,7 @@
   >
     <div class="flex items-center justify-between">
       <div class="font-bold">
-        【邀请函】加入 Earthworm 创始会员 与我们一起成就更好的英语学习平台
+        【邀请函】加入 Earthworm 创始Thành viên 与我们một起成就更好的英语Học tập平台
       </div>
       <div class="hidden sm:flex sm:space-x-4">
         <button
@@ -18,7 +18,7 @@
           class="rounded-lg bg-white px-4 font-bold text-purple-600"
           @click="handleShowDetails"
         >
-          查看详情
+          XemChi tiết
         </button>
       </div>
     </div>
@@ -33,7 +33,7 @@
         class="rounded-lg bg-white px-4 font-bold text-purple-600"
         @click="handleShowDetails"
       >
-        查看详情
+        XemChi tiết
       </button>
     </div>
   </div>
@@ -65,7 +65,7 @@ function handleShowDetails() {
 }
 
 function setNoticeDismissed(): void {
-  const expirationTime = Date.now() + 48 * 60 * 60 * 1000; // 48小时后的时间戳
+  const expirationTime = Date.now() + 48 * 60 * 60 * 1000; // 48giờ后的时间戳
   localStorage.setItem("noticeDismissed", expirationTime.toString());
 }
 

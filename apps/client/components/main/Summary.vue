@@ -30,10 +30,10 @@
         </div>
         <span class="text-6xl font-bold">"</span>
       </div>
-      <p class="text-3 text-right text-gray-200">—— 金山词霸「每日一句」</p>
+      <p class="text-3 text-right text-gray-200">—— 金山词霸「每日một句」</p>
       <p class="pl-14 text-base leading-loose text-gray-600">
         {{
-          `恭喜您一共完成 ${courseTimer.totalRecordNumber()} 道题，用时 ${formatSecondsToTime(
+          `Chúc mừng您một共Hoàn thành ${courseTimer.totalRecordNumber()} 道题，用时 ${formatSecondsToTime(
             courseTimer.calculateTotalTime(),
           )} `
         }}
@@ -42,7 +42,7 @@
         v-if="isAuthenticated()"
         class="pl-14 text-base leading-loose text-gray-400"
       >
-        今天一共学习 <span class="text-purple-500">{{ formattedMinutes }}分钟</span> 啦！
+        Hôm naymột共Học tập <span class="text-purple-500">{{ formattedMinutes }}phút</span> 啦！
         <span v-if="totalMinutes >= 30">太强了，给自己来点掌声 😄</span>
       </p>
     </div>
@@ -51,27 +51,27 @@
         class="btn btn-primary"
         @click="toShare"
       >
-        生成打卡图
+        生成Điểm danh图
       </button>
       <button
         class="btn"
         @click="handleDoAgain"
       >
-        再来一次
+        Làm lại
       </button>
 
       <button
         class="btn"
         @click="handleGoToCourseList"
       >
-        课程列表
+        Khóa họcDanh sách
       </button>
 
       <button
         class="btn"
         @click="goToNextCourse"
       >
-        下一课
+        下một课
         <kbd class="kbd"> ↵ </kbd>
       </button>
     </div>
@@ -121,24 +121,24 @@ const gameStore = useGameStore();
 
 watch(showModal, (val) => {
   if (val) {
-    // 阻止包含 statement 完成课程后会自动把用户的进度设置成下一课
-    // 这里是为了防止先设置成下一课 后更新了 statement 的进度
-    // 这就会造成获取用户最近的课程包进度出现错误  因为是基于时间来获取的
+    // 阻止包含 statement Hoàn thànhKhóa học后会自动把Người dùng的Tiến độCài đặt成下một课
+    // 这里是为了防止先Cài đặt成下một课 后更新了 statement 的Tiến độ
+    // 这就会造成获取Người dùngGần đây的Gói khóa họcTiến độ出现Lỗi  因为是基于时间来获取的
     preventSaveStatement();
-    // 注册回车键进入下一课
+    // Đăng ký回车键进入下một课
     registerShortcut("enter", goToNextCourse);
-    // 显示结算面板代表当前课程已经完成
+    // Hiện结算面板代表当前Khóa họcĐã经Hoàn thành
     completeCourse();
-    // 朗读每日一句
+    // 朗读每日một句
     soundSentence();
-    // 延迟一小会放彩蛋
-    // 停止计时
+    // 延迟một小会放彩蛋
+    // Dừng计时
     gameStore.completeLevel();
     setTimeout(async () => {
       playConfetti();
     }, 300);
   } else {
-    // 取消回车键进入下一课
+    // Hủy回车键进入下một课
     cancelShortcut("enter", goToNextCourse);
     permitSaveStatement();
   }
@@ -162,10 +162,10 @@ function useDoAgain() {
   const { showQuestion } = useGameMode();
 
   async function handleDoAgain() {
-    // 看看是不是没有全部掌握了
-    // 如果是全部掌握了 那么给个提示 然后挑战到课程列表
+    // 看看是不是没有Tất cả掌握了
+    // 如果是Tất cả掌握了 那么给cáiGợi ý 然后挑战到Khóa họcDanh sách
     if (courseStore.isAllMastered()) {
-      Message.warning("你已经全部都掌握 自动帮你跳转到课程列表啦");
+      Message.warning("你Đã经Tất cả都掌握 自动帮你跳转到Khóa họcDanh sách啦");
       await delay(handleGoToCourseList, 1500);
       return;
     }
@@ -181,7 +181,7 @@ function useDoAgain() {
   };
 }
 
-// 朗读每日一句
+// 朗读每日một句
 function soundSentence() {
   readOneSentencePerDayAloud(enSentence.value);
 }
@@ -197,7 +197,7 @@ function useCourse() {
     const { showAuthRequireModal } = useAuthRequire();
 
     if (!isAuthenticated()) {
-      // 去注册
+      // 去Đăng ký
       showAuthRequireModal();
       return;
     }
@@ -205,7 +205,7 @@ function useCourse() {
     hideSummary();
 
     if (!haveNextCourse.value) {
-      Message.warning("已经是最后一课 自动帮你跳转到课程列表啦");
+      Message.warning("Đã经是最后một课 自动帮你跳转到Khóa họcDanh sách啦");
       await delay(handleGoToCourseList, 1500);
       return;
     }

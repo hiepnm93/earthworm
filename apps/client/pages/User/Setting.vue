@@ -28,7 +28,7 @@
     </section>
 
     <section>
-      <h2 class="text-xl font-medium">快捷键设置</h2>
+      <h2 class="text-xl font-medium">快捷键Cài đặt</h2>
       <table class="table text-base">
         <thead>
           <tr class="text-base">
@@ -56,7 +56,7 @@
                   class="btn btn-outline btn-secondary btn-sm"
                   @click="handleEdit(item.type)"
                 >
-                  编辑
+                  Chỉnh sửa
                 </button>
               </td>
             </tr>
@@ -66,7 +66,7 @@
     </section>
 
     <section>
-      <h2 class="text-xl font-medium">声音设置</h2>
+      <h2 class="text-xl font-medium">声音Cài đặt</h2>
       <table class="table">
         <tbody>
           <tr class="hover">
@@ -81,7 +81,7 @@
             </td>
           </tr>
           <tr class="hover">
-            <td class="label-text">答案页面自动播放声音</td>
+            <td class="label-text">答案trang面自动Phát声音</td>
             <td class="text-right">
               <input
                 type="checkbox"
@@ -92,7 +92,7 @@
             </td>
           </tr>
           <tr class="hover">
-            <td class="label-text">答题时自动播放声音</td>
+            <td class="label-text">答题时自动Phát声音</td>
             <td class="text-right">
               <input
                 type="checkbox"
@@ -124,11 +124,11 @@
     </section>
 
     <section>
-      <h2 class="text-xl font-medium">答题设置</h2>
+      <h2 class="text-xl font-medium">答题Cài đặt</h2>
       <table class="table">
         <tbody>
           <tr class="hover">
-            <td class="label-text">显示每个单词长度</td>
+            <td class="label-text">Hiện每cái单词长度</td>
             <td class="text-right">
               <input
                 type="checkbox"
@@ -139,7 +139,7 @@
             </td>
           </tr>
           <tr class="hover">
-            <td class="label-text">开启空格提交答案</td>
+            <td class="label-text">开启空格Gửi答案</td>
             <td class="text-right">
               <input
                 type="checkbox"
@@ -150,7 +150,7 @@
             </td>
           </tr>
           <tr class="hover">
-            <td class="label-text">答题正确后自动下一题</td>
+            <td class="label-text">答题正确后自动Câu tiếp theo</td>
             <td class="text-right">
               <input
                 type="checkbox"
@@ -162,7 +162,7 @@
           </tr>
 
           <tr class="hover">
-            <td class="label-text">自动显示答案（输错三次）</td>
+            <td class="label-text">自动Hiện答案（输错balần）</td>
             <td class="text-right">
               <input
                 type="checkbox"
@@ -186,7 +186,7 @@
       class="modal-box min-h-[156px] max-w-[48rem]"
     >
       <h3 class="mb-4 text-center text-base font-bold text-fuchsia-500">
-        请先按下单键/组合键，通过回车键（Enter ⏎）来设置
+        请先按下单键/组合键，通过回车键（Enter ⏎）来Cài đặt
       </h3>
       <div class="h-8 rounded border border-solid border-fuchsia-500 text-center leading-8">
         {{ shortcutKeyStr }}
@@ -207,7 +207,7 @@
         class="mt-4 text-center text-xs"
         :class="'text-[rgba(136,136,136,1)]'"
       >
-        已有相同的按键绑定，请重新设置
+        Đã有相同的按键绑定，请重新Cài đặt
       </div>
     </div>
 
@@ -247,7 +247,7 @@ const { autoPlaySound, toggleAutoPlaySound } = useAutoPronunciation();
 const { autoPlayEnglish, toggleAutoPlayEnglish } = useAutoPlayEnglish();
 const {
   pronunciation,
-  // 发音配置列表
+  // 发音配置Danh sách
   getPronunciationOptions,
   togglePronunciation,
 } = usePronunciation();
@@ -269,27 +269,27 @@ const { getGameModeOptions, currentGameMode, toggleGameMode } = useGameMode();
 
 const shortcutKeyBindList = [
   {
-    label: "播放发音",
+    label: "Phát发音",
     type: SHORTCUT_KEY_TYPES.SOUND,
   },
   {
-    label: "显示隐藏/答案预览/再来一次",
+    label: "HiệnẨn/答案预览/Làm lại",
     type: SHORTCUT_KEY_TYPES.ANSWER,
   },
   {
-    label: "返回上个问题",
+    label: "Quay lại上cái问题",
     type: SHORTCUT_KEY_TYPES.PREVIOUS,
   },
   {
-    label: "跳过当前问题",
+    label: "Bỏ qua当前问题",
     type: SHORTCUT_KEY_TYPES.SKIP,
   },
   {
-    label: "标记内容已经掌握",
+    label: "Đánh dấu内容Đã经掌握",
     type: SHORTCUT_KEY_TYPES.MASTERED,
   },
   {
-    label: "暂停游戏/继续游戏",
+    label: "Tạm dừng游戏/Tiếp tục游戏",
     type: SHORTCUT_KEY_TYPES.PAUSE,
   },
 ];

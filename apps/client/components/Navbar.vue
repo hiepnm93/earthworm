@@ -49,7 +49,7 @@
         </div>
 
         <div class="flex items-center">
-          <!-- 显示用户信息 -->
+          <!-- HiệnNgười dùngThông tin -->
           <div
             v-if="isAuthenticated()"
             class="logged-in flex items-center"
@@ -64,14 +64,14 @@
               />
             </div>
           </div>
-          <!-- 登录/注册 -->
+          <!-- Đăng nhập/Đăng ký -->
           <button
             v-else
             aria-label="Login"
             class="btn btn-sm mr-1 border-none bg-purple-500 text-white shadow-md hover:bg-purple-600 focus:outline-none"
             @click="signIn()"
           >
-            登录
+            Đăng nhập
           </button>
         </div>
       </div>
@@ -84,7 +84,7 @@
   />
   <MainMessageBox
     v-model:show-modal="isShowModal"
-    content="是否确认退出登录？"
+    content="是否Xác nhận thoátĐăng nhập？"
     confirm-btn-text="确认"
     @confirm="signOut"
   />
@@ -122,7 +122,7 @@ const HEADER_OPTIONS: AnchorAttributes[] = [
   { name: "联系我们", href: "#contact" },
 ];
 
-// TODO: 设置需要固定导航栏的页面
+// TODO: Cài đặt需要固定导航栏的trang面
 const isStickyNavBar = computed(() =>
   ["index", "User-Setting", "mastered-elements"].includes(route.name as string),
 );

@@ -1,642 +1,642 @@
 [
 	{
-		"chinese": "掌握",
 		"english": "to master",
-		"soundmark": "/tə/ /'mæstɚ/"
+		"soundmark": "/tə/ /'mæstɚ/",
+		"vietnamese": "[VI:掌握]"
 	},
 	{
-		"chinese": "英语",
 		"english": "English",
-		"soundmark": "/ˈɪŋɡlɪʃ/"
+		"soundmark": "/ˈɪŋɡlɪʃ/",
+		"vietnamese": "[VI:英语]"
 	},
 	{
-		"chinese": "掌握英语",
 		"english": "to master English",
-		"soundmark": "/tə/ /'mæstɚ/ /ˈɪŋɡlɪʃ/"
+		"soundmark": "/tə/ /'mæstɚ/ /ˈɪŋɡlɪʃ/",
+		"vietnamese": "[VI:掌握英语]"
 	},
 	{
-		"chinese": "尝试",
 		"english": "to try",
-		"soundmark": "/tə/ /traɪ/"
+		"soundmark": "/tə/ /traɪ/",
+		"vietnamese": "[VI:尝试]"
 	},
 	{
-		"chinese": "尝试掌握英语",
 		"english": "to try to master English",
-		"soundmark": "/tə/ /traɪ/ /tə/ /'mæstɚ/ /ˈɪŋɡlɪʃ/"
+		"soundmark": "/tə/ /traɪ/ /tə/ /'mæstɚ/ /ˈɪŋɡlɪʃ/",
+		"vietnamese": "[VI:尝试掌握英语]"
 	},
 	{
-		"chinese": "决定",
 		"english": "to decide",
-		"soundmark": "/tə/ /dɪ'saɪd/"
+		"soundmark": "/tə/ /dɪ'saɪd/",
+		"vietnamese": "[VI:决定]"
 	},
 	{
-		"chinese": "她(过去)决定",
 		"english": "she decided",
-		"soundmark": "/ʃi/ /dɪ'saɪdɪd/"
+		"soundmark": "/ʃi/ /dɪ'saɪdɪd/",
+		"vietnamese": "Cô ấy(过去)决定"
 	},
 	{
-		"chinese": "尝试掌握英语",
 		"english": "to try to master English",
-		"soundmark": "/tə/ /traɪ/ /tə/ /'mæstɚ/ /ˈɪŋɡlɪʃ/"
+		"soundmark": "/tə/ /traɪ/ /tə/ /'mæstɚ/ /ˈɪŋɡlɪʃ/",
+		"vietnamese": "[VI:尝试掌握英语]"
 	},
 	{
-		"chinese": "她(过去)决定尝试掌握英语",
 		"english": "she decided to try to master English",
-		"soundmark": "/ʃi/ /dɪ'saɪdɪd/ /tə/ /traɪ/ /tə/ /'mæstɚ/ /ˈɪŋɡlɪʃ/"
+		"soundmark": "/ʃi/ /dɪ'saɪdɪd/ /tə/ /traɪ/ /tə/ /'mæstɚ/ /ˈɪŋɡlɪʃ/",
+		"vietnamese": "Cô ấy(过去)决定尝试掌握英语"
 	},
 	{
-		"chinese": "餐厅",
 		"english": "restaurant",
-		"soundmark": "/'rɛstrɑnt/"
+		"soundmark": "/'rɛstrɑnt/",
+		"vietnamese": "[VI:餐厅]"
 	},
 	{
-		"chinese": "新的",
 		"english": "new",
-		"soundmark": "/nu/"
+		"soundmark": "/nu/",
+		"vietnamese": "[VI:新的]"
 	},
 	{
-		"chinese": "新餐厅",
 		"english": "new restaurant",
-		"soundmark": "/nu/ /'rɛstrɑnt/"
+		"soundmark": "/nu/ /'rɛstrɑnt/",
+		"vietnamese": "[VI:新餐厅]"
 	},
 	{
-		"chinese": "那个新餐厅",
 		"english": "the new restaurant",
-		"soundmark": "/ðə/ /nu/ /'rɛstrɑnt/"
+		"soundmark": "/ðə/ /nu/ /'rɛstrɑnt/",
+		"vietnamese": "[VI:那个新餐厅]"
 	},
 	{
-		"chinese": "她(过去)决定尝试",
 		"english": "she decided to try",
-		"soundmark": "/ʃi/ /dɪ'saɪdɪd/ /tə/ /traɪ/"
+		"soundmark": "/ʃi/ /dɪ'saɪdɪd/ /tə/ /traɪ/",
+		"vietnamese": "Cô ấy(过去)决定尝试"
 	},
 	{
-		"chinese": "她(过去)决定尝试那个新餐厅",
 		"english": "she decided to try the new restaurant",
-		"soundmark": "/ʃi/ /dɪ'saɪdɪd/ /tə/ /traɪ/ /ðə/ /nu/ /'rɛstrɑnt/"
+		"soundmark": "/ʃi/ /dɪ'saɪdɪd/ /tə/ /traɪ/ /ðə/ /nu/ /'rɛstrɑnt/",
+		"vietnamese": "Cô ấy(过去)决定尝试那个新餐厅"
 	},
 	{
-		"chinese": "阅读",
 		"english": "to read",
-		"soundmark": "/tə/ /rid/"
+		"soundmark": "/tə/ /rid/",
+		"vietnamese": "[VI:阅读]"
 	},
 	{
-		"chinese": "书",
 		"english": "books",
-		"soundmark": "/bʊks/"
+		"soundmark": "/bʊks/",
+		"vietnamese": "[VI:书]"
 	},
 	{
-		"chinese": "读书",
 		"english": "to read books",
-		"soundmark": "/tə/ /rid/ /bʊks/"
+		"soundmark": "/tə/ /rid/ /bʊks/",
+		"vietnamese": "[VI:读书]"
 	},
 	{
-		"chinese": "英文",
 		"english": "English",
-		"soundmark": "/ˈɪŋɡlɪʃ/"
+		"soundmark": "/ˈɪŋɡlɪʃ/",
+		"vietnamese": "[VI:英文]"
 	},
 	{
-		"chinese": "读英文书",
 		"english": "to read English books",
-		"soundmark": "/tə/ /rid/ /ˈɪŋɡlɪʃ/ /bʊks/"
+		"soundmark": "/tə/ /rid/ /ˈɪŋɡlɪʃ/ /bʊks/",
+		"vietnamese": "[VI:读英文书]"
 	},
 	{
-		"chinese": "读英文书(ing形式)",
 		"english": "reading English books",
-		"soundmark": "/'ridɪŋ/ /ˈɪŋɡlɪʃ/ /bʊks/"
+		"soundmark": "/'ridɪŋ/ /ˈɪŋɡlɪʃ/ /bʊks/",
+		"vietnamese": "[VI:读英文书(ing形式)]"
 	},
 	{
-		"chinese": "尝试",
 		"english": "to try",
-		"soundmark": "/tə/ /traɪ/"
+		"soundmark": "/tə/ /traɪ/",
+		"vietnamese": "[VI:尝试]"
 	},
 	{
-		"chinese": "她(过去)尝试",
 		"english": "she tried",
-		"soundmark": "/ʃi/ /traɪd/"
+		"soundmark": "/ʃi/ /traɪd/",
+		"vietnamese": "Cô ấy(过去)尝试"
 	},
 	{
-		"chinese": "她(过去)尝试读英文书",
 		"english": "she tried reading English books",
-		"soundmark": "/ʃi/ /traɪd/ /'ridɪŋ/ /ˈɪŋɡlɪʃ/ /bʊks/"
+		"soundmark": "/ʃi/ /traɪd/ /'ridɪŋ/ /ˈɪŋɡlɪʃ/ /bʊks/",
+		"vietnamese": "Cô ấy(过去)尝试读英文书"
 	},
 	{
-		"chinese": "线",
 		"english": "line",
-		"soundmark": "/laɪn/"
+		"soundmark": "/laɪn/",
+		"vietnamese": "[VI:线]"
 	},
 	{
-		"chinese": "在线",
 		"english": "online",
-		"soundmark": "/ɑnˈlaɪn/"
+		"soundmark": "/ɑnˈlaɪn/",
+		"vietnamese": "[VI:在线]"
 	},
 	{
-		"chinese": "课程",
 		"english": "course",
-		"soundmark": "/kɔrsɪz/"
+		"soundmark": "/kɔrsɪz/",
+		"vietnamese": "[VI:课程]"
 	},
 	{
-		"chinese": "在线课程",
 		"english": "online courses",
-		"soundmark": "/ɑnˈlaɪn/ /kɔrsɪz/"
+		"soundmark": "/ɑnˈlaɪn/ /kɔrsɪz/",
+		"vietnamese": "[VI:在线课程]"
 	},
 	{
-		"chinese": "使用",
 		"english": "to use",
-		"soundmark": "/tə/ /juz/"
+		"soundmark": "/tə/ /juz/",
+		"vietnamese": "[VI:使用]"
 	},
 	{
-		"chinese": "使用在线课程",
 		"english": "to use online courses",
-		"soundmark": "/tə/ /juz/ /ɑnˈlaɪn/ /kɔrsɪz/"
+		"soundmark": "/tə/ /juz/ /ɑnˈlaɪn/ /kɔrsɪz/",
+		"vietnamese": "[VI:使用在线课程]"
 	},
 	{
-		"chinese": "使用在线课程(ing形式)",
 		"english": "using online courses",
-		"soundmark": "/juzɪŋ/ /ɑnˈlaɪn/ /kɔrsɪz/"
+		"soundmark": "/juzɪŋ/ /ɑnˈlaɪn/ /kɔrsɪz/",
+		"vietnamese": "[VI:使用在线课程(ing形式)]"
 	},
 	{
-		"chinese": "她(过去)尝试",
 		"english": "she tried",
-		"soundmark": "/ʃi/ /traɪd/"
+		"soundmark": "/ʃi/ /traɪd/",
+		"vietnamese": "Cô ấy(过去)尝试"
 	},
 	{
-		"chinese": "她(过去)尝试使用在线课程",
 		"english": "she tried using online courses",
-		"soundmark": "/ʃi/ /traɪd/ /juzɪŋ/ /ɑnˈlaɪn/ /kɔrsɪz/"
+		"soundmark": "/ʃi/ /traɪd/ /juzɪŋ/ /ɑnˈlaɪn/ /kɔrsɪz/",
+		"vietnamese": "Cô ấy(过去)尝试使用在线课程"
 	},
 	{
-		"chinese": "歌曲",
 		"english": "song",
-		"soundmark": "/sɔŋ/"
+		"soundmark": "/sɔŋ/",
+		"vietnamese": "[VI:歌曲]"
 	},
 	{
-		"chinese": "英文歌曲",
 		"english": "English songs",
-		"soundmark": "/ˈɪŋɡlɪʃ/ /sɔŋz/"
+		"soundmark": "/ˈɪŋɡlɪʃ/ /sɔŋz/",
+		"vietnamese": "[VI:英文歌曲]"
 	},
 	{
-		"chinese": "听",
 		"english": "to listen",
-		"soundmark": "/tə/ /'lɪsn/"
+		"soundmark": "/tə/ /'lɪsn/",
+		"vietnamese": "[VI:听]"
 	},
 	{
-		"chinese": "听英文歌曲",
 		"english": "to listen to English songs",
-		"soundmark": "/tə/ /'lɪsn/ /tə/ /ˈɪŋɡlɪʃ/ /sɔŋz/"
+		"soundmark": "/tə/ /'lɪsn/ /tə/ /ˈɪŋɡlɪʃ/ /sɔŋz/",
+		"vietnamese": "[VI:听英文歌曲]"
 	},
 	{
-		"chinese": "听英文歌曲(ing形式)",
 		"english": "listening to English songs",
-		"soundmark": "/'lɪsnɪŋ/ /tə/ /ˈɪŋɡlɪʃ/ /sɔŋz/"
+		"soundmark": "/'lɪsnɪŋ/ /tə/ /ˈɪŋɡlɪʃ/ /sɔŋz/",
+		"vietnamese": "[VI:听英文歌曲(ing形式)]"
 	},
 	{
-		"chinese": "她(过去)尝试",
 		"english": "she tried",
-		"soundmark": "/ʃi/ /traɪd/"
+		"soundmark": "/ʃi/ /traɪd/",
+		"vietnamese": "Cô ấy(过去)尝试"
 	},
 	{
-		"chinese": "她(过去)尝试听英文歌曲",
 		"english": "she tried listening to English songs",
-		"soundmark": "/ʃi/ /traɪd/ /'lɪsnɪŋ/ /tə/ /ˈɪŋɡlɪʃ/ /sɔŋz/"
+		"soundmark": "/ʃi/ /traɪd/ /'lɪsnɪŋ/ /tə/ /ˈɪŋɡlɪʃ/ /sɔŋz/",
+		"vietnamese": "Cô ấy(过去)尝试听英文歌曲"
 	},
 	{
-		"chinese": "说话",
 		"english": "to speak",
-		"soundmark": "/tə/ /spik/"
+		"soundmark": "/tə/ /spik/",
+		"vietnamese": "nói chuyện"
 	},
 	{
-		"chinese": "说话的人",
 		"english": "speaker",
-		"soundmark": "/'spikɚ/"
+		"soundmark": "/'spikɚ/",
+		"vietnamese": "nói chuyện的人"
 	},
 	{
-		"chinese": "当地的",
 		"english": "native",
-		"soundmark": "/ˈnetɪv/"
+		"soundmark": "/ˈnetɪv/",
+		"vietnamese": "[VI:当地的]"
 	},
 	{
-		"chinese": "母语使用者",
 		"english": "native speakers",
-		"soundmark": "/ˈnetɪv/ /'spikɚz/"
+		"soundmark": "/ˈnetɪv/ /'spikɚz/",
+		"vietnamese": "[VI:母语使用者]"
 	},
 	{
-		"chinese": "说话",
 		"english": "to speak",
-		"soundmark": "/tə/ /spik/"
+		"soundmark": "/tə/ /spik/",
+		"vietnamese": "nói chuyện"
 	},
 	{
-		"chinese": "和",
 		"english": "with",
-		"soundmark": "/wɪð/"
+		"soundmark": "/wɪð/",
+		"vietnamese": "và"
 	},
 	{
-		"chinese": "和母语使用者说话",
 		"english": "to speak with native speakers",
-		"soundmark": "/tə/ /spik/ /wɪð/ /ˈnetɪv/ /'spikɚz/"
+		"soundmark": "/tə/ /spik/ /wɪð/ /ˈnetɪv/ /'spikɚz/",
+		"vietnamese": "và母语使用者nói chuyện"
 	},
 	{
-		"chinese": "和母语使用者说话(ing形式)",
 		"english": "speaking with native speakers",
-		"soundmark": "/'spikɪŋ/ /wɪð/ /ˈnetɪv/ /'spikɚz/"
+		"soundmark": "/'spikɪŋ/ /wɪð/ /ˈnetɪv/ /'spikɚz/",
+		"vietnamese": "và母语使用者nói chuyện(ing形式)"
 	},
 	{
-		"chinese": "练习",
 		"english": "to practice",
-		"soundmark": "/tə/ /ˈpræktɪs/"
+		"soundmark": "/tə/ /ˈpræktɪs/",
+		"vietnamese": "[VI:练习]"
 	},
 	{
-		"chinese": "练习和母语使用者说话",
 		"english": "to practice speaking with native speakers",
-		"soundmark": "/tə/ /ˈpræktɪs/ /'spikɪŋ/ /wɪð/ /ˈnetɪv/ /'spikɚz/"
+		"soundmark": "/tə/ /ˈpræktɪs/ /'spikɪŋ/ /wɪð/ /ˈnetɪv/ /'spikɚz/",
+		"vietnamese": "练习và母语使用者nói chuyện"
 	},
 	{
-		"chinese": "练习和母语使用者说话(ing形式)",
 		"english": "practicing speaking with native speakers",
-		"soundmark": "/ˈpræktɪsɪŋ/ /'spikɪŋ/ /wɪð/ /ˈnetɪv/ /'spikɚz/"
+		"soundmark": "/ˈpræktɪsɪŋ/ /'spikɪŋ/ /wɪð/ /ˈnetɪv/ /'spikɚz/",
+		"vietnamese": "练习và母语使用者nói chuyện(ing形式)"
 	},
 	{
-		"chinese": "她(过去)尝试",
 		"english": "she tried",
-		"soundmark": "/ʃi/ /traɪd/"
+		"soundmark": "/ʃi/ /traɪd/",
+		"vietnamese": "Cô ấy(过去)尝试"
 	},
 	{
-		"chinese": "她(过去)尝试练习和母语使用者说话",
 		"english": "she tried practicing speaking with native speakers",
-		"soundmark": "/ʃi/ /traɪd/ /ˈpræktɪsɪŋ/ /'spikɪŋ/ /wɪð/ /ˈnetɪv/ /'spikɚz/"
+		"soundmark": "/ʃi/ /traɪd/ /ˈpræktɪsɪŋ/ /'spikɪŋ/ /wɪð/ /ˈnetɪv/ /'spikɚz/",
+		"vietnamese": "Cô ấy(过去)尝试练习và母语使用者nói chuyện"
 	},
 	{
-		"chinese": "说话(ing形式)",
 		"english": "speaking",
-		"soundmark": "/'spikɪŋ/"
+		"soundmark": "/'spikɪŋ/",
+		"vietnamese": "nói chuyện(ing形式)"
 	},
 	{
-		"chinese": "英语",
 		"english": "English",
-		"soundmark": "/ˈɪŋɡlɪʃ/"
+		"soundmark": "/ˈɪŋɡlɪʃ/",
+		"vietnamese": "[VI:英语]"
 	},
 	{
-		"chinese": "说英语的",
 		"english": "English-speaking",
-		"soundmark": "/ˈɪŋɡlɪʃ/ /'spikɪŋ/"
+		"soundmark": "/ˈɪŋɡlɪʃ/ /'spikɪŋ/",
+		"vietnamese": "[VI:说英语的]"
 	},
 	{
-		"chinese": "环境",
 		"english": "environment",
-		"soundmark": "/ɪnˈvaɪrənmənt/"
+		"soundmark": "/ɪnˈvaɪrənmənt/",
+		"vietnamese": "[VI:环境]"
 	},
 	{
-		"chinese": "说英语的环境",
 		"english": "English-speaking environment",
-		"soundmark": "/ˈɪŋɡlɪʃ/ /'spikɪŋ/ /ɪnˈvaɪrənmənt/"
+		"soundmark": "/ˈɪŋɡlɪʃ/ /'spikɪŋ/ /ɪnˈvaɪrənmənt/",
+		"vietnamese": "[VI:说英语的环境]"
 	},
 	{
-		"chinese": "一个说英语的环境",
 		"english": "an English-speaking environment",
-		"soundmark": "/ən/ /ˈɪŋɡlɪʃ/ /'spikɪŋ/ /ɪnˈvaɪrənmənt/"
+		"soundmark": "/ən/ /ˈɪŋɡlɪʃ/ /'spikɪŋ/ /ɪnˈvaɪrənmənt/",
+		"vietnamese": "[VI:一个说英语的环境]"
 	},
 	{
-		"chinese": "在......里",
 		"english": "in",
-		"soundmark": "/ɪn/"
+		"soundmark": "/ɪn/",
+		"vietnamese": "[VI:在......里]"
 	},
 	{
-		"chinese": "在一个说英语的环境里",
 		"english": "in an English-speaking environment",
-		"soundmark": "/ɪn/ /ən/ /ˈɪŋɡlɪʃ/ /'spikɪŋ/ /ɪnˈvaɪrənmənt/"
+		"soundmark": "/ɪn/ /ən/ /ˈɪŋɡlɪʃ/ /'spikɪŋ/ /ɪnˈvaɪrənmənt/",
+		"vietnamese": "[VI:在一个说英语的环境里]"
 	},
 	{
-		"chinese": "沉浸",
 		"english": "to immerse",
-		"soundmark": "/tə/ /ɪˈmɝs/"
+		"soundmark": "/tə/ /ɪˈmɝs/",
+		"vietnamese": "[VI:沉浸]"
 	},
 	{
-		"chinese": "她自己",
 		"english": "herself",
-		"soundmark": "/hɝ'sɛlf/"
+		"soundmark": "/hɝ'sɛlf/",
+		"vietnamese": "Cô ấy自己"
 	},
 	{
-		"chinese": "沉浸她自己",
 		"english": "to immerse herself",
-		"soundmark": "/tə/ /ɪˈmɝs/ /hɝ'sɛlf/"
+		"soundmark": "/tə/ /ɪˈmɝs/ /hɝ'sɛlf/",
+		"vietnamese": "沉浸Cô ấy自己"
 	},
 	{
-		"chinese": "沉浸她自己在一个说英语的环境里",
 		"english": "to immerse herself in an English-speaking environment",
-		"soundmark": "/tə/ /ɪˈmɝs/ /hɝ'sɛlf/ /ɪn/ /ən/ /ˈɪŋɡlɪʃ/ /'spikɪŋ/ /ɪnˈvaɪrənmənt/"
+		"soundmark": "/tə/ /ɪˈmɝs/ /hɝ'sɛlf/ /ɪn/ /ən/ /ˈɪŋɡlɪʃ/ /'spikɪŋ/ /ɪnˈvaɪrənmənt/",
+		"vietnamese": "沉浸Cô ấy自己在一个说英语的环境里"
 	},
 	{
-		"chinese": "沉浸(ing形式)",
 		"english": "immersing",
-		"soundmark": "/ɪˈmɝsɪŋ/"
+		"soundmark": "/ɪˈmɝsɪŋ/",
+		"vietnamese": "[VI:沉浸(ing形式)]"
 	},
 	{
-		"chinese": "沉浸她自己在一个说英语的环境里(ing形式)",
 		"english": "immersing herself in an English-speaking environment",
-		"soundmark": "/ɪˈmɝsɪŋ/ /hɝ'sɛlf/ /ɪn/ /ən/ /ˈɪŋɡlɪʃ/ /'spikɪŋ/ /ɪnˈvaɪrənmənt/"
+		"soundmark": "/ɪˈmɝsɪŋ/ /hɝ'sɛlf/ /ɪn/ /ən/ /ˈɪŋɡlɪʃ/ /'spikɪŋ/ /ɪnˈvaɪrənmənt/",
+		"vietnamese": "沉浸Cô ấy自己在一个说英语的环境里(ing形式)"
 	},
 	{
-		"chinese": "她(过去)尝试",
 		"english": "she tried",
-		"soundmark": "/ʃi/ /traɪd/"
+		"soundmark": "/ʃi/ /traɪd/",
+		"vietnamese": "Cô ấy(过去)尝试"
 	},
 	{
-		"chinese": "她(过去)尝试沉浸她自己在一个说英语的环境里",
 		"english": "she tried immersing herself in an English-speaking environment",
-		"soundmark": "/ʃi/ /traɪd/ /ɪˈmɝsɪŋ/ /hɝ'sɛlf/ /ɪn/ /ən/ /ˈɪŋɡlɪʃ/ /'spikɪŋ/ /ɪnˈvaɪrənmənt/"
+		"soundmark": "/ʃi/ /traɪd/ /ɪˈmɝsɪŋ/ /hɝ'sɛlf/ /ɪn/ /ən/ /ˈɪŋɡlɪʃ/ /'spikɪŋ/ /ɪnˈvaɪrənmənt/",
+		"vietnamese": "Cô ấy(过去)尝试沉浸她自己在一个说英语的环境里"
 	},
 	{
-		"chinese": "健康",
 		"english": "fitness",
-		"soundmark": "/'fɪtnəs/"
+		"soundmark": "/'fɪtnəs/",
+		"vietnamese": "[VI:健康]"
 	},
 	{
-		"chinese": "她的",
 		"english": "her",
-		"soundmark": "/hɚ/"
+		"soundmark": "/hɚ/",
+		"vietnamese": "Cô ấy的"
 	},
 	{
-		"chinese": "她的健康",
 		"english": "her fitness",
-		"soundmark": "/hɚ/ /'fɪtnəs/"
+		"soundmark": "/hɚ/ /'fɪtnəs/",
+		"vietnamese": "Cô ấy的健康"
 	},
 	{
-		"chinese": "改善",
 		"english": "to improve",
-		"soundmark": "/tə/ /ɪmˈpruv/"
+		"soundmark": "/tə/ /ɪmˈpruv/",
+		"vietnamese": "[VI:改善]"
 	},
 	{
-		"chinese": "改善她的健康",
 		"english": "to improve her fitness",
-		"soundmark": "/tə/ /ɪmˈpruv/ /hɚ/ /'fɪtnəs/"
+		"soundmark": "/tə/ /ɪmˈpruv/ /hɚ/ /'fɪtnəs/",
+		"vietnamese": "改善Cô ấy的健康"
 	},
 	{
-		"chinese": "尝试",
 		"english": "to try",
-		"soundmark": "/tə/ /traɪ/"
+		"soundmark": "/tə/ /traɪ/",
+		"vietnamese": "[VI:尝试]"
 	},
 	{
-		"chinese": "尝试改善她的健康",
 		"english": "to try to improve her fitness",
-		"soundmark": "/tə/ /traɪ/ /tə/ /ɪmˈpruv/ /hɚ/ /'fɪtnəs/"
+		"soundmark": "/tə/ /traɪ/ /tə/ /ɪmˈpruv/ /hɚ/ /'fɪtnəs/",
+		"vietnamese": "尝试改善Cô ấy的健康"
 	},
 	{
-		"chinese": "决定",
 		"english": "to decide",
-		"soundmark": "/tə/ /dɪ'saɪd/"
+		"soundmark": "/tə/ /dɪ'saɪd/",
+		"vietnamese": "[VI:决定]"
 	},
 	{
-		"chinese": "她(过去)决定",
 		"english": "she decided",
-		"soundmark": "/ʃi/ /dɪ'saɪdɪd/"
+		"soundmark": "/ʃi/ /dɪ'saɪdɪd/",
+		"vietnamese": "Cô ấy(过去)决定"
 	},
 	{
-		"chinese": "她(过去)决定尝试改善她的健康",
 		"english": "she decided to try to improve her fitness",
-		"soundmark": "/ʃi/ /dɪ'saɪdɪd/ /tə/ /traɪ/ /tə/ /ɪmˈpruv/ /hɚ/ /'fɪtnəs/"
+		"soundmark": "/ʃi/ /dɪ'saɪdɪd/ /tə/ /traɪ/ /tə/ /ɪmˈpruv/ /hɚ/ /'fɪtnəs/",
+		"vietnamese": "Cô ấy(过去)决定尝试改善她的健康"
 	},
 	{
-		"chinese": "她(过去)决定尝试那个新餐厅",
 		"english": "she decided to try the new restaurant",
-		"soundmark": "/ʃi/ /dɪ'saɪdɪd/ /tə/ /traɪ/ /ðə/ /nu/ /'rɛstrɑnt/"
+		"soundmark": "/ʃi/ /dɪ'saɪdɪd/ /tə/ /traɪ/ /ðə/ /nu/ /'rɛstrɑnt/",
+		"vietnamese": "Cô ấy(过去)决定尝试那个新餐厅"
 	},
 	{
-		"chinese": "早上",
 		"english": "morning",
-		"soundmark": "/'mɔrnɪŋ/"
+		"soundmark": "/'mɔrnɪŋ/",
+		"vietnamese": "[VI:早上]"
 	},
 	{
-		"chinese": "在早上",
 		"english": "in the mornings",
-		"soundmark": "/ɪn/ /ðə/ /'mɔrnɪŋz/"
+		"soundmark": "/ɪn/ /ðə/ /'mɔrnɪŋz/",
+		"vietnamese": "[VI:在早上]"
 	},
 	{
-		"chinese": "跑步",
 		"english": "to run",
-		"soundmark": "/tə/ /rʌn/"
+		"soundmark": "/tə/ /rʌn/",
+		"vietnamese": "[VI:跑步]"
 	},
 	{
-		"chinese": "在早上跑步",
 		"english": "to run in the mornings",
-		"soundmark": "/tə/ /rʌn/ /ɪn/ /ðə/ /'mɔrnɪŋz/"
+		"soundmark": "/tə/ /rʌn/ /ɪn/ /ðə/ /'mɔrnɪŋz/",
+		"vietnamese": "[VI:在早上跑步]"
 	},
 	{
-		"chinese": "在早上跑步(ing形式)",
 		"english": "running in the mornings",
-		"soundmark": "/'rʌnɪŋ/ /ɪn/ /ðə/ /'mɔrnɪŋz/"
+		"soundmark": "/'rʌnɪŋ/ /ɪn/ /ðə/ /'mɔrnɪŋz/",
+		"vietnamese": "[VI:在早上跑步(ing形式)]"
 	},
 	{
-		"chinese": "她(过去)尝试",
 		"english": "she tried",
-		"soundmark": "/ʃi/ /traɪd/"
+		"soundmark": "/ʃi/ /traɪd/",
+		"vietnamese": "Cô ấy(过去)尝试"
 	},
 	{
-		"chinese": "她(过去)尝试在早上跑步",
 		"english": "she tried running in the mornings",
-		"soundmark": "/ʃi/ /traɪd/ /'rʌnɪŋ/ /ɪn/ /ðə/ /'mɔrnɪŋz/"
+		"soundmark": "/ʃi/ /traɪd/ /'rʌnɪŋ/ /ɪn/ /ðə/ /'mɔrnɪŋz/",
+		"vietnamese": "Cô ấy(过去)尝试在早上跑步"
 	},
 	{
-		"chinese": "在......之后",
 		"english": "after",
-		"soundmark": "/'æftɚ/"
+		"soundmark": "/'æftɚ/",
+		"vietnamese": "[VI:在......之后]"
 	},
 	{
-		"chinese": "中午",
 		"english": "noon",
-		"soundmark": "/nun/"
+		"soundmark": "/nun/",
+		"vietnamese": "[VI:中午]"
 	},
 	{
-		"chinese": "下午",
 		"english": "afternoon",
-		"soundmark": "/æftɚ'nun/"
+		"soundmark": "/æftɚ'nun/",
+		"vietnamese": "[VI:下午]"
 	},
 	{
-		"chinese": "在下午",
 		"english": "in the afternoons",
-		"soundmark": "/ɪn/ /ði/ /æftɚ'nunz/"
+		"soundmark": "/ɪn/ /ði/ /æftɚ'nunz/",
+		"vietnamese": "[VI:在下午]"
 	},
 	{
-		"chinese": "骑自行车",
 		"english": "to cycle",
-		"soundmark": "/tə/ /ˈsaɪkl/"
+		"soundmark": "/tə/ /ˈsaɪkl/",
+		"vietnamese": "[VI:骑自行车]"
 	},
 	{
-		"chinese": "在下午骑自行车",
 		"english": "to cycle in the afternoons",
-		"soundmark": "/tə/ /ˈsaɪkl/ /ɪn/ /ði/ /æftɚ'nunz/"
+		"soundmark": "/tə/ /ˈsaɪkl/ /ɪn/ /ði/ /æftɚ'nunz/",
+		"vietnamese": "[VI:在下午骑自行车]"
 	},
 	{
-		"chinese": "在下午骑自行车(ing形式)",
 		"english": "cycling in the afternoons",
-		"soundmark": "/ˈsaɪklɪŋ/ /ɪn/ /ði/ /æftɚ'nunz/"
+		"soundmark": "/ˈsaɪklɪŋ/ /ɪn/ /ði/ /æftɚ'nunz/",
+		"vietnamese": "[VI:在下午骑自行车(ing形式)]"
 	},
 	{
-		"chinese": "她(过去)尝试",
 		"english": "she tried",
-		"soundmark": "/ʃi/ /traɪd/"
+		"soundmark": "/ʃi/ /traɪd/",
+		"vietnamese": "Cô ấy(过去)尝试"
 	},
 	{
-		"chinese": "她(过去)尝试在下午骑自行车",
 		"english": "she tried cycling in the afternoons",
-		"soundmark": "/ʃi/ /traɪd/ /ˈsaɪklɪŋ/ /ɪn/ /ði/ /æftɚ'nunz/"
+		"soundmark": "/ʃi/ /traɪd/ /ˈsaɪklɪŋ/ /ɪn/ /ði/ /æftɚ'nunz/",
+		"vietnamese": "Cô ấy(过去)尝试在下午骑自行车"
 	},
 	{
-		"chinese": "晚上",
 		"english": "night",
-		"soundmark": "/naɪt/"
+		"soundmark": "/naɪt/",
+		"vietnamese": "[VI:晚上]"
 	},
 	{
-		"chinese": "在晚上",
 		"english": "in the nights",
-		"soundmark": "/ɪn/ /ðə/ /naɪts/"
+		"soundmark": "/ɪn/ /ðə/ /naɪts/",
+		"vietnamese": "[VI:在晚上]"
 	},
 	{
-		"chinese": "瑜伽",
 		"english": "yoga",
-		"soundmark": "/ˈjoɡə/"
+		"soundmark": "/ˈjoɡə/",
+		"vietnamese": "[VI:瑜伽]"
 	},
 	{
-		"chinese": "课程",
 		"english": "classes",
-		"soundmark": "/klæsɪz/"
+		"soundmark": "/klæsɪz/",
+		"vietnamese": "[VI:课程]"
 	},
 	{
-		"chinese": "瑜伽课程",
 		"english": "yoga classes",
-		"soundmark": "/ˈjoɡə/ /klæsɪz/"
+		"soundmark": "/ˈjoɡə/ /klæsɪz/",
+		"vietnamese": "[VI:瑜伽课程]"
 	},
 	{
-		"chinese": "参加",
 		"english": "to attend",
-		"soundmark": "/tə/ /əˈtɛnd/"
+		"soundmark": "/tə/ /əˈtɛnd/",
+		"vietnamese": "[VI:参加]"
 	},
 	{
-		"chinese": "参加瑜伽课程",
 		"english": "to attend yoga classes",
-		"soundmark": "/tə/ /əˈtɛnd/ /ˈjoɡə/ /klæsɪz/"
+		"soundmark": "/tə/ /əˈtɛnd/ /ˈjoɡə/ /klæsɪz/",
+		"vietnamese": "[VI:参加瑜伽课程]"
 	},
 	{
-		"chinese": "在晚上",
 		"english": "in the nights",
-		"soundmark": "/ɪn/ /ðə/ /naɪts/"
+		"soundmark": "/ɪn/ /ðə/ /naɪts/",
+		"vietnamese": "[VI:在晚上]"
 	},
 	{
-		"chinese": "在晚上参加瑜伽课程",
 		"english": "to attend yoga classes in the nights",
-		"soundmark": "/tə/ /əˈtɛnd/ /ˈjoɡə/ /klæsɪz/ /ɪn/ /ðə/ /naɪts/"
+		"soundmark": "/tə/ /əˈtɛnd/ /ˈjoɡə/ /klæsɪz/ /ɪn/ /ðə/ /naɪts/",
+		"vietnamese": "[VI:在晚上参加瑜伽课程]"
 	},
 	{
-		"chinese": "参加(ing形式)",
 		"english": "attending",
-		"soundmark": "/əˈtɛndɪŋ/"
+		"soundmark": "/əˈtɛndɪŋ/",
+		"vietnamese": "[VI:参加(ing形式)]"
 	},
 	{
-		"chinese": "在晚上参加瑜伽课程(ing形式)",
 		"english": "attending yoga classes in the nights",
-		"soundmark": "/əˈtɛndɪŋ/ /ˈjoɡə/ /klæsɪz/ /ɪn/ /ðə/ /naɪts/"
+		"soundmark": "/əˈtɛndɪŋ/ /ˈjoɡə/ /klæsɪz/ /ɪn/ /ðə/ /naɪts/",
+		"vietnamese": "[VI:在晚上参加瑜伽课程(ing形式)]"
 	},
 	{
-		"chinese": "她(过去)尝试",
 		"english": "she tried",
-		"soundmark": "/ʃi/ /traɪd/"
+		"soundmark": "/ʃi/ /traɪd/",
+		"vietnamese": "Cô ấy(过去)尝试"
 	},
 	{
-		"chinese": "她(过去)尝试在晚上参加瑜伽课程",
 		"english": "she tried attending yoga classes in the nights",
-		"soundmark": "/ʃi/ /traɪd/ /əˈtɛndɪŋ/ /ˈjoɡə/ /klæsɪz/ /ɪn/ /ðə/ /naɪts/"
+		"soundmark": "/ʃi/ /traɪd/ /əˈtɛndɪŋ/ /ˈjoɡə/ /klæsɪz/ /ɪn/ /ðə/ /naɪts/",
+		"vietnamese": "Cô ấy(过去)尝试在晚上参加瑜伽课程"
 	},
 	{
-		"chinese": "健身房",
 		"english": "gym",
-		"soundmark": "/dʒɪm/"
+		"soundmark": "/dʒɪm/",
+		"vietnamese": "[VI:健身房]"
 	},
 	{
-		"chinese": "在健身房里",
 		"english": "in the gym",
-		"soundmark": "/ɪn/ /ðə/ /dʒɪm/"
+		"soundmark": "/ɪn/ /ðə/ /dʒɪm/",
+		"vietnamese": "[VI:在健身房里]"
 	},
 	{
-		"chinese": "重量",
 		"english": "weights",
-		"soundmark": "/wets/"
+		"soundmark": "/wets/",
+		"vietnamese": "[VI:重量]"
 	},
 	{
-		"chinese": "举起",
 		"english": "to lift",
-		"soundmark": "/tə/ /lɪft/"
+		"soundmark": "/tə/ /lɪft/",
+		"vietnamese": "[VI:举起]"
 	},
 	{
-		"chinese": "举哑铃",
 		"english": "to lift weights",
-		"soundmark": "/tə/ /lɪft/ /wets/"
+		"soundmark": "/tə/ /lɪft/ /wets/",
+		"vietnamese": "[VI:举哑铃]"
 	},
 	{
-		"chinese": "在健身房里",
 		"english": "in the gym",
-		"soundmark": "/ɪn/ /ðə/ /dʒɪm/"
+		"soundmark": "/ɪn/ /ðə/ /dʒɪm/",
+		"vietnamese": "[VI:在健身房里]"
 	},
 	{
-		"chinese": "在健身房里举哑铃",
 		"english": "to lift weights in the gym",
-		"soundmark": "/tə/ /lɪft/ /wets/ /ɪn/ /ðə/ /dʒɪm/"
+		"soundmark": "/tə/ /lɪft/ /wets/ /ɪn/ /ðə/ /dʒɪm/",
+		"vietnamese": "[VI:在健身房里举哑铃]"
 	},
 	{
-		"chinese": "在健身房里举哑铃(ing形式)",
 		"english": "lifting weights in the gym",
-		"soundmark": "/lɪftɪŋ/ /wets/ /ɪn/ /ðə/ /dʒɪm/"
+		"soundmark": "/lɪftɪŋ/ /wets/ /ɪn/ /ðə/ /dʒɪm/",
+		"vietnamese": "[VI:在健身房里举哑铃(ing形式)]"
 	},
 	{
-		"chinese": "她(过去)尝试",
 		"english": "she tried",
-		"soundmark": "/ʃi/ /traɪd/"
+		"soundmark": "/ʃi/ /traɪd/",
+		"vietnamese": "Cô ấy(过去)尝试"
 	},
 	{
-		"chinese": "她(过去)尝试在健身房里举哑铃",
 		"english": "she tried lifting weights in the gym",
-		"soundmark": "/ʃi/ /traɪd/ /lɪftɪŋ/ /wets/ /ɪn/ /ðə/ /dʒɪm/"
+		"soundmark": "/ʃi/ /traɪd/ /lɪftɪŋ/ /wets/ /ɪn/ /ðə/ /dʒɪm/",
+		"vietnamese": "Cô ấy(过去)尝试在健身房里举哑铃"
 	},
 	{
-		"chinese": "周",
 		"english": "week",
-		"soundmark": "/wik/"
+		"soundmark": "/wik/",
+		"vietnamese": "[VI:周]"
 	},
 	{
-		"chinese": "末",
 		"english": "end",
-		"soundmark": "/ɛnd/"
+		"soundmark": "/ɛnd/",
+		"vietnamese": "[VI:末]"
 	},
 	{
-		"chinese": "周末",
 		"english": "weekend",
-		"soundmark": "/'wikɛnd/"
+		"soundmark": "/'wikɛnd/",
+		"vietnamese": "[VI:周末]"
 	},
 	{
-		"chinese": "在周末",
 		"english": "on the weekends",
-		"soundmark": "/ɑn/ /ðə/ /'wikɛndz/"
+		"soundmark": "/ɑn/ /ðə/ /'wikɛndz/",
+		"vietnamese": "[VI:在周末]"
 	},
 	{
-		"chinese": "游泳",
 		"english": "to swim",
-		"soundmark": "/tə/ /swɪm/"
+		"soundmark": "/tə/ /swɪm/",
+		"vietnamese": "[VI:游泳]"
 	},
 	{
-		"chinese": "在周末游泳",
 		"english": "to swim on the weekends",
-		"soundmark": "/tə/ /swɪm/ /ɑn/ /ðə/ /'wikɛndz/"
+		"soundmark": "/tə/ /swɪm/ /ɑn/ /ðə/ /'wikɛndz/",
+		"vietnamese": "[VI:在周末游泳]"
 	},
 	{
-		"chinese": "在周末游泳(ing形式)",
 		"english": "swimming on the weekends",
-		"soundmark": "/swɪmɪŋ/ /ɑn/ /ðə/ /'wikɛndz/"
+		"soundmark": "/swɪmɪŋ/ /ɑn/ /ðə/ /'wikɛndz/",
+		"vietnamese": "[VI:在周末游泳(ing形式)]"
 	},
 	{
-		"chinese": "她(过去)尝试",
 		"english": "she tried",
-		"soundmark": "/ʃi/ /traɪd/"
+		"soundmark": "/ʃi/ /traɪd/",
+		"vietnamese": "Cô ấy(过去)尝试"
 	},
 	{
-		"chinese": "她(过去)尝试在周末游泳",
 		"english": "she tried swimming on the weekends",
-		"soundmark": "/ʃi/ /traɪd/ /swɪmɪŋ/ /ɑn/ /ðə/ /'wikɛndz/"
+		"soundmark": "/ʃi/ /traɪd/ /swɪmɪŋ/ /ɑn/ /ðə/ /'wikɛndz/",
+		"vietnamese": "Cô ấy(过去)尝试在周末游泳"
 	}
 ]

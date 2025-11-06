@@ -1,887 +1,887 @@
 [
 	{
-		"chinese": "问",
 		"english": "to ask",
-		"soundmark": "/tə/ /æsk/"
+		"soundmark": "/tə/ /æsk/",
+		"vietnamese": "[VI:问]"
 	},
 	{
-		"chinese": "问题",
 		"english": "questions",
-		"soundmark": "/'kwɛstʃənz/"
+		"soundmark": "/'kwɛstʃənz/",
+		"vietnamese": "[VI:问题]"
 	},
 	{
-		"chinese": "问问题",
 		"english": "to ask questions",
-		"soundmark": "/tə/ /æsk/ /'kwɛstʃənz/"
+		"soundmark": "/tə/ /æsk/ /'kwɛstʃənz/",
+		"vietnamese": "[VI:问问题]"
 	},
 	{
-		"chinese": "时间",
 		"english": "time",
-		"soundmark": "/taɪm/"
+		"soundmark": "/taɪm/",
+		"vietnamese": "[VI:时间]"
 	},
 	{
-		"chinese": "任何",
 		"english": "any",
-		"soundmark": "/'ɛni/"
+		"soundmark": "/'ɛni/",
+		"vietnamese": "[VI:任何]"
 	},
 	{
-		"chinese": "任何时间",
 		"english": "any time",
-		"soundmark": "/'ɛni/ /taɪm/"
+		"soundmark": "/'ɛni/ /taɪm/",
+		"vietnamese": "[VI:任何时间]"
 	},
 	{
-		"chinese": "在任何时间",
 		"english": "at any time",
-		"soundmark": "/ət/ /'ɛni/ /taɪm/"
+		"soundmark": "/ət/ /'ɛni/ /taɪm/",
+		"vietnamese": "[VI:在任何时间]"
 	},
 	{
-		"chinese": "随时提问",
 		"english": "to ask questions at any time",
-		"soundmark": "/tə/ /æsk/ /'kwɛstʃənz/ /ət/ /'ɛni/ /taɪm/"
+		"soundmark": "/tə/ /æsk/ /'kwɛstʃənz/ /ət/ /'ɛni/ /taɪm/",
+		"vietnamese": "[VI:随时提问]"
 	},
 	{
-		"chinese": "随时提问(ing形式)",
 		"english": "asking questions at any time",
-		"soundmark": "/ˈæskɪŋ/ /'kwɛstʃənz/ /ət/ /'ɛni/ /taɪm/"
+		"soundmark": "/ˈæskɪŋ/ /'kwɛstʃənz/ /ət/ /'ɛni/ /taɪm/",
+		"vietnamese": "[VI:随时提问(ing形式)]"
 	},
 	{
-		"chinese": "允许",
 		"english": "to permit",
-		"soundmark": "/tə/ /pɚˈmɪt/"
+		"soundmark": "/tə/ /pɚˈmɪt/",
+		"vietnamese": "[VI:允许]"
 	},
 	{
-		"chinese": "老师",
 		"english": "the teacher",
-		"soundmark": "/ðə/ /'titʃɚ/"
+		"soundmark": "/ðə/ /'titʃɚ/",
+		"vietnamese": "[VI:老师]"
 	},
 	{
-		"chinese": "老师允许",
 		"english": "the teacher permits",
-		"soundmark": "/ðə/ /'titʃɚ/ /pɚˈmɪts/"
+		"soundmark": "/ðə/ /'titʃɚ/ /pɚˈmɪts/",
+		"vietnamese": "[VI:老师允许]"
 	},
 	{
-		"chinese": "老师允许随时提问",
 		"english": "the teacher permits asking questions at any time",
-		"soundmark": "/ðə/ /'titʃɚ/ /pɚˈmɪts/ /ˈæskɪŋ/ /'kwɛstʃənz/ /ət/ /'ɛni/ /taɪm/"
+		"soundmark": "/ðə/ /'titʃɚ/ /pɚˈmɪts/ /ˈæskɪŋ/ /'kwɛstʃənz/ /ət/ /'ɛni/ /taɪm/",
+		"vietnamese": "[VI:老师允许随时提问]"
 	},
 	{
-		"chinese": "家",
 		"english": "home",
-		"soundmark": "/hom/"
+		"soundmark": "/hom/",
+		"vietnamese": "[VI:家]"
 	},
 	{
-		"chinese": "从",
 		"english": "from",
-		"soundmark": "/frʌm/"
+		"soundmark": "/frʌm/",
+		"vietnamese": "[VI:从]"
 	},
 	{
-		"chinese": "从家里",
 		"english": "from home",
-		"soundmark": "/frʌm/ /hom/"
+		"soundmark": "/frʌm/ /hom/",
+		"vietnamese": "[VI:从家里]"
 	},
 	{
-		"chinese": "工作",
 		"english": "to work",
-		"soundmark": "/tə/ /wɝk/"
+		"soundmark": "/tə/ /wɝk/",
+		"vietnamese": "[VI:工作]"
 	},
 	{
-		"chinese": "从家里工作",
 		"english": "to work from home",
-		"soundmark": "/tə/ /wɝk/ /frʌm/ /hom/"
+		"soundmark": "/tə/ /wɝk/ /frʌm/ /hom/",
+		"vietnamese": "[VI:从家里工作]"
 	},
 	{
-		"chinese": "周五",
 		"english": "Friday",
-		"soundmark": "/ˈfraɪde/"
+		"soundmark": "/ˈfraɪde/",
+		"vietnamese": "[VI:周五]"
 	},
 	{
-		"chinese": "在周五",
 		"english": "on Friday",
-		"soundmark": "/ɑn/ /ˈfraɪde/"
+		"soundmark": "/ɑn/ /ˈfraɪde/",
+		"vietnamese": "[VI:在周五]"
 	},
 	{
-		"chinese": "在周五居家办公",
 		"english": "to work from home on Fridays",
-		"soundmark": "/tə/ /wɝk/ /frʌm/ /hom/ /ɑn/ /ˈfraɪdez/"
+		"soundmark": "/tə/ /wɝk/ /frʌm/ /hom/ /ɑn/ /ˈfraɪdez/",
+		"vietnamese": "[VI:在周五居家办公]"
 	},
 	{
-		"chinese": "在周五居家办公(ing形式)",
 		"english": "working from home on Fridays",
-		"soundmark": "/ˈwɝkɪŋ/ /frʌm/ /hom/ /ɑn/ /ˈfraɪdez/"
+		"soundmark": "/ˈwɝkɪŋ/ /frʌm/ /hom/ /ɑn/ /ˈfraɪdez/",
+		"vietnamese": "[VI:在周五居家办公(ing形式)]"
 	},
 	{
-		"chinese": "允许",
 		"english": "to permit",
-		"soundmark": "/tə/ /pɚˈmɪt/"
+		"soundmark": "/tə/ /pɚˈmɪt/",
+		"vietnamese": "[VI:允许]"
 	},
 	{
-		"chinese": "公司",
 		"english": "the company",
-		"soundmark": "/ðə/ /ˈkʌmpəni/"
+		"soundmark": "/ðə/ /ˈkʌmpəni/",
+		"vietnamese": "[VI:公司]"
 	},
 	{
-		"chinese": "公司允许",
 		"english": "the company permits",
-		"soundmark": "/ðə/ /ˈkʌmpəni/ /pɚˈmɪts/"
+		"soundmark": "/ðə/ /ˈkʌmpəni/ /pɚˈmɪts/",
+		"vietnamese": "[VI:公司允许]"
 	},
 	{
-		"chinese": "公司允许在周五居家办公",
 		"english": "the company permits working from home on Fridays",
-		"soundmark": "/ðə/ /ˈkʌmpəni/ /pɚˈmɪts/ /ˈwɝkɪŋ/ /frʌm/ /hom/ /ɑn/ /ˈfraɪdez/"
+		"soundmark": "/ðə/ /ˈkʌmpəni/ /pɚˈmɪts/ /ˈwɝkɪŋ/ /frʌm/ /hom/ /ɑn/ /ˈfraɪdez/",
+		"vietnamese": "[VI:公司允许在周五居家办公]"
 	},
 	{
-		"chinese": "音乐",
 		"english": "music",
-		"soundmark": "/'mjuzɪk/"
+		"soundmark": "/'mjuzɪk/",
+		"vietnamese": "[VI:音乐]"
 	},
 	{
-		"chinese": "听",
 		"english": "to listen",
-		"soundmark": "/tə/ /'lɪsn/"
+		"soundmark": "/tə/ /'lɪsn/",
+		"vietnamese": "[VI:听]"
 	},
 	{
-		"chinese": "听音乐",
 		"english": "to listen to music",
-		"soundmark": "/tə/ /'lɪsn/ /tə/ /'mjuzɪk/"
+		"soundmark": "/tə/ /'lɪsn/ /tə/ /'mjuzɪk/",
+		"vietnamese": "[VI:听音乐]"
 	},
 	{
-		"chinese": "打破",
 		"english": "to break",
-		"soundmark": "/tə/ /brek/"
+		"soundmark": "/tə/ /brek/",
+		"vietnamese": "[VI:打破]"
 	},
 	{
-		"chinese": "休息",
 		"english": "break",
-		"soundmark": "/brek/"
+		"soundmark": "/brek/",
+		"vietnamese": "[VI:休息]"
 	},
 	{
-		"chinese": "在......期间",
 		"english": "during",
-		"soundmark": "/'dʊrɪŋ/"
+		"soundmark": "/'dʊrɪŋ/",
+		"vietnamese": "[VI:在......期间]"
 	},
 	{
-		"chinese": "在休息期间",
 		"english": "during the break",
-		"soundmark": "/'dʊrɪŋ/ /ðə/ /brek/"
+		"soundmark": "/'dʊrɪŋ/ /ðə/ /brek/",
+		"vietnamese": "[VI:在休息期间]"
 	},
 	{
-		"chinese": "在休息期间听音乐",
 		"english": "to listen to music during the break",
-		"soundmark": "/tə/ /'lɪsn/ /tə/ /'mjuzɪk/ /'dʊrɪŋ/ /ðə/ /brek/"
+		"soundmark": "/tə/ /'lɪsn/ /tə/ /'mjuzɪk/ /'dʊrɪŋ/ /ðə/ /brek/",
+		"vietnamese": "[VI:在休息期间听音乐]"
 	},
 	{
-		"chinese": "在休息期间听音乐(ing形式)",
 		"english": "listening to music during the break",
-		"soundmark": "/'lɪsnɪŋ/ /tə/ /'mjuzɪk/ /'dʊrɪŋ/ /ðə/ /brek/"
+		"soundmark": "/'lɪsnɪŋ/ /tə/ /'mjuzɪk/ /'dʊrɪŋ/ /ðə/ /brek/",
+		"vietnamese": "[VI:在休息期间听音乐(ing形式)]"
 	},
 	{
-		"chinese": "允许",
 		"english": "to permit",
-		"soundmark": "/tə/ /pɚˈmɪt/"
+		"soundmark": "/tə/ /pɚˈmɪt/",
+		"vietnamese": "[VI:允许]"
 	},
 	{
-		"chinese": "老师",
 		"english": "the teacher",
-		"soundmark": "/ðə/ /'titʃɚ/"
+		"soundmark": "/ðə/ /'titʃɚ/",
+		"vietnamese": "[VI:老师]"
 	},
 	{
-		"chinese": "老师允许",
 		"english": "the teacher permits",
-		"soundmark": "/ðə/ /'titʃɚ/ /pɚˈmɪts/"
+		"soundmark": "/ðə/ /'titʃɚ/ /pɚˈmɪts/",
+		"vietnamese": "[VI:老师允许]"
 	},
 	{
-		"chinese": "老师允许在休息期间听音乐",
 		"english": "the teacher permits listening to music during the break",
-		"soundmark": "/ðə/ /'titʃɚ/ /pɚˈmɪts/ /'lɪsnɪŋ/ /tə/ /'mjuzɪk/ /'dʊrɪŋ/ /ðə/ /brek/"
+		"soundmark": "/ðə/ /'titʃɚ/ /pɚˈmɪts/ /'lɪsnɪŋ/ /tə/ /'mjuzɪk/ /'dʊrɪŋ/ /ðə/ /brek/",
+		"vietnamese": "[VI:老师允许在休息期间听音乐]"
 	},
 	{
-		"chinese": "玩",
 		"english": "to play",
-		"soundmark": "/tə/ /ple/"
+		"soundmark": "/tə/ /ple/",
+		"vietnamese": "[VI:玩]"
 	},
 	{
-		"chinese": "游戏",
 		"english": "games",
-		"soundmark": "/ɡemz/"
+		"soundmark": "/ɡemz/",
+		"vietnamese": "[VI:游戏]"
 	},
 	{
-		"chinese": "玩游戏",
 		"english": "to play games",
-		"soundmark": "/tə/ /ple/ /ɡemz/"
+		"soundmark": "/tə/ /ple/ /ɡemz/",
+		"vietnamese": "[VI:玩游戏]"
 	},
 	{
-		"chinese": "玩游戏(ing形式)",
 		"english": "playing games",
-		"soundmark": "/ˈpleɪŋ/ /ɡemz/"
+		"soundmark": "/ˈpleɪŋ/ /ɡemz/",
+		"vietnamese": "[VI:玩游戏(ing形式)]"
 	},
 	{
-		"chinese": "听音乐(ing形式)",
 		"english": "listening to music",
-		"soundmark": "/'lɪsnɪŋ/ /tə/ /'mjuzɪk/"
+		"soundmark": "/'lɪsnɪŋ/ /tə/ /'mjuzɪk/",
+		"vietnamese": "[VI:听音乐(ing形式)]"
 	},
 	{
-		"chinese": "或者",
 		"english": "or",
-		"soundmark": "/ɔr/"
+		"soundmark": "/ɔr/",
+		"vietnamese": "[VI:或者]"
 	},
 	{
-		"chinese": "听音乐或者玩游戏(ing形式)",
 		"english": "listening to music or playing games",
-		"soundmark": "/'lɪsnɪŋ/ /tə/ /'mjuzɪk/ /ɔr/ /ˈpleɪŋ/ /ɡemz/"
+		"soundmark": "/'lɪsnɪŋ/ /tə/ /'mjuzɪk/ /ɔr/ /ˈpleɪŋ/ /ɡemz/",
+		"vietnamese": "[VI:听音乐或者玩游戏(ing形式)]"
 	},
 	{
-		"chinese": "老师允许在休息期间听音乐或者玩游戏",
 		"english": "the teacher permits listening to music or playing games during the break",
-		"soundmark": "/ðə/ /'titʃɚ/ /pɚˈmɪts/ /'lɪsnɪŋ/ /tə/ /'mjuzɪk/ /ɔr/ /ˈpleɪŋ/ /ɡemz/ /'dʊrɪŋ/ /ðə/ /brek/"
+		"soundmark": "/ðə/ /'titʃɚ/ /pɚˈmɪts/ /'lɪsnɪŋ/ /tə/ /'mjuzɪk/ /ɔr/ /ˈpleɪŋ/ /ɡemz/ /'dʊrɪŋ/ /ðə/ /brek/",
+		"vietnamese": "[VI:老师允许在休息期间听音乐或者玩游戏]"
 	},
 	{
-		"chinese": "在......期间",
 		"english": "during",
-		"soundmark": "/'dʊrɪŋ/"
+		"soundmark": "/'dʊrɪŋ/",
+		"vietnamese": "[VI:在......期间]"
 	},
 	{
-		"chinese": "测验",
 		"english": "test",
-		"soundmark": "/tɛst/"
+		"soundmark": "/tɛst/",
+		"vietnamese": "[VI:测验]"
 	},
 	{
-		"chinese": "在这个测验期间",
 		"english": "during the test",
-		"soundmark": "/'dʊrɪŋ/ /ðə/ /tɛst/"
+		"soundmark": "/'dʊrɪŋ/ /ðə/ /tɛst/",
+		"vietnamese": "[VI:在这个测验期间]"
 	},
 	{
-		"chinese": "使用",
 		"english": "to use",
-		"soundmark": "/tə/ /juz/"
+		"soundmark": "/tə/ /juz/",
+		"vietnamese": "[VI:使用]"
 	},
 	{
-		"chinese": "计算器",
 		"english": "calculator",
-		"soundmark": "/ˈkælkjuletɚ/"
+		"soundmark": "/ˈkælkjuletɚ/",
+		"vietnamese": "[VI:计算器]"
 	},
 	{
-		"chinese": "使用计算器",
 		"english": "to use calculators",
-		"soundmark": "/tə/ /juz/ /ˈkælkjuletɚz/"
+		"soundmark": "/tə/ /juz/ /ˈkælkjuletɚz/",
+		"vietnamese": "[VI:使用计算器]"
 	},
 	{
-		"chinese": "使用计算器(ing形式)",
 		"english": "using calculators",
-		"soundmark": "/'juzɪŋ/ /ˈkælkjuletɚz/"
+		"soundmark": "/'juzɪŋ/ /ˈkælkjuletɚz/",
+		"vietnamese": "[VI:使用计算器(ing形式)]"
 	},
 	{
-		"chinese": "允许",
 		"english": "to permit",
-		"soundmark": "/tə/ /pɚˈmɪt/"
+		"soundmark": "/tə/ /pɚˈmɪt/",
+		"vietnamese": "[VI:允许]"
 	},
 	{
-		"chinese": "老师允许",
 		"english": "the teacher permits",
-		"soundmark": "/ðə/ /'titʃɚ/ /pɚˈmɪts/"
+		"soundmark": "/ðə/ /'titʃɚ/ /pɚˈmɪts/",
+		"vietnamese": "[VI:老师允许]"
 	},
 	{
-		"chinese": "老师允许使用计算器",
 		"english": "the teacher permits using calculators",
-		"soundmark": "/ðə/ /'titʃɚ/ /pɚˈmɪts/ /'juzɪŋ/ /ˈkælkjuletɚz/"
+		"soundmark": "/ðə/ /'titʃɚ/ /pɚˈmɪts/ /'juzɪŋ/ /ˈkælkjuletɚz/",
+		"vietnamese": "[VI:老师允许使用计算器]"
 	},
 	{
-		"chinese": "在这个测验期间",
 		"english": "during the test",
-		"soundmark": "/'dʊrɪŋ/ /ðə/ /tɛst/"
+		"soundmark": "/'dʊrɪŋ/ /ðə/ /tɛst/",
+		"vietnamese": "[VI:在这个测验期间]"
 	},
 	{
-		"chinese": "老师允许在这个测验期间使用计算器",
 		"english": "the teacher permits using calculators during the test",
-		"soundmark": "/ðə/ /'titʃɚ/ /pɚˈmɪts/ /'juzɪŋ/ /ˈkælkjuletɚz/ /'dʊrɪŋ/ /ðə/ /tɛst/"
+		"soundmark": "/ðə/ /'titʃɚ/ /pɚˈmɪts/ /'juzɪŋ/ /ˈkælkjuletɚz/ /'dʊrɪŋ/ /ðə/ /tɛst/",
+		"vietnamese": "[VI:老师允许在这个测验期间使用计算器]"
 	},
 	{
-		"chinese": "喝",
 		"english": "to drink",
-		"soundmark": "/tə/ /drɪŋk/"
+		"soundmark": "/tə/ /drɪŋk/",
+		"vietnamese": "[VI:喝]"
 	},
 	{
-		"chinese": "水",
 		"english": "water",
-		"soundmark": "/'wɔtɚ/"
+		"soundmark": "/'wɔtɚ/",
+		"vietnamese": "[VI:水]"
 	},
 	{
-		"chinese": "喝水",
 		"english": "to drink water",
-		"soundmark": "/tə/ /drɪŋk/ /'wɔtɚ/"
+		"soundmark": "/tə/ /drɪŋk/ /'wɔtɚ/",
+		"vietnamese": "[VI:喝水]"
 	},
 	{
-		"chinese": "测试",
 		"english": "test",
-		"soundmark": "/tɛst/"
+		"soundmark": "/tɛst/",
+		"vietnamese": "[VI:测试]"
 	},
 	{
-		"chinese": "血液",
 		"english": "blood",
-		"soundmark": "/blʌd/"
+		"soundmark": "/blʌd/",
+		"vietnamese": "[VI:血液]"
 	},
 	{
-		"chinese": "血液测试",
 		"english": "the blood test",
-		"soundmark": "/ðə/ /blʌd/ /tɛst/"
+		"soundmark": "/ðə/ /blʌd/ /tɛst/",
+		"vietnamese": "[VI:血液测试]"
 	},
 	{
-		"chinese": "在......之前",
 		"english": "before",
-		"soundmark": "/bɪ'fɔr/"
+		"soundmark": "/bɪ'fɔr/",
+		"vietnamese": "[VI:在......之前]"
 	},
 	{
-		"chinese": "在血液测试之前",
 		"english": "before the blood test",
-		"soundmark": "/bɪ'fɔr/ /ðə/ /blʌd/ /tɛst/"
+		"soundmark": "/bɪ'fɔr/ /ðə/ /blʌd/ /tɛst/",
+		"vietnamese": "[VI:在血液测试之前]"
 	},
 	{
-		"chinese": "在血液测试之前喝水",
 		"english": "to drink water before the blood test",
-		"soundmark": "/tə/ /drɪŋk/ /'wɔtɚ/ /bɪ'fɔr/ /ðə/ /blʌd/ /tɛst/"
+		"soundmark": "/tə/ /drɪŋk/ /'wɔtɚ/ /bɪ'fɔr/ /ðə/ /blʌd/ /tɛst/",
+		"vietnamese": "[VI:在血液测试之前喝水]"
 	},
 	{
-		"chinese": "在血液测试之前喝水(ing形式)",
 		"english": "drinking water before the blood test",
-		"soundmark": "/'drɪŋkɪŋ/ /'wɔtɚ/ /bɪ'fɔr/ /ðə/ /blʌd/ /tɛst/"
+		"soundmark": "/'drɪŋkɪŋ/ /'wɔtɚ/ /bɪ'fɔr/ /ðə/ /blʌd/ /tɛst/",
+		"vietnamese": "[VI:在血液测试之前喝水(ing形式)]"
 	},
 	{
-		"chinese": "允许",
 		"english": "to permit",
-		"soundmark": "/tə/ /pɚˈmɪt/"
+		"soundmark": "/tə/ /pɚˈmɪt/",
+		"vietnamese": "[VI:允许]"
 	},
 	{
-		"chinese": "医生",
 		"english": "the doctor",
-		"soundmark": "/ðə/ /'dɑktɚ/"
+		"soundmark": "/ðə/ /'dɑktɚ/",
+		"vietnamese": "[VI:医生]"
 	},
 	{
-		"chinese": "医生允许",
 		"english": "the doctor permits",
-		"soundmark": "/ðə/ /'dɑktɚ/ /pɚˈmɪts/"
+		"soundmark": "/ðə/ /'dɑktɚ/ /pɚˈmɪts/",
+		"vietnamese": "[VI:医生允许]"
 	},
 	{
-		"chinese": "医生允许喝水",
 		"english": "the doctor permits drinking water",
-		"soundmark": "/ðə/ /'dɑktɚ/ /pɚˈmɪts/ /'drɪŋkɪŋ/ /'wɔtɚ/"
+		"soundmark": "/ðə/ /'dɑktɚ/ /pɚˈmɪts/ /'drɪŋkɪŋ/ /'wɔtɚ/",
+		"vietnamese": "[VI:医生允许喝水]"
 	},
 	{
-		"chinese": "医生允许在血液测试之前喝水",
 		"english": "the doctor permits drinking water before the blood test",
-		"soundmark": "/ðə/ /'dɑktɚ/ /pɚˈmɪts/ /'drɪŋkɪŋ/ /'wɔtɚ/ /bɪ'fɔr/ /ðə/ /blʌd/ /tɛst/"
+		"soundmark": "/ðə/ /'dɑktɚ/ /pɚˈmɪts/ /'drɪŋkɪŋ/ /'wɔtɚ/ /bɪ'fɔr/ /ðə/ /blʌd/ /tɛst/",
+		"vietnamese": "[VI:医生允许在血液测试之前喝水]"
 	},
 	{
-		"chinese": "驾驶",
 		"english": "to drive",
-		"soundmark": "/draɪv/"
+		"soundmark": "/draɪv/",
+		"vietnamese": "[VI:驾驶]"
 	},
 	{
-		"chinese": "驾驶(ing形式)",
 		"english": "driving",
-		"soundmark": "/'draɪvɪŋ/"
+		"soundmark": "/'draɪvɪŋ/",
+		"vietnamese": "[VI:驾驶(ing形式)]"
 	},
 	{
-		"chinese": "允许",
 		"english": "to permit",
-		"soundmark": "/tə/ /pɚˈmɪt/"
+		"soundmark": "/tə/ /pɚˈmɪt/",
+		"vietnamese": "[VI:允许]"
 	},
 	{
-		"chinese": "政策",
 		"english": "policy",
-		"soundmark": "/ˈpɑləsi/"
+		"soundmark": "/ˈpɑləsi/",
+		"vietnamese": "[VI:政策]"
 	},
 	{
-		"chinese": "政策允许",
 		"english": "the policy permits",
-		"soundmark": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/"
+		"soundmark": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/",
+		"vietnamese": "[VI:政策允许]"
 	},
 	{
-		"chinese": "政策允许驾驶",
 		"english": "the policy permits driving",
-		"soundmark": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/ /'draɪvɪŋ/"
+		"soundmark": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/ /'draɪvɪŋ/",
+		"vietnamese": "[VI:政策允许驾驶]"
 	},
 	{
-		"chinese": "执照",
 		"english": "license",
-		"soundmark": "/ˈlaɪsns/"
+		"soundmark": "/ˈlaɪsns/",
+		"vietnamese": "[VI:执照]"
 	},
 	{
-		"chinese": "有效的",
 		"english": "valid",
-		"soundmark": "/ˈvælɪd/"
+		"soundmark": "/ˈvælɪd/",
+		"vietnamese": "[VI:有效的]"
 	},
 	{
-		"chinese": "一个有效的执照",
 		"english": "a valid license",
-		"soundmark": "/ə/ /ˈvælɪd/ /ˈlaɪsns/"
+		"soundmark": "/ə/ /ˈvælɪd/ /ˈlaɪsns/",
+		"vietnamese": "[VI:一个有效的执照]"
 	},
 	{
-		"chinese": "拥有",
 		"english": "have",
-		"soundmark": "/hæv/"
+		"soundmark": "/hæv/",
+		"vietnamese": "[VI:拥有]"
 	},
 	{
-		"chinese": "你拥有",
 		"english": "you have",
-		"soundmark": "/ju/ /hæv/"
+		"soundmark": "/ju/ /hæv/",
+		"vietnamese": "Bạn拥有"
 	},
 	{
-		"chinese": "你拥有一个有效的执照",
 		"english": "you have a valid license",
-		"soundmark": "/ju/ /hæv/ /ə/ /ˈvælɪd/ /ˈlaɪsns/"
+		"soundmark": "/ju/ /hæv/ /ə/ /ˈvælɪd/ /ˈlaɪsns/",
+		"vietnamese": "Bạn拥有一个有效的执照"
 	},
 	{
-		"chinese": "如果",
 		"english": "if",
-		"soundmark": "/ɪf/"
+		"soundmark": "/ɪf/",
+		"vietnamese": "[VI:如果]"
 	},
 	{
-		"chinese": "如果你拥有一个有效的执照",
 		"english": "if you have a valid license",
-		"soundmark": "/ɪf/ /ju/ /hæv/ /ə/ /ˈvælɪd/ /ˈlaɪsns/"
+		"soundmark": "/ɪf/ /ju/ /hæv/ /ə/ /ˈvælɪd/ /ˈlaɪsns/",
+		"vietnamese": "如果Bạn拥有一个有效的执照"
 	},
 	{
-		"chinese": "政策允许驾驶",
 		"english": "the policy permits driving",
-		"soundmark": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/ /'draɪvɪŋ/"
+		"soundmark": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/ /'draɪvɪŋ/",
+		"vietnamese": "[VI:政策允许驾驶]"
 	},
 	{
-		"chinese": "政策允许开车如果你拥有一个有效的执照",
 		"english": "the policy permits driving if you have a valid license",
-		"soundmark": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/ /'draɪvɪŋ/ /ɪf/ /ju/ /hæv/ /ə/ /ˈvælɪd/ /ˈlaɪsns/"
+		"soundmark": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/ /'draɪvɪŋ/ /ɪf/ /ju/ /hæv/ /ə/ /ˈvælɪd/ /ˈlaɪsns/",
+		"vietnamese": "政策允许开车如果Bạn拥有一个有效的执照"
 	},
 	{
-		"chinese": "旅行",
 		"english": "to travel",
-		"soundmark": "/tə/ /'trævl/"
+		"soundmark": "/tə/ /'trævl/",
+		"vietnamese": "[VI:旅行]"
 	},
 	{
-		"chinese": "出国",
 		"english": "abroad",
-		"soundmark": "/ə'brɔd/"
+		"soundmark": "/ə'brɔd/",
+		"vietnamese": "[VI:出国]"
 	},
 	{
-		"chinese": "出国旅行",
 		"english": "to travel abroad",
-		"soundmark": "/tə/ /'trævl/ /ə'brɔd/"
+		"soundmark": "/tə/ /'trævl/ /ə'brɔd/",
+		"vietnamese": "[VI:出国旅行]"
 	},
 	{
-		"chinese": "出国旅行(ing形式)",
 		"english": "traveling abroad",
-		"soundmark": "/'trævlɪŋ/ /ə'brɔd/"
+		"soundmark": "/'trævlɪŋ/ /ə'brɔd/",
+		"vietnamese": "[VI:出国旅行(ing形式)]"
 	},
 	{
-		"chinese": "允许",
 		"english": "to permit",
-		"soundmark": "/tə/ /pɚˈmɪt/"
+		"soundmark": "/tə/ /pɚˈmɪt/",
+		"vietnamese": "[VI:允许]"
 	},
 	{
-		"chinese": "政策",
 		"english": "policy",
-		"soundmark": "/ˈpɑləsi/"
+		"soundmark": "/ˈpɑləsi/",
+		"vietnamese": "[VI:政策]"
 	},
 	{
-		"chinese": "政策允许",
 		"english": "the policy permits",
-		"soundmark": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/"
+		"soundmark": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/",
+		"vietnamese": "[VI:政策允许]"
 	},
 	{
-		"chinese": "政策允许出国旅行",
 		"english": "the policy permits traveling abroad",
-		"soundmark": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/ /'trævlɪŋ/ /ə'brɔd/"
+		"soundmark": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/ /'trævlɪŋ/ /ə'brɔd/",
+		"vietnamese": "[VI:政策允许出国旅行]"
 	},
 	{
-		"chinese": "护照",
 		"english": "passport",
-		"soundmark": "/'pæspɔrt/"
+		"soundmark": "/'pæspɔrt/",
+		"vietnamese": "[VI:护照]"
 	},
 	{
-		"chinese": "有效的",
 		"english": "valid",
-		"soundmark": "/ˈvælɪd/"
+		"soundmark": "/ˈvælɪd/",
+		"vietnamese": "[VI:有效的]"
 	},
 	{
-		"chinese": "一个有效的护照",
 		"english": "a valid passport",
-		"soundmark": "/ə/ /ˈvælɪd/ /'pæspɔrt/"
+		"soundmark": "/ə/ /ˈvælɪd/ /'pæspɔrt/",
+		"vietnamese": "[VI:一个有效的护照]"
 	},
 	{
-		"chinese": "你拥有",
 		"english": "you have",
-		"soundmark": "/ju/ /hæv/"
+		"soundmark": "/ju/ /hæv/",
+		"vietnamese": "Bạn拥有"
 	},
 	{
-		"chinese": "你拥有一个有效的护照",
 		"english": "you have a valid passport",
-		"soundmark": "/ju/ /hæv/ /ə/ /ˈvælɪd/ /'pæspɔrt/"
+		"soundmark": "/ju/ /hæv/ /ə/ /ˈvælɪd/ /'pæspɔrt/",
+		"vietnamese": "Bạn拥有一个有效的护照"
 	},
 	{
-		"chinese": "如果你拥有一个有效的护照",
 		"english": "if you have a valid passport",
-		"soundmark": "/ɪf/ /ju/ /hæv/ /ə/ /ˈvælɪd/ /'pæspɔrt/"
+		"soundmark": "/ɪf/ /ju/ /hæv/ /ə/ /ˈvælɪd/ /'pæspɔrt/",
+		"vietnamese": "如果Bạn拥有一个有效的护照"
 	},
 	{
-		"chinese": "政策允许出国旅行",
 		"english": "the policy permits traveling abroad",
-		"soundmark": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/ /'trævlɪŋ/ /ə'brɔd/"
+		"soundmark": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/ /'trævlɪŋ/ /ə'brɔd/",
+		"vietnamese": "[VI:政策允许出国旅行]"
 	},
 	{
-		"chinese": "政策允许出国旅行如果你拥有一个有效的护照",
 		"english": "the policy permits traveling abroad if you have a valid passport",
-		"soundmark": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/ /'trævlɪŋ/ /ə'brɔd/ /ɪf/ /ju/ /hæv/ /ə/ /ˈvælɪd/ /'pæspɔrt/"
+		"soundmark": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/ /'trævlɪŋ/ /ə'brɔd/ /ɪf/ /ju/ /hæv/ /ə/ /ˈvælɪd/ /'pæspɔrt/",
+		"vietnamese": "政策允许出国旅行如果Bạn拥有一个有效的护照"
 	},
 	{
-		"chinese": "抽烟",
 		"english": "to smoke",
-		"soundmark": "/tə/ /smok/"
+		"soundmark": "/tə/ /smok/",
+		"vietnamese": "[VI:抽烟]"
 	},
 	{
-		"chinese": "抽烟(ing形式)",
 		"english": "smoking",
-		"soundmark": "/ˈsmokɪŋ/"
+		"soundmark": "/ˈsmokɪŋ/",
+		"vietnamese": "[VI:抽烟(ing形式)]"
 	},
 	{
-		"chinese": "允许",
 		"english": "to permit",
-		"soundmark": "/tə/ /pɚˈmɪt/"
+		"soundmark": "/tə/ /pɚˈmɪt/",
+		"vietnamese": "[VI:允许]"
 	},
 	{
-		"chinese": "我们允许",
 		"english": "we permit",
-		"soundmark": "/wi/ /pɚˈmɪt/"
+		"soundmark": "/wi/ /pɚˈmɪt/",
+		"vietnamese": "Chúng tôi允许"
 	},
 	{
-		"chinese": "我们允许抽烟",
 		"english": "we permit smoking",
-		"soundmark": "/wi/ /pɚˈmɪt/ /ˈsmokɪŋ/"
+		"soundmark": "/wi/ /pɚˈmɪt/ /ˈsmokɪŋ/",
+		"vietnamese": "Chúng tôi允许抽烟"
 	},
 	{
-		"chinese": "我们不允许抽烟",
 		"english": "we don't permit smoking",
-		"soundmark": "/wi/ /dont/ /pɚˈmɪt/ /ˈsmokɪŋ/"
+		"soundmark": "/wi/ /dont/ /pɚˈmɪt/ /ˈsmokɪŋ/",
+		"vietnamese": "Chúng tôikhông允许抽烟"
 	},
 	{
-		"chinese": "办公室",
 		"english": "office",
-		"soundmark": "/'ɑfɪs/"
+		"soundmark": "/'ɑfɪs/",
+		"vietnamese": "[VI:办公室]"
 	},
 	{
-		"chinese": "在办公室里",
 		"english": "in the office",
-		"soundmark": "/ɪn/ /ði/ /'ɑfɪs/"
+		"soundmark": "/ɪn/ /ði/ /'ɑfɪs/",
+		"vietnamese": "[VI:在办公室里]"
 	},
 	{
-		"chinese": "我们不允许在办公室里抽烟",
 		"english": "we don't permit smoking in the office",
-		"soundmark": "/wi/ /dont/ /pɚˈmɪt/ /ˈsmokɪŋ/ /ɪn/ /ði/ /'ɑfɪs/"
+		"soundmark": "/wi/ /dont/ /pɚˈmɪt/ /ˈsmokɪŋ/ /ɪn/ /ði/ /'ɑfɪs/",
+		"vietnamese": "Chúng tôikhông允许在办公室里抽烟"
 	},
 	{
-		"chinese": "禁止",
 		"english": "to prohibit",
-		"soundmark": "/tə/ /prəˈhɪbɪt/"
+		"soundmark": "/tə/ /prəˈhɪbɪt/",
+		"vietnamese": "[VI:禁止]"
 	},
 	{
-		"chinese": "我们禁止",
 		"english": "we prohibit",
-		"soundmark": "/wi/ /prəˈhɪbɪt/"
+		"soundmark": "/wi/ /prəˈhɪbɪt/",
+		"vietnamese": "Chúng tôi禁止"
 	},
 	{
-		"chinese": "在办公室里抽烟(ing形式)",
 		"english": "smoking in the office",
-		"soundmark": "/ˈsmokɪŋ/ /ɪn/ /ði/ /'ɑfɪs/"
+		"soundmark": "/ˈsmokɪŋ/ /ɪn/ /ði/ /'ɑfɪs/",
+		"vietnamese": "[VI:在办公室里抽烟(ing形式)]"
 	},
 	{
-		"chinese": "我们禁止在办公室里抽烟",
 		"english": "we prohibit smoking in the office",
-		"soundmark": "/wi/ /prəˈhɪbɪt/ /ˈsmokɪŋ/ /ɪn/ /ði/ /'ɑfɪs/"
+		"soundmark": "/wi/ /prəˈhɪbɪt/ /ˈsmokɪŋ/ /ɪn/ /ði/ /'ɑfɪs/",
+		"vietnamese": "Chúng tôi禁止在办公室里抽烟"
 	},
 	{
-		"chinese": "公共场所",
 		"english": "public",
-		"soundmark": "/ˈpʌblɪk/"
+		"soundmark": "/ˈpʌblɪk/",
+		"vietnamese": "[VI:公共场所]"
 	},
 	{
-		"chinese": "在公共场所",
 		"english": "in public",
-		"soundmark": "/ɪn/ /ˈpʌblɪk/"
+		"soundmark": "/ɪn/ /ˈpʌblɪk/",
+		"vietnamese": "[VI:在公共场所]"
 	},
 	{
-		"chinese": "我们禁止在公共场所抽烟",
 		"english": "we prohibit smoking in public",
-		"soundmark": "/wi/ /prəˈhɪbɪt/ /ˈsmokɪŋ/ /ɪn/ /ˈpʌblɪk/"
+		"soundmark": "/wi/ /prəˈhɪbɪt/ /ˈsmokɪŋ/ /ɪn/ /ˈpʌblɪk/",
+		"vietnamese": "Chúng tôi禁止在公共场所抽烟"
 	},
 	{
-		"chinese": "禁止",
 		"english": "to prohibit",
-		"soundmark": "/tə/ /prəˈhɪbɪt/"
+		"soundmark": "/tə/ /prəˈhɪbɪt/",
+		"vietnamese": "[VI:禁止]"
 	},
 	{
-		"chinese": "法律",
 		"english": "the law",
-		"soundmark": "/ðə/ /lɔ/"
+		"soundmark": "/ðə/ /lɔ/",
+		"vietnamese": "[VI:法律]"
 	},
 	{
-		"chinese": "法律禁止",
 		"english": "the law prohibits",
-		"soundmark": "/ðə/ /lɔ/ /prəˈhɪbɪts/"
+		"soundmark": "/ðə/ /lɔ/ /prəˈhɪbɪts/",
+		"vietnamese": "[VI:法律禁止]"
 	},
 	{
-		"chinese": "执照",
 		"english": "license",
-		"soundmark": "/ˈlaɪsns/"
+		"soundmark": "/ˈlaɪsns/",
+		"vietnamese": "[VI:执照]"
 	},
 	{
-		"chinese": "有效的",
 		"english": "valid",
-		"soundmark": "/ˈvælɪd/"
+		"soundmark": "/ˈvælɪd/",
+		"vietnamese": "[VI:有效的]"
 	},
 	{
-		"chinese": "一个有效的执照",
 		"english": "a valid license",
-		"soundmark": "/ə/ /ˈvælɪd/ /ˈlaɪsns/"
+		"soundmark": "/ə/ /ˈvælɪd/ /ˈlaɪsns/",
+		"vietnamese": "[VI:一个有效的执照]"
 	},
 	{
-		"chinese": "驾驶",
 		"english": "to drive",
-		"soundmark": "/tə/ /draɪv/"
+		"soundmark": "/tə/ /draɪv/",
+		"vietnamese": "[VI:驾驶]"
 	},
 	{
-		"chinese": "和......一起",
 		"english": "with",
-		"soundmark": "/wɪð/"
+		"soundmark": "/wɪð/",
+		"vietnamese": "và......一起"
 	},
 	{
-		"chinese": "和一个有效的执照一起驾驶",
 		"english": "to drive with a valid license",
-		"soundmark": "/tə/ /draɪv/ /wɪð/ /ə/ /ˈvælɪd/ /ˈlaɪsns/"
+		"soundmark": "/tə/ /draɪv/ /wɪð/ /ə/ /ˈvælɪd/ /ˈlaɪsns/",
+		"vietnamese": "và一个有效的执照一起驾驶"
 	},
 	{
-		"chinese": "不和......一起",
 		"english": "without",
-		"soundmark": "/wɪð'aʊt/"
+		"soundmark": "/wɪð'aʊt/",
+		"vietnamese": "khôngvà......一起"
 	},
 	{
-		"chinese": "无证驾驶",
 		"english": "to drive without a valid license",
-		"soundmark": "/tə/ /draɪv/ /wɪð'aʊt/ /ə/ /ˈvælɪd/ /ˈlaɪsns/"
+		"soundmark": "/tə/ /draɪv/ /wɪð'aʊt/ /ə/ /ˈvælɪd/ /ˈlaɪsns/",
+		"vietnamese": "[VI:无证驾驶]"
 	},
 	{
-		"chinese": "无证驾驶(ing形式)",
 		"english": "driving without a valid license",
-		"soundmark": "/'draɪvɪŋ/ /wɪð'aʊt/ /ə/ /ˈvælɪd/ /ˈlaɪsns/"
+		"soundmark": "/'draɪvɪŋ/ /wɪð'aʊt/ /ə/ /ˈvælɪd/ /ˈlaɪsns/",
+		"vietnamese": "[VI:无证驾驶(ing形式)]"
 	},
 	{
-		"chinese": "禁止",
 		"english": "to prohibit",
-		"soundmark": "/tə/ /prəˈhɪbɪt/"
+		"soundmark": "/tə/ /prəˈhɪbɪt/",
+		"vietnamese": "[VI:禁止]"
 	},
 	{
-		"chinese": "法律",
 		"english": "the law",
-		"soundmark": "/ðə/ /lɔ/"
+		"soundmark": "/ðə/ /lɔ/",
+		"vietnamese": "[VI:法律]"
 	},
 	{
-		"chinese": "法律禁止",
 		"english": "the law prohibits",
-		"soundmark": "/ðə/ /lɔ/ /prəˈhɪbɪts/"
+		"soundmark": "/ðə/ /lɔ/ /prəˈhɪbɪts/",
+		"vietnamese": "[VI:法律禁止]"
 	},
 	{
-		"chinese": "法律禁止无证驾驶",
 		"english": "the law prohibits driving without a valid license",
-		"soundmark": "/ðə/ /lɔ/ /prəˈhɪbɪts/ /'draɪvɪŋ/ /wɪð'aʊt/ /ə/ /ˈvælɪd/ /ˈlaɪsns/"
+		"soundmark": "/ðə/ /lɔ/ /prəˈhɪbɪts/ /'draɪvɪŋ/ /wɪð'aʊt/ /ə/ /ˈvælɪd/ /ˈlaɪsns/",
+		"vietnamese": "[VI:法律禁止无证驾驶]"
 	},
 	{
-		"chinese": "禁止",
 		"english": "to prohibit",
-		"soundmark": "/tə/ /prəˈhɪbɪt/"
+		"soundmark": "/tə/ /prəˈhɪbɪt/",
+		"vietnamese": "[VI:禁止]"
 	},
 	{
-		"chinese": "老师",
 		"english": "the teacher",
-		"soundmark": "/ðə/ /'titʃɚ/"
+		"soundmark": "/ðə/ /'titʃɚ/",
+		"vietnamese": "[VI:老师]"
 	},
 	{
-		"chinese": "老师禁止",
 		"english": "the teacher prohibits",
-		"soundmark": "/ðə/ /'titʃɚ/ /prəˈhɪbɪts/"
+		"soundmark": "/ðə/ /'titʃɚ/ /prəˈhɪbɪts/",
+		"vietnamese": "[VI:老师禁止]"
 	},
 	{
-		"chinese": "家庭作业",
 		"english": "homework",
-		"soundmark": "/'homwɝk/"
+		"soundmark": "/'homwɝk/",
+		"vietnamese": "[VI:家庭作业]"
 	},
 	{
-		"chinese": "复制",
 		"english": "to copy",
-		"soundmark": "/tə/ /ˈkɑpɪ/"
+		"soundmark": "/tə/ /ˈkɑpɪ/",
+		"vietnamese": "[VI:复制]"
 	},
 	{
-		"chinese": "抄作业",
 		"english": "to copy homework",
-		"soundmark": "/tə/ /ˈkɑpɪ/ /'homwɝk/"
+		"soundmark": "/tə/ /ˈkɑpɪ/ /'homwɝk/",
+		"vietnamese": "[VI:抄作业]"
 	},
 	{
-		"chinese": "其他人",
 		"english": "others",
-		"soundmark": "/'ʌðɚz/"
+		"soundmark": "/'ʌðɚz/",
+		"vietnamese": "其Anh ấy人"
 	},
 	{
-		"chinese": "从......那里",
 		"english": "from",
-		"soundmark": "/frʌm/"
+		"soundmark": "/frʌm/",
+		"vietnamese": "[VI:从......那里]"
 	},
 	{
-		"chinese": "从其他人那里",
 		"english": "from others",
-		"soundmark": "/frʌm/ /'ʌðɚz/"
+		"soundmark": "/frʌm/ /'ʌðɚz/",
+		"vietnamese": "从其Anh ấy人那里"
 	},
 	{
-		"chinese": "从其他人那里抄作业",
 		"english": "to copy homework from others",
-		"soundmark": "/tə/ /ˈkɑpɪ/ /'homwɝk/ /frʌm/ /'ʌðɚz/"
+		"soundmark": "/tə/ /ˈkɑpɪ/ /'homwɝk/ /frʌm/ /'ʌðɚz/",
+		"vietnamese": "从其Anh ấy人那里抄作业"
 	},
 	{
-		"chinese": "从其他人那里抄作业(ing形式)",
 		"english": "copying homework from others",
-		"soundmark": "/ˈkɑpɪɪŋ/ /'homwɝk/ /frʌm/ /'ʌðɚz/"
+		"soundmark": "/ˈkɑpɪɪŋ/ /'homwɝk/ /frʌm/ /'ʌðɚz/",
+		"vietnamese": "从其Anh ấy人那里抄作业(ing形式)"
 	},
 	{
-		"chinese": "老师禁止",
 		"english": "the teacher prohibits",
-		"soundmark": "/ðə/ /'titʃɚ/ /prəˈhɪbɪts/"
+		"soundmark": "/ðə/ /'titʃɚ/ /prəˈhɪbɪts/",
+		"vietnamese": "[VI:老师禁止]"
 	},
 	{
-		"chinese": "老师禁止从其他人那里抄作业",
 		"english": "the teacher prohibits copying homework from others",
-		"soundmark": "/ðə/ /'titʃɚ/ /prəˈhɪbɪts/ /ˈkɑpɪɪŋ/ /'homwɝk/ /frʌm/ /'ʌðɚz/"
+		"soundmark": "/ðə/ /'titʃɚ/ /prəˈhɪbɪts/ /ˈkɑpɪɪŋ/ /'homwɝk/ /frʌm/ /'ʌðɚz/",
+		"vietnamese": "老师禁止从其Anh ấy人那里抄作业"
 	},
 	{
-		"chinese": "老师禁止",
 		"english": "the teacher prohibits",
-		"soundmark": "/ðə/ /'titʃɚ/ /prəˈhɪbɪts/"
+		"soundmark": "/ðə/ /'titʃɚ/ /prəˈhɪbɪts/",
+		"vietnamese": "[VI:老师禁止]"
 	},
 	{
-		"chinese": "说话",
 		"english": "to talk",
-		"soundmark": "/tə/ /tɔk/"
+		"soundmark": "/tə/ /tɔk/",
+		"vietnamese": "nói chuyện"
 	},
 	{
-		"chinese": "笑",
 		"english": "to laugh",
-		"soundmark": "/tə/ /læf/"
+		"soundmark": "/tə/ /læf/",
+		"vietnamese": "[VI:笑]"
 	},
 	{
-		"chinese": "或者",
 		"english": "or",
-		"soundmark": "/ɔr/"
+		"soundmark": "/ɔr/",
+		"vietnamese": "[VI:或者]"
 	},
 	{
-		"chinese": "说话或者笑",
 		"english": "to talk or to laugh",
-		"soundmark": "/tə/ /tɔk/ /ɔr/ /tə/ /læf/"
+		"soundmark": "/tə/ /tɔk/ /ɔr/ /tə/ /læf/",
+		"vietnamese": "nói chuyện或者笑"
 	},
 	{
-		"chinese": "说笑(ing形式)",
 		"english": "talking or laughing",
-		"soundmark": "/'tɔkɪŋ/ /ɔr/ /'læfɪŋ/"
+		"soundmark": "/'tɔkɪŋ/ /ɔr/ /'læfɪŋ/",
+		"vietnamese": "[VI:说笑(ing形式)]"
 	},
 	{
-		"chinese": "测验",
 		"english": "test",
-		"soundmark": "/tɛst/"
+		"soundmark": "/tɛst/",
+		"vietnamese": "[VI:测验]"
 	},
 	{
-		"chinese": "在......期间",
 		"english": "during",
-		"soundmark": "/'dʊrɪŋ/"
+		"soundmark": "/'dʊrɪŋ/",
+		"vietnamese": "[VI:在......期间]"
 	},
 	{
-		"chinese": "在这个测验期间",
 		"english": "during the test",
-		"soundmark": "/'dʊrɪŋ/ /ðə/ /tɛst/"
+		"soundmark": "/'dʊrɪŋ/ /ðə/ /tɛst/",
+		"vietnamese": "[VI:在这个测验期间]"
 	},
 	{
-		"chinese": "在这个测验期间说笑(ing形式)",
 		"english": "talking or laughing during the test",
-		"soundmark": "/'tɔkɪŋ/ /ɔr/ /'læfɪŋ/ /'dʊrɪŋ/ /ðə/ /tɛst/"
+		"soundmark": "/'tɔkɪŋ/ /ɔr/ /'læfɪŋ/ /'dʊrɪŋ/ /ðə/ /tɛst/",
+		"vietnamese": "[VI:在这个测验期间说笑(ing形式)]"
 	},
 	{
-		"chinese": "老师禁止",
 		"english": "the teacher prohibits",
-		"soundmark": "/ðə/ /'titʃɚ/ /prəˈhɪbɪts/"
+		"soundmark": "/ðə/ /'titʃɚ/ /prəˈhɪbɪts/",
+		"vietnamese": "[VI:老师禁止]"
 	},
 	{
-		"chinese": "老师禁止在这个测验期间说笑",
 		"english": "the teacher prohibits talking or laughing during the test",
-		"soundmark": "/ðə/ /'titʃɚ/ /prəˈhɪbɪts/ /'tɔkɪŋ/ /ɔr/ /'læfɪŋ/ /'dʊrɪŋ/ /ðə/ /tɛst/"
+		"soundmark": "/ðə/ /'titʃɚ/ /prəˈhɪbɪts/ /'tɔkɪŋ/ /ɔr/ /'læfɪŋ/ /'dʊrɪŋ/ /ðə/ /tɛst/",
+		"vietnamese": "[VI:老师禁止在这个测验期间说笑]"
 	},
 	{
-		"chinese": "禁止",
 		"english": "to prohibit",
-		"soundmark": "/tə/ /prəˈhɪbɪt/"
+		"soundmark": "/tə/ /prəˈhɪbɪt/",
+		"vietnamese": "[VI:禁止]"
 	},
 	{
-		"chinese": "学校",
 		"english": "the school",
-		"soundmark": "/ðə/ /skul/"
+		"soundmark": "/ðə/ /skul/",
+		"vietnamese": "[VI:学校]"
 	},
 	{
-		"chinese": "学校禁止",
 		"english": "the school prohibits",
-		"soundmark": "/ðə/ /skul/ /prəˈhɪbɪts/"
+		"soundmark": "/ðə/ /skul/ /prəˈhɪbɪts/",
+		"vietnamese": "[VI:学校禁止]"
 	},
 	{
-		"chinese": "吃",
 		"english": "to eat",
-		"soundmark": "/tə/ /it/"
+		"soundmark": "/tə/ /it/",
+		"vietnamese": "ăn"
 	},
 	{
-		"chinese": "喝",
 		"english": "to drink",
-		"soundmark": "/tə/ /drɪŋk/"
+		"soundmark": "/tə/ /drɪŋk/",
+		"vietnamese": "[VI:喝]"
 	},
 	{
-		"chinese": "吃或者喝",
 		"english": "to eat or to drink",
-		"soundmark": "/tə/ /it/ /ɔr/ /tə/ /drɪŋk/"
+		"soundmark": "/tə/ /it/ /ɔr/ /tə/ /drɪŋk/",
+		"vietnamese": "ăn或者喝"
 	},
 	{
-		"chinese": "吃喝(ing形式)",
 		"english": "eating or drinking",
-		"soundmark": "/'itɪŋ/ /ɔr/ /'drɪŋkɪŋ/"
+		"soundmark": "/'itɪŋ/ /ɔr/ /'drɪŋkɪŋ/",
+		"vietnamese": "ăn喝(ing形式)"
 	},
 	{
-		"chinese": "课程",
 		"english": "class",
-		"soundmark": "/klæs/"
+		"soundmark": "/klæs/",
+		"vietnamese": "[VI:课程]"
 	},
 	{
-		"chinese": "房间",
 		"english": "room",
-		"soundmark": "/rum/"
+		"soundmark": "/rum/",
+		"vietnamese": "[VI:房间]"
 	},
 	{
-		"chinese": "教室",
 		"english": "classroom",
-		"soundmark": "/'klæsrum/"
+		"soundmark": "/'klæsrum/",
+		"vietnamese": "[VI:教室]"
 	},
 	{
-		"chinese": "在教室里",
 		"english": "in the classroom",
-		"soundmark": "/ɪn/ /ðə/ /'klæsrum/"
+		"soundmark": "/ɪn/ /ðə/ /'klæsrum/",
+		"vietnamese": "[VI:在教室里]"
 	},
 	{
-		"chinese": "在教室里吃喝(ing形式)",
 		"english": "eating or drinking in the classroom",
-		"soundmark": "/'itɪŋ/ /ɔr/ /'drɪŋkɪŋ/ /ɪn/ /ðə/ /'klæsrum/"
+		"soundmark": "/'itɪŋ/ /ɔr/ /'drɪŋkɪŋ/ /ɪn/ /ðə/ /'klæsrum/",
+		"vietnamese": "在教室里ăn喝(ing形式)"
 	},
 	{
-		"chinese": "学校禁止",
 		"english": "the school prohibits",
-		"soundmark": "/ðə/ /skul/ /prəˈhɪbɪts/"
+		"soundmark": "/ðə/ /skul/ /prəˈhɪbɪts/",
+		"vietnamese": "[VI:学校禁止]"
 	},
 	{
-		"chinese": "学校禁止在教室里吃喝",
 		"english": "the school prohibits eating or drinking in the classroom",
-		"soundmark": "/ðə/ /skul/ /prəˈhɪbɪts/ /'itɪŋ/ /ɔr/ /'drɪŋkɪŋ/ /ɪn/ /ðə/ /'klæsrum/"
+		"soundmark": "/ðə/ /skul/ /prəˈhɪbɪts/ /'itɪŋ/ /ɔr/ /'drɪŋkɪŋ/ /ɪn/ /ðə/ /'klæsrum/",
+		"vietnamese": "学校禁止在教室里ăn喝"
 	}
 ]

@@ -4,12 +4,12 @@ import { ref, watchEffect } from "vue";
 defineOptions({ name: "Modal" });
 
 /**
- * @param {boolean} showModal          - 必传，是否显示弹窗，默认不显示
- * @param {boolean} modal              - 可选，是否显示遮罩层，默认不显示
- * @param {string}  modalColor         - 可选，设置遮罩层背景色，默认 30% 黑色透明
+ * @param {boolean} showModal          - 必传，是否Hiện弹窗，默认不Hiện
+ * @param {boolean} modal              - 可选，是否Hiện遮罩层，默认不Hiện
+ * @param {string}  modalColor         - 可选，Cài đặt遮罩层背景色，默认 30% 黑色透明
  * @param {string}  offsetTop          - 可选，距离顶部的偏移量，默认 -8vh，因为默认使用 modal-middle 只能往上走来调整
- * @param {string}  twClass            - 可选，给 modal-box 补充一些 Tailwind CSS
- * @param {boolean} closeOnClickModal  - 可选，是否允许点击遮罩层关闭弹窗，默认不允许
+ * @param {string}  twClass            - 可选，给 modal-box 补充một些 Tailwind CSS
+ * @param {boolean} closeOnClickModal  - 可选，是否允许点击遮罩层Đóng弹窗，默认不允许
  */
 const props = withDefaults(
   defineProps<{
@@ -75,7 +75,7 @@ function handleClose() {
 watchEffect(() => {
   if (!checkModalRef()) return;
 
-  // 处理外层传入的 showModal 改变时，控制弹框的显示/隐藏
+  // 处理外层传入的 showModal 改变时，控制弹框的Hiện/Ẩn
   if (props.showModal) {
     props.modal ? showModal() : show();
   } else {
@@ -83,7 +83,7 @@ watchEffect(() => {
   }
 });
 
-// 外部可以设置 ref 后调用 open/close 方法控制弹框
+// 外部可以Cài đặt ref 后调用 open/close 方法控制弹框
 defineExpose({
   open: handleOpen,
   close: handleClose,

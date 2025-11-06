@@ -1,622 +1,622 @@
 [
 	{
-		"chinese": "允许",
 		"english": "to permit",
-		"soundmark": "/tə/ /pɚˈmɪt/"
+		"soundmark": "/tə/ /pɚˈmɪt/",
+		"vietnamese": "[VI:允许]"
 	},
 	{
-		"chinese": "老师",
 		"english": "the teacher",
-		"soundmark": "/ðə/ /'titʃɚ/"
+		"soundmark": "/ðə/ /'titʃɚ/",
+		"vietnamese": "[VI:老师]"
 	},
 	{
-		"chinese": "老师允许",
 		"english": "the teacher permits",
-		"soundmark": "/ðə/ /'titʃɚ/ /pɚˈmɪts/"
+		"soundmark": "/ðə/ /'titʃɚ/ /pɚˈmɪts/",
+		"vietnamese": "[VI:老师允许]"
 	},
 	{
-		"chinese": "唱歌",
 		"english": "to sing",
-		"soundmark": "/tə/ /sɪŋ/"
+		"soundmark": "/tə/ /sɪŋ/",
+		"vietnamese": "[VI:唱歌]"
 	},
 	{
-		"chinese": "课堂",
 		"english": "class",
-		"soundmark": "/klæs/"
+		"soundmark": "/klæs/",
+		"vietnamese": "[VI:课堂]"
 	},
 	{
-		"chinese": "在",
 		"english": "in",
-		"soundmark": "/ɪn/"
+		"soundmark": "/ɪn/",
+		"vietnamese": "[VI:在]"
 	},
 	{
-		"chinese": "在课堂",
 		"english": "in the class",
-		"soundmark": "/ɪn/ /ðə/ /klæs/"
+		"soundmark": "/ɪn/ /ðə/ /klæs/",
+		"vietnamese": "[VI:在课堂]"
 	},
 	{
-		"chinese": "音乐",
 		"english": "music",
-		"soundmark": "/'mjuzɪk/"
+		"soundmark": "/'mjuzɪk/",
+		"vietnamese": "[VI:音乐]"
 	},
 	{
-		"chinese": "在音乐课",
 		"english": "in the music class",
-		"soundmark": "/ɪn/ /ðə/ /'mjuzɪk/ /klæs/"
+		"soundmark": "/ɪn/ /ðə/ /'mjuzɪk/ /klæs/",
+		"vietnamese": "[VI:在音乐课]"
 	},
 	{
-		"chinese": "在音乐课唱歌",
 		"english": "to sing in the music class",
-		"soundmark": "/tə/ /sɪŋ/ /ɪn/ /ðə/ /'mjuzɪk/ /klæs/"
+		"soundmark": "/tə/ /sɪŋ/ /ɪn/ /ðə/ /'mjuzɪk/ /klæs/",
+		"vietnamese": "[VI:在音乐课唱歌]"
 	},
 	{
-		"chinese": "在音乐课唱歌(ing形式)",
 		"english": "singing in the music class",
-		"soundmark": "/'sɪŋɪŋ/ /ɪn/ /ðə/ /'mjuzɪk/ /klæs/"
+		"soundmark": "/'sɪŋɪŋ/ /ɪn/ /ðə/ /'mjuzɪk/ /klæs/",
+		"vietnamese": "[VI:在音乐课唱歌(ing形式)]"
 	},
 	{
-		"chinese": "老师允许",
 		"english": "the teacher permits",
-		"soundmark": "/ðə/ /'titʃɚ/ /pɚˈmɪts/"
+		"soundmark": "/ðə/ /'titʃɚ/ /pɚˈmɪts/",
+		"vietnamese": "[VI:老师允许]"
 	},
 	{
-		"chinese": "老师允许在音乐课唱歌",
 		"english": "the teacher permits singing in the music class",
-		"soundmark": "/ðə/ /'titʃɚ/ /pɚˈmɪts/ /'sɪŋɪŋ/ /ɪn/ /ðə/ /'mjuzɪk/ /klæs/"
+		"soundmark": "/ðə/ /'titʃɚ/ /pɚˈmɪts/ /'sɪŋɪŋ/ /ɪn/ /ðə/ /'mjuzɪk/ /klæs/",
+		"vietnamese": "[VI:老师允许在音乐课唱歌]"
 	},
 	{
-		"chinese": "他",
 		"english": "him",
-		"soundmark": "/hɪm/"
+		"soundmark": "/hɪm/",
+		"vietnamese": "Anh ấy"
 	},
 	{
-		"chinese": "老师允许他",
 		"english": "the teacher permits him",
-		"soundmark": "/ðə/ /'titʃɚ/ /pɚˈmɪts/ /hɪm/"
+		"soundmark": "/ðə/ /'titʃɚ/ /pɚˈmɪts/ /hɪm/",
+		"vietnamese": "老师允许Anh ấy"
 	},
 	{
-		"chinese": "在音乐课唱歌",
 		"english": "to sing in the music class",
-		"soundmark": "/tə/ /sɪŋ/ /ɪn/ /ðə/ /'mjuzɪk/ /klæs/"
+		"soundmark": "/tə/ /sɪŋ/ /ɪn/ /ðə/ /'mjuzɪk/ /klæs/",
+		"vietnamese": "[VI:在音乐课唱歌]"
 	},
 	{
-		"chinese": "老师允许他在音乐课唱歌",
 		"english": "the teacher permits him to sing in the music class",
-		"soundmark": "/ðə/ /'titʃɚ/ /pɚˈmɪts/ /hɪm/ /tə/ /sɪŋ/ /ɪn/ /ðə/ /'mjuzɪk/ /klæs/"
+		"soundmark": "/ðə/ /'titʃɚ/ /pɚˈmɪts/ /hɪm/ /tə/ /sɪŋ/ /ɪn/ /ðə/ /'mjuzɪk/ /klæs/",
+		"vietnamese": "老师允许Anh ấy在音乐课唱歌"
 	},
 	{
-		"chinese": "大海",
 		"english": "the sea",
-		"soundmark": "/ðə/ /si/"
+		"soundmark": "/ðə/ /si/",
+		"vietnamese": "[VI:大海]"
 	},
 	{
-		"chinese": "在......里",
 		"english": "in",
-		"soundmark": "/ɪn/"
+		"soundmark": "/ɪn/",
+		"vietnamese": "[VI:在......里]"
 	},
 	{
-		"chinese": "在大海里",
 		"english": "in the sea",
-		"soundmark": "/ɪn/ /ðə/ /si/"
+		"soundmark": "/ɪn/ /ðə/ /si/",
+		"vietnamese": "[VI:在大海里]"
 	},
 	{
-		"chinese": "游泳",
 		"english": "to swim",
-		"soundmark": "/tə/ /swɪm/"
+		"soundmark": "/tə/ /swɪm/",
+		"vietnamese": "[VI:游泳]"
 	},
 	{
-		"chinese": "在大海里游泳",
 		"english": "to swim in the sea",
-		"soundmark": "/tə/ /swɪm/ /ɪn/ /ðə/ /si/"
+		"soundmark": "/tə/ /swɪm/ /ɪn/ /ðə/ /si/",
+		"vietnamese": "[VI:在大海里游泳]"
 	},
 	{
-		"chinese": "日落",
 		"english": "sunset",
-		"soundmark": "/'sʌnsɛt/"
+		"soundmark": "/'sʌnsɛt/",
+		"vietnamese": "[VI:日落]"
 	},
 	{
-		"chinese": "在......之前",
 		"english": "before",
-		"soundmark": "/bɪ'fɔr/"
+		"soundmark": "/bɪ'fɔr/",
+		"vietnamese": "[VI:在......之前]"
 	},
 	{
-		"chinese": "在日落之前",
 		"english": "before sunset",
-		"soundmark": "/bɪ'fɔr/ /'sʌnsɛt/"
+		"soundmark": "/bɪ'fɔr/ /'sʌnsɛt/",
+		"vietnamese": "[VI:在日落之前]"
 	},
 	{
-		"chinese": "在日落之前在大海里游泳",
 		"english": "to swim in the sea before sunset",
-		"soundmark": "/tə/ /swɪm/ /ɪn/ /ðə/ /si/ /bɪ'fɔr/ /'sʌnsɛt/"
+		"soundmark": "/tə/ /swɪm/ /ɪn/ /ðə/ /si/ /bɪ'fɔr/ /'sʌnsɛt/",
+		"vietnamese": "[VI:在日落之前在大海里游泳]"
 	},
 	{
-		"chinese": "在日落之前在大海里游泳(ing形式)",
 		"english": "swimming in the sea before sunset",
-		"soundmark": "/'swɪmɪŋ/ /ɪn/ /ðə/ /si/ /bɪ'fɔr/ /'sʌnsɛt/"
+		"soundmark": "/'swɪmɪŋ/ /ɪn/ /ðə/ /si/ /bɪ'fɔr/ /'sʌnsɛt/",
+		"vietnamese": "[VI:在日落之前在大海里游泳(ing形式)]"
 	},
 	{
-		"chinese": "允许",
 		"english": "to permit",
-		"soundmark": "/tə/ /pɚˈmɪt/"
+		"soundmark": "/tə/ /pɚˈmɪt/",
+		"vietnamese": "[VI:允许]"
 	},
 	{
-		"chinese": "政策",
 		"english": "the policy",
-		"soundmark": "/ðə/ /ˈpɑləsi/"
+		"soundmark": "/ðə/ /ˈpɑləsi/",
+		"vietnamese": "[VI:政策]"
 	},
 	{
-		"chinese": "政策允许",
 		"english": "the policy permits",
-		"soundmark": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/"
+		"soundmark": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/",
+		"vietnamese": "[VI:政策允许]"
 	},
 	{
-		"chinese": "政策允许在日落之前在大海里游泳",
 		"english": "the policy permits swimming in the sea before sunset",
-		"soundmark": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/ /'swɪmɪŋ/ /ɪn/ /ðə/ /si/ /bɪ'fɔr/ /'sʌnsɛt/"
+		"soundmark": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/ /'swɪmɪŋ/ /ɪn/ /ðə/ /si/ /bɪ'fɔr/ /'sʌnsɛt/",
+		"vietnamese": "[VI:政策允许在日落之前在大海里游泳]"
 	},
 	{
-		"chinese": "父亲",
 		"english": "father",
-		"soundmark": "/'fɑðɚ/"
+		"soundmark": "/'fɑðɚ/",
+		"vietnamese": "[VI:父亲]"
 	},
 	{
-		"chinese": "他的",
 		"english": "his",
-		"soundmark": "/hɪz/"
+		"soundmark": "/hɪz/",
+		"vietnamese": "Anh ấy的"
 	},
 	{
-		"chinese": "他的父亲",
 		"english": "his father",
-		"soundmark": "/hɪz/ /'fɑðɚ/"
+		"soundmark": "/hɪz/ /'fɑðɚ/",
+		"vietnamese": "Anh ấy的父亲"
 	},
 	{
-		"chinese": "允许",
 		"english": "to permit",
-		"soundmark": "/tə/ /pɚˈmɪt/"
+		"soundmark": "/tə/ /pɚˈmɪt/",
+		"vietnamese": "[VI:允许]"
 	},
 	{
-		"chinese": "他的父亲允许",
 		"english": "his father permits",
-		"soundmark": "/hɪz/ /'fɑðɚ/ /pɚˈmɪts/"
+		"soundmark": "/hɪz/ /'fɑðɚ/ /pɚˈmɪts/",
+		"vietnamese": "Anh ấy的父亲允许"
 	},
 	{
-		"chinese": "他",
 		"english": "him",
-		"soundmark": "/hɪm/"
+		"soundmark": "/hɪm/",
+		"vietnamese": "Anh ấy"
 	},
 	{
-		"chinese": "他的父亲允许他",
 		"english": "his father permits him",
-		"soundmark": "/hɪz/ /'fɑðɚ/ /pɚˈmɪts/ /hɪm/"
+		"soundmark": "/hɪz/ /'fɑðɚ/ /pɚˈmɪts/ /hɪm/",
+		"vietnamese": "Anh ấy的父亲允许他"
 	},
 	{
-		"chinese": "在日落之前在大海里游泳",
 		"english": "to swim in the sea before sunset",
-		"soundmark": "/tə/ /swɪm/ /ɪn/ /ðə/ /si/ /bɪ'fɔr/ /'sʌnsɛt/"
+		"soundmark": "/tə/ /swɪm/ /ɪn/ /ðə/ /si/ /bɪ'fɔr/ /'sʌnsɛt/",
+		"vietnamese": "[VI:在日落之前在大海里游泳]"
 	},
 	{
-		"chinese": "他的父亲允许他在日落之前在大海里游泳",
 		"english": "his father permits him to swim in the sea before sunset",
-		"soundmark": "/hɪz/ /'fɑðɚ/ /pɚˈmɪts/ /hɪm/ /tə/ /swɪm/ /ɪn/ /ðə/ /si/ /bɪ'fɔr/ /'sʌnsɛt/"
+		"soundmark": "/hɪz/ /'fɑðɚ/ /pɚˈmɪts/ /hɪm/ /tə/ /swɪm/ /ɪn/ /ðə/ /si/ /bɪ'fɔr/ /'sʌnsɛt/",
+		"vietnamese": "Anh ấy的父亲允许他在日落之前在大海里游泳"
 	},
 	{
-		"chinese": "停止",
 		"english": "to stop",
-		"soundmark": "/tə/ /stɑp/"
+		"soundmark": "/tə/ /stɑp/",
+		"vietnamese": "[VI:停止]"
 	},
 	{
-		"chinese": "他",
 		"english": "he",
-		"soundmark": "/hi/"
+		"soundmark": "/hi/",
+		"vietnamese": "Anh ấy"
 	},
 	{
-		"chinese": "他停止",
 		"english": "he stops",
-		"soundmark": "/hi/ /stɑps/"
+		"soundmark": "/hi/ /stɑps/",
+		"vietnamese": "Anh ấy停止"
 	},
 	{
-		"chinese": "他停止(过去)",
 		"english": "he stopped",
-		"soundmark": "/hi/ /stɑpt/"
+		"soundmark": "/hi/ /stɑpt/",
+		"vietnamese": "Anh ấy停止(过去)"
 	},
 	{
-		"chinese": "抽烟",
 		"english": "to smoke",
-		"soundmark": "/tə/ /smok/"
+		"soundmark": "/tə/ /smok/",
+		"vietnamese": "[VI:抽烟]"
 	},
 	{
-		"chinese": "抽烟(ing形式)",
 		"english": "smoking",
-		"soundmark": "/'smokɪŋ/"
+		"soundmark": "/'smokɪŋ/",
+		"vietnamese": "[VI:抽烟(ing形式)]"
 	},
 	{
-		"chinese": "他停止抽烟",
 		"english": "he stopped smoking",
-		"soundmark": "/hi/ /stɑpt/ /'smokɪŋ/"
+		"soundmark": "/hi/ /stɑpt/ /'smokɪŋ/",
+		"vietnamese": "Anh ấy停止抽烟"
 	},
 	{
-		"chinese": "健康",
 		"english": "health",
-		"soundmark": "/hɛlθ/"
+		"soundmark": "/hɛlθ/",
+		"vietnamese": "[VI:健康]"
 	},
 	{
-		"chinese": "他的健康",
 		"english": "his health",
-		"soundmark": "/hɪz/ /hɛlθ/"
+		"soundmark": "/hɪz/ /hɛlθ/",
+		"vietnamese": "Anh ấy的健康"
 	},
 	{
-		"chinese": "为了",
 		"english": "for",
-		"soundmark": "/fɚ/"
+		"soundmark": "/fɚ/",
+		"vietnamese": "[VI:为了]"
 	},
 	{
-		"chinese": "为了他的健康",
 		"english": "for his health",
-		"soundmark": "/fɚ/ /hɪz/ /hɛlθ/"
+		"soundmark": "/fɚ/ /hɪz/ /hɛlθ/",
+		"vietnamese": "为了Anh ấy的健康"
 	},
 	{
-		"chinese": "他停止抽烟",
 		"english": "he stopped smoking",
-		"soundmark": "/hi/ /stɑpt/ /'smokɪŋ/"
+		"soundmark": "/hi/ /stɑpt/ /'smokɪŋ/",
+		"vietnamese": "Anh ấy停止抽烟"
 	},
 	{
-		"chinese": "他为了他的健康停止抽烟",
 		"english": "he stopped smoking for his health",
-		"soundmark": "/hi/ /stɑpt/ /'smokɪŋ/ /fɚ/ /hɪz/ /hɛlθ/"
+		"soundmark": "/hi/ /stɑpt/ /'smokɪŋ/ /fɚ/ /hɪz/ /hɛlθ/",
+		"vietnamese": "Anh ấy为了他的健康停止抽烟"
 	},
 	{
-		"chinese": "他停止抽烟",
 		"english": "he stopped smoking",
-		"soundmark": "/hi/ /stɑpt/ /'smokɪŋ/"
+		"soundmark": "/hi/ /stɑpt/ /'smokɪŋ/",
+		"vietnamese": "Anh ấy停止抽烟"
 	},
 	{
-		"chinese": "抽烟",
 		"english": "to smoke",
-		"soundmark": "/tə/ /smok/"
+		"soundmark": "/tə/ /smok/",
+		"vietnamese": "[VI:抽烟]"
 	},
 	{
-		"chinese": "他停下来去抽烟",
 		"english": "he stopped to smoke",
-		"soundmark": "/hi/ /stɑpt/ /tə/ /smok/"
+		"soundmark": "/hi/ /stɑpt/ /tə/ /smok/",
+		"vietnamese": "Anh ấy停下来去抽烟"
 	},
 	{
-		"chinese": "公交车",
 		"english": "bus",
-		"soundmark": "/bʌs/"
+		"soundmark": "/bʌs/",
+		"vietnamese": "[VI:公交车]"
 	},
 	{
-		"chinese": "停止",
 		"english": "stop",
-		"soundmark": "/stɑp/"
+		"soundmark": "/stɑp/",
+		"vietnamese": "[VI:停止]"
 	},
 	{
-		"chinese": "公交车站",
 		"english": "bus stop",
-		"soundmark": "/bʌs/ /stɑp/"
+		"soundmark": "/bʌs/ /stɑp/",
+		"vietnamese": "[VI:公交车站]"
 	},
 	{
-		"chinese": "在公交车站",
 		"english": "at the bus stop",
-		"soundmark": "/ət/ /ðə/ /bʌs/ /stɑp/"
+		"soundmark": "/ət/ /ðə/ /bʌs/ /stɑp/",
+		"vietnamese": "[VI:在公交车站]"
 	},
 	{
-		"chinese": "他停下来去抽烟",
 		"english": "he stopped to smoke",
-		"soundmark": "/hi/ /stɑpt/ /tə/ /smok/"
+		"soundmark": "/hi/ /stɑpt/ /tə/ /smok/",
+		"vietnamese": "Anh ấy停下来去抽烟"
 	},
 	{
-		"chinese": "他在公交车站停下来去抽烟",
 		"english": "he stopped to smoke at the bus stop",
-		"soundmark": "/hi/ /stɑpt/ /tə/ /smok/ /ət/ /ðə/ /bʌs/ /stɑp/"
+		"soundmark": "/hi/ /stɑpt/ /tə/ /smok/ /ət/ /ðə/ /bʌs/ /stɑp/",
+		"vietnamese": "Anh ấy在公交车站停下来去抽烟"
 	},
 	{
-		"chinese": "买",
 		"english": "to buy",
-		"soundmark": "/tə/ /baɪ/"
+		"soundmark": "/tə/ /baɪ/",
+		"vietnamese": "[VI:买]"
 	},
 	{
-		"chinese": "花",
 		"english": "flower",
-		"soundmark": "/'flaʊɚ/"
+		"soundmark": "/'flaʊɚ/",
+		"vietnamese": "[VI:花]"
 	},
 	{
-		"chinese": "一些",
 		"english": "some",
-		"soundmark": "/səm/"
+		"soundmark": "/səm/",
+		"vietnamese": "[VI:一些]"
 	},
 	{
-		"chinese": "一些花",
 		"english": "some flowers",
-		"soundmark": "/səm/ /'flaʊɚz/"
+		"soundmark": "/səm/ /'flaʊɚz/",
+		"vietnamese": "[VI:一些花]"
 	},
 	{
-		"chinese": "买一些花",
 		"english": "to buy some flowers",
-		"soundmark": "/tə/ /baɪ/ /səm/ /'flaʊɚz/"
+		"soundmark": "/tə/ /baɪ/ /səm/ /'flaʊɚz/",
+		"vietnamese": "[VI:买一些花]"
 	},
 	{
-		"chinese": "他停止",
 		"english": "he stopped",
-		"soundmark": "/hi/ /stɑpt/"
+		"soundmark": "/hi/ /stɑpt/",
+		"vietnamese": "Anh ấy停止"
 	},
 	{
-		"chinese": "他停下来去买一些花",
 		"english": "he stopped to buy some flowers",
-		"soundmark": "/hi/ /stɑpt/ /tə/ /baɪ/ /səm/ /'flaʊɚz/"
+		"soundmark": "/hi/ /stɑpt/ /tə/ /baɪ/ /səm/ /'flaʊɚz/",
+		"vietnamese": "Anh ấy停下来去买一些花"
 	},
 	{
-		"chinese": "路",
 		"english": "way",
-		"soundmark": "/we/"
+		"soundmark": "/we/",
+		"vietnamese": "[VI:路]"
 	},
 	{
-		"chinese": "他的",
 		"english": "his",
-		"soundmark": "/hɪz/"
+		"soundmark": "/hɪz/",
+		"vietnamese": "Anh ấy的"
 	},
 	{
-		"chinese": "他的路",
 		"english": "his way",
-		"soundmark": "/hɪz/ /we/"
+		"soundmark": "/hɪz/ /we/",
+		"vietnamese": "Anh ấy的路"
 	},
 	{
-		"chinese": "家",
 		"english": "home",
-		"soundmark": "/hom/"
+		"soundmark": "/hom/",
+		"vietnamese": "[VI:家]"
 	},
 	{
-		"chinese": "他回家的路",
 		"english": "his way home",
-		"soundmark": "/hɪz/ /we/ /hom/"
+		"soundmark": "/hɪz/ /we/ /hom/",
+		"vietnamese": "Anh ấy回家的路"
 	},
 	{
-		"chinese": "在他回家的路上",
 		"english": "on his way home",
-		"soundmark": "/ɑn/ /hɪz/ /we/ /hom/"
+		"soundmark": "/ɑn/ /hɪz/ /we/ /hom/",
+		"vietnamese": "在Anh ấy回家的路上"
 	},
 	{
-		"chinese": "他停下来去买一些花",
 		"english": "he stopped to buy some flowers",
-		"soundmark": "/hi/ /stɑpt/ /tə/ /baɪ/ /səm/ /'flaʊɚz/"
+		"soundmark": "/hi/ /stɑpt/ /tə/ /baɪ/ /səm/ /'flaʊɚz/",
+		"vietnamese": "Anh ấy停下来去买一些花"
 	},
 	{
-		"chinese": "他在他回家的路上停下来去买一些花",
 		"english": "he stopped to buy some flowers on his way home",
-		"soundmark": "/hi/ /stɑpt/ /tə/ /baɪ/ /səm/ /'flaʊɚz/ /ɑn/ /hɪz/ /we/ /hom/"
+		"soundmark": "/hi/ /stɑpt/ /tə/ /baɪ/ /səm/ /'flaʊɚz/ /ɑn/ /hɪz/ /we/ /hom/",
+		"vietnamese": "Anh ấy在他回家的路上停下来去买一些花"
 	},
 	{
-		"chinese": "买(ing形式)",
 		"english": "buying",
-		"soundmark": "/'baɪɪŋ/"
+		"soundmark": "/'baɪɪŋ/",
+		"vietnamese": "[VI:买(ing形式)]"
 	},
 	{
-		"chinese": "花",
 		"english": "flowers",
-		"soundmark": "/'flaʊɚz/"
+		"soundmark": "/'flaʊɚz/",
+		"vietnamese": "[VI:花]"
 	},
 	{
-		"chinese": "买花(ing形式)",
 		"english": "buying flowers",
-		"soundmark": "/'baɪɪŋ/ /'flaʊɚz/"
+		"soundmark": "/'baɪɪŋ/ /'flaʊɚz/",
+		"vietnamese": "[VI:买花(ing形式)]"
 	},
 	{
-		"chinese": "他停止",
 		"english": "he stopped",
-		"soundmark": "/hi/ /stɑpt/"
+		"soundmark": "/hi/ /stɑpt/",
+		"vietnamese": "Anh ấy停止"
 	},
 	{
-		"chinese": "他停止买花",
 		"english": "he stopped buying flowers",
-		"soundmark": "/hi/ /stɑpt/ /'baɪɪŋ/ /'flaʊɚz/"
+		"soundmark": "/hi/ /stɑpt/ /'baɪɪŋ/ /'flaʊɚz/",
+		"vietnamese": "Anh ấy停止买花"
 	},
 	{
-		"chinese": "她",
 		"english": "her",
-		"soundmark": "/hɚ/"
+		"soundmark": "/hɚ/",
+		"vietnamese": "Cô ấy"
 	},
 	{
-		"chinese": "为了",
 		"english": "for",
-		"soundmark": "/fɚ/"
+		"soundmark": "/fɚ/",
+		"vietnamese": "[VI:为了]"
 	},
 	{
-		"chinese": "为她",
 		"english": "for her",
-		"soundmark": "/fɚ/ /hɚ/"
+		"soundmark": "/fɚ/ /hɚ/",
+		"vietnamese": "为Cô ấy"
 	},
 	{
-		"chinese": "他停止为她买花",
 		"english": "he stopped buying flowers for her",
-		"soundmark": "/hi/ /stɑpt/ /'baɪɪŋ/ /'flaʊɚz/ /fɚ/ /hɚ/"
+		"soundmark": "/hi/ /stɑpt/ /'baɪɪŋ/ /'flaʊɚz/ /fɚ/ /hɚ/",
+		"vietnamese": "Anh ấy停止为Cô ấy买花"
 	},
 	{
-		"chinese": "争吵",
 		"english": "fight",
-		"soundmark": "/faɪt/"
+		"soundmark": "/faɪt/",
+		"vietnamese": "[VI:争吵]"
 	},
 	{
-		"chinese": "一次争吵",
 		"english": "a fight",
-		"soundmark": "/ə/ /faɪt/"
+		"soundmark": "/ə/ /faɪt/",
+		"vietnamese": "[VI:一次争吵]"
 	},
 	{
-		"chinese": "他们",
 		"english": "they",
-		"soundmark": "/ðe/"
+		"soundmark": "/ðe/",
+		"vietnamese": "Họ"
 	},
 	{
-		"chinese": "有",
 		"english": "have",
-		"soundmark": "/hæv/"
+		"soundmark": "/hæv/",
+		"vietnamese": "[VI:有]"
 	},
 	{
-		"chinese": "他们有",
 		"english": "they have",
-		"soundmark": "/ðe/ /hæv/"
+		"soundmark": "/ðe/ /hæv/",
+		"vietnamese": "Họ有"
 	},
 	{
-		"chinese": "他们有一次争吵",
 		"english": "they have a fight",
-		"soundmark": "/ðe/ /hæv/ /ə/ /faɪt/"
+		"soundmark": "/ðe/ /hæv/ /ə/ /faɪt/",
+		"vietnamese": "Họ有一次争吵"
 	},
 	{
-		"chinese": "他们(过去)有一次争吵",
 		"english": "they had a fight",
-		"soundmark": "/ðe/ /hæd/ /ə/ /faɪt/"
+		"soundmark": "/ðe/ /hæd/ /ə/ /faɪt/",
+		"vietnamese": "Họ(过去)有一次争吵"
 	},
 	{
-		"chinese": "在......之后",
 		"english": "after",
-		"soundmark": "/'æftɚ/"
+		"soundmark": "/'æftɚ/",
+		"vietnamese": "[VI:在......之后]"
 	},
 	{
-		"chinese": "在他们(过去)有一次争吵之后",
 		"english": "after they had a fight",
-		"soundmark": "/'æftɚ/ /ðe/ /hæd/ /ə/ /faɪt/"
+		"soundmark": "/'æftɚ/ /ðe/ /hæd/ /ə/ /faɪt/",
+		"vietnamese": "在Họ(过去)有一次争吵之后"
 	},
 	{
-		"chinese": "他停止为她买花",
 		"english": "he stopped buying flowers for her",
-		"soundmark": "/hi/ /stɑpt/ /'baɪɪŋ/ /'flaʊɚz/ /fɚ/ /hɚ/"
+		"soundmark": "/hi/ /stɑpt/ /'baɪɪŋ/ /'flaʊɚz/ /fɚ/ /hɚ/",
+		"vietnamese": "Anh ấy停止为Cô ấy买花"
 	},
 	{
-		"chinese": "在他们(过去)有一次争吵之后他停止为她买花",
 		"english": "he stopped buying flowers for her after they had a fight",
-		"soundmark": "/hi/ /stɑpt/ /'baɪɪŋ/ /'flaʊɚz/ /fɚ/ /hɚ/ /'æftɚ/ /ðe/ /hæd/ /ə/ /faɪt/"
+		"soundmark": "/hi/ /stɑpt/ /'baɪɪŋ/ /'flaʊɚz/ /fɚ/ /hɚ/ /'æftɚ/ /ðe/ /hæd/ /ə/ /faɪt/",
+		"vietnamese": "在Họ(过去)有一次争吵之后Anh ấy停止为Cô ấy买花"
 	},
 	{
-		"chinese": "记得",
 		"english": "to remember",
-		"soundmark": "/tə/ /rɪ'mɛmbɚ/"
+		"soundmark": "/tə/ /rɪ'mɛmbɚ/",
+		"vietnamese": "[VI:记得]"
 	},
 	{
-		"chinese": "我需要",
 		"english": "I need",
-		"soundmark": "/aɪ/ /nid/"
+		"soundmark": "/aɪ/ /nid/",
+		"vietnamese": "Tôi cần"
 	},
 	{
-		"chinese": "我需要记得",
 		"english": "I need to remember",
-		"soundmark": "/aɪ/ /nid/ /tə/ /rɪ'mɛmbɚ/"
+		"soundmark": "/aɪ/ /nid/ /tə/ /rɪ'mɛmbɚ/",
+		"vietnamese": "Tôi cần记得"
 	},
 	{
-		"chinese": "打电话给......",
 		"english": "to call",
-		"soundmark": "/tə/ /kɔl/"
+		"soundmark": "/tə/ /kɔl/",
+		"vietnamese": "[VI:打电话给......]"
 	},
 	{
-		"chinese": "妈妈",
 		"english": "mom",
-		"soundmark": "/mɑm/"
+		"soundmark": "/mɑm/",
+		"vietnamese": "[VI:妈妈]"
 	},
 	{
-		"chinese": "我的",
 		"english": "my",
-		"soundmark": "/maɪ/"
+		"soundmark": "/maɪ/",
+		"vietnamese": "Tôi的"
 	},
 	{
-		"chinese": "我的妈妈",
 		"english": "my mom",
-		"soundmark": "/maɪ/ /mɑm/"
+		"soundmark": "/maɪ/ /mɑm/",
+		"vietnamese": "Tôi的妈妈"
 	},
 	{
-		"chinese": "打电话给我的妈妈",
 		"english": "to call my mom",
-		"soundmark": "/tə/ /kɔl/ /maɪ/ /mɑm/"
+		"soundmark": "/tə/ /kɔl/ /maɪ/ /mɑm/",
+		"vietnamese": "打电话给Tôi的妈妈"
 	},
 	{
-		"chinese": "明天",
 		"english": "tomorrow",
-		"soundmark": "/tə'mɔro/"
+		"soundmark": "/tə'mɔro/",
+		"vietnamese": "ngày mai"
 	},
 	{
-		"chinese": "明天打电话给我的妈妈",
 		"english": "to call my mom tomorrow",
-		"soundmark": "/tə/ /kɔl/ /maɪ/ /mɑm/ /tə'mɔro/"
+		"soundmark": "/tə/ /kɔl/ /maɪ/ /mɑm/ /tə'mɔro/",
+		"vietnamese": "ngày mai打电话给Tôi的妈妈"
 	},
 	{
-		"chinese": "我需要记得",
 		"english": "I need to remember",
-		"soundmark": "/aɪ/ /nid/ /tə/ /rɪ'mɛmbɚ/"
+		"soundmark": "/aɪ/ /nid/ /tə/ /rɪ'mɛmbɚ/",
+		"vietnamese": "Tôi cần记得"
 	},
 	{
-		"chinese": "我需要记得明天打电话给我的妈妈",
 		"english": "I need to remember to call my mom tomorrow",
-		"soundmark": "/aɪ/ /nid/ /tə/ /rɪ'mɛmbɚ/ /tə/ /kɔl/ /maɪ/ /mɑm/ /tə'mɔro/"
+		"soundmark": "/aɪ/ /nid/ /tə/ /rɪ'mɛmbɚ/ /tə/ /kɔl/ /maɪ/ /mɑm/ /tə'mɔro/",
+		"vietnamese": "Tôi cần记得ngày mai打电话给Tôi的妈妈"
 	},
 	{
-		"chinese": "打电话给......",
 		"english": "to call",
-		"soundmark": "/tə/ /kɔl/"
+		"soundmark": "/tə/ /kɔl/",
+		"vietnamese": "[VI:打电话给......]"
 	},
 	{
-		"chinese": "打电话给你",
 		"english": "to call you",
-		"soundmark": "/tə/ /kɔl/ /ju/"
+		"soundmark": "/tə/ /kɔl/ /ju/",
+		"vietnamese": "打电话给Bạn"
 	},
 	{
-		"chinese": "打电话给你(ing形式)",
 		"english": "calling you",
-		"soundmark": "/ˈkɔlɪŋ/ /ju/"
+		"soundmark": "/ˈkɔlɪŋ/ /ju/",
+		"vietnamese": "打电话给Bạn(ing形式)"
 	},
 	{
-		"chinese": "昨天晚上",
 		"english": "last night",
-		"soundmark": "/læst/ /naɪt/"
+		"soundmark": "/læst/ /naɪt/",
+		"vietnamese": "[VI:昨天晚上]"
 	},
 	{
-		"chinese": "昨天晚上打电话给你(ing形式)",
 		"english": "calling you last night",
-		"soundmark": "/ˈkɔlɪŋ/ /ju/ /læst/ /naɪt/"
+		"soundmark": "/ˈkɔlɪŋ/ /ju/ /læst/ /naɪt/",
+		"vietnamese": "昨天晚上打电话给Bạn(ing形式)"
 	},
 	{
-		"chinese": "我记得",
 		"english": "I remember",
-		"soundmark": "/aɪ/ /rɪ'mɛmbɚ/"
+		"soundmark": "/aɪ/ /rɪ'mɛmbɚ/",
+		"vietnamese": "Tôi记得"
 	},
 	{
-		"chinese": "我记得昨天晚上打电话给你",
 		"english": "I remember calling you last night",
-		"soundmark": "/aɪ/ /rɪ'mɛmbɚ/ /ˈkɔlɪŋ/ /ju/ /læst/ /naɪt/"
+		"soundmark": "/aɪ/ /rɪ'mɛmbɚ/ /ˈkɔlɪŋ/ /ju/ /læst/ /naɪt/",
+		"vietnamese": "Tôi记得昨天晚上打电话给Bạn"
 	},
 	{
-		"chinese": "忘记",
 		"english": "to forget",
-		"soundmark": "/tə/ /fɚ'ɡɛt/"
+		"soundmark": "/tə/ /fɚ'ɡɛt/",
+		"vietnamese": "[VI:忘记]"
 	},
 	{
-		"chinese": "我忘记",
 		"english": "I forget",
-		"soundmark": "/aɪ/ /fɚ'ɡɛt/"
+		"soundmark": "/aɪ/ /fɚ'ɡɛt/",
+		"vietnamese": "Tôi忘记"
 	},
 	{
-		"chinese": "我忘记(过去)",
 		"english": "I forgot",
-		"soundmark": "/aɪ/ /fɚ'ɡɑt/"
+		"soundmark": "/aɪ/ /fɚ'ɡɑt/",
+		"vietnamese": "Tôi忘记(过去)"
 	},
 	{
-		"chinese": "昨天晚上打电话给你(ing形式)",
 		"english": "calling you last night",
-		"soundmark": "/ˈkɔlɪŋ/ /ju/ /læst/ /naɪt/"
+		"soundmark": "/ˈkɔlɪŋ/ /ju/ /læst/ /naɪt/",
+		"vietnamese": "昨天晚上打电话给Bạn(ing形式)"
 	},
 	{
-		"chinese": "我忘记昨天晚上打电话给你",
 		"english": "I forgot calling you last night",
-		"soundmark": "/aɪ/ /fɚ'ɡɑt/ /ˈkɔlɪŋ/ /ju/ /læst/ /naɪt/"
+		"soundmark": "/aɪ/ /fɚ'ɡɑt/ /ˈkɔlɪŋ/ /ju/ /læst/ /naɪt/",
+		"vietnamese": "Tôi忘记昨天晚上打电话给Bạn"
 	},
 	{
-		"chinese": "打电话给......",
 		"english": "to call",
-		"soundmark": "/tə/ /kɔl/"
+		"soundmark": "/tə/ /kɔl/",
+		"vietnamese": "[VI:打电话给......]"
 	},
 	{
-		"chinese": "昨天晚上打电话给你",
 		"english": "to call you last night",
-		"soundmark": "/tə/ /kɔl/ /ju/ /læst/ /naɪt/"
+		"soundmark": "/tə/ /kɔl/ /ju/ /læst/ /naɪt/",
+		"vietnamese": "昨天晚上打电话给Bạn"
 	},
 	{
-		"chinese": "我忘记昨晚去给你打电话",
 		"english": "I forgot to call you last night",
-		"soundmark": "/aɪ/ /fɚ'ɡɑt/ /tə/ /kɔl/ /ju/ /læst/ /naɪt/"
+		"soundmark": "/aɪ/ /fɚ'ɡɑt/ /tə/ /kɔl/ /ju/ /læst/ /naɪt/",
+		"vietnamese": "Tôi忘记昨晚去给Bạn打电话"
 	}
 ]

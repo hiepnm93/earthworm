@@ -6,7 +6,7 @@
         v-if="isMobile"
         @click="startGame"
       >
-        准备好了吗？ 点我开始
+        准备好了吗？ 点我Bắt đầu
       </button>
       <p v-else>准备好了吗？(按任意键开启游戏)</p>
     </div>

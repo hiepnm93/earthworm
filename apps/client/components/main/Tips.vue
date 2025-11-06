@@ -51,14 +51,14 @@ const keybindings = computed(() => {
   const questionItems = [
     {
       keys: "Enter",
-      text: "提交",
+      text: "Gửi",
       eventFn: () => {
         submitAnswer();
       },
     },
     {
       keys: shortcutKeys.value.answer,
-      text: isAnswerTip() ? "隐藏答案" : "显示答案",
+      text: isAnswerTip() ? "Ẩn答案" : "Hiện答案",
       eventFn: () => {
         toggleAnswerTip();
       },
@@ -68,14 +68,14 @@ const keybindings = computed(() => {
   const answerItems = [
     {
       keys: "Enter",
-      text: "下一题",
+      text: "Câu tiếp theo",
       eventFn: () => {
         goToNextQuestion();
       },
     },
     {
       keys: shortcutKeys.value.answer,
-      text: "再来一次",
+      text: "Làm lại",
       eventFn: () => {
         showQuestion();
       },
@@ -85,7 +85,7 @@ const keybindings = computed(() => {
   const normalItems = [
     {
       keys: shortcutKeys.value.sound,
-      text: "播放发音",
+      text: "Phát发音",
       eventFn: playSound,
     },
     {
@@ -116,11 +116,11 @@ function useMastered() {
   const addLoading = ref(false);
   async function handleMastered() {
     if (!isAuthenticated()) {
-      Message.warning("需要登录哦");
+      Message.warning("需要Đăng nhập哦");
       return;
     }
 
-    // updateMarketedStatements 会影响 isLastStatement 返回的结果
+    // updateMarketedStatements 会影响 isLastStatement Quay lại的结果
     // 所以我们提前调用 isLastStatement 来记录好值
     if (addLoading.value) return;
     const isLastStatement = courseStore.isLastStatement();
@@ -135,9 +135,9 @@ function useMastered() {
     if (isLastStatement) {
       showSummary();
     } else {
-      // 看看消完之后 是否全部都没有了
-      // 这个是在 updatemarketedStatements 之后
-      // 处理的 case 比如只剩下2个 good ，那么消除一个 good 之后 那么列表就应该为0了
+      // 看看消完之后 是否Tất cả都没有了
+      // 这cái是在 updatemarketedStatements 之后
+      // 处理的 case 比如只剩下2cái good ，那么消除mộtcái good 之后 那么Danh sách就应该为0了
       if (courseStore.isAllMastered()) {
         showSummary();
         return;
@@ -192,7 +192,7 @@ function useShowAnswer(key: string) {
 
   function handleShowAnswer(e: KeyboardEvent) {
     e.preventDefault();
-    // NOTE: registerShortcut 事件会记住注册时的面板状态，所以这里要重新获取下面板信息
+    // NOTE: registerShortcut 事件会记住Đăng ký时的面板状态，所以这里要重新获取下面板Thông tin
     const { showModal } = useSummary();
     if (showModal.value) return;
 

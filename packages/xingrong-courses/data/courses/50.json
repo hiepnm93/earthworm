@@ -1,782 +1,782 @@
 [
 	{
-		"chinese": "支付",
 		"english": "to pay",
-		"soundmark": "/tə/ /pe/"
+		"soundmark": "/tə/ /pe/",
+		"vietnamese": "[VI:支付]"
 	},
 	{
-		"chinese": "账单",
 		"english": "the bill",
-		"soundmark": "/ðə/ /bɪl/"
+		"soundmark": "/ðə/ /bɪl/",
+		"vietnamese": "[VI:账单]"
 	},
 	{
-		"chinese": "支付账单",
 		"english": "to pay the bill",
-		"soundmark": "/tə/ /pe/ /ðə/ /bɪl/"
+		"soundmark": "/tə/ /pe/ /ðə/ /bɪl/",
+		"vietnamese": "[VI:支付账单]"
 	},
 	{
-		"chinese": "我支付账单",
 		"english": "I pay the bill",
-		"soundmark": "/aɪ/ /pe/ /ðə/ /bɪl/"
+		"soundmark": "/aɪ/ /pe/ /ðə/ /bɪl/",
+		"vietnamese": "Tôi支付账单"
 	},
 	{
-		"chinese": "支付(过去分词)",
 		"english": "paid",
-		"soundmark": "/ped/"
+		"soundmark": "/ped/",
+		"vietnamese": "[VI:支付(过去分词)]"
 	},
 	{
-		"chinese": "我(已经)支付了账单",
 		"english": "I have paid the bill",
-		"soundmark": "/aɪ/ /hæv/ /ped/ /ðə/ /bɪl/"
+		"soundmark": "/aɪ/ /hæv/ /ped/ /ðə/ /bɪl/",
+		"vietnamese": "Tôi(已经)支付了账单"
 	},
 	{
-		"chinese": "老师",
 		"english": "teacher",
-		"soundmark": "/'titʃɚ/"
+		"soundmark": "/'titʃɚ/",
+		"vietnamese": "[VI:老师]"
 	},
 	{
-		"chinese": "我是一名老师",
 		"english": "I am a teacher",
-		"soundmark": "/aɪ/ /æm/ /ə/ /'titʃɚ/"
+		"soundmark": "/aɪ/ /æm/ /ə/ /'titʃɚ/",
+		"vietnamese": "Tôi là一名老师"
 	},
 	{
-		"chinese": "我(已经)是一名老师了",
 		"english": "I have been a teacher",
-		"soundmark": "/aɪ/ /hæv/ /bɪn/ /ə/ /'titʃɚ/"
+		"soundmark": "/aɪ/ /hæv/ /bɪn/ /ə/ /'titʃɚ/",
+		"vietnamese": "Tôi(已经)là一名老师了"
 	},
 	{
-		"chinese": "年",
 		"english": "year",
-		"soundmark": "/jɪr/"
+		"soundmark": "/jɪr/",
+		"vietnamese": "[VI:年]"
 	},
 	{
-		"chinese": "五年",
 		"english": "five years",
-		"soundmark": "/faɪv/ /jɪrz/"
+		"soundmark": "/faɪv/ /jɪrz/",
+		"vietnamese": "[VI:五年]"
 	},
 	{
-		"chinese": "我(已经)是一名老师五年了",
 		"english": "I have been a teacher for five years",
-		"soundmark": "/aɪ/ /hæv/ /bɪn/ /ə/ /'titʃɚ/ /fɚ/ /faɪv/ /jɪrz/"
+		"soundmark": "/aɪ/ /hæv/ /bɪn/ /ə/ /'titʃɚ/ /fɚ/ /faɪv/ /jɪrz/",
+		"vietnamese": "Tôi(已经)là一名老师五年了"
 	},
 	{
-		"chinese": "自从......以来",
 		"english": "since",
-		"soundmark": "/sɪns/"
+		"soundmark": "/sɪns/",
+		"vietnamese": "[VI:自从......以来]"
 	},
 	{
-		"chinese": "我自从2019年(已经)是一名老师了",
 		"english": "I have been a teacher since 2019",
-		"soundmark": "/aɪ/ /hæv/ /bɪn/ /ə/ /'titʃɚ/ /sɪns/ /'twɛnti/ /ˌnaɪn'tin/"
+		"soundmark": "/aɪ/ /hæv/ /bɪn/ /ə/ /'titʃɚ/ /sɪns/ /'twɛnti/ /ˌnaɪn'tin/",
+		"vietnamese": "Tôi自从2019年(已经)là一名老师了"
 	},
 	{
-		"chinese": "医生",
 		"english": "doctor",
-		"soundmark": "/'dɑktɚ/"
+		"soundmark": "/'dɑktɚ/",
+		"vietnamese": "[VI:医生]"
 	},
 	{
-		"chinese": "他是一名医生",
 		"english": "he is a doctor",
-		"soundmark": "/hi/ /ɪz/ /ə/ /'dɑktɚ/"
+		"soundmark": "/hi/ /ɪz/ /ə/ /'dɑktɚ/",
+		"vietnamese": "Anh ấy là一名医生"
 	},
 	{
-		"chinese": "他(已经)是一名医生了",
 		"english": "he has been a doctor",
-		"soundmark": "/hi/ /hæz/ /bɪn/ /ə/ /'dɑktɚ/"
+		"soundmark": "/hi/ /hæz/ /bɪn/ /ə/ /'dɑktɚ/",
+		"vietnamese": "Anh ấy(已经)là一名医生了"
 	},
 	{
-		"chinese": "他(已经)是一名医生15年了",
 		"english": "he has been a doctor for fifteen years",
-		"soundmark": "/hi/ /hæz/ /bɪn/ /ə/ /'dɑktɚ/ /fɚ/ /ˌfɪfˈtin/ /jɪrz/"
+		"soundmark": "/hi/ /hæz/ /bɪn/ /ə/ /'dɑktɚ/ /fɚ/ /ˌfɪfˈtin/ /jɪrz/",
+		"vietnamese": "Anh ấy(已经)là一名医生15年了"
 	},
 	{
-		"chinese": "生病的",
 		"english": "sick",
-		"soundmark": "/sɪk/"
+		"soundmark": "/sɪk/",
+		"vietnamese": "[VI:生病的]"
 	},
 	{
-		"chinese": "他是生病的",
 		"english": "he is sick",
-		"soundmark": "/hi/ /ɪz/ /sɪk/"
+		"soundmark": "/hi/ /ɪz/ /sɪk/",
+		"vietnamese": "Anh ấy là生病的"
 	},
 	{
-		"chinese": "他(已经)生病了",
 		"english": "he has been sick",
-		"soundmark": "/hi/ /hæz/ /bɪn/ /sɪk/"
+		"soundmark": "/hi/ /hæz/ /bɪn/ /sɪk/",
+		"vietnamese": "Anh ấy(已经)生病了"
 	},
 	{
-		"chinese": "一星期",
 		"english": "a week",
-		"soundmark": "/ə/ /wik/"
+		"soundmark": "/ə/ /wik/",
+		"vietnamese": "[VI:一星期]"
 	},
 	{
-		"chinese": "他(已经)生病一星期了",
 		"english": "he has been sick for a week",
-		"soundmark": "/hi/ /hæz/ /bɪn/ /sɪk/ /fɚ/ /ə/ /wik/"
+		"soundmark": "/hi/ /hæz/ /bɪn/ /sɪk/ /fɚ/ /ə/ /wik/",
+		"vietnamese": "Anh ấy(已经)生病一星期了"
 	},
 	{
-		"chinese": "结婚",
 		"english": "to marry",
-		"soundmark": "/tə/ /'mæri/"
+		"soundmark": "/tə/ /'mæri/",
+		"vietnamese": "[VI:结婚]"
 	},
 	{
-		"chinese": "结婚的",
 		"english": "married",
-		"soundmark": "/ˈmærid/"
+		"soundmark": "/ˈmærid/",
+		"vietnamese": "[VI:结婚的]"
 	},
 	{
-		"chinese": "他们是结婚的",
 		"english": "they are married",
-		"soundmark": "/ðe/ /ɚ/ /ˈmærid/"
+		"soundmark": "/ðe/ /ɚ/ /ˈmærid/",
+		"vietnamese": "Họlà结婚的"
 	},
 	{
-		"chinese": "他们(已经)结婚了",
 		"english": "they have been married",
-		"soundmark": "/ðe/ /hæv/ /bɪn/ /ˈmærid/"
+		"soundmark": "/ðe/ /hæv/ /bɪn/ /ˈmærid/",
+		"vietnamese": "Họ(已经)结婚了"
 	},
 	{
-		"chinese": "十年",
 		"english": "ten years",
-		"soundmark": "/tɛn/ /jɪrz/"
+		"soundmark": "/tɛn/ /jɪrz/",
+		"vietnamese": "[VI:十年]"
 	},
 	{
-		"chinese": "他们(已经)结婚十年了",
 		"english": "they have been married for ten years",
-		"soundmark": "/ðe/ /hæv/ /bɪn/ /ˈmærid/ /fɚ/ /tɛn/ /jɪrz/"
+		"soundmark": "/ðe/ /hæv/ /bɪn/ /ˈmærid/ /fɚ/ /tɛn/ /jɪrz/",
+		"vietnamese": "Họ(已经)结婚十年了"
 	},
 	{
-		"chinese": "朋友",
 		"english": "friend",
-		"soundmark": "/frɛnd/"
+		"soundmark": "/frɛnd/",
+		"vietnamese": "[VI:朋友]"
 	},
 	{
-		"chinese": "他们是朋友",
 		"english": "they are friends",
-		"soundmark": "/ðe/ /ɚ/ /frɛndz/"
+		"soundmark": "/ðe/ /ɚ/ /frɛndz/",
+		"vietnamese": "Họlà朋友"
 	},
 	{
-		"chinese": "他们(已经)是朋友了",
 		"english": "they have been friends",
-		"soundmark": "/ðe/ /hæv/ /bɪn/ /frɛndz/"
+		"soundmark": "/ðe/ /hæv/ /bɪn/ /frɛndz/",
+		"vietnamese": "Họ(已经)là朋友了"
 	},
 	{
-		"chinese": "自从......以来",
 		"english": "since",
-		"soundmark": "/sɪns/"
+		"soundmark": "/sɪns/",
+		"vietnamese": "[VI:自从......以来]"
 	},
 	{
-		"chinese": "幼儿园",
 		"english": "kindergarten",
-		"soundmark": "/ˈkɪndɚɡɑrtn/"
+		"soundmark": "/ˈkɪndɚɡɑrtn/",
+		"vietnamese": "[VI:幼儿园]"
 	},
 	{
-		"chinese": "自从幼儿园",
 		"english": "since kindergarten",
-		"soundmark": "/sɪns/ /ˈkɪndɚɡɑrtn/"
+		"soundmark": "/sɪns/ /ˈkɪndɚɡɑrtn/",
+		"vietnamese": "[VI:自从幼儿园]"
 	},
 	{
-		"chinese": "他们自从幼儿园(已经)是朋友了",
 		"english": "they have been friends since kindergarten",
-		"soundmark": "/ðe/ /hæv/ /bɪn/ /frɛndz/ /sɪns/ /ˈkɪndɚɡɑrtn/"
+		"soundmark": "/ðe/ /hæv/ /bɪn/ /frɛndz/ /sɪns/ /ˈkɪndɚɡɑrtn/",
+		"vietnamese": "Họ自从幼儿园(已经)là朋友了"
 	},
 	{
-		"chinese": "我们是朋友",
 		"english": "we are friends",
-		"soundmark": "/wi/ /ɚ/ /frɛndz/"
+		"soundmark": "/wi/ /ɚ/ /frɛndz/",
+		"vietnamese": "Chúng tôilà朋友"
 	},
 	{
-		"chinese": "我们(已经)是朋友了",
 		"english": "we have been friends",
-		"soundmark": "/wi/ /hæv/ /bɪn/ /frɛndz/"
+		"soundmark": "/wi/ /hæv/ /bɪn/ /frɛndz/",
+		"vietnamese": "Chúng tôi(已经)là朋友了"
 	},
 	{
-		"chinese": "孩子",
 		"english": "child",
-		"soundmark": "/tʃaɪld/"
+		"soundmark": "/tʃaɪld/",
+		"vietnamese": "[VI:孩子]"
 	},
 	{
-		"chinese": "童年",
 		"english": "childhood",
-		"soundmark": "/ˈtʃaɪldhʊd/"
+		"soundmark": "/ˈtʃaɪldhʊd/",
+		"vietnamese": "[VI:童年]"
 	},
 	{
-		"chinese": "自从......以来",
 		"english": "since",
-		"soundmark": "/sɪns/"
+		"soundmark": "/sɪns/",
+		"vietnamese": "[VI:自从......以来]"
 	},
 	{
-		"chinese": "自从童年",
 		"english": "since childhood",
-		"soundmark": "/sɪns/ /ˈtʃaɪldhʊd/"
+		"soundmark": "/sɪns/ /ˈtʃaɪldhʊd/",
+		"vietnamese": "[VI:自从童年]"
 	},
 	{
-		"chinese": "我们自从童年(已经)是朋友了",
 		"english": "we have been friends since childhood",
-		"soundmark": "/wi/ /hæv/ /bɪn/ /frɛndz/ /sɪns/ /ˈtʃaɪldhʊd/"
+		"soundmark": "/wi/ /hæv/ /bɪn/ /frɛndz/ /sɪns/ /ˈtʃaɪldhʊd/",
+		"vietnamese": "Chúng tôi自从童年(已经)là朋友了"
 	},
 	{
-		"chinese": "邻居",
 		"english": "neighbor",
-		"soundmark": "/ˈnebɚ/"
+		"soundmark": "/ˈnebɚ/",
+		"vietnamese": "[VI:邻居]"
 	},
 	{
-		"chinese": "我们是邻居",
 		"english": "we are neighbors",
-		"soundmark": "/wi/ /ɚ/ /ˈnebɚz/"
+		"soundmark": "/wi/ /ɚ/ /ˈnebɚz/",
+		"vietnamese": "Chúng tôilà邻居"
 	},
 	{
-		"chinese": "我们(已经)是邻居了",
 		"english": "we have been neighbors",
-		"soundmark": "/wi/ /hæv/ /bɪn/ /ˈnebɚz/"
+		"soundmark": "/wi/ /hæv/ /bɪn/ /ˈnebɚz/",
+		"vietnamese": "Chúng tôi(已经)là邻居了"
 	},
 	{
-		"chinese": "邻居",
 		"english": "neighbor",
-		"soundmark": "/ˈnebɚ/"
+		"soundmark": "/ˈnebɚ/",
+		"vietnamese": "[VI:邻居]"
 	},
 	{
-		"chinese": "街区",
 		"english": "neighborhood",
-		"soundmark": "/ˈnebɚˌhʊd/"
+		"soundmark": "/ˈnebɚˌhʊd/",
+		"vietnamese": "[VI:街区]"
 	},
 	{
-		"chinese": "这个街区",
 		"english": "this neighborhood",
-		"soundmark": "/ðɪs/ /ˈnebɚˌhʊd/"
+		"soundmark": "/ðɪs/ /ˈnebɚˌhʊd/",
+		"vietnamese": "[VI:这个街区]"
 	},
 	{
-		"chinese": "搬家",
 		"english": "to move",
-		"soundmark": "/tə/ /muv/"
+		"soundmark": "/tə/ /muv/",
+		"vietnamese": "[VI:搬家]"
 	},
 	{
-		"chinese": "搬家(过去式)",
 		"english": "moved",
-		"soundmark": "/muvd/"
+		"soundmark": "/muvd/",
+		"vietnamese": "[VI:搬家(过去式)]"
 	},
 	{
-		"chinese": "我们搬家(过去式)",
 		"english": "we moved",
-		"soundmark": "/wi/ /muvd/"
+		"soundmark": "/wi/ /muvd/",
+		"vietnamese": "Chúng tôi搬家(过去式)"
 	},
 	{
-		"chinese": "我们搬家到这个街区",
 		"english": "we moved to this neighborhood",
-		"soundmark": "/wi/ /muvd/ /tə/ /ðɪs/ /ˈnebɚˌhʊd/"
+		"soundmark": "/wi/ /muvd/ /tə/ /ðɪs/ /ˈnebɚˌhʊd/",
+		"vietnamese": "Chúng tôi搬家到这个街区"
 	},
 	{
-		"chinese": "自从......以来",
 		"english": "since",
-		"soundmark": "/sɪns/"
+		"soundmark": "/sɪns/",
+		"vietnamese": "[VI:自从......以来]"
 	},
 	{
-		"chinese": "自从我们搬家到这个街区",
 		"english": "since we moved to this neighborhood",
-		"soundmark": "/sɪns/ /wi/ /muvd/ /tə/ /ðɪs/ /ˈnebɚˌhʊd/"
+		"soundmark": "/sɪns/ /wi/ /muvd/ /tə/ /ðɪs/ /ˈnebɚˌhʊd/",
+		"vietnamese": "自从Chúng tôi搬家到这个街区"
 	},
 	{
-		"chinese": "两个都",
 		"english": "both",
-		"soundmark": "/boθ/"
+		"soundmark": "/boθ/",
+		"vietnamese": "[VI:两个都]"
 	},
 	{
-		"chinese": "自从我们两个都搬家到这个街区",
 		"english": "since we both moved to this neighborhood",
-		"soundmark": "/sɪns/ /wi/ /boθ/ /muvd/ /tə/ /ðɪs/ /ˈnebɚˌhʊd/"
+		"soundmark": "/sɪns/ /wi/ /boθ/ /muvd/ /tə/ /ðɪs/ /ˈnebɚˌhʊd/",
+		"vietnamese": "自从Chúng tôi两个都搬家到这个街区"
 	},
 	{
-		"chinese": "我们(已经)是邻居了",
 		"english": "we have been neighbors",
-		"soundmark": "/wi/ /hæv/ /bɪn/ /ˈnebɚz/"
+		"soundmark": "/wi/ /hæv/ /bɪn/ /ˈnebɚz/",
+		"vietnamese": "Chúng tôi(已经)là邻居了"
 	},
 	{
-		"chinese": "我们(已经)是邻居了自从我们两个都搬家到这个街区",
 		"english": "we have been neighbors since we both moved to this neighborhood",
-		"soundmark": "/wi/ /hæv/ /bɪn/ /ˈnebɚz/ /sɪns/ /wi/ /boθ/ /muvd/ /tə/ /ðɪs/ /ˈnebɚˌhʊd/"
+		"soundmark": "/wi/ /hæv/ /bɪn/ /ˈnebɚz/ /sɪns/ /wi/ /boθ/ /muvd/ /tə/ /ðɪs/ /ˈnebɚˌhʊd/",
+		"vietnamese": "Chúng tôi(已经)là邻居了自从Tôi们两个都搬家到这个街区"
 	},
 	{
-		"chinese": "在这里",
 		"english": "here",
-		"soundmark": "/hɪr/"
+		"soundmark": "/hɪr/",
+		"vietnamese": "ở đây"
 	},
 	{
-		"chinese": "我在这里",
 		"english": "I am here",
-		"soundmark": "/aɪ/ /æm/ /hɪr/"
+		"soundmark": "/aɪ/ /æm/ /hɪr/",
+		"vietnamese": "Tôi ở đây"
 	},
 	{
-		"chinese": "我(已经)在这里过了",
 		"english": "I have been here",
-		"soundmark": "/aɪ/ /hæv/ /bɪn/ /hɪr/"
+		"soundmark": "/aɪ/ /hæv/ /bɪn/ /hɪr/",
+		"vietnamese": "Tôi(已经)ở đây过了"
 	},
 	{
-		"chinese": "在那里",
 		"english": "there",
-		"soundmark": "/ðɛr/"
+		"soundmark": "/ðɛr/",
+		"vietnamese": "[VI:在那里]"
 	},
 	{
-		"chinese": "我在那里",
 		"english": "I am there",
-		"soundmark": "/aɪ/ /æm/ /ðɛr/"
+		"soundmark": "/aɪ/ /æm/ /ðɛr/",
+		"vietnamese": "Tôi在那里"
 	},
 	{
-		"chinese": "我(已经)去过那里了",
 		"english": "I have been there",
-		"soundmark": "/aɪ/ /hæv/ /bɪn/ /ðɛr/"
+		"soundmark": "/aɪ/ /hæv/ /bɪn/ /ðɛr/",
+		"vietnamese": "Tôi(已经)去过那里了"
 	},
 	{
-		"chinese": "在国外",
 		"english": "abroad",
-		"soundmark": "/ə'brɔd/"
+		"soundmark": "/ə'brɔd/",
+		"vietnamese": "[VI:在国外]"
 	},
 	{
-		"chinese": "我在国外",
 		"english": "I am abroad",
-		"soundmark": "/aɪ/ /æm/ /ə'brɔd/"
+		"soundmark": "/aɪ/ /æm/ /ə'brɔd/",
+		"vietnamese": "Tôi在国外"
 	},
 	{
-		"chinese": "我(已经)去过国外",
 		"english": "I have been abroad",
-		"soundmark": "/aɪ/ /hæv/ /bɪn/ /ə'brɔd/"
+		"soundmark": "/aɪ/ /hæv/ /bɪn/ /ə'brɔd/",
+		"vietnamese": "Tôi(已经)去过国外"
 	},
 	{
-		"chinese": "地方",
 		"english": "place",
-		"soundmark": "/ples/"
+		"soundmark": "/ples/",
+		"vietnamese": "[VI:地方]"
 	},
 	{
-		"chinese": "那个地方",
 		"english": "that place",
-		"soundmark": "/ðæt/ /ples/"
+		"soundmark": "/ðæt/ /ples/",
+		"vietnamese": "[VI:那个地方]"
 	},
 	{
-		"chinese": "我(已经)去过那个地方",
 		"english": "I have been to that place",
-		"soundmark": "/aɪ/ /hæv/ /bɪn/ /tə/ /ðæt/ /ples/"
+		"soundmark": "/aɪ/ /hæv/ /bɪn/ /tə/ /ðæt/ /ples/",
+		"vietnamese": "Tôi(已经)去过那个地方"
 	},
 	{
-		"chinese": "还没有",
 		"english": "haven't",
-		"soundmark": "/ˈhævnt/"
+		"soundmark": "/ˈhævnt/",
+		"vietnamese": "[VI:还没有]"
 	},
 	{
-		"chinese": "我(还没有)去过那个地方",
 		"english": "I haven't been to that place",
-		"soundmark": "/aɪ/ /ˈhævnt/ /bɪn/ /tə/ /ðæt/ /ples/"
+		"soundmark": "/aɪ/ /ˈhævnt/ /bɪn/ /tə/ /ðæt/ /ples/",
+		"vietnamese": "Tôi(还没有)去过那个地方"
 	},
 	{
-		"chinese": "从来没有",
 		"english": "never",
-		"soundmark": "/'nɛvɚ/"
+		"soundmark": "/'nɛvɚ/",
+		"vietnamese": "[VI:从来没有]"
 	},
 	{
-		"chinese": "我从来没有去过那个地方",
 		"english": "I have never been to that place",
-		"soundmark": "/aɪ/ /hæv/ /'nɛvɚ/ /bɪn/ /tə/ /ðæt/ /ples/"
+		"soundmark": "/aɪ/ /hæv/ /'nɛvɚ/ /bɪn/ /tə/ /ðæt/ /ples/",
+		"vietnamese": "Tôi从来没有去过那个地方"
 	},
 	{
-		"chinese": "墙",
 		"english": "wall",
-		"soundmark": "/wɔl/"
+		"soundmark": "/wɔl/",
+		"vietnamese": "[VI:墙]"
 	},
 	{
-		"chinese": "伟大的",
 		"english": "great",
-		"soundmark": "/ɡret/"
+		"soundmark": "/ɡret/",
+		"vietnamese": "[VI:伟大的]"
 	},
 	{
-		"chinese": "长城",
 		"english": "The Great Wall",
-		"soundmark": "/ðə/ /ɡret/ /wɔl/"
+		"soundmark": "/ðə/ /ɡret/ /wɔl/",
+		"vietnamese": "[VI:长城]"
 	},
 	{
-		"chinese": "中国",
 		"english": "China",
-		"soundmark": "/ˈtʃaɪnə/"
+		"soundmark": "/ˈtʃaɪnə/",
+		"vietnamese": "[VI:中国]"
 	},
 	{
-		"chinese": "中国的长城",
 		"english": "The Great Wall of China",
-		"soundmark": "/ðə/ /ɡret/ /wɔl/ /əv/ /ˈtʃaɪnə/"
+		"soundmark": "/ðə/ /ɡret/ /wɔl/ /əv/ /ˈtʃaɪnə/",
+		"vietnamese": "[VI:中国的长城]"
 	},
 	{
-		"chinese": "我(已经)去过那个地方",
 		"english": "I have been to that place",
-		"soundmark": "/aɪ/ /hæv/ /bɪn/ /tə/ /ðæt/ /ples/"
+		"soundmark": "/aɪ/ /hæv/ /bɪn/ /tə/ /ðæt/ /ples/",
+		"vietnamese": "Tôi(已经)去过那个地方"
 	},
 	{
-		"chinese": "我(已经)去过中国的长城",
 		"english": "I have been to the Great Wall of China",
-		"soundmark": "/aɪ/ /hæv/ /bɪn/ /tə/ /ðə/ /ɡret/ /wɔl/ /əv/ /ˈtʃaɪnə/"
+		"soundmark": "/aɪ/ /hæv/ /bɪn/ /tə/ /ðə/ /ɡret/ /wɔl/ /əv/ /ˈtʃaɪnə/",
+		"vietnamese": "Tôi(已经)去过中国的长城"
 	},
 	{
-		"chinese": "从来没有",
 		"english": "never",
-		"soundmark": "/'nɛvɚ/"
+		"soundmark": "/'nɛvɚ/",
+		"vietnamese": "[VI:从来没有]"
 	},
 	{
-		"chinese": "我从来没有去过中国的长城",
 		"english": "I have never been to the Great Wall of China",
-		"soundmark": "/aɪ/ /hæv/ /'nɛvɚ/ /bɪn/ /tə/ /ðə/ /ɡret/ /wɔl/ /əv/ /ˈtʃaɪnə/"
+		"soundmark": "/aɪ/ /hæv/ /'nɛvɚ/ /bɪn/ /tə/ /ðə/ /ɡret/ /wɔl/ /əv/ /ˈtʃaɪnə/",
+		"vietnamese": "Tôi从来没有去过中国的长城"
 	},
 	{
-		"chinese": "迪士尼乐园",
 		"english": "Disneyland",
-		"soundmark": "/'diznilænd/"
+		"soundmark": "/'diznilænd/",
+		"vietnamese": "[VI:迪士尼乐园]"
 	},
 	{
-		"chinese": "我(已经)去过迪士尼乐园",
 		"english": "I have been to Disneyland",
-		"soundmark": "/aɪ/ /hæv/ /bɪn/ /tə/ /'diznilænd/"
+		"soundmark": "/aɪ/ /hæv/ /bɪn/ /tə/ /'diznilænd/",
+		"vietnamese": "Tôi(已经)去过迪士尼乐园"
 	},
 	{
-		"chinese": "加州",
 		"english": "California",
-		"soundmark": "/ˌkælɪˈfɔrnjə/"
+		"soundmark": "/ˌkælɪˈfɔrnjə/",
+		"vietnamese": "[VI:加州]"
 	},
 	{
-		"chinese": "在加州的迪士尼乐园",
 		"english": "Disneyland in California",
-		"soundmark": "/'diznilænd/ /ɪn/ /ˌkælɪˈfɔrnjə/"
+		"soundmark": "/'diznilænd/ /ɪn/ /ˌkælɪˈfɔrnjə/",
+		"vietnamese": "[VI:在加州的迪士尼乐园]"
 	},
 	{
-		"chinese": "我(已经)去过在加州的迪士尼乐园",
 		"english": "I have been to Disneyland in California",
-		"soundmark": "/aɪ/ /hæv/ /bɪn/ /tə/ /'diznilænd/ /ɪn/ /ˌkælɪˈfɔrnjə/"
+		"soundmark": "/aɪ/ /hæv/ /bɪn/ /tə/ /'diznilænd/ /ɪn/ /ˌkælɪˈfɔrnjə/",
+		"vietnamese": "Tôi(已经)去过在加州的迪士尼乐园"
 	},
 	{
-		"chinese": "从来没有",
 		"english": "never",
-		"soundmark": "/'nɛvɚ/"
+		"soundmark": "/'nɛvɚ/",
+		"vietnamese": "[VI:从来没有]"
 	},
 	{
-		"chinese": "我从来没有去过在加州的迪士尼乐园",
 		"english": "I have never been to Disneyland in California",
-		"soundmark": "/aɪ/ /hæv/ /'nɛvɚ/ /bɪn/ /tə/ /'diznilænd/ /ɪn/ /ˌkælɪˈfɔrnjə/"
+		"soundmark": "/aɪ/ /hæv/ /'nɛvɚ/ /bɪn/ /tə/ /'diznilænd/ /ɪn/ /ˌkælɪˈfɔrnjə/",
+		"vietnamese": "Tôi从来没有去过在加州的迪士尼乐园"
 	},
 	{
-		"chinese": "日本",
 		"english": "Japan",
-		"soundmark": "/dʒəˈpæn/"
+		"soundmark": "/dʒəˈpæn/",
+		"vietnamese": "[VI:日本]"
 	},
 	{
-		"chinese": "我(已经)去过日本",
 		"english": "I have been to Japan",
-		"soundmark": "/aɪ/ /hæv/ /bɪn/ /tə/ /dʒəˈpæn/"
+		"soundmark": "/aɪ/ /hæv/ /bɪn/ /tə/ /dʒəˈpæn/",
+		"vietnamese": "Tôi(已经)去过日本"
 	},
 	{
-		"chinese": "两次",
 		"english": "twice",
-		"soundmark": "/twaɪs/"
+		"soundmark": "/twaɪs/",
+		"vietnamese": "[VI:两次]"
 	},
 	{
-		"chinese": "我(已经)去过日本两次",
 		"english": "I have been to Japan twice",
-		"soundmark": "/aɪ/ /hæv/ /bɪn/ /tə/ /dʒəˈpæn/ /twaɪs/"
+		"soundmark": "/aɪ/ /hæv/ /bɪn/ /tə/ /dʒəˈpæn/ /twaɪs/",
+		"vietnamese": "Tôi(已经)去过日本两次"
 	},
 	{
-		"chinese": "从来没有",
 		"english": "never",
-		"soundmark": "/'nɛvɚ/"
+		"soundmark": "/'nɛvɚ/",
+		"vietnamese": "[VI:从来没有]"
 	},
 	{
-		"chinese": "我从来没有去过日本",
 		"english": "I have never been to Japan",
-		"soundmark": "/aɪ/ /hæv/ /'nɛvɚ/ /bɪn/ /tə/ /dʒəˈpæn/"
+		"soundmark": "/aɪ/ /hæv/ /'nɛvɚ/ /bɪn/ /tə/ /dʒəˈpæn/",
+		"vietnamese": "Tôi从来没有去过日本"
 	},
 	{
-		"chinese": "加拿大",
 		"english": "Canada",
-		"soundmark": "/ˈkænədə/"
+		"soundmark": "/ˈkænədə/",
+		"vietnamese": "[VI:加拿大]"
 	},
 	{
-		"chinese": "我从来没有去过加拿大",
 		"english": "I have never been to Canada",
-		"soundmark": "/aɪ/ /hæv/ /'nɛvɚ/ /bɪn/ /tə/ /ˈkænədə/"
+		"soundmark": "/aɪ/ /hæv/ /'nɛvɚ/ /bɪn/ /tə/ /ˈkænədə/",
+		"vietnamese": "Tôi从来没有去过加拿大"
 	},
 	{
-		"chinese": "你从来没有去过加拿大",
 		"english": "you have never been to Canada",
-		"soundmark": "/ju/ /hæv/ /'nɛvɚ/ /bɪn/ /tə/ /ˈkænədə/"
+		"soundmark": "/ju/ /hæv/ /'nɛvɚ/ /bɪn/ /tə/ /ˈkænədə/",
+		"vietnamese": "Bạn从来没有去过加拿大"
 	},
 	{
-		"chinese": "你从来没有去过加拿大吗？",
 		"english": "have you never been to Canada",
-		"soundmark": "/hæv/ /ju/ /'nɛvɚ/ /bɪn/ /tə/ /ˈkænədə/"
+		"soundmark": "/hæv/ /ju/ /'nɛvɚ/ /bɪn/ /tə/ /ˈkænədə/",
+		"vietnamese": "Bạn从来没有去过加拿大吗？"
 	},
 	{
-		"chinese": "以前",
 		"english": "before",
-		"soundmark": "/bɪ'fɔr/"
+		"soundmark": "/bɪ'fɔr/",
+		"vietnamese": "[VI:以前]"
 	},
 	{
-		"chinese": "你以前从来没有去过加拿大吗",
 		"english": "have you never been to Canada before",
-		"soundmark": "/hæv/ /ju/ /'nɛvɚ/ /bɪn/ /tə/ /ˈkænədə/ /bɪ'fɔr/"
+		"soundmark": "/hæv/ /ju/ /'nɛvɚ/ /bɪn/ /tə/ /ˈkænədə/ /bɪ'fɔr/",
+		"vietnamese": "Bạn以前从来没有去过加拿大吗"
 	},
 	{
-		"chinese": "曾经",
 		"english": "ever",
-		"soundmark": "/'ɛvɚ/"
+		"soundmark": "/'ɛvɚ/",
+		"vietnamese": "[VI:曾经]"
 	},
 	{
-		"chinese": "你以前曾经去过加拿大吗",
 		"english": "have you ever been to Canada before",
-		"soundmark": "/hæv/ /ju/ /'ɛvɚ/ /bɪn/ /tə/ /ˈkænədə/ /bɪ'fɔr/"
+		"soundmark": "/hæv/ /ju/ /'ɛvɚ/ /bɪn/ /tə/ /ˈkænədə/ /bɪ'fɔr/",
+		"vietnamese": "Bạn以前曾经去过加拿大吗"
 	},
 	{
-		"chinese": "你曾经去过加拿大吗",
 		"english": "have you ever been to Canada",
-		"soundmark": "/hæv/ /ju/ /'ɛvɚ/ /bɪn/ /tə/ /ˈkænədə/"
+		"soundmark": "/hæv/ /ju/ /'ɛvɚ/ /bɪn/ /tə/ /ˈkænədə/",
+		"vietnamese": "Bạn曾经去过加拿大吗"
 	},
 	{
-		"chinese": "你曾经......吗",
 		"english": "have you ever been",
-		"soundmark": "/hæv/ /ju/ /'ɛvɚ/ /bɪn/"
+		"soundmark": "/hæv/ /ju/ /'ɛvɚ/ /bɪn/",
+		"vietnamese": "Bạn曾经......吗"
 	},
 	{
-		"chinese": "这里",
 		"english": "here",
-		"soundmark": "/hɪr/"
+		"soundmark": "/hɪr/",
+		"vietnamese": "ở đây"
 	},
 	{
-		"chinese": "你曾经来过这里吗？",
 		"english": "have you ever been here",
-		"soundmark": "/hæv/ /ju/ /'ɛvɚ/ /bɪn/ /hɪr/"
+		"soundmark": "/hæv/ /ju/ /'ɛvɚ/ /bɪn/ /hɪr/",
+		"vietnamese": "Bạn曾经来过ở đây吗？"
 	},
 	{
-		"chinese": "商店",
 		"english": "store",
-		"soundmark": "/stɔr/"
+		"soundmark": "/stɔr/",
+		"vietnamese": "[VI:商店]"
 	},
 	{
-		"chinese": "那个商店",
 		"english": "that store",
-		"soundmark": "/ðæt/ /stɔr/"
+		"soundmark": "/ðæt/ /stɔr/",
+		"vietnamese": "[VI:那个商店]"
 	},
 	{
-		"chinese": "你曾去过那个商店吗？",
 		"english": "have you ever been to that store",
-		"soundmark": "/hæv/ /ju/ /'ɛvɚ/ /bɪn/ /tə/ /ðæt/ /stɔr/"
+		"soundmark": "/hæv/ /ju/ /'ɛvɚ/ /bɪn/ /tə/ /ðæt/ /stɔr/",
+		"vietnamese": "Bạn曾去过那个商店吗？"
 	},
 	{
-		"chinese": "餐厅",
 		"english": "restaurant",
-		"soundmark": "/'rɛstrɑnt/"
+		"soundmark": "/'rɛstrɑnt/",
+		"vietnamese": "[VI:餐厅]"
 	},
 	{
-		"chinese": "那个餐厅",
 		"english": "that restaurant",
-		"soundmark": "/ðæt/ /'rɛstrɑnt/"
+		"soundmark": "/ðæt/ /'rɛstrɑnt/",
+		"vietnamese": "[VI:那个餐厅]"
 	},
 	{
-		"chinese": "你曾经去过那家餐厅吗？",
 		"english": "have you ever been to that restaurant",
-		"soundmark": "/hæv/ /ju/ /'ɛvɚ/ /bɪn/ /tə/ /ðæt/ /'rɛstrɑnt/"
+		"soundmark": "/hæv/ /ju/ /'ɛvɚ/ /bɪn/ /tə/ /ðæt/ /'rɛstrɑnt/",
+		"vietnamese": "Bạn曾经去过那家餐厅吗？"
 	},
 	{
-		"chinese": "结婚",
 		"english": "to marry",
-		"soundmark": "/tə/ /'mæri/"
+		"soundmark": "/tə/ /'mæri/",
+		"vietnamese": "[VI:结婚]"
 	},
 	{
-		"chinese": "结婚的",
 		"english": "married",
-		"soundmark": "/ˈmærid/"
+		"soundmark": "/ˈmærid/",
+		"vietnamese": "[VI:结婚的]"
 	},
 	{
-		"chinese": "你曾经结过婚吗？",
 		"english": "have you ever been married",
-		"soundmark": "/hæv/ /ju/ /'ɛvɚ/ /bɪn/ /ˈmærid/"
+		"soundmark": "/hæv/ /ju/ /'ɛvɚ/ /bɪn/ /ˈmærid/",
+		"vietnamese": "Bạn曾经结过婚吗？"
 	},
 	{
-		"chinese": "吃",
 		"english": "to eat",
-		"soundmark": "/tə/ /it/"
+		"soundmark": "/tə/ /it/",
+		"vietnamese": "ăn"
 	},
 	{
-		"chinese": "吃(过去分词)",
 		"english": "eaten",
-		"soundmark": "/ˈitn/"
+		"soundmark": "/ˈitn/",
+		"vietnamese": "ăn(过去分词)"
 	},
 	{
-		"chinese": "你曾经吃过",
 		"english": "have you ever eaten",
-		"soundmark": "/hæv/ /ju/ /'ɛvɚ/ /ˈitn/"
+		"soundmark": "/hæv/ /ju/ /'ɛvɚ/ /ˈitn/",
+		"vietnamese": "Bạn曾经ăn过"
 	},
 	{
-		"chinese": "榴莲",
 		"english": "durian",
-		"soundmark": "/ˈdʊriən/"
+		"soundmark": "/ˈdʊriən/",
+		"vietnamese": "[VI:榴莲]"
 	},
 	{
-		"chinese": "你曾经吃过榴莲吗？",
 		"english": "have you ever eaten durian",
-		"soundmark": "/hæv/ /ju/ /'ɛvɚ/ /ˈitn/ /ˈdʊriən/"
+		"soundmark": "/hæv/ /ju/ /'ɛvɚ/ /ˈitn/ /ˈdʊriən/",
+		"vietnamese": "Bạn曾经ăn过榴莲吗？"
 	},
 	{
-		"chinese": "参加",
 		"english": "to attend",
-		"soundmark": "/tə/ /əˈtɛnd/"
+		"soundmark": "/tə/ /əˈtɛnd/",
+		"vietnamese": "[VI:参加]"
 	},
 	{
-		"chinese": "参加(过去分词)",
 		"english": "attended",
-		"soundmark": "/əˈtɛndɪd/"
+		"soundmark": "/əˈtɛndɪd/",
+		"vietnamese": "[VI:参加(过去分词)]"
 	},
 	{
-		"chinese": "你曾经参加过",
 		"english": "have you ever attended",
-		"soundmark": "/hæv/ /ju/ /'ɛvɚ/ /əˈtɛndɪd/"
+		"soundmark": "/hæv/ /ju/ /'ɛvɚ/ /əˈtɛndɪd/",
+		"vietnamese": "Bạn曾经参加过"
 	},
 	{
-		"chinese": "音乐会",
 		"english": "concert",
-		"soundmark": "/'kɑnsɚt/"
+		"soundmark": "/'kɑnsɚt/",
+		"vietnamese": "[VI:音乐会]"
 	},
 	{
-		"chinese": "现场的",
 		"english": "live",
-		"soundmark": "/laɪv/"
+		"soundmark": "/laɪv/",
+		"vietnamese": "[VI:现场的]"
 	},
 	{
-		"chinese": "一个现场的音乐会",
 		"english": "a live concert",
-		"soundmark": "/ə/ /laɪv/ /'kɑnsɚt/"
+		"soundmark": "/ə/ /laɪv/ /'kɑnsɚt/",
+		"vietnamese": "[VI:一个现场的音乐会]"
 	},
 	{
-		"chinese": "你曾经参加过",
 		"english": "have you ever attended",
-		"soundmark": "/hæv/ /ju/ /'ɛvɚ/ /əˈtɛndɪd/"
+		"soundmark": "/hæv/ /ju/ /'ɛvɚ/ /əˈtɛndɪd/",
+		"vietnamese": "Bạn曾经参加过"
 	},
 	{
-		"chinese": "你曾经参加过一个现场的音乐会吗？",
 		"english": "have you ever attended a live concert",
-		"soundmark": "/hæv/ /ju/ /'ɛvɚ/ /əˈtɛndɪd/ /ə/ /laɪv/ /'kɑnsɚt/"
+		"soundmark": "/hæv/ /ju/ /'ɛvɚ/ /əˈtɛndɪd/ /ə/ /laɪv/ /'kɑnsɚt/",
+		"vietnamese": "Bạn曾经参加过一个现场的音乐会吗？"
 	},
 	{
-		"chinese": "丢掉",
 		"english": "to lose",
-		"soundmark": "/tə/ /luz/"
+		"soundmark": "/tə/ /luz/",
+		"vietnamese": "[VI:丢掉]"
 	},
 	{
-		"chinese": "丢掉(过去分词)",
 		"english": "lost",
-		"soundmark": "/lɔst/"
+		"soundmark": "/lɔst/",
+		"vietnamese": "[VI:丢掉(过去分词)]"
 	},
 	{
-		"chinese": "你曾经丢过",
 		"english": "have you ever lost",
-		"soundmark": "/hæv/ /ju/ /'ɛvɚ/ /lɔst/"
+		"soundmark": "/hæv/ /ju/ /'ɛvɚ/ /lɔst/",
+		"vietnamese": "Bạn曾经丢过"
 	},
 	{
-		"chinese": "钱包",
 		"english": "wallet",
-		"soundmark": "/'wɑlɪt/"
+		"soundmark": "/'wɑlɪt/",
+		"vietnamese": "[VI:钱包]"
 	},
 	{
-		"chinese": "你的钱包",
 		"english": "your wallet",
-		"soundmark": "/jʊr/ /'wɑlɪt/"
+		"soundmark": "/jʊr/ /'wɑlɪt/",
+		"vietnamese": "Bạn的钱包"
 	},
 	{
-		"chinese": "你曾经丢过你的钱包吗？",
 		"english": "have you ever lost your wallet",
-		"soundmark": "/hæv/ /ju/ /'ɛvɚ/ /lɔst/ /jʊr/ /'wɑlɪt/"
+		"soundmark": "/hæv/ /ju/ /'ɛvɚ/ /lɔst/ /jʊr/ /'wɑlɪt/",
+		"vietnamese": "Bạn曾经丢过你的钱包吗？"
 	},
 	{
-		"chinese": "看",
 		"english": "to see",
-		"soundmark": "/tə/ /si/"
+		"soundmark": "/tə/ /si/",
+		"vietnamese": "[VI:看]"
 	},
 	{
-		"chinese": "看(过去分词)",
 		"english": "seen",
-		"soundmark": "/sin/"
+		"soundmark": "/sin/",
+		"vietnamese": "[VI:看(过去分词)]"
 	},
 	{
-		"chinese": "你曾经看过",
 		"english": "have you ever seen",
-		"soundmark": "/hæv/ /ju/ /'ɛvɚ/ /sin/"
+		"soundmark": "/hæv/ /ju/ /'ɛvɚ/ /sin/",
+		"vietnamese": "Bạn曾经看过"
 	},
 	{
-		"chinese": "彩虹",
 		"english": "rainbow",
-		"soundmark": "/ˈrenbo/"
+		"soundmark": "/ˈrenbo/",
+		"vietnamese": "[VI:彩虹]"
 	},
 	{
-		"chinese": "你曾经见过一个彩虹吗？",
 		"english": "have you ever seen a rainbow",
-		"soundmark": "/hæv/ /ju/ /'ɛvɚ/ /sin/ /ə/ /ˈrenbo/"
+		"soundmark": "/hæv/ /ju/ /'ɛvɚ/ /sin/ /ə/ /ˈrenbo/",
+		"vietnamese": "Bạn曾经见过一个彩虹吗？"
 	},
 	{
-		"chinese": "学习",
 		"english": "to study",
-		"soundmark": "/tə/ /'stʌdi/"
+		"soundmark": "/tə/ /'stʌdi/",
+		"vietnamese": "học"
 	},
 	{
-		"chinese": "学习(过去分词)",
 		"english": "studied",
-		"soundmark": "/ˈstʌdid/"
+		"soundmark": "/ˈstʌdid/",
+		"vietnamese": "học(过去分词)"
 	},
 	{
-		"chinese": "在国外",
 		"english": "abroad",
-		"soundmark": "/ə'brɔd/"
+		"soundmark": "/ə'brɔd/",
+		"vietnamese": "[VI:在国外]"
 	},
 	{
-		"chinese": "留学",
 		"english": "studied abroad",
-		"soundmark": "/ˈstʌdid/ /ə'brɔd/"
+		"soundmark": "/ˈstʌdid/ /ə'brɔd/",
+		"vietnamese": "[VI:留学]"
 	},
 	{
-		"chinese": "你曾经",
 		"english": "have you ever",
-		"soundmark": "/hæv/ /ju/ /'ɛvɚ/"
+		"soundmark": "/hæv/ /ju/ /'ɛvɚ/",
+		"vietnamese": "Bạn曾经"
 	},
 	{
-		"chinese": "你曾经留过学吗？",
 		"english": "have you ever studied abroad",
-		"soundmark": "/hæv/ /ju/ /'ɛvɚ/ /ˈstʌdid/ /ə'brɔd/"
+		"soundmark": "/hæv/ /ju/ /'ɛvɚ/ /ˈstʌdid/ /ə'brɔd/",
+		"vietnamese": "Bạn曾经留过学吗？"
 	},
 	{
-		"chinese": "做",
 		"english": "to make",
-		"soundmark": "/tə/ /mek/"
+		"soundmark": "/tə/ /mek/",
+		"vietnamese": "làm"
 	},
 	{
-		"chinese": "做(过去分词)",
 		"english": "made",
-		"soundmark": "/med/"
+		"soundmark": "/med/",
+		"vietnamese": "làm(过去分词)"
 	},
 	{
-		"chinese": "你曾经做过",
 		"english": "have you ever made",
-		"soundmark": "/hæv/ /ju/ /'ɛvɚ/ /med/"
+		"soundmark": "/hæv/ /ju/ /'ɛvɚ/ /med/",
+		"vietnamese": "Bạn曾经làm过"
 	},
 	{
-		"chinese": "雪",
 		"english": "snow",
-		"soundmark": "/sno/"
+		"soundmark": "/sno/",
+		"vietnamese": "[VI:雪]"
 	},
 	{
-		"chinese": "雪人",
 		"english": "snowman",
-		"soundmark": "/'snomæn/"
+		"soundmark": "/'snomæn/",
+		"vietnamese": "[VI:雪人]"
 	},
 	{
-		"chinese": "你曾经堆过雪人吗？",
 		"english": "have you ever made a snowman",
-		"soundmark": "/hæv/ /ju/ /'ɛvɚ/ /med/ /ə/ /'snomæn/"
+		"soundmark": "/hæv/ /ju/ /'ɛvɚ/ /med/ /ə/ /'snomæn/",
+		"vietnamese": "Bạn曾经堆过雪人吗？"
 	},
 	{
-		"chinese": "你曾经去过加拿大吗？",
 		"english": "have you ever been to Canada",
-		"soundmark": "/hæv/ /ju/ /'ɛvɚ/ /bɪn/ /tə/ /ˈkænədə/"
+		"soundmark": "/hæv/ /ju/ /'ɛvɚ/ /bɪn/ /tə/ /ˈkænədə/",
+		"vietnamese": "Bạn曾经去过加拿大吗？"
 	},
 	{
-		"chinese": "我(已经)去过加拿大",
 		"english": "I have been to Canada",
-		"soundmark": "/aɪ/ /hæv/ /bɪn/ /tə/ /ˈkænədə/"
+		"soundmark": "/aɪ/ /hæv/ /bɪn/ /tə/ /ˈkænədə/",
+		"vietnamese": "Tôi(已经)去过加拿大"
 	}
 ]

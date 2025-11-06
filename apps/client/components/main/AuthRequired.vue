@@ -1,20 +1,20 @@
 <template>
   <CommonModal :show-modal="authRequireModalState">
     <div className="modal-box">
-      <h3 className="font-bold text-lg mb-4">✨ 友情提示</h3>
-      <p class="py-4 text-center text-xl">注册以进行下一课的学习哦~ 😊</p>
+      <h3 className="font-bold text-lg mb-4">✨ 友情Gợi ý</h3>
+      <p class="py-4 text-center text-xl">Đăng ký以进行下một课的Học tập哦~ 😊</p>
       <div className="modal-action">
         <button
           class="btn"
           @click="hideAuthRequireModal"
         >
-          取消
+          Hủy
         </button>
         <button
           class="btn"
           @click="handleSignup"
         >
-          去注册
+          去Đăng ký
         </button>
       </div>
     </div>

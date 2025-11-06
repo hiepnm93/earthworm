@@ -1,732 +1,732 @@
 [
 	{
-		"chinese": "书",
 		"english": "book",
-		"soundmark": "/bʊk/"
+		"soundmark": "/bʊk/",
+		"vietnamese": "[VI:书]"
 	},
 	{
-		"chinese": "英语",
 		"english": "English",
-		"soundmark": "/ˈɪŋɡlɪʃ/"
+		"soundmark": "/ˈɪŋɡlɪʃ/",
+		"vietnamese": "[VI:英语]"
 	},
 	{
-		"chinese": "一本英语书",
 		"english": "an English book",
-		"soundmark": "/æn/ /ˈɪŋɡlɪʃ/ /bʊk/"
+		"soundmark": "/æn/ /ˈɪŋɡlɪʃ/ /bʊk/",
+		"vietnamese": "[VI:一本英语书]"
 	},
 	{
-		"chinese": "阅读",
 		"english": "to read",
-		"soundmark": "/tə/ /rid/"
+		"soundmark": "/tə/ /rid/",
+		"vietnamese": "[VI:阅读]"
 	},
 	{
-		"chinese": "阅读一本英语书",
 		"english": "to read an English book",
-		"soundmark": "/tə/ /rid/ /æn/ /ˈɪŋɡlɪʃ/ /bʊk/"
+		"soundmark": "/tə/ /rid/ /æn/ /ˈɪŋɡlɪʃ/ /bʊk/",
+		"vietnamese": "[VI:阅读一本英语书]"
 	},
 	{
-		"chinese": "阅读（ing形式）",
 		"english": "reading",
-		"soundmark": "/ridɪŋ/"
+		"soundmark": "/ridɪŋ/",
+		"vietnamese": "[VI:阅读（ing形式）]"
 	},
 	{
-		"chinese": "是；赋值（原型）",
 		"english": "be",
-		"soundmark": "/bi/"
+		"soundmark": "/bi/",
+		"vietnamese": "là；赋值（原型）"
 	},
 	{
-		"chinese": "正在阅读",
 		"english": "be reading",
-		"soundmark": "/bi/ /ridɪŋ/"
+		"soundmark": "/bi/ /ridɪŋ/",
+		"vietnamese": "[VI:正在阅读]"
 	},
 	{
-		"chinese": "正在阅读一本英语书",
 		"english": "be reading an English book",
-		"soundmark": "/bi/ /ridɪŋ/ /æn/ /ˈɪŋɡlɪʃ/ /bʊk/"
+		"soundmark": "/bi/ /ridɪŋ/ /æn/ /ˈɪŋɡlɪʃ/ /bʊk/",
+		"vietnamese": "[VI:正在阅读一本英语书]"
 	},
 	{
-		"chinese": "我",
 		"english": "I",
-		"soundmark": "/aɪ/"
+		"soundmark": "/aɪ/",
+		"vietnamese": "Tôi"
 	},
 	{
-		"chinese": "我（现在）正在阅读一本英语书",
 		"english": "I am reading an English book",
-		"soundmark": "/aɪ/ /æm/ /ridɪŋ/ /æn/ /ˈɪŋɡlɪʃ/ /bʊk/"
+		"soundmark": "/aɪ/ /æm/ /ridɪŋ/ /æn/ /ˈɪŋɡlɪʃ/ /bʊk/",
+		"vietnamese": "Tôi（bây giờ）正在阅读一本英语书"
 	},
 	{
-		"chinese": "这一瞬间；这一刻",
 		"english": "the moment",
-		"soundmark": "/ðə/ /'momənt/"
+		"soundmark": "/ðə/ /'momənt/",
+		"vietnamese": "[VI:这一瞬间；这一刻]"
 	},
 	{
-		"chinese": "在这一刻；此刻",
 		"english": "at the moment",
-		"soundmark": "/æt/ /ðə/ /'momənt/"
+		"soundmark": "/æt/ /ðə/ /'momənt/",
+		"vietnamese": "[VI:在这一刻；此刻]"
 	},
 	{
-		"chinese": "我此刻正在阅读一本英语书",
 		"english": "I am reading an English book at the moment",
-		"soundmark": "/aɪ/ /æm/ /ridɪŋ/ /æn/ /ˈɪŋɡlɪʃ/ /bʊk/ /æt/ /ðə/ /'momənt/"
+		"soundmark": "/aɪ/ /æm/ /ridɪŋ/ /æn/ /ˈɪŋɡlɪʃ/ /bʊk/ /æt/ /ðə/ /'momənt/",
+		"vietnamese": "Tôi此刻正在阅读一本英语书"
 	},
 	{
-		"chinese": "我（过去）正在阅读一本英语书",
 		"english": "I was reading an English book",
-		"soundmark": "/aɪ/ /wəz/ /ridɪŋ/ /æn/ /ˈɪŋɡlɪʃ/ /bʊk/"
+		"soundmark": "/aɪ/ /wəz/ /ridɪŋ/ /æn/ /ˈɪŋɡlɪʃ/ /bʊk/",
+		"vietnamese": "Tôi（过去）正在阅读一本英语书"
 	},
 	{
-		"chinese": "昨晚",
 		"english": "last night",
-		"soundmark": "/læst/ /naɪt/"
+		"soundmark": "/læst/ /naɪt/",
+		"vietnamese": "[VI:昨晚]"
 	},
 	{
-		"chinese": "我昨晚正在阅读一本英语书",
 		"english": "I was reading an English book last night",
-		"soundmark": "/aɪ/ /wəz/ /ridɪŋ/ /æn/ /ˈɪŋɡlɪʃ/ /bʊk/ /læst/ /naɪt/"
+		"soundmark": "/aɪ/ /wəz/ /ridɪŋ/ /æn/ /ˈɪŋɡlɪʃ/ /bʊk/ /læst/ /naɪt/",
+		"vietnamese": "Tôi昨晚正在阅读一本英语书"
 	},
 	{
-		"chinese": "家",
 		"english": "home",
-		"soundmark": "/hom/"
+		"soundmark": "/hom/",
+		"vietnamese": "[VI:家]"
 	},
 	{
-		"chinese": "工作",
 		"english": "work",
-		"soundmark": "/wɝk/"
+		"soundmark": "/wɝk/",
+		"vietnamese": "[VI:工作]"
 	},
 	{
-		"chinese": "家庭作业",
 		"english": "homework",
-		"soundmark": "/'homwɝk/"
+		"soundmark": "/'homwɝk/",
+		"vietnamese": "[VI:家庭作业]"
 	},
 	{
-		"chinese": "她的",
 		"english": "her",
-		"soundmark": "/hɚ/"
+		"soundmark": "/hɚ/",
+		"vietnamese": "Cô ấy的"
 	},
 	{
-		"chinese": "她的家庭作业",
 		"english": "her homework",
-		"soundmark": "/hɚ/ /'homwɝk/"
+		"soundmark": "/hɚ/ /'homwɝk/",
+		"vietnamese": "Cô ấy的家庭作业"
 	},
 	{
-		"chinese": "做",
 		"english": "to do",
-		"soundmark": "/tə/ /du/"
+		"soundmark": "/tə/ /du/",
+		"vietnamese": "làm"
 	},
 	{
-		"chinese": "做她的家庭作业",
 		"english": "to do her homework",
-		"soundmark": "/tə/ /du/ /hɚ/ /'homwɝk/"
+		"soundmark": "/tə/ /du/ /hɚ/ /'homwɝk/",
+		"vietnamese": "làmCô ấy的家庭作业"
 	},
 	{
-		"chinese": "做（ing形式）",
 		"english": "doing",
-		"soundmark": "/ˈduɪŋ/"
+		"soundmark": "/ˈduɪŋ/",
+		"vietnamese": "làm（ing形式）"
 	},
 	{
-		"chinese": "是；赋值（原型）",
 		"english": "be",
-		"soundmark": "/bi/"
+		"soundmark": "/bi/",
+		"vietnamese": "là；赋值（原型）"
 	},
 	{
-		"chinese": "正在做",
 		"english": "be doing",
-		"soundmark": "/bi/ /ˈduɪŋ/"
+		"soundmark": "/bi/ /ˈduɪŋ/",
+		"vietnamese": "正在làm"
 	},
 	{
-		"chinese": "正在做她的家庭作业",
 		"english": "be doing her homework",
-		"soundmark": "/bi/ /ˈduɪŋ/ /hɚ/ /'homwɝk/"
+		"soundmark": "/bi/ /ˈduɪŋ/ /hɚ/ /'homwɝk/",
+		"vietnamese": "正在làmCô ấy的家庭作业"
 	},
 	{
-		"chinese": "她",
 		"english": "she",
-		"soundmark": "/ʃi/"
+		"soundmark": "/ʃi/",
+		"vietnamese": "Cô ấy"
 	},
 	{
-		"chinese": "她（现在）正在做她的家庭作业",
 		"english": "she is doing her homework",
-		"soundmark": "/ʃi/ /ɪz/ /ˈduɪŋ/ /hɚ/ /'homwɝk/"
+		"soundmark": "/ʃi/ /ɪz/ /ˈduɪŋ/ /hɚ/ /'homwɝk/",
+		"vietnamese": "Cô ấy（bây giờ）正在làm她的家庭作业"
 	},
 	{
-		"chinese": "女儿",
 		"english": "daughter",
-		"soundmark": "/'dɔtɚ/"
+		"soundmark": "/'dɔtɚ/",
+		"vietnamese": "[VI:女儿]"
 	},
 	{
-		"chinese": "我的",
 		"english": "my",
-		"soundmark": "/maɪ/"
+		"soundmark": "/maɪ/",
+		"vietnamese": "Tôi的"
 	},
 	{
-		"chinese": "我的女儿",
 		"english": "my daughter",
-		"soundmark": "/maɪ/ /'dɔtɚ/"
+		"soundmark": "/maɪ/ /'dɔtɚ/",
+		"vietnamese": "Tôi的女儿"
 	},
 	{
-		"chinese": "我的女儿（现在）正在做她的家庭作业",
 		"english": "my daughter is doing her homework",
-		"soundmark": "/maɪ/ /'dɔtɚ/ /ɪz/ /ˈduɪŋ/ /hɚ/ /'homwɝk/"
+		"soundmark": "/maɪ/ /'dɔtɚ/ /ɪz/ /ˈduɪŋ/ /hɚ/ /'homwɝk/",
+		"vietnamese": "Tôi的女儿（bây giờ）正在làmCô ấy的家庭作业"
 	},
 	{
-		"chinese": "在这一刻；此刻",
 		"english": "at the moment",
-		"soundmark": "/æt/ /ðə/ /'momənt/"
+		"soundmark": "/æt/ /ðə/ /'momənt/",
+		"vietnamese": "[VI:在这一刻；此刻]"
 	},
 	{
-		"chinese": "我的女儿此刻正在做她的家庭作业",
 		"english": "my daughter is doing her homework at the moment",
-		"soundmark": "/maɪ/ /'dɔtɚ/ /ɪz/ /ˈduɪŋ/ /hɚ/ /'homwɝk/ /æt/ /ðə/ /'momənt/"
+		"soundmark": "/maɪ/ /'dɔtɚ/ /ɪz/ /ˈduɪŋ/ /hɚ/ /'homwɝk/ /æt/ /ðə/ /'momənt/",
+		"vietnamese": "Tôi的女儿此刻正在làmCô ấy的家庭作业"
 	},
 	{
-		"chinese": "我的女儿（过去）正在做她的家庭作业",
 		"english": "my daughter was doing her homework",
-		"soundmark": "/maɪ/ /'dɔtɚ/ /wəz/ /ˈduɪŋ/ /hɚ/ /'homwɝk/"
+		"soundmark": "/maɪ/ /'dɔtɚ/ /wəz/ /ˈduɪŋ/ /hɚ/ /'homwɝk/",
+		"vietnamese": "Tôi的女儿（过去）正在làmCô ấy的家庭作业"
 	},
 	{
-		"chinese": "我（过去）正在阅读一本英语书",
 		"english": "I was reading an English book",
-		"soundmark": "/aɪ/ /wəz/ /ridɪŋ/ /æn/ /ˈɪŋɡlɪʃ/ /bʊk/"
+		"soundmark": "/aɪ/ /wəz/ /ridɪŋ/ /æn/ /ˈɪŋɡlɪʃ/ /bʊk/",
+		"vietnamese": "Tôi（过去）正在阅读一本英语书"
 	},
 	{
-		"chinese": "与此同时",
 		"english": "while",
-		"soundmark": "/waɪl/"
+		"soundmark": "/waɪl/",
+		"vietnamese": "[VI:与此同时]"
 	},
 	{
-		"chinese": "我（过去）正在阅读一本英语书与此同时我的女儿（过去）正在做她的家庭作业",
 		"english": "I was reading an English book while my daughter was doing her homework",
-		"soundmark": "/aɪ/ /wəz/ /ridɪŋ/ /æn/ /ˈɪŋɡlɪʃ/ /bʊk/ /waɪl/ /maɪ/ /'dɔtɚ/ /wəz/ /ˈduɪŋ/ /hɚ/ /'homwɝk/"
+		"soundmark": "/aɪ/ /wəz/ /ridɪŋ/ /æn/ /ˈɪŋɡlɪʃ/ /bʊk/ /waɪl/ /maɪ/ /'dɔtɚ/ /wəz/ /ˈduɪŋ/ /hɚ/ /'homwɝk/",
+		"vietnamese": "Tôi（过去）正在阅读一本英语书与此同时我的女儿（过去）正在làmCô ấy的家庭作业"
 	},
 	{
-		"chinese": "跑步",
 		"english": "to run",
-		"soundmark": "/tə/ /rʌn/"
+		"soundmark": "/tə/ /rʌn/",
+		"vietnamese": "[VI:跑步]"
 	},
 	{
-		"chinese": "街道",
 		"english": "the street",
-		"soundmark": "/ðə/ /strit/"
+		"soundmark": "/ðə/ /strit/",
+		"vietnamese": "[VI:街道]"
 	},
 	{
-		"chinese": "在街上",
 		"english": "in the street",
-		"soundmark": "/ɪn/ /ðə/ /strit/"
+		"soundmark": "/ɪn/ /ðə/ /strit/",
+		"vietnamese": "[VI:在街上]"
 	},
 	{
-		"chinese": "在街上跑步",
 		"english": "to run in the street",
-		"soundmark": "/tə/ /rʌn/ /ɪn/ /ðə/ /strit/"
+		"soundmark": "/tə/ /rʌn/ /ɪn/ /ðə/ /strit/",
+		"vietnamese": "[VI:在街上跑步]"
 	},
 	{
-		"chinese": "跑步（ing形式）",
 		"english": "running",
-		"soundmark": "/'rʌnɪŋ/"
+		"soundmark": "/'rʌnɪŋ/",
+		"vietnamese": "[VI:跑步（ing形式）]"
 	},
 	{
-		"chinese": "是；赋值（原型）",
 		"english": "be",
-		"soundmark": "/bi/"
+		"soundmark": "/bi/",
+		"vietnamese": "là；赋值（原型）"
 	},
 	{
-		"chinese": "正在跑步",
 		"english": "be running",
-		"soundmark": "/bi/ /'rʌnɪŋ/"
+		"soundmark": "/bi/ /'rʌnɪŋ/",
+		"vietnamese": "[VI:正在跑步]"
 	},
 	{
-		"chinese": "正在在街上跑步",
 		"english": "be running in the street",
-		"soundmark": "/bi/ /'rʌnɪŋ/ /ɪn/ /ðə/ /strit/"
+		"soundmark": "/bi/ /'rʌnɪŋ/ /ɪn/ /ðə/ /strit/",
+		"vietnamese": "[VI:正在在街上跑步]"
 	},
 	{
-		"chinese": "他",
 		"english": "he",
-		"soundmark": "/hi/"
+		"soundmark": "/hi/",
+		"vietnamese": "Anh ấy"
 	},
 	{
-		"chinese": "他（现在）正在在街上跑步",
 		"english": "he is running in the street",
-		"soundmark": "/hi/ /ɪz/ /'rʌnɪŋ/ /ɪn/ /ðə/ /strit/"
+		"soundmark": "/hi/ /ɪz/ /'rʌnɪŋ/ /ɪn/ /ðə/ /strit/",
+		"vietnamese": "Anh ấy（bây giờ）正在在街上跑步"
 	},
 	{
-		"chinese": "在这一刻；此刻",
 		"english": "at the moment",
-		"soundmark": "/æt/ /ðə/ /'momənt/"
+		"soundmark": "/æt/ /ðə/ /'momənt/",
+		"vietnamese": "[VI:在这一刻；此刻]"
 	},
 	{
-		"chinese": "他此刻正在在街上跑步",
 		"english": "he is running in the street at the moment",
-		"soundmark": "/hi/ /ɪz/ /'rʌnɪŋ/ /ɪn/ /ðə/ /strit/ /æt/ /ðə/ /'momənt/"
+		"soundmark": "/hi/ /ɪz/ /'rʌnɪŋ/ /ɪn/ /ðə/ /strit/ /æt/ /ðə/ /'momənt/",
+		"vietnamese": "Anh ấy此刻正在在街上跑步"
 	},
 	{
-		"chinese": "他（过去）正在在街上跑步",
 		"english": "he was running in the street",
-		"soundmark": "/hi/ /wəz/ /'rʌnɪŋ/ /ɪn/ /ðə/ /strit/"
+		"soundmark": "/hi/ /wəz/ /'rʌnɪŋ/ /ɪn/ /ðə/ /strit/",
+		"vietnamese": "Anh ấy（过去）正在在街上跑步"
 	},
 	{
-		"chinese": "游泳",
 		"english": "to swim",
-		"soundmark": "/tə/ /swɪm/"
+		"soundmark": "/tə/ /swɪm/",
+		"vietnamese": "[VI:游泳]"
 	},
 	{
-		"chinese": "游泳池",
 		"english": "the pool",
-		"soundmark": "/ðə/ /pul/"
+		"soundmark": "/ðə/ /pul/",
+		"vietnamese": "[VI:游泳池]"
 	},
 	{
-		"chinese": "在游泳池里",
 		"english": "in the pool",
-		"soundmark": "/ɪn/ /ðə/ /pul/"
+		"soundmark": "/ɪn/ /ðə/ /pul/",
+		"vietnamese": "[VI:在游泳池里]"
 	},
 	{
-		"chinese": "在游泳池里游泳",
 		"english": "to swim in the pool",
-		"soundmark": "/tə/ /swɪm/ /ɪn/ /ðə/ /pul/"
+		"soundmark": "/tə/ /swɪm/ /ɪn/ /ðə/ /pul/",
+		"vietnamese": "[VI:在游泳池里游泳]"
 	},
 	{
-		"chinese": "游泳（ing形式）",
 		"english": "swimming",
-		"soundmark": "/'swɪmɪŋ/"
+		"soundmark": "/'swɪmɪŋ/",
+		"vietnamese": "[VI:游泳（ing形式）]"
 	},
 	{
-		"chinese": "是；赋值（原型）",
 		"english": "be",
-		"soundmark": "/bi/"
+		"soundmark": "/bi/",
+		"vietnamese": "là；赋值（原型）"
 	},
 	{
-		"chinese": "正在游泳",
 		"english": "be swimming",
-		"soundmark": "/bi/ /'swɪmɪŋ/"
+		"soundmark": "/bi/ /'swɪmɪŋ/",
+		"vietnamese": "[VI:正在游泳]"
 	},
 	{
-		"chinese": "正在在游泳池里游泳",
 		"english": "be swimming in the pool",
-		"soundmark": "/bi/ /'swɪmɪŋ/ /ɪn/ /ðə/ /pul/"
+		"soundmark": "/bi/ /'swɪmɪŋ/ /ɪn/ /ðə/ /pul/",
+		"vietnamese": "[VI:正在在游泳池里游泳]"
 	},
 	{
-		"chinese": "她",
 		"english": "she",
-		"soundmark": "/ʃi/"
+		"soundmark": "/ʃi/",
+		"vietnamese": "Cô ấy"
 	},
 	{
-		"chinese": "她（现在）正在游泳池里游泳",
 		"english": "she is swimming in the pool",
-		"soundmark": "/ʃi/ /ɪz/ /'swɪmɪŋ/ /ɪn/ /ðə/ /pul/"
+		"soundmark": "/ʃi/ /ɪz/ /'swɪmɪŋ/ /ɪn/ /ðə/ /pul/",
+		"vietnamese": "Cô ấy（bây giờ）正在游泳池里游泳"
 	},
 	{
-		"chinese": "在这一刻；此刻",
 		"english": "at the moment",
-		"soundmark": "/æt/ /ðə/ /'momənt/"
+		"soundmark": "/æt/ /ðə/ /'momənt/",
+		"vietnamese": "[VI:在这一刻；此刻]"
 	},
 	{
-		"chinese": "她此刻正在游泳池里游泳",
 		"english": "she is swimming in the pool at the moment",
-		"soundmark": "/ʃi/ /ɪz/ /'swɪmɪŋ/ /ɪn/ /ðə/ /pul/ /æt/ /ðə/ /moment/ /'momənt/"
+		"soundmark": "/ʃi/ /ɪz/ /'swɪmɪŋ/ /ɪn/ /ðə/ /pul/ /æt/ /ðə/ /moment/ /'momənt/",
+		"vietnamese": "Cô ấy此刻正在游泳池里游泳"
 	},
 	{
-		"chinese": "她（过去）正在游泳池里游泳",
 		"english": "she was swimming in the pool",
-		"soundmark": "/ʃi/ /wəz/ /'swɪmɪŋ/ /ɪn/ /ðə/ /pul/"
+		"soundmark": "/ʃi/ /wəz/ /'swɪmɪŋ/ /ɪn/ /ðə/ /pul/",
+		"vietnamese": "Cô ấy（过去）正在游泳池里游泳"
 	},
 	{
-		"chinese": "他（过去）正在在街上跑步",
 		"english": "he was running in the street",
-		"soundmark": "/hi/ /wəz/ /'rʌnɪŋ/ /ɪn/ /ðə/ /strit/"
+		"soundmark": "/hi/ /wəz/ /'rʌnɪŋ/ /ɪn/ /ðə/ /strit/",
+		"vietnamese": "Anh ấy（过去）正在在街上跑步"
 	},
 	{
-		"chinese": "与此同时",
 		"english": "while",
-		"soundmark": "/waɪl/"
+		"soundmark": "/waɪl/",
+		"vietnamese": "[VI:与此同时]"
 	},
 	{
-		"chinese": "他（过去）正在在街上跑步与此同时她（过去）正在游泳池里游泳",
 		"english": "he was running in the street while she was swimming in the pool",
-		"soundmark": "/hi/ /wəz/ /'rʌnɪŋ/ /ɪn/ /ðə/ /strit/ /waɪl/ /ʃi/ /wəz/ /'swɪmɪŋ/ /ɪn/ /ðə/ /pul/"
+		"soundmark": "/hi/ /wəz/ /'rʌnɪŋ/ /ɪn/ /ðə/ /strit/ /waɪl/ /ʃi/ /wəz/ /'swɪmɪŋ/ /ɪn/ /ðə/ /pul/",
+		"vietnamese": "Anh ấy（过去）正在在街上跑步与此同时Cô ấy（过去）正在游泳池里游泳"
 	},
 	{
-		"chinese": "房子",
 		"english": "house",
-		"soundmark": "/haʊs/"
+		"soundmark": "/haʊs/",
+		"vietnamese": "[VI:房子]"
 	},
 	{
-		"chinese": "工作",
 		"english": "work",
-		"soundmark": "/wɝk/"
+		"soundmark": "/wɝk/",
+		"vietnamese": "[VI:工作]"
 	},
 	{
-		"chinese": "家务",
 		"english": "the housework",
-		"soundmark": "/ðə/ /'haʊswɝk/"
+		"soundmark": "/ðə/ /'haʊswɝk/",
+		"vietnamese": "[VI:家务]"
 	},
 	{
-		"chinese": "做",
 		"english": "to do",
-		"soundmark": "/tə/ /du/"
+		"soundmark": "/tə/ /du/",
+		"vietnamese": "làm"
 	},
 	{
-		"chinese": "做家务",
 		"english": "to do the housework",
-		"soundmark": "/tə/ /du/ /ðə/ /'haʊswɝk/"
+		"soundmark": "/tə/ /du/ /ðə/ /'haʊswɝk/",
+		"vietnamese": "làm家务"
 	},
 	{
-		"chinese": "做（ing形式）",
 		"english": "doing",
-		"soundmark": "/ˈduɪŋ/"
+		"soundmark": "/ˈduɪŋ/",
+		"vietnamese": "làm（ing形式）"
 	},
 	{
-		"chinese": "是；赋值（原型）",
 		"english": "be",
-		"soundmark": "/bi/"
+		"soundmark": "/bi/",
+		"vietnamese": "là；赋值（原型）"
 	},
 	{
-		"chinese": "正在做",
 		"english": "be doing",
-		"soundmark": "/bi/ /ˈduɪŋ/"
+		"soundmark": "/bi/ /ˈduɪŋ/",
+		"vietnamese": "正在làm"
 	},
 	{
-		"chinese": "正在做家务",
 		"english": "be doing the housework",
-		"soundmark": "/bi/ /ˈduɪŋ/ /ðə/ /'haʊswɝk/"
+		"soundmark": "/bi/ /ˈduɪŋ/ /ðə/ /'haʊswɝk/",
+		"vietnamese": "正在làm家务"
 	},
 	{
-		"chinese": "她",
 		"english": "she",
-		"soundmark": "/ʃi/"
+		"soundmark": "/ʃi/",
+		"vietnamese": "Cô ấy"
 	},
 	{
-		"chinese": "她（现在）正在做家务",
 		"english": "she is doing the housework",
-		"soundmark": "/ʃi/ /ɪz/ /ˈduɪŋ/ /ðə/ /'haʊswɝk/"
+		"soundmark": "/ʃi/ /ɪz/ /ˈduɪŋ/ /ðə/ /'haʊswɝk/",
+		"vietnamese": "Cô ấy（bây giờ）正在làm家务"
 	},
 	{
-		"chinese": "母亲；妈妈",
 		"english": "mother",
-		"soundmark": "/'mʌðɚ/"
+		"soundmark": "/'mʌðɚ/",
+		"vietnamese": "[VI:母亲；妈妈]"
 	},
 	{
-		"chinese": "我的",
 		"english": "my",
-		"soundmark": "/maɪ/"
+		"soundmark": "/maɪ/",
+		"vietnamese": "Tôi的"
 	},
 	{
-		"chinese": "我的妈妈",
 		"english": "my mother",
-		"soundmark": "/maɪ/ /'mʌðɚ/"
+		"soundmark": "/maɪ/ /'mʌðɚ/",
+		"vietnamese": "Tôi的妈妈"
 	},
 	{
-		"chinese": "我的妈妈（现在）正在做家务",
 		"english": "my mother is doing the housework",
-		"soundmark": "/maɪ/ /'mʌðɚ/ /ɪz/ /ˈduɪŋ/ /ðə/ /'haʊswɝk/"
+		"soundmark": "/maɪ/ /'mʌðɚ/ /ɪz/ /ˈduɪŋ/ /ðə/ /'haʊswɝk/",
+		"vietnamese": "Tôi的妈妈（bây giờ）正在làm家务"
 	},
 	{
-		"chinese": "在这一刻；此刻",
 		"english": "at the moment",
-		"soundmark": "/æt/ /ðə/ /'momənt/"
+		"soundmark": "/æt/ /ðə/ /'momənt/",
+		"vietnamese": "[VI:在这一刻；此刻]"
 	},
 	{
-		"chinese": "我妈此刻正在做家务",
 		"english": "my mother is doing the housework at the moment",
-		"soundmark": "/maɪ/ /'mʌðɚ/ /ɪz/ /ˈduɪŋ/ /ðə/ /'haʊswɝk/ /æt/ /ðə/ /'momənt/"
+		"soundmark": "/maɪ/ /'mʌðɚ/ /ɪz/ /ˈduɪŋ/ /ðə/ /'haʊswɝk/ /æt/ /ðə/ /'momənt/",
+		"vietnamese": "Tôi妈此刻正在làm家务"
 	},
 	{
-		"chinese": "我妈（过去）正在做家务",
 		"english": "my mother was doing the housework",
-		"soundmark": "/maɪ/ /'mʌðɚ/ /wəz/ /ˈduɪŋ/ /ðə/ /'haʊswɝk/"
+		"soundmark": "/maɪ/ /'mʌðɚ/ /wəz/ /ˈduɪŋ/ /ðə/ /'haʊswɝk/",
+		"vietnamese": "Tôi妈（过去）正在làm家务"
 	},
 	{
-		"chinese": "说话",
 		"english": "to talk",
-		"soundmark": "/tə/ /tɔk/"
+		"soundmark": "/tə/ /tɔk/",
+		"vietnamese": "nói chuyện"
 	},
 	{
-		"chinese": "手机",
 		"english": "the phone",
-		"soundmark": "/ðə/ /fon/"
+		"soundmark": "/ðə/ /fon/",
+		"vietnamese": "[VI:手机]"
 	},
 	{
-		"chinese": "在手机上",
 		"english": "on the phone",
-		"soundmark": "/ɑn/ /ðə/ /fon/"
+		"soundmark": "/ɑn/ /ðə/ /fon/",
+		"vietnamese": "[VI:在手机上]"
 	},
 	{
-		"chinese": "在手机上说话",
 		"english": "to talk on the phone",
-		"soundmark": "/tə/ /tɔk/ /ɑn/ /ðə/ /fon/"
+		"soundmark": "/tə/ /tɔk/ /ɑn/ /ðə/ /fon/",
+		"vietnamese": "在手机上nói chuyện"
 	},
 	{
-		"chinese": "说话（ing形式）",
 		"english": "talking",
-		"soundmark": "/'tɔkɪŋ/"
+		"soundmark": "/'tɔkɪŋ/",
+		"vietnamese": "nói chuyện（ing形式）"
 	},
 	{
-		"chinese": "是；赋值（原型）",
 		"english": "be",
-		"soundmark": "/bi/"
+		"soundmark": "/bi/",
+		"vietnamese": "là；赋值（原型）"
 	},
 	{
-		"chinese": "正在说话",
 		"english": "be talking",
-		"soundmark": "/bi/ /'tɔkɪŋ/"
+		"soundmark": "/bi/ /'tɔkɪŋ/",
+		"vietnamese": "正在nói chuyện"
 	},
 	{
-		"chinese": "正在在手机上说话",
 		"english": "be talking on the phone",
-		"soundmark": "/bi/ /'tɔkɪŋ/ /ɑn/ /ðə/ /fon/"
+		"soundmark": "/bi/ /'tɔkɪŋ/ /ɑn/ /ðə/ /fon/",
+		"vietnamese": "正在在手机上nói chuyện"
 	},
 	{
-		"chinese": "他",
 		"english": "he",
-		"soundmark": "/hi/"
+		"soundmark": "/hi/",
+		"vietnamese": "Anh ấy"
 	},
 	{
-		"chinese": "他（现在）正在手机上说话",
 		"english": "he is talking on the phone",
-		"soundmark": "/hi/ /ɪz/ /'tɔkɪŋ/ /ɑn/ /ðə/ /fon/"
+		"soundmark": "/hi/ /ɪz/ /'tɔkɪŋ/ /ɑn/ /ðə/ /fon/",
+		"vietnamese": "Anh ấy（bây giờ）正在手机上nói chuyện"
 	},
 	{
-		"chinese": "父亲；爸爸",
 		"english": "father",
-		"soundmark": "/'fɑðɚ/"
+		"soundmark": "/'fɑðɚ/",
+		"vietnamese": "[VI:父亲；爸爸]"
 	},
 	{
-		"chinese": "我的",
 		"english": "my",
-		"soundmark": "/maɪ/"
+		"soundmark": "/maɪ/",
+		"vietnamese": "Tôi的"
 	},
 	{
-		"chinese": "我的父亲",
 		"english": "my father",
-		"soundmark": "/maɪ/ /'fɑðɚ/"
+		"soundmark": "/maɪ/ /'fɑðɚ/",
+		"vietnamese": "Tôi的父亲"
 	},
 	{
-		"chinese": "我爸（现在）正在手机上说话",
 		"english": "my father is talking on the phone",
-		"soundmark": "/maɪ/ /'fɑðɚ/ /ɪz/ /'tɔkɪŋ/ /ɑn/ /ðə/ /fon/"
+		"soundmark": "/maɪ/ /'fɑðɚ/ /ɪz/ /'tɔkɪŋ/ /ɑn/ /ðə/ /fon/",
+		"vietnamese": "Tôi爸（bây giờ）正在手机上nói chuyện"
 	},
 	{
-		"chinese": "在这一刻；此刻",
 		"english": "at the moment",
-		"soundmark": "/æt/ /ðə/ /'momənt/"
+		"soundmark": "/æt/ /ðə/ /'momənt/",
+		"vietnamese": "[VI:在这一刻；此刻]"
 	},
 	{
-		"chinese": "我爸此刻正在手机上说话",
 		"english": "my father is talking on the phone at the moment",
-		"soundmark": "/maɪ/ /'fɑðɚ/ /ɪz/ /'tɔkɪŋ/ /ɑn/ /ðə/ /fon/ /æt/ /ðə/ /'momənt/"
+		"soundmark": "/maɪ/ /'fɑðɚ/ /ɪz/ /'tɔkɪŋ/ /ɑn/ /ðə/ /fon/ /æt/ /ðə/ /'momənt/",
+		"vietnamese": "Tôi爸此刻正在手机上nói chuyện"
 	},
 	{
-		"chinese": "我爸（过去）正在手机上说话",
 		"english": "my father was talking on the phone",
-		"soundmark": "/maɪ/ /'fɑðɚ/ /wəz/ /'tɔkɪŋ/ /ɑn/ /ðə/ /fon/"
+		"soundmark": "/maɪ/ /'fɑðɚ/ /wəz/ /'tɔkɪŋ/ /ɑn/ /ðə/ /fon/",
+		"vietnamese": "Tôi爸（过去）正在手机上nói chuyện"
 	},
 	{
-		"chinese": "与此同时",
 		"english": "while",
-		"soundmark": "/waɪl/"
+		"soundmark": "/waɪl/",
+		"vietnamese": "[VI:与此同时]"
 	},
 	{
-		"chinese": "我妈（过去）正在做家务",
 		"english": "my mother was doing the housework",
-		"soundmark": "/maɪ/ /'mʌðɚ/ /wəz/ /ˈduɪŋ/ /ðə/ /'haʊswɝk/"
+		"soundmark": "/maɪ/ /'mʌðɚ/ /wəz/ /ˈduɪŋ/ /ðə/ /'haʊswɝk/",
+		"vietnamese": "Tôi妈（过去）正在làm家务"
 	},
 	{
-		"chinese": "我妈（过去）正在做家务与此同时我爸（过去）正在手机上说话",
 		"english": "my mother was doing the housework while my father was talking on the phone",
-		"soundmark": "/maɪ/ /'mʌðɚ/ /wəz/ /ˈduɪŋ/ /ðə/ /'haʊswɝk/ /waɪl/ /maɪ/ /'fɑðɚ/ /wəz/ /'tɔkɪŋ/ /ɑn/ /ðə/ /fon/"
+		"soundmark": "/maɪ/ /'mʌðɚ/ /wəz/ /ˈduɪŋ/ /ðə/ /'haʊswɝk/ /waɪl/ /maɪ/ /'fɑðɚ/ /wəz/ /'tɔkɪŋ/ /ɑn/ /ðə/ /fon/",
+		"vietnamese": "Tôi妈（过去）正在làm家务与此同时我爸（过去）正在手机上nói chuyện"
 	},
 	{
-		"chinese": "看",
 		"english": "to watch",
-		"soundmark": "/tə/ /wɑtʃ/"
+		"soundmark": "/tə/ /wɑtʃ/",
+		"vietnamese": "[VI:看]"
 	},
 	{
-		"chinese": "电视",
 		"english": "TV",
-		"soundmark": "/ˈtiˈvi/"
+		"soundmark": "/ˈtiˈvi/",
+		"vietnamese": "[VI:电视]"
 	},
 	{
-		"chinese": "看电视",
 		"english": "to watch TV",
-		"soundmark": "/tə/ /'wɑtʃ/ /ˈtiˈvi/"
+		"soundmark": "/tə/ /'wɑtʃ/ /ˈtiˈvi/",
+		"vietnamese": "[VI:看电视]"
 	},
 	{
-		"chinese": "看（ing形式）",
 		"english": "watching",
-		"soundmark": "/'wɑtʃɪŋ/"
+		"soundmark": "/'wɑtʃɪŋ/",
+		"vietnamese": "[VI:看（ing形式）]"
 	},
 	{
-		"chinese": "是；赋值（原型）",
 		"english": "be",
-		"soundmark": "/bi/"
+		"soundmark": "/bi/",
+		"vietnamese": "là；赋值（原型）"
 	},
 	{
-		"chinese": "正在看",
 		"english": "be watching",
-		"soundmark": "/bi/ /'wɑtʃɪŋ/"
+		"soundmark": "/bi/ /'wɑtʃɪŋ/",
+		"vietnamese": "[VI:正在看]"
 	},
 	{
-		"chinese": "正在看电视",
 		"english": "be watching TV",
-		"soundmark": "/bi/ /'wɑtʃɪŋ/ /ˈtiˈvi/"
+		"soundmark": "/bi/ /'wɑtʃɪŋ/ /ˈtiˈvi/",
+		"vietnamese": "[VI:正在看电视]"
 	},
 	{
-		"chinese": "她",
 		"english": "she",
-		"soundmark": "/ʃi/"
+		"soundmark": "/ʃi/",
+		"vietnamese": "Cô ấy"
 	},
 	{
-		"chinese": "她（现在）正在看电视",
 		"english": "she is watching TV",
-		"soundmark": "/ʃi/ /ɪz/ /'wɑtʃɪŋ/ /ˈtiˈvi/"
+		"soundmark": "/ʃi/ /ɪz/ /'wɑtʃɪŋ/ /ˈtiˈvi/",
+		"vietnamese": "Cô ấy（bây giờ）正在看电视"
 	},
 	{
-		"chinese": "女儿",
 		"english": "daughter",
-		"soundmark": "/'dɔtɚ/"
+		"soundmark": "/'dɔtɚ/",
+		"vietnamese": "[VI:女儿]"
 	},
 	{
-		"chinese": "我的女儿",
 		"english": "my daughter",
-		"soundmark": "/maɪ/ /'dɔtɚ/"
+		"soundmark": "/maɪ/ /'dɔtɚ/",
+		"vietnamese": "Tôi的女儿"
 	},
 	{
-		"chinese": "我女儿（现在）正在看电视",
 		"english": "my daughter is watching TV",
-		"soundmark": "/maɪ/ /'dɔtɚ/ /ɪz/ /'wɑtʃɪŋ/ /ˈtiˈvi/"
+		"soundmark": "/maɪ/ /'dɔtɚ/ /ɪz/ /'wɑtʃɪŋ/ /ˈtiˈvi/",
+		"vietnamese": "Tôi女儿（bây giờ）正在看电视"
 	},
 	{
-		"chinese": "在这一刻；此刻",
 		"english": "at the moment",
-		"soundmark": "/æt/ /ðə/ /'momənt/"
+		"soundmark": "/æt/ /ðə/ /'momənt/",
+		"vietnamese": "[VI:在这一刻；此刻]"
 	},
 	{
-		"chinese": "我女儿此刻正在看电视",
 		"english": "my daughter is watching TV at the moment",
-		"soundmark": "/maɪ/ /'dɔtɚ/ /ɪz/ /'wɑtʃɪŋ/ /ˈtiˈvi/ /æt/ /ðə/ /'momənt/"
+		"soundmark": "/maɪ/ /'dɔtɚ/ /ɪz/ /'wɑtʃɪŋ/ /ˈtiˈvi/ /æt/ /ðə/ /'momənt/",
+		"vietnamese": "Tôi女儿此刻正在看电视"
 	},
 	{
-		"chinese": "我女儿（过去）正在看电视",
 		"english": "my daughter was watching TV",
-		"soundmark": "/maɪ/ /'dɔtɚ/ /wəz/ /'wɑtʃɪŋ/ /ˈtiˈvi/"
+		"soundmark": "/maɪ/ /'dɔtɚ/ /wəz/ /'wɑtʃɪŋ/ /ˈtiˈvi/",
+		"vietnamese": "Tôi女儿（过去）正在看电视"
 	},
 	{
-		"chinese": "烹饪；做饭",
 		"english": "to cook",
-		"soundmark": "/tə/ /kʊk/"
+		"soundmark": "/tə/ /kʊk/",
+		"vietnamese": "烹饪；làm饭"
 	},
 	{
-		"chinese": "牛肉",
 		"english": "beef",
-		"soundmark": "/bif/"
+		"soundmark": "/bif/",
+		"vietnamese": "[VI:牛肉]"
 	},
 	{
-		"chinese": "做牛肉",
 		"english": "to cook beef",
-		"soundmark": "/tə/ /kʊk/ /bif/"
+		"soundmark": "/tə/ /kʊk/ /bif/",
+		"vietnamese": "làm牛肉"
 	},
 	{
-		"chinese": "和",
 		"english": "with",
-		"soundmark": "/wɪð/"
+		"soundmark": "/wɪð/",
+		"vietnamese": "và"
 	},
 	{
-		"chinese": "土豆",
 		"english": "potatoes",
-		"soundmark": "/pə'tetoz/"
+		"soundmark": "/pə'tetoz/",
+		"vietnamese": "[VI:土豆]"
 	},
 	{
-		"chinese": "和土豆",
 		"english": "with potatoes",
-		"soundmark": "/wɪð/ /pə'tetoz/"
+		"soundmark": "/wɪð/ /pə'tetoz/",
+		"vietnamese": "và土豆"
 	},
 	{
-		"chinese": "牛肉和土豆",
 		"english": "beef with potatoes",
-		"soundmark": "/bif/ /wɪð/ /pə'tetoz/"
+		"soundmark": "/bif/ /wɪð/ /pə'tetoz/",
+		"vietnamese": "牛肉và土豆"
 	},
 	{
-		"chinese": "烹饪牛肉和土豆",
 		"english": "to cook beef with potatoes",
-		"soundmark": "/tə/ /kʊk/ /bif/ /wɪð/ /pə'tetoz/"
+		"soundmark": "/tə/ /kʊk/ /bif/ /wɪð/ /pə'tetoz/",
+		"vietnamese": "烹饪牛肉và土豆"
 	},
 	{
-		"chinese": "烹饪；做饭（ing形式）",
 		"english": "cooking",
-		"soundmark": "/'kʊkɪŋ/"
+		"soundmark": "/'kʊkɪŋ/",
+		"vietnamese": "烹饪；làm饭（ing形式）"
 	},
 	{
-		"chinese": "是；赋值（原型）",
 		"english": "be",
-		"soundmark": "/bi/"
+		"soundmark": "/bi/",
+		"vietnamese": "là；赋值（原型）"
 	},
 	{
-		"chinese": "正在烹饪",
 		"english": "be cooking",
-		"soundmark": "/bi/ /'kʊkɪŋ/"
+		"soundmark": "/bi/ /'kʊkɪŋ/",
+		"vietnamese": "[VI:正在烹饪]"
 	},
 	{
-		"chinese": "正在做牛肉烧土豆",
 		"english": "be cooking beef with potatoes",
-		"soundmark": "/bi/ /'kʊkɪŋ/ /bif/ /wɪð/ /pə'tetoz/"
+		"soundmark": "/bi/ /'kʊkɪŋ/ /bif/ /wɪð/ /pə'tetoz/",
+		"vietnamese": "正在làm牛肉烧土豆"
 	},
 	{
-		"chinese": "她",
 		"english": "she",
-		"soundmark": "/ʃi/"
+		"soundmark": "/ʃi/",
+		"vietnamese": "Cô ấy"
 	},
 	{
-		"chinese": "她（现在）正在做牛肉烧土豆",
 		"english": "she is cooking beef with potatoes",
-		"soundmark": "/ʃi/ /ɪz/ /'kʊkɪŋ/ /bif/ /wɪð/ /pə'tetoz/"
+		"soundmark": "/ʃi/ /ɪz/ /'kʊkɪŋ/ /bif/ /wɪð/ /pə'tetoz/",
+		"vietnamese": "Cô ấy（bây giờ）正在làm牛肉烧土豆"
 	},
 	{
-		"chinese": "母亲；妈妈",
 		"english": "mother",
-		"soundmark": "/'mʌðɚ/"
+		"soundmark": "/'mʌðɚ/",
+		"vietnamese": "[VI:母亲；妈妈]"
 	},
 	{
-		"chinese": "她的",
 		"english": "her",
-		"soundmark": "/hɚ/"
+		"soundmark": "/hɚ/",
+		"vietnamese": "Cô ấy的"
 	},
 	{
-		"chinese": "她的妈妈",
 		"english": "her mother",
-		"soundmark": "/hɚ/ /'mʌðɚ/"
+		"soundmark": "/hɚ/ /'mʌðɚ/",
+		"vietnamese": "Cô ấy的妈妈"
 	},
 	{
-		"chinese": "她妈妈（现在）正在做牛肉烧土豆",
 		"english": "her mother is cooking beef with potatoes",
-		"soundmark": "/hɚ/ /'mʌðɚ/ /ɪz/ /'kʊkɪŋ/ /bif/ /wɪð/ /pə'tetoz/"
+		"soundmark": "/hɚ/ /'mʌðɚ/ /ɪz/ /'kʊkɪŋ/ /bif/ /wɪð/ /pə'tetoz/",
+		"vietnamese": "Cô ấy妈妈（bây giờ）正在làm牛肉烧土豆"
 	},
 	{
-		"chinese": "在这一刻；此刻",
 		"english": "at the moment",
-		"soundmark": "/æt/ /ðə/ /'momənt/"
+		"soundmark": "/æt/ /ðə/ /'momənt/",
+		"vietnamese": "[VI:在这一刻；此刻]"
 	},
 	{
-		"chinese": "她妈妈此刻正在做牛肉烧土豆",
 		"english": "her mother is cooking beef with potatoes at the moment",
-		"soundmark": "/hɚ/ /'mʌðɚ/ /ɪz/ /'kʊkɪŋ/ /bif/ /wɪð/ /pə'tetoz/ /æt/ /ðə/ /'momənt/"
+		"soundmark": "/hɚ/ /'mʌðɚ/ /ɪz/ /'kʊkɪŋ/ /bif/ /wɪð/ /pə'tetoz/ /æt/ /ðə/ /'momənt/",
+		"vietnamese": "Cô ấy妈妈此刻正在làm牛肉烧土豆"
 	},
 	{
-		"chinese": "她妈妈（过去）正在做牛肉烧土豆",
 		"english": "her mother was cooking beef with potatoes",
-		"soundmark": "/hɚ/ /'mʌðɚ/ /wəz/ /'kʊkɪŋ/ /bif/ /wɪð/ /pə'tetoz/"
+		"soundmark": "/hɚ/ /'mʌðɚ/ /wəz/ /'kʊkɪŋ/ /bif/ /wɪð/ /pə'tetoz/",
+		"vietnamese": "Cô ấy妈妈（过去）正在làm牛肉烧土豆"
 	},
 	{
-		"chinese": "我女儿（过去）正在看电视",
 		"english": "my daughter was watching TV",
-		"soundmark": "/maɪ/ /'dɔtɚ/ /wəz/ /'wɑtʃɪŋ/ /ˈtiˈvi/"
+		"soundmark": "/maɪ/ /'dɔtɚ/ /wəz/ /'wɑtʃɪŋ/ /ˈtiˈvi/",
+		"vietnamese": "Tôi女儿（过去）正在看电视"
 	},
 	{
-		"chinese": "与此同时",
 		"english": "while",
-		"soundmark": "/waɪl/"
+		"soundmark": "/waɪl/",
+		"vietnamese": "[VI:与此同时]"
 	},
 	{
-		"chinese": "我女儿（过去）正在看电视与此同时她妈妈（过去）正在做牛肉烧土豆",
 		"english": "my daughter was watching TV while her mother was cooking beef with potatoes",
-		"soundmark": "/maɪ/ /'dɔtɚ/ /wəz/ /'wɑtʃɪŋ/ /ˈtiˈvi/ /waɪl/ /hɚ/ /'mʌðɚ/ /wəz/ /'kʊkɪŋ/ /bif/ /wɪð/ /pə'tetoz/"
+		"soundmark": "/maɪ/ /'dɔtɚ/ /wəz/ /'wɑtʃɪŋ/ /ˈtiˈvi/ /waɪl/ /hɚ/ /'mʌðɚ/ /wəz/ /'kʊkɪŋ/ /bif/ /wɪð/ /pə'tetoz/",
+		"vietnamese": "Tôi女儿（过去）正在看电视与此同时Cô ấy妈妈（过去）正在làm牛肉烧土豆"
 	}
 ]

@@ -1,667 +1,667 @@
 [
 	{
-		"chinese": "这里",
 		"english": "here",
-		"soundmark": "/hɪr/"
+		"soundmark": "/hɪr/",
+		"vietnamese": "ở đây"
 	},
 	{
-		"chinese": "我",
 		"english": "I",
-		"soundmark": "/aɪ/"
+		"soundmark": "/aɪ/",
+		"vietnamese": "Tôi"
 	},
 	{
-		"chinese": "我在这里",
 		"english": "I am here",
-		"soundmark": "/aɪ/ /æm/ /hɪr/"
+		"soundmark": "/aɪ/ /æm/ /hɪr/",
+		"vietnamese": "Tôi ở đây"
 	},
 	{
-		"chinese": "想要",
 		"english": "want",
-		"soundmark": "/wɑnt/"
+		"soundmark": "/wɑnt/",
+		"vietnamese": "muốn"
 	},
 	{
-		"chinese": "我在这里",
 		"english": "I am here",
-		"soundmark": "/aɪ/ /æm/ /hɪr/"
+		"soundmark": "/aɪ/ /æm/ /hɪr/",
+		"vietnamese": "Tôi ở đây"
 	},
 	{
-		"chinese": "我想要在这里",
 		"english": "I want to be here",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /bi/ /hɪr/"
+		"soundmark": "/aɪ/ /wɑnt/ /tə/ /bi/ /hɪr/",
+		"vietnamese": "Tôi muốn ở đây"
 	},
 	{
-		"chinese": "不",
 		"english": "don't",
-		"soundmark": "/dont/"
+		"soundmark": "/dont/",
+		"vietnamese": "không"
 	},
 	{
-		"chinese": "我不想在这里",
 		"english": "I don't want to be here",
-		"soundmark": "/aɪ/ /dont/ /wɑnt/ /tə/ /bi/ /hɪr/"
+		"soundmark": "/aɪ/ /dont/ /wɑnt/ /tə/ /bi/ /hɪr/",
+		"vietnamese": "Tôi không muốn ở đây"
 	},
 	{
-		"chinese": "那里",
 		"english": "there",
-		"soundmark": "/ðɛr/"
+		"soundmark": "/ðɛr/",
+		"vietnamese": "[VI:那里]"
 	},
 	{
-		"chinese": "我不想去那里",
 		"english": "I don't want to be there",
-		"soundmark": "/aɪ/ /dont/ /wɑnt/ /tə/ /bi/ /ðɛr/"
+		"soundmark": "/aɪ/ /dont/ /wɑnt/ /tə/ /bi/ /ðɛr/",
+		"vietnamese": "Tôi không muốn去那里"
 	},
 	{
-		"chinese": "我想要去那里",
 		"english": "I want to be there",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /bi/ /ðɛr/"
+		"soundmark": "/aɪ/ /wɑnt/ /tə/ /bi/ /ðɛr/",
+		"vietnamese": "Tôi muốn去那里"
 	},
 	{
-		"chinese": "我不想在这里我想要去那里",
 		"english": "I don't want to be here I want to be there",
-		"soundmark": "/aɪ/ /dont/ /wɑnt/ /tə/ /bi/ /hɪr/ /aɪ/ /wɑnt/ /tə/ /bi/ /ðɛr/"
+		"soundmark": "/aɪ/ /dont/ /wɑnt/ /tə/ /bi/ /hɪr/ /aɪ/ /wɑnt/ /tə/ /bi/ /ðɛr/",
+		"vietnamese": "Tôi không muốn ở đâyTôi muốn去那里"
 	},
 	{
-		"chinese": "我在这里",
 		"english": "I am here",
-		"soundmark": "/aɪ/ /æm/ /hɪr/"
+		"soundmark": "/aɪ/ /æm/ /hɪr/",
+		"vietnamese": "Tôi ở đây"
 	},
 	{
-		"chinese": "当......时候",
 		"english": "when",
-		"soundmark": "/wɛn/"
+		"soundmark": "/wɛn/",
+		"vietnamese": "[VI:当......时候]"
 	},
 	{
-		"chinese": "当我在这里的时候",
 		"english": "when I am here",
-		"soundmark": "/wɛn/ /aɪ/ /æm/ /hɪr/"
+		"soundmark": "/wɛn/ /aɪ/ /æm/ /hɪr/",
+		"vietnamese": "当Tôi ở đây的时候"
 	},
 	{
-		"chinese": "我想要去那里",
 		"english": "I want to be there",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /bi/ /ðɛr/"
+		"soundmark": "/aɪ/ /wɑnt/ /tə/ /bi/ /ðɛr/",
+		"vietnamese": "Tôi muốn去那里"
 	},
 	{
-		"chinese": "当我在这里的时候，我想要去那里",
 		"english": "when I am here I want to be there",
-		"soundmark": "/wɛn/ /aɪ/ /æm/ /hɪr/ /aɪ/ /wɑnt/ /tə/ /bi/ /ðɛr/"
+		"soundmark": "/wɛn/ /aɪ/ /æm/ /hɪr/ /aɪ/ /wɑnt/ /tə/ /bi/ /ðɛr/",
+		"vietnamese": "当Tôi ở đây的时候，Tôi muốn去那里"
 	},
 	{
-		"chinese": "当我(过去)在这里的时候，我(过去)想要去那里",
 		"english": "when I was here I wanted to be there",
-		"soundmark": "/wɛn/ /aɪ/ /wəz/ /hɪr/ /aɪ/ /wɑntɪd/ /tə/ /bi/ /ðɛr/"
+		"soundmark": "/wɛn/ /aɪ/ /wəz/ /hɪr/ /aɪ/ /wɑntɪd/ /tə/ /bi/ /ðɛr/",
+		"vietnamese": "当Tôi(过去)ở đây的时候，我(过去)muốn去那里"
 	},
 	{
-		"chinese": "老师",
 		"english": "teacher",
-		"soundmark": "/'titʃɚ/"
+		"soundmark": "/'titʃɚ/",
+		"vietnamese": "[VI:老师]"
 	},
 	{
-		"chinese": "我是一名老师",
 		"english": "I am a teacher",
-		"soundmark": "/aɪ/ /æm/ /ə/ /'titʃɚ/"
+		"soundmark": "/aɪ/ /æm/ /ə/ /'titʃɚ/",
+		"vietnamese": "Tôi là一名老师"
 	},
 	{
-		"chinese": "想要",
 		"english": "want",
-		"soundmark": "/wɑnt/"
+		"soundmark": "/wɑnt/",
+		"vietnamese": "muốn"
 	},
 	{
-		"chinese": "我想要成为一名老师",
 		"english": "I want to be a teacher",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /bi/ /ə/ /'titʃɚ/"
+		"soundmark": "/aɪ/ /wɑnt/ /tə/ /bi/ /ə/ /'titʃɚ/",
+		"vietnamese": "Tôi muốn成为一名老师"
 	},
 	{
-		"chinese": "富有的",
 		"english": "rich",
-		"soundmark": "/rɪtʃ/"
+		"soundmark": "/rɪtʃ/",
+		"vietnamese": "giàu có"
 	},
 	{
-		"chinese": "我是富有的",
 		"english": "I am rich",
-		"soundmark": "/aɪ/ /æm/ /rɪtʃ/"
+		"soundmark": "/aɪ/ /æm/ /rɪtʃ/",
+		"vietnamese": "Tôi giàu có"
 	},
 	{
-		"chinese": "想要",
 		"english": "want",
-		"soundmark": "/wɑnt/"
+		"soundmark": "/wɑnt/",
+		"vietnamese": "muốn"
 	},
 	{
-		"chinese": "我想要变得富有",
 		"english": "I want to be rich",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /bi/ /rɪtʃ/"
+		"soundmark": "/aɪ/ /wɑnt/ /tə/ /bi/ /rɪtʃ/",
+		"vietnamese": "Tôi muốn变得富有"
 	},
 	{
-		"chinese": "我在这里",
 		"english": "I am here",
-		"soundmark": "/aɪ/ /æm/ /hɪr/"
+		"soundmark": "/aɪ/ /æm/ /hɪr/",
+		"vietnamese": "Tôi ở đây"
 	},
 	{
-		"chinese": "我(过去)在这里",
 		"english": "I was here",
-		"soundmark": "/aɪ/ /wəz/ /hɪr/"
+		"soundmark": "/aɪ/ /wəz/ /hɪr/",
+		"vietnamese": "Tôi(过去)ở đây"
 	},
 	{
-		"chinese": "当......时候",
 		"english": "when",
-		"soundmark": "/wɛn/"
+		"soundmark": "/wɛn/",
+		"vietnamese": "[VI:当......时候]"
 	},
 	{
-		"chinese": "当我(过去)在这里的时候",
 		"english": "when I was here",
-		"soundmark": "/wɛn/ /aɪ/ /wəz/ /hɪr/"
+		"soundmark": "/wɛn/ /aɪ/ /wəz/ /hɪr/",
+		"vietnamese": "当Tôi(过去)ở đây的时候"
 	},
 	{
-		"chinese": "在......之前；以前",
 		"english": "before",
-		"soundmark": "/bɪ'fɔr/"
+		"soundmark": "/bɪ'fɔr/",
+		"vietnamese": "[VI:在......之前；以前]"
 	},
 	{
-		"chinese": "当我以前在这里的时候",
 		"english": "when I was here before",
-		"soundmark": "/wɛn/ /aɪ/ /wəz/ /hɪr/ /bɪ'fɔr/"
+		"soundmark": "/wɛn/ /aɪ/ /wəz/ /hɪr/ /bɪ'fɔr/",
+		"vietnamese": "当Tôi以前ở đây的时候"
 	},
 	{
-		"chinese": "注意到；察觉到",
 		"english": "to notice",
-		"soundmark": "/tə/ /ˈnotɪs/"
+		"soundmark": "/tə/ /ˈnotɪs/",
+		"vietnamese": "[VI:注意到；察觉到]"
 	},
 	{
-		"chinese": "我",
 		"english": "I",
-		"soundmark": "/aɪ/"
+		"soundmark": "/aɪ/",
+		"vietnamese": "Tôi"
 	},
 	{
-		"chinese": "我注意到",
 		"english": "I notice",
-		"soundmark": "/aɪ/ /ˈnotɪs/"
+		"soundmark": "/aɪ/ /ˈnotɪs/",
+		"vietnamese": "Tôi注意到"
 	},
 	{
-		"chinese": "那个",
 		"english": "that",
-		"soundmark": "/ðæt/"
+		"soundmark": "/ðæt/",
+		"vietnamese": "[VI:那个]"
 	},
 	{
-		"chinese": "我注意到那个",
 		"english": "I notice that",
-		"soundmark": "/aɪ/ /ˈnotɪs/ /ðæt/"
+		"soundmark": "/aɪ/ /ˈnotɪs/ /ðæt/",
+		"vietnamese": "Tôi注意到那个"
 	},
 	{
-		"chinese": "我(过去)注意到那个",
 		"english": "I noticed that",
-		"soundmark": "/aɪ/ /ˈnotɪst/ /ðæt/"
+		"soundmark": "/aɪ/ /ˈnotɪst/ /ðæt/",
+		"vietnamese": "Tôi(过去)注意到那个"
 	},
 	{
-		"chinese": "我(过去)没有注意到那个",
 		"english": "I didn't notice that",
-		"soundmark": "/aɪ/ /ˈdɪdnt/ /ˈnotɪs/ /ðæt/"
+		"soundmark": "/aɪ/ /ˈdɪdnt/ /ˈnotɪs/ /ðæt/",
+		"vietnamese": "Tôi(过去)没有注意到那个"
 	},
 	{
-		"chinese": "当我以前在这里的时候",
 		"english": "when I was here before",
-		"soundmark": "/wɛn/ /aɪ/ /wəz/ /hɪr/ /bɪ'fɔr/"
+		"soundmark": "/wɛn/ /aɪ/ /wəz/ /hɪr/ /bɪ'fɔr/",
+		"vietnamese": "当Tôi以前ở đây的时候"
 	},
 	{
-		"chinese": "我(过去)没有注意那个当我以前在这里的时候",
 		"english": "I didn't notice that when I was here before",
-		"soundmark": "/aɪ/ /ˈdɪdnt/ /ˈnotɪs/ /ðæt/ /wɛn/ /aɪ/ /wəz/ /hɪr/ /bɪ'fɔr/"
+		"soundmark": "/aɪ/ /ˈdɪdnt/ /ˈnotɪs/ /ðæt/ /wɛn/ /aɪ/ /wəz/ /hɪr/ /bɪ'fɔr/",
+		"vietnamese": "Tôi(过去)没有注意那个当我以前ở đây的时候"
 	},
 	{
-		"chinese": "我(过去)注意到",
 		"english": "I noticed",
-		"soundmark": "/aɪ/ /ˈnotɪst/"
+		"soundmark": "/aɪ/ /ˈnotɪst/",
+		"vietnamese": "Tôi(过去)注意到"
 	},
 	{
-		"chinese": "某个东西",
 		"english": "something",
-		"soundmark": "/'sʌmθɪŋ/"
+		"soundmark": "/'sʌmθɪŋ/",
+		"vietnamese": "[VI:某个东西]"
 	},
 	{
-		"chinese": "错误的",
 		"english": "wrong",
-		"soundmark": "/rɔŋ/"
+		"soundmark": "/rɔŋ/",
+		"vietnamese": "[VI:错误的]"
 	},
 	{
-		"chinese": "错误的某个东西",
 		"english": "something wrong",
-		"soundmark": "/'sʌmθɪŋ/ /rɔŋ/"
+		"soundmark": "/'sʌmθɪŋ/ /rɔŋ/",
+		"vietnamese": "[VI:错误的某个东西]"
 	},
 	{
-		"chinese": "那里",
 		"english": "there",
-		"soundmark": "/ðɛr/"
+		"soundmark": "/ðɛr/",
+		"vietnamese": "[VI:那里]"
 	},
 	{
-		"chinese": "错误的某个东西在那里",
 		"english": "something wrong is there",
-		"soundmark": "/'sʌmθɪŋ/ /rɔŋ/ /ɪz/ /ðɛr/"
+		"soundmark": "/'sʌmθɪŋ/ /rɔŋ/ /ɪz/ /ðɛr/",
+		"vietnamese": "[VI:错误的某个东西在那里]"
 	},
 	{
-		"chinese": "存在",
 		"english": "there is",
-		"soundmark": "/ðɛr/ /ɪz/"
+		"soundmark": "/ðɛr/ /ɪz/",
+		"vietnamese": "[VI:存在]"
 	},
 	{
-		"chinese": "存在错误的某个东西",
 		"english": "there is something wrong",
-		"soundmark": "/ðɛr/ /ɪz/ /'sʌmθɪŋ/ /rɔŋ/"
+		"soundmark": "/ðɛr/ /ɪz/ /'sʌmθɪŋ/ /rɔŋ/",
+		"vietnamese": "[VI:存在错误的某个东西]"
 	},
 	{
-		"chinese": "这里",
 		"english": "here",
-		"soundmark": "/hɪr/"
+		"soundmark": "/hɪr/",
+		"vietnamese": "ở đây"
 	},
 	{
-		"chinese": "这里有错误的某个东西",
 		"english": "there is something wrong here",
-		"soundmark": "/ðɛr/ /ɪz/ /'sʌmθɪŋ/ /rɔŋ/ /hɪr/"
+		"soundmark": "/ðɛr/ /ɪz/ /'sʌmθɪŋ/ /rɔŋ/ /hɪr/",
+		"vietnamese": "ở đây有错误的某个东西"
 	},
 	{
-		"chinese": "这里(过去)有错误的某个东西",
 		"english": "there was something wrong here",
-		"soundmark": "/ðɛr/ /wəz/ /'sʌmθɪŋ/ /rɔŋ/ /hɪr/"
+		"soundmark": "/ðɛr/ /wəz/ /'sʌmθɪŋ/ /rɔŋ/ /hɪr/",
+		"vietnamese": "ở đây(过去)有错误的某个东西"
 	},
 	{
-		"chinese": "我(过去)注意到",
 		"english": "I noticed",
-		"soundmark": "/aɪ/ /ˈnotɪst/"
+		"soundmark": "/aɪ/ /ˈnotɪst/",
+		"vietnamese": "Tôi(过去)注意到"
 	},
 	{
-		"chinese": "我(过去)注意到这里(过去)有错误的某个东西",
 		"english": "I noticed there was something wrong here",
-		"soundmark": "/aɪ/ /ˈnotɪst/ /ðɛr/ /wəz/ /'sʌmθɪŋ/ /rɔŋ/ /hɪr/"
+		"soundmark": "/aɪ/ /ˈnotɪst/ /ðɛr/ /wəz/ /'sʌmθɪŋ/ /rɔŋ/ /hɪr/",
+		"vietnamese": "Tôi(过去)注意到ở đây(过去)有错误的某个东西"
 	},
 	{
-		"chinese": "那个",
 		"english": "that",
-		"soundmark": "/ðæt/"
+		"soundmark": "/ðæt/",
+		"vietnamese": "[VI:那个]"
 	},
 	{
-		"chinese": "我(过去)注意到(那个)这里(过去)有错误的某个东西",
 		"english": "I noticed that there was something wrong here",
-		"soundmark": "/aɪ/ /ˈnotɪst/ /ðæt/ /ðɛr/ /wəz/ /'sʌmθɪŋ/ /rɔŋ/ /hɪr/"
+		"soundmark": "/aɪ/ /ˈnotɪst/ /ðæt/ /ðɛr/ /wəz/ /'sʌmθɪŋ/ /rɔŋ/ /hɪr/",
+		"vietnamese": "Tôi(过去)注意到(那个)ở đây(过去)有错误的某个东西"
 	},
 	{
-		"chinese": "不同的",
 		"english": "different",
-		"soundmark": "/'dɪfrənt/"
+		"soundmark": "/'dɪfrənt/",
+		"vietnamese": "không同的"
 	},
 	{
-		"chinese": "某个东西",
 		"english": "something",
-		"soundmark": "/'sʌmθɪŋ/"
+		"soundmark": "/'sʌmθɪŋ/",
+		"vietnamese": "[VI:某个东西]"
 	},
 	{
-		"chinese": "不同的某个东西",
 		"english": "something different",
-		"soundmark": "/'sʌmθɪŋ/ /'dɪfrənt/"
+		"soundmark": "/'sʌmθɪŋ/ /'dɪfrənt/",
+		"vietnamese": "không同的某个东西"
 	},
 	{
-		"chinese": "存在不同的某个东西",
 		"english": "there is something different",
-		"soundmark": "/ðɛr/ /ɪz/ /'sʌmθɪŋ/ /'dɪfrənt/"
+		"soundmark": "/ðɛr/ /ɪz/ /'sʌmθɪŋ/ /'dɪfrənt/",
+		"vietnamese": "存在không同的某个东西"
 	},
 	{
-		"chinese": "这里",
 		"english": "here",
-		"soundmark": "/hɪr/"
+		"soundmark": "/hɪr/",
+		"vietnamese": "ở đây"
 	},
 	{
-		"chinese": "这里有不同的某个东西",
 		"english": "there is something different here",
-		"soundmark": "/ðɛr/ /ɪz/ /'sʌmθɪŋ/ /'dɪfrənt/ /hɪr/"
+		"soundmark": "/ðɛr/ /ɪz/ /'sʌmθɪŋ/ /'dɪfrənt/ /hɪr/",
+		"vietnamese": "ở đây有không同的某个东西"
 	},
 	{
-		"chinese": "这里(过去)有不同的某个东西",
 		"english": "there was something different here",
-		"soundmark": "/ðɛr/ /wəz/ /'sʌmθɪŋ/ /'dɪfrənt/ /hɪr/"
+		"soundmark": "/ðɛr/ /wəz/ /'sʌmθɪŋ/ /'dɪfrənt/ /hɪr/",
+		"vietnamese": "ở đây(过去)有không同的某个东西"
 	},
 	{
-		"chinese": "我(过去)注意到",
 		"english": "I noticed",
-		"soundmark": "/aɪ/ /ˈnotɪst/"
+		"soundmark": "/aɪ/ /ˈnotɪst/",
+		"vietnamese": "Tôi(过去)注意到"
 	},
 	{
-		"chinese": "我(过去)注意到这里(过去)存在不同的某个东西",
 		"english": "I noticed there was something different here",
-		"soundmark": "/aɪ/ /ˈnotɪst/ /ðɛr/ /wəz/ /'sʌmθɪŋ/ /'dɪfrənt/ /hɪr/"
+		"soundmark": "/aɪ/ /ˈnotɪst/ /ðɛr/ /wəz/ /'sʌmθɪŋ/ /'dɪfrənt/ /hɪr/",
+		"vietnamese": "Tôi(过去)注意到ở đây(过去)存在không同的某个东西"
 	},
 	{
-		"chinese": "那个",
 		"english": "that",
-		"soundmark": "/ðæt/"
+		"soundmark": "/ðæt/",
+		"vietnamese": "[VI:那个]"
 	},
 	{
-		"chinese": "我(过去)注意到(那个)这里(过去)存在不同的某个东西",
 		"english": "I noticed that there was something different here",
-		"soundmark": "/aɪ/ /ˈnotɪst/ /ðæt/ /ðɛr/ /wəz/ /'sʌmθɪŋ/ /'dɪfrənt/ /hɪr/"
+		"soundmark": "/aɪ/ /ˈnotɪst/ /ðæt/ /ðɛr/ /wəz/ /'sʌmθɪŋ/ /'dɪfrənt/ /hɪr/",
+		"vietnamese": "Tôi(过去)注意到(那个)ở đây(过去)存在không同的某个东西"
 	},
 	{
-		"chinese": "不同的",
 		"english": "different",
-		"soundmark": "/'dɪfrənt/"
+		"soundmark": "/'dɪfrənt/",
+		"vietnamese": "không同的"
 	},
 	{
-		"chinese": "不同之处",
 		"english": "difference",
-		"soundmark": "/'dɪfrəns/"
+		"soundmark": "/'dɪfrəns/",
+		"vietnamese": "không同之处"
 	},
 	{
-		"chinese": "在......之间",
 		"english": "between",
-		"soundmark": "/bɪ'twin/"
+		"soundmark": "/bɪ'twin/",
+		"vietnamese": "[VI:在......之间]"
 	},
 	{
-		"chinese": "和",
 		"english": "and",
-		"soundmark": "/ənd/"
+		"soundmark": "/ənd/",
+		"vietnamese": "và"
 	},
 	{
-		"chinese": "你和我",
 		"english": "you and me",
-		"soundmark": "/ju/ /ənd/ /mi/"
+		"soundmark": "/ju/ /ənd/ /mi/",
+		"vietnamese": "Bạnvới tôi"
 	},
 	{
-		"chinese": "在你和我之间",
 		"english": "between you and me",
-		"soundmark": "/bɪ'twin/ /ju/ /ənd/ /mi/"
+		"soundmark": "/bɪ'twin/ /ju/ /ənd/ /mi/",
+		"vietnamese": "在Bạnvới tôi之间"
 	},
 	{
-		"chinese": "在你和我之间的不同",
 		"english": "difference between you and me",
-		"soundmark": "/'dɪfrəns/ /bɪ'twin/ /ju/ /ənd/ /mi/"
+		"soundmark": "/'dɪfrəns/ /bɪ'twin/ /ju/ /ənd/ /mi/",
+		"vietnamese": "在Bạnvới tôi之间的không同"
 	},
 	{
-		"chinese": "大的",
 		"english": "big",
-		"soundmark": "/bɪɡ/"
+		"soundmark": "/bɪɡ/",
+		"vietnamese": "[VI:大的]"
 	},
 	{
-		"chinese": "一个大的不同",
 		"english": "a big difference",
-		"soundmark": "/ə/ /bɪɡ/ /'dɪfrəns/"
+		"soundmark": "/ə/ /bɪɡ/ /'dɪfrəns/",
+		"vietnamese": "一个大的không同"
 	},
 	{
-		"chinese": "在你和我之间的一个大的不同",
 		"english": "a big difference between you and me",
-		"soundmark": "/ə/ /bɪɡ/ /'dɪfrəns/ /bɪ'twin/ /ju/ /ənd/ /mi/"
+		"soundmark": "/ə/ /bɪɡ/ /'dɪfrəns/ /bɪ'twin/ /ju/ /ənd/ /mi/",
+		"vietnamese": "在Bạnvới tôi之间的一个大的không同"
 	},
 	{
-		"chinese": "那里",
 		"english": "there",
-		"soundmark": "/ðɛr/"
+		"soundmark": "/ðɛr/",
+		"vietnamese": "[VI:那里]"
 	},
 	{
-		"chinese": "在你和我之间的一个大的不同在那里",
 		"english": "a big difference between you and me is there",
-		"soundmark": "/ə/ /bɪɡ/ /'dɪfrəns/ /bɪ'twin/ /ju/ /ənd/ /mi/ /ɪz/ /ðɛr/"
+		"soundmark": "/ə/ /bɪɡ/ /'dɪfrəns/ /bɪ'twin/ /ju/ /ənd/ /mi/ /ɪz/ /ðɛr/",
+		"vietnamese": "在Bạnvới tôi之间的一个大的không同在那里"
 	},
 	{
-		"chinese": "存在",
 		"english": "there is",
-		"soundmark": "/ðɛr/ /ɪz/"
+		"soundmark": "/ðɛr/ /ɪz/",
+		"vietnamese": "[VI:存在]"
 	},
 	{
-		"chinese": "存在在你和我之间的一个大的不同",
 		"english": "there is a big difference between you and me",
-		"soundmark": "/ðɛr/ /ɪz/ /ə/ /bɪɡ/ /'dɪfrəns/ /bɪ'twin/ /ju/ /ənd/ /mi/"
+		"soundmark": "/ðɛr/ /ɪz/ /ə/ /bɪɡ/ /'dɪfrəns/ /bɪ'twin/ /ju/ /ənd/ /mi/",
+		"vietnamese": "存在在Bạnvới tôi之间的一个大的không同"
 	},
 	{
-		"chinese": "武器",
 		"english": "weapon",
-		"soundmark": "/ˈwɛpən/"
+		"soundmark": "/ˈwɛpən/",
+		"vietnamese": "[VI:武器]"
 	},
 	{
-		"chinese": "工具",
 		"english": "tool",
-		"soundmark": "/tul/"
+		"soundmark": "/tul/",
+		"vietnamese": "[VI:工具]"
 	},
 	{
-		"chinese": "一个武器和一个工具",
 		"english": "a weapon and a tool",
-		"soundmark": "/ə/ /ˈwɛpən/ /ənd/ /ə/ /tul/"
+		"soundmark": "/ə/ /ˈwɛpən/ /ənd/ /ə/ /tul/",
+		"vietnamese": "一个武器và一个工具"
 	},
 	{
-		"chinese": "在......之间",
 		"english": "between",
-		"soundmark": "/bɪ'twin/"
+		"soundmark": "/bɪ'twin/",
+		"vietnamese": "[VI:在......之间]"
 	},
 	{
-		"chinese": "在一个武器和一个工具之间",
 		"english": "between a weapon and a tool",
-		"soundmark": "/bɪ'twin/ /ə/ /ˈwɛpən/ /ənd/ /ə/ /tul/"
+		"soundmark": "/bɪ'twin/ /ə/ /ˈwɛpən/ /ənd/ /ə/ /tul/",
+		"vietnamese": "在一个武器và一个工具之间"
 	},
 	{
-		"chinese": "存在一个大的不同",
 		"english": "there is a big difference",
-		"soundmark": "/ðɛr/ /ɪz/ /ə/ /bɪɡ/ /'dɪfrəns/"
+		"soundmark": "/ðɛr/ /ɪz/ /ə/ /bɪɡ/ /'dɪfrəns/",
+		"vietnamese": "存在一个大的không同"
 	},
 	{
-		"chinese": "存在在一个武器和一个工具之间的一个大的不同",
 		"english": "there is a big difference between a weapon and a tool",
-		"soundmark": "/ðɛr/ /ɪz/ /ə/ /bɪɡ/ /'dɪfrəns/ /bɪ'twin/ /ə/ /ˈwɛpən/ /ənd/ /ə/ /tul/"
+		"soundmark": "/ðɛr/ /ɪz/ /ə/ /bɪɡ/ /'dɪfrəns/ /bɪ'twin/ /ə/ /ˈwɛpən/ /ənd/ /ə/ /tul/",
+		"vietnamese": "存在在一个武器và一个工具之间的一个大的không同"
 	},
 	{
-		"chinese": "正确",
 		"english": "right",
-		"soundmark": "/raɪt/"
+		"soundmark": "/raɪt/",
+		"vietnamese": "[VI:正确]"
 	},
 	{
-		"chinese": "错误",
 		"english": "wrong",
-		"soundmark": "/rɔŋ/"
+		"soundmark": "/rɔŋ/",
+		"vietnamese": "[VI:错误]"
 	},
 	{
-		"chinese": "正确和错误",
 		"english": "right and wrong",
-		"soundmark": "/raɪt/ /ənd/ /rɔŋ/"
+		"soundmark": "/raɪt/ /ənd/ /rɔŋ/",
+		"vietnamese": "正确và错误"
 	},
 	{
-		"chinese": "在......之间",
 		"english": "between",
-		"soundmark": "/bɪ'twin/"
+		"soundmark": "/bɪ'twin/",
+		"vietnamese": "[VI:在......之间]"
 	},
 	{
-		"chinese": "在对和错之间",
 		"english": "between right and wrong",
-		"soundmark": "/bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/"
+		"soundmark": "/bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/",
+		"vietnamese": "在对và错之间"
 	},
 	{
-		"chinese": "不同之处",
 		"english": "difference",
-		"soundmark": "/'dɪfrəns/"
+		"soundmark": "/'dɪfrəns/",
+		"vietnamese": "không同之处"
 	},
 	{
-		"chinese": "那个不同之处(区别)",
 		"english": "the difference",
-		"soundmark": "/ðə/ /'dɪfrəns/"
+		"soundmark": "/ðə/ /'dɪfrəns/",
+		"vietnamese": "那个không同之处(区别)"
 	},
 	{
-		"chinese": "在对和错之间的区别",
 		"english": "the difference between right and wrong",
-		"soundmark": "/ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/"
+		"soundmark": "/ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/",
+		"vietnamese": "在对và错之间的区别"
 	},
 	{
-		"chinese": "知道",
 		"english": "to know",
-		"soundmark": "/tə/ /no/"
+		"soundmark": "/tə/ /no/",
+		"vietnamese": "biết"
 	},
 	{
-		"chinese": "知道对与错的区别",
 		"english": "to know the difference between right and wrong",
-		"soundmark": "/tə/ /no/ /ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/"
+		"soundmark": "/tə/ /no/ /ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/",
+		"vietnamese": "biết对与错的区别"
 	},
 	{
-		"chinese": "我们",
 		"english": "we",
-		"soundmark": "/wi/"
+		"soundmark": "/wi/",
+		"vietnamese": "Chúng tôi"
 	},
 	{
-		"chinese": "我们知道",
 		"english": "we know",
-		"soundmark": "/wi/ /no/"
+		"soundmark": "/wi/ /no/",
+		"vietnamese": "Chúng tôibiết"
 	},
 	{
-		"chinese": "所有；全部",
 		"english": "all",
-		"soundmark": "/ɔl/"
+		"soundmark": "/ɔl/",
+		"vietnamese": "[VI:所有；全部]"
 	},
 	{
-		"chinese": "我们都知道",
 		"english": "we all know",
-		"soundmark": "/wi/ /ɔl/ /no/"
+		"soundmark": "/wi/ /ɔl/ /no/",
+		"vietnamese": "Chúng tôi都biết"
 	},
 	{
-		"chinese": "我们都知道对与错的区别",
 		"english": "we all know the difference between right and wrong",
-		"soundmark": "/wi/ /ɔl/ /no/ /ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/"
+		"soundmark": "/wi/ /ɔl/ /no/ /ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/",
+		"vietnamese": "Chúng tôi都biết对与错的区别"
 	},
 	{
-		"chinese": "你必须知道",
 		"english": "you have to know",
-		"soundmark": "/ju/ /hæv/ /tə/ /no/"
+		"soundmark": "/ju/ /hæv/ /tə/ /no/",
+		"vietnamese": "Bạnphải biết"
 	},
 	{
-		"chinese": "你必须知道对与错的区别",
 		"english": "you have to know the difference between right and wrong",
-		"soundmark": "/ju/ /hæv/ /tə/ /no/ /ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/"
+		"soundmark": "/ju/ /hæv/ /tə/ /no/ /ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/",
+		"vietnamese": "Bạnphải biết对与错的区别"
 	},
 	{
-		"chinese": "告诉",
 		"english": "to tell",
-		"soundmark": "/tə/ /tɛl/"
+		"soundmark": "/tə/ /tɛl/",
+		"vietnamese": "nói"
 	},
 	{
-		"chinese": "区别",
 		"english": "the difference",
-		"soundmark": "/ðə/ /'dɪfrəns/"
+		"soundmark": "/ðə/ /'dɪfrəns/",
+		"vietnamese": "[VI:区别]"
 	},
 	{
-		"chinese": "分辨区别",
 		"english": "to tell the difference",
-		"soundmark": "/tə/ /tɛl/ /ðə/ /'dɪfrəns/"
+		"soundmark": "/tə/ /tɛl/ /ðə/ /'dɪfrəns/",
+		"vietnamese": "[VI:分辨区别]"
 	},
 	{
-		"chinese": "在......之间",
 		"english": "between",
-		"soundmark": "/bɪ'twin/"
+		"soundmark": "/bɪ'twin/",
+		"vietnamese": "[VI:在......之间]"
 	},
 	{
-		"chinese": "正确和错误",
 		"english": "right and wrong",
-		"soundmark": "/raɪt/ /ənd/ /rɔŋ/"
+		"soundmark": "/raɪt/ /ənd/ /rɔŋ/",
+		"vietnamese": "正确và错误"
 	},
 	{
-		"chinese": "在对和错之间",
 		"english": "between right and wrong",
-		"soundmark": "/bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/"
+		"soundmark": "/bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/",
+		"vietnamese": "在对và错之间"
 	},
 	{
-		"chinese": "对与错的区别",
 		"english": "the difference between right and wrong",
-		"soundmark": "/ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/"
+		"soundmark": "/ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/",
+		"vietnamese": "[VI:对与错的区别]"
 	},
 	{
-		"chinese": "分辨是非",
 		"english": "to tell the difference between right and wrong",
-		"soundmark": "/tə/ /tɛl/ /ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/"
+		"soundmark": "/tə/ /tɛl/ /ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/",
+		"vietnamese": "分辨là非"
 	},
 	{
-		"chinese": "年龄大的；老的",
 		"english": "old",
-		"soundmark": "/old/"
+		"soundmark": "/old/",
+		"vietnamese": "[VI:年龄大的；老的]"
 	},
 	{
-		"chinese": "足够",
 		"english": "enough",
-		"soundmark": "/ɪ'nʌf/"
+		"soundmark": "/ɪ'nʌf/",
+		"vietnamese": "[VI:足够]"
 	},
 	{
-		"chinese": "足够年龄大",
 		"english": "old enough",
-		"soundmark": "/old/ /ɪ'nʌf/"
+		"soundmark": "/old/ /ɪ'nʌf/",
+		"vietnamese": "[VI:足够年龄大]"
 	},
 	{
-		"chinese": "你是",
 		"english": "you are",
-		"soundmark": "/ju/ /ɚ/"
+		"soundmark": "/ju/ /ɚ/",
+		"vietnamese": "Bạn là"
 	},
 	{
-		"chinese": "你是足够年龄大的",
 		"english": "you are old enough",
-		"soundmark": "/ju/ /ɚ/ /old/ /ɪ'nʌf/"
+		"soundmark": "/ju/ /ɚ/ /old/ /ɪ'nʌf/",
+		"vietnamese": "Bạn là足够年龄大的"
 	},
 	{
-		"chinese": "你是年龄大的足够分辨是非",
 		"english": "you are old enough to tell the difference between right and wrong",
-		"soundmark": "/ju/ /ɚ/ /old/ /ɪ'nʌf/ /tə/ /tɛl/ /ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/"
+		"soundmark": "/ju/ /ɚ/ /old/ /ɪ'nʌf/ /tə/ /tɛl/ /ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/",
+		"vietnamese": "Bạn là年龄大的足够分辨là非"
 	},
 	{
-		"chinese": "孩子",
 		"english": "child",
-		"soundmark": "/tʃaɪld/"
+		"soundmark": "/tʃaɪld/",
+		"vietnamese": "[VI:孩子]"
 	},
 	{
-		"chinese": "孩子们",
 		"english": "children",
-		"soundmark": "/'tʃɪldrən/"
+		"soundmark": "/'tʃɪldrən/",
+		"vietnamese": "[VI:孩子们]"
 	},
 	{
-		"chinese": "我们的",
 		"english": "our",
-		"soundmark": "/'aʊɚ/"
+		"soundmark": "/'aʊɚ/",
+		"vietnamese": "Chúng tôi的"
 	},
 	{
-		"chinese": "我们的孩子们",
 		"english": "our children",
-		"soundmark": "/'aʊɚ/ /'tʃɪldrən/"
+		"soundmark": "/'aʊɚ/ /'tʃɪldrən/",
+		"vietnamese": "Chúng tôi的孩子们"
 	},
 	{
-		"chinese": "教",
 		"english": "to teach",
-		"soundmark": "/tə/ /titʃ/"
+		"soundmark": "/tə/ /titʃ/",
+		"vietnamese": "[VI:教]"
 	},
 	{
-		"chinese": "我们需要",
 		"english": "we need",
-		"soundmark": "/wi/ /nid/"
+		"soundmark": "/wi/ /nid/",
+		"vietnamese": "Chúng tôicần"
 	},
 	{
-		"chinese": "我们需要教",
 		"english": "we need to teach",
-		"soundmark": "/wi/ /nid/ /tə/ /titʃ/"
+		"soundmark": "/wi/ /nid/ /tə/ /titʃ/",
+		"vietnamese": "Chúng tôicần教"
 	},
 	{
-		"chinese": "我们需要教我们的孩子们",
 		"english": "we need to teach our children",
-		"soundmark": "/wi/ /nid/ /tə/ /titʃ/ /'aʊɚ/ /'tʃɪldrən/"
+		"soundmark": "/wi/ /nid/ /tə/ /titʃ/ /'aʊɚ/ /'tʃɪldrən/",
+		"vietnamese": "Chúng tôicần教Tôi们的孩子们"
 	},
 	{
-		"chinese": "分辨区别",
 		"english": "to tell the difference",
-		"soundmark": "/tə/ /tɛl/ /ðə/ /'dɪfrəns/"
+		"soundmark": "/tə/ /tɛl/ /ðə/ /'dɪfrəns/",
+		"vietnamese": "[VI:分辨区别]"
 	},
 	{
-		"chinese": "在对和错之间",
 		"english": "between right and wrong",
-		"soundmark": "/bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/"
+		"soundmark": "/bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/",
+		"vietnamese": "在对và错之间"
 	},
 	{
-		"chinese": "辨别是非",
 		"english": "to tell the difference between right and wrong",
-		"soundmark": "/tə/ /tɛl/ /ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/"
+		"soundmark": "/tə/ /tɛl/ /ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/",
+		"vietnamese": "辨别là非"
 	},
 	{
-		"chinese": "如何",
 		"english": "how",
-		"soundmark": "/haʊ/"
+		"soundmark": "/haʊ/",
+		"vietnamese": "[VI:如何]"
 	},
 	{
-		"chinese": "如何辨别是非",
 		"english": "how to tell the difference between right and wrong",
-		"soundmark": "/haʊ/ /tə/ /tɛl/ /ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/"
+		"soundmark": "/haʊ/ /tə/ /tɛl/ /ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/",
+		"vietnamese": "如何辨别là非"
 	},
 	{
-		"chinese": "我们需要教我们的孩子们如何辨别是非",
 		"english": "we need to teach our children how to tell the difference between right and wrong",
-		"soundmark": "/wi/ /nid/ /tə/ /titʃ/ /'aʊɚ/ /'tʃɪldrən/ /haʊ/ /tə/ /tɛl/ /ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/"
+		"soundmark": "/wi/ /nid/ /tə/ /titʃ/ /'aʊɚ/ /'tʃɪldrən/ /haʊ/ /tə/ /tɛl/ /ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/",
+		"vietnamese": "Chúng tôicần教Tôi们的孩子们如何辨别là非"
 	}
 ]

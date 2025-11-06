@@ -44,13 +44,13 @@
         class="btn btn-primary"
         @click="copyAndClose"
       >
-        复制并关闭
+        Sao chép并Đóng
       </button>
       <button
         class="btn"
         @click="hideShareModal"
       >
-        关闭
+        Đóng
       </button>
     </div>
   </CommonModal>

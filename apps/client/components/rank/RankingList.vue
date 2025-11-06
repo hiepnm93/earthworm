@@ -13,7 +13,7 @@
     </button>
 
     <!-- title -->
-    <h2 class="mb-4 text-center text-xl font-bold">排行榜</h2>
+    <h2 class="mb-4 text-center text-xl font-bold">Bảng xếp hạng</h2>
 
     <!-- tab -->
     <div

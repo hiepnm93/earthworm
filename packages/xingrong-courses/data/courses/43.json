@@ -1,712 +1,712 @@
 [
 	{
-		"chinese": "锁",
 		"english": "to lock",
-		"soundmark": "/tə/ /lɑk/"
+		"soundmark": "/tə/ /lɑk/",
+		"vietnamese": "[VI:锁]"
 	},
 	{
-		"chinese": "门",
 		"english": "the door",
-		"soundmark": "/ðə/ /dɔr/"
+		"soundmark": "/ðə/ /dɔr/",
+		"vietnamese": "[VI:门]"
 	},
 	{
-		"chinese": "锁门",
 		"english": "to lock the door",
-		"soundmark": "/lɑk/ /ðə/ /dɔr/"
+		"soundmark": "/lɑk/ /ðə/ /dɔr/",
+		"vietnamese": "[VI:锁门]"
 	},
 	{
-		"chinese": "忘记",
 		"english": "to forget",
-		"soundmark": "/tə/ /fɚ'ɡɛt/"
+		"soundmark": "/tə/ /fɚ'ɡɛt/",
+		"vietnamese": "[VI:忘记]"
 	},
 	{
-		"chinese": "忘记锁门",
 		"english": "to forget to lock the door",
-		"soundmark": "/tə/ /fɚ'ɡɛt/ /tə/ /lɑk/ /ðə/ /dɔr/"
+		"soundmark": "/tə/ /fɚ'ɡɛt/ /tə/ /lɑk/ /ðə/ /dɔr/",
+		"vietnamese": "[VI:忘记锁门]"
 	},
 	{
-		"chinese": "忘记锁门(ing形式)",
 		"english": "forgetting to lock the door",
-		"soundmark": "/fɚ'ɡɛtɪŋ/ /tə/ /lɑk/ /ðə/ /dɔr/"
+		"soundmark": "/fɚ'ɡɛtɪŋ/ /tə/ /lɑk/ /ðə/ /dɔr/",
+		"vietnamese": "[VI:忘记锁门(ing形式)]"
 	},
 	{
-		"chinese": "承认",
 		"english": "to admit",
-		"soundmark": "/tə/ /ədˈmɪt/"
+		"soundmark": "/tə/ /ədˈmɪt/",
+		"vietnamese": "[VI:承认]"
 	},
 	{
-		"chinese": "他们承认",
 		"english": "they admit",
-		"soundmark": "/ðe/ /ədˈmɪt/"
+		"soundmark": "/ðe/ /ədˈmɪt/",
+		"vietnamese": "Họ承认"
 	},
 	{
-		"chinese": "他们(过去)承认",
 		"english": "they admitted",
-		"soundmark": "/ðe/ /ədˈmɪtɪd/"
+		"soundmark": "/ðe/ /ədˈmɪtɪd/",
+		"vietnamese": "Họ(过去)承认"
 	},
 	{
-		"chinese": "他们(过去)承认忘记锁门",
 		"english": "they admitted forgetting to lock the door",
-		"soundmark": "/ðe/ /ədˈmɪtɪd/ /fɚ'ɡɛtɪŋ/ /tə/ /lɑk/ /ðə/ /dɔr/"
+		"soundmark": "/ðe/ /ədˈmɪtɪd/ /fɚ'ɡɛtɪŋ/ /tə/ /lɑk/ /ðə/ /dɔr/",
+		"vietnamese": "Họ(过去)承认忘记锁门"
 	},
 	{
-		"chinese": "灯",
 		"english": "light",
-		"soundmark": "/laɪt/"
+		"soundmark": "/laɪt/",
+		"vietnamese": "[VI:灯]"
 	},
 	{
-		"chinese": "红色",
 		"english": "red",
-		"soundmark": "/rɛd/"
+		"soundmark": "/rɛd/",
+		"vietnamese": "[VI:红色]"
 	},
 	{
-		"chinese": "一个红灯",
 		"english": "a red light",
-		"soundmark": "/ə/ /rɛd/ /laɪt/"
+		"soundmark": "/ə/ /rɛd/ /laɪt/",
+		"vietnamese": "[VI:一个红灯]"
 	},
 	{
-		"chinese": "跑",
 		"english": "to run",
-		"soundmark": "/tə/ /rʌn/"
+		"soundmark": "/tə/ /rʌn/",
+		"vietnamese": "[VI:跑]"
 	},
 	{
-		"chinese": "闯一个红灯",
 		"english": "to run a red light",
-		"soundmark": "/tə/ /rʌn/ /ə/ /rɛd/ /laɪt/"
+		"soundmark": "/tə/ /rʌn/ /ə/ /rɛd/ /laɪt/",
+		"vietnamese": "[VI:闯一个红灯]"
 	},
 	{
-		"chinese": "闯一个红灯(ing形式)",
 		"english": "running a red light",
-		"soundmark": "/'rʌnɪŋ/ /ə/ /rɛd/ /laɪt/"
+		"soundmark": "/'rʌnɪŋ/ /ə/ /rɛd/ /laɪt/",
+		"vietnamese": "[VI:闯一个红灯(ing形式)]"
 	},
 	{
-		"chinese": "驾驶",
 		"english": "to drive",
-		"soundmark": "/tə/ /draɪv/"
+		"soundmark": "/tə/ /draɪv/",
+		"vietnamese": "[VI:驾驶]"
 	},
 	{
-		"chinese": "司机",
 		"english": "the driver",
-		"soundmark": "/ðə/ /'draɪvɚ/"
+		"soundmark": "/ðə/ /'draɪvɚ/",
+		"vietnamese": "[VI:司机]"
 	},
 	{
-		"chinese": "司机(过去)承认",
 		"english": "the driver admitted",
-		"soundmark": "/ðə/ /'draɪvɚ/ /ədˈmɪtɪd/"
+		"soundmark": "/ðə/ /'draɪvɚ/ /ədˈmɪtɪd/",
+		"vietnamese": "[VI:司机(过去)承认]"
 	},
 	{
-		"chinese": "司机(过去)承认闯一个红灯",
 		"english": "the driver admitted running a red light",
-		"soundmark": "/ðə/ /'draɪvɚ/ /ədˈmɪtɪd/ /'rʌnɪŋ/ /ə/ /rɛd/ /laɪt/"
+		"soundmark": "/ðə/ /'draɪvɚ/ /ədˈmɪtɪd/ /'rʌnɪŋ/ /ə/ /rɛd/ /laɪt/",
+		"vietnamese": "[VI:司机(过去)承认闯一个红灯]"
 	},
 	{
-		"chinese": "答案",
 		"english": "the answers",
-		"soundmark": "/ði/ /'ænsɚz/"
+		"soundmark": "/ði/ /'ænsɚz/",
+		"vietnamese": "[VI:答案]"
 	},
 	{
-		"chinese": "复制",
 		"english": "to copy",
-		"soundmark": "/tə/ /ˈkɑpɪ/"
+		"soundmark": "/tə/ /ˈkɑpɪ/",
+		"vietnamese": "[VI:复制]"
 	},
 	{
-		"chinese": "抄答案",
 		"english": "to copy the answers",
-		"soundmark": "/tə/ /ˈkɑpɪ/ /ði/ /'ænsɚz/"
+		"soundmark": "/tə/ /ˈkɑpɪ/ /ði/ /'ænsɚz/",
+		"vietnamese": "[VI:抄答案]"
 	},
 	{
-		"chinese": "同学",
 		"english": "classmate",
-		"soundmark": "/'klæsmet/"
+		"soundmark": "/'klæsmet/",
+		"vietnamese": "[VI:同学]"
 	},
 	{
-		"chinese": "从......那里",
 		"english": "from",
-		"soundmark": "/frʌm/"
+		"soundmark": "/frʌm/",
+		"vietnamese": "[VI:从......那里]"
 	},
 	{
-		"chinese": "从一个同学那里",
 		"english": "from a classmate",
-		"soundmark": "/frʌm/ /ə/ /'klæsmet/"
+		"soundmark": "/frʌm/ /ə/ /'klæsmet/",
+		"vietnamese": "[VI:从一个同学那里]"
 	},
 	{
-		"chinese": "从一个同学那里抄答案",
 		"english": "to copy the answers from a classmate",
-		"soundmark": "/tə/ /ˈkɑpɪ/ /ði/ /'ænsɚz/ /frʌm/ /ə/ /'klæsmet/"
+		"soundmark": "/tə/ /ˈkɑpɪ/ /ði/ /'ænsɚz/ /frʌm/ /ə/ /'klæsmet/",
+		"vietnamese": "[VI:从一个同学那里抄答案]"
 	},
 	{
-		"chinese": "从一个同学那里抄答案(ing形式)",
 		"english": "copying the answers from a classmate",
-		"soundmark": "/ˈkɑpɪɪŋ/ /ði/ /'ænsɚz/ /frʌm/ /ə/ /'klæsmet/"
+		"soundmark": "/ˈkɑpɪɪŋ/ /ði/ /'ænsɚz/ /frʌm/ /ə/ /'klæsmet/",
+		"vietnamese": "[VI:从一个同学那里抄答案(ing形式)]"
 	},
 	{
-		"chinese": "那个学生",
 		"english": "the student",
-		"soundmark": "/ðə/ /'studnt/"
+		"soundmark": "/ðə/ /'studnt/",
+		"vietnamese": "[VI:那个学生]"
 	},
 	{
-		"chinese": "那个学生(过去)承认",
 		"english": "the student admitted",
-		"soundmark": "/ðə/ /'studnt/ /ədˈmɪtɪd/"
+		"soundmark": "/ðə/ /'studnt/ /ədˈmɪtɪd/",
+		"vietnamese": "[VI:那个学生(过去)承认]"
 	},
 	{
-		"chinese": "那个学生(过去)承认从一个同学那里抄答案",
 		"english": "the student admitted copying the answers from a classmate",
-		"soundmark": "/ðə/ /'studnt/ /ədˈmɪtɪd/ /ˈkɑpɪɪŋ/ /ði/ /'ænsɚz/ /frʌm/ /ə/ /'klæsmet/"
+		"soundmark": "/ðə/ /'studnt/ /ədˈmɪtɪd/ /ˈkɑpɪɪŋ/ /ði/ /'ænsɚz/ /frʌm/ /ə/ /'klæsmet/",
+		"vietnamese": "[VI:那个学生(过去)承认从一个同学那里抄答案]"
 	},
 	{
-		"chinese": "迟到的",
 		"english": "late",
-		"soundmark": "/let/"
+		"soundmark": "/let/",
+		"vietnamese": "[VI:迟到的]"
 	},
 	{
-		"chinese": "她是迟到的",
 		"english": "she is late",
-		"soundmark": "/ʃi/ /ɪz/ /let/"
+		"soundmark": "/ʃi/ /ɪz/ /let/",
+		"vietnamese": "Cô ấy là迟到的"
 	},
 	{
-		"chinese": "碰面；见到",
 		"english": "to meet",
-		"soundmark": "/tə/ /mit/"
+		"soundmark": "/tə/ /mit/",
+		"vietnamese": "碰面；gặp"
 	},
 	{
-		"chinese": "会议",
 		"english": "meeting",
-		"soundmark": "/'mitɪŋ/"
+		"soundmark": "/'mitɪŋ/",
+		"vietnamese": "[VI:会议]"
 	},
 	{
-		"chinese": "为了；对于",
 		"english": "for",
-		"soundmark": "/fɚ/"
+		"soundmark": "/fɚ/",
+		"vietnamese": "[VI:为了；对于]"
 	},
 	{
-		"chinese": "对于这个会议",
 		"english": "for the meeting",
-		"soundmark": "/fɚ/ /ðə/ /'mitɪŋ/"
+		"soundmark": "/fɚ/ /ðə/ /'mitɪŋ/",
+		"vietnamese": "[VI:对于这个会议]"
 	},
 	{
-		"chinese": "她是迟到的对于这个会议",
 		"english": "she is late for the meeting",
-		"soundmark": "/ʃi/ /ɪz/ /let/ /fɚ/ /ðə/ /'mitɪŋ/ /ədˈmɪtɪd/"
+		"soundmark": "/ʃi/ /ɪz/ /let/ /fɚ/ /ðə/ /'mitɪŋ/ /ədˈmɪtɪd/",
+		"vietnamese": "Cô ấy là迟到的对于这个会议"
 	},
 	{
-		"chinese": "是(ing形式)",
 		"english": "being",
-		"soundmark": "/ˈbiɪŋ/"
+		"soundmark": "/ˈbiɪŋ/",
+		"vietnamese": "là(ing形式)"
 	},
 	{
-		"chinese": "她(过去)承认是迟到的对于这个会议",
 		"english": "she admitted being late for the meeting",
-		"soundmark": "/ʃi/ /ədˈmɪtɪd/ /ˈbiɪŋ/ /let/ /fɚ/ /ðə/ /'mitɪŋ/"
+		"soundmark": "/ʃi/ /ədˈmɪtɪd/ /ˈbiɪŋ/ /let/ /fɚ/ /ðə/ /'mitɪŋ/",
+		"vietnamese": "Cô ấy(过去)承认là迟到的对于这个会议"
 	},
 	{
-		"chinese": "说话",
 		"english": "to speak",
-		"soundmark": "/tə/ /spik/"
+		"soundmark": "/tə/ /spik/",
+		"vietnamese": "nói chuyện"
 	},
 	{
-		"chinese": "演讲",
 		"english": "speaking",
-		"soundmark": "/'spikɪŋ/"
+		"soundmark": "/'spikɪŋ/",
+		"vietnamese": "[VI:演讲]"
 	},
 	{
-		"chinese": "公开的",
 		"english": "public",
-		"soundmark": "/ˈpʌblɪk/"
+		"soundmark": "/ˈpʌblɪk/",
+		"vietnamese": "[VI:公开的]"
 	},
 	{
-		"chinese": "公开演讲",
 		"english": "public speaking",
-		"soundmark": "/ˈpʌblɪk/ /'spikɪŋ/"
+		"soundmark": "/ˈpʌblɪk/ /'spikɪŋ/",
+		"vietnamese": "[VI:公开演讲]"
 	},
 	{
-		"chinese": "害怕的",
 		"english": "afraid",
-		"soundmark": "/ə'fred/"
+		"soundmark": "/ə'fred/",
+		"vietnamese": "[VI:害怕的]"
 	},
 	{
-		"chinese": "她是害怕的",
 		"english": "she is afraid",
-		"soundmark": "/ʃi/ /ɪz/ /ə'fred/"
+		"soundmark": "/ʃi/ /ɪz/ /ə'fred/",
+		"vietnamese": "Cô ấy là害怕的"
 	},
 	{
-		"chinese": "她害怕公开演讲",
 		"english": "she is afraid of public speaking",
-		"soundmark": "/ʃi/ /ɪz/ /ə'fred/ /əv/ /ˈpʌblɪk/ /'spikɪŋ/"
+		"soundmark": "/ʃi/ /ɪz/ /ə'fred/ /əv/ /ˈpʌblɪk/ /'spikɪŋ/",
+		"vietnamese": "Cô ấy害怕公开演讲"
 	},
 	{
-		"chinese": "是(ing形式)",
 		"english": "being",
-		"soundmark": "/ˈbiɪŋ/"
+		"soundmark": "/ˈbiɪŋ/",
+		"vietnamese": "là(ing形式)"
 	},
 	{
-		"chinese": "她(过去)承认",
 		"english": "she admitted",
-		"soundmark": "/ʃi/ /ədˈmɪtɪd/"
+		"soundmark": "/ʃi/ /ədˈmɪtɪd/",
+		"vietnamese": "Cô ấy(过去)承认"
 	},
 	{
-		"chinese": "她(过去)承认害怕公开演讲",
 		"english": "she admitted being afraid of public speaking",
-		"soundmark": "/ʃi/ /ədˈmɪtɪd/ /ˈbiɪŋ/ /ə'fred/ /əv/ /ˈpʌblɪk/ /'spikɪŋ/"
+		"soundmark": "/ʃi/ /ədˈmɪtɪd/ /ˈbiɪŋ/ /ə'fred/ /əv/ /ˈpʌblɪk/ /'spikɪŋ/",
+		"vietnamese": "Cô ấy(过去)承认害怕公开演讲"
 	},
 	{
-		"chinese": "食物",
 		"english": "food",
-		"soundmark": "/fud/"
+		"soundmark": "/fud/",
+		"vietnamese": "thức ăn"
 	},
 	{
-		"chinese": "垃圾",
 		"english": "junk",
-		"soundmark": "/dʒʌŋk/"
+		"soundmark": "/dʒʌŋk/",
+		"vietnamese": "[VI:垃圾]"
 	},
 	{
-		"chinese": "垃圾食物",
 		"english": "junk food",
-		"soundmark": "/dʒʌŋk/ /fud/"
+		"soundmark": "/dʒʌŋk/ /fud/",
+		"vietnamese": "垃圾thức ăn"
 	},
 	{
-		"chinese": "吃",
 		"english": "to eat",
-		"soundmark": "/tə/ /it/"
+		"soundmark": "/tə/ /it/",
+		"vietnamese": "ăn"
 	},
 	{
-		"chinese": "吃垃圾食物",
 		"english": "to eat junk food",
-		"soundmark": "/tə/ /it/ /dʒʌŋk/ /fud/"
+		"soundmark": "/tə/ /it/ /dʒʌŋk/ /fud/",
+		"vietnamese": "ăn垃圾thức ăn"
 	},
 	{
-		"chinese": "吃垃圾食物(ing形式)",
 		"english": "eating junk food",
-		"soundmark": "/'itɪŋ/ /dʒʌŋk/ /fud/"
+		"soundmark": "/'itɪŋ/ /dʒʌŋk/ /fud/",
+		"vietnamese": "ăn垃圾thức ăn(ing形式)"
 	},
 	{
-		"chinese": "避免",
 		"english": "to avoid",
-		"soundmark": "/tə/ /əˈvɔɪd/"
+		"soundmark": "/tə/ /əˈvɔɪd/",
+		"vietnamese": "[VI:避免]"
 	},
 	{
-		"chinese": "她避免",
 		"english": "she avoids",
-		"soundmark": "/ʃi/ /əˈvɔɪdz/"
+		"soundmark": "/ʃi/ /əˈvɔɪdz/",
+		"vietnamese": "Cô ấy避免"
 	},
 	{
-		"chinese": "她避免吃垃圾食物",
 		"english": "she avoids eating junk food",
-		"soundmark": "/ʃi/ /əˈvɔɪdz/ /'itɪŋ/ /dʒʌŋk/ /fud/"
+		"soundmark": "/ʃi/ /əˈvɔɪdz/ /'itɪŋ/ /dʒʌŋk/ /fud/",
+		"vietnamese": "Cô ấy避免ăn垃圾thức ăn"
 	},
 	{
-		"chinese": "生活",
 		"english": "life",
-		"soundmark": "/laɪf/"
+		"soundmark": "/laɪf/",
+		"vietnamese": "[VI:生活]"
 	},
 	{
-		"chinese": "方式",
 		"english": "style",
-		"soundmark": "/staɪl/"
+		"soundmark": "/staɪl/",
+		"vietnamese": "[VI:方式]"
 	},
 	{
-		"chinese": "生活方式",
 		"english": "lifestyle",
-		"soundmark": "/'laɪfstaɪl/"
+		"soundmark": "/'laɪfstaɪl/",
+		"vietnamese": "[VI:生活方式]"
 	},
 	{
-		"chinese": "健康的",
 		"english": "healthy",
-		"soundmark": "/'hɛlθi/"
+		"soundmark": "/'hɛlθi/",
+		"vietnamese": "khỏe mạnh"
 	},
 	{
-		"chinese": "一个健康的生活方式",
 		"english": "a healthy lifestyle",
-		"soundmark": "/ə/ /'hɛlθi/ /'laɪfstaɪl/"
+		"soundmark": "/ə/ /'hɛlθi/ /'laɪfstaɪl/",
+		"vietnamese": "一个khỏe mạnh生活方式"
 	},
 	{
-		"chinese": "保持",
 		"english": "to maintain",
-		"soundmark": "/tə/ /menˈten/"
+		"soundmark": "/tə/ /menˈten/",
+		"vietnamese": "[VI:保持]"
 	},
 	{
-		"chinese": "保持一个健康的生活方式",
 		"english": "to maintain a healthy lifestyle",
-		"soundmark": "/tə/ /menˈten/ /ə/ /'hɛlθi/ /'laɪfstaɪl/"
+		"soundmark": "/tə/ /menˈten/ /ə/ /'hɛlθi/ /'laɪfstaɪl/",
+		"vietnamese": "保持一个khỏe mạnh生活方式"
 	},
 	{
-		"chinese": "她避免吃垃圾食物",
 		"english": "she avoids eating junk food",
-		"soundmark": "/ʃi/ /əˈvɔɪdz/ /'itɪŋ/ /dʒʌŋk/ /fud/"
+		"soundmark": "/ʃi/ /əˈvɔɪdz/ /'itɪŋ/ /dʒʌŋk/ /fud/",
+		"vietnamese": "Cô ấy避免ăn垃圾thức ăn"
 	},
 	{
-		"chinese": "她避免吃垃圾食物来保持一个健康的生活方式",
 		"english": "she avoids eating junk food to maintain a healthy lifestyle",
-		"soundmark": "/ʃi/ /əˈvɔɪdz/ /'itɪŋ/ /dʒʌŋk/ /fud/ /tə/ /menˈten/ /ə/ /'hɛlθi/ /'laɪfstaɪl/"
+		"soundmark": "/ʃi/ /əˈvɔɪdz/ /'itɪŋ/ /dʒʌŋk/ /fud/ /tə/ /menˈten/ /ə/ /'hɛlθi/ /'laɪfstaɪl/",
+		"vietnamese": "Cô ấy避免ăn垃圾thức ăn来保持一个khỏe mạnh生活方式"
 	},
 	{
-		"chinese": "告诉",
 		"english": "to tell",
-		"soundmark": "/tə/ /tɛl/"
+		"soundmark": "/tə/ /tɛl/",
+		"vietnamese": "nói"
 	},
 	{
-		"chinese": "事实",
 		"english": "the truth",
-		"soundmark": "/ðə/ /trʊθ/"
+		"soundmark": "/ðə/ /trʊθ/",
+		"vietnamese": "sự thật"
 	},
 	{
-		"chinese": "告诉事实",
 		"english": "to tell the truth",
-		"soundmark": "/tə/ /tɛl/ /ðə/ /trʊθ/"
+		"soundmark": "/tə/ /tɛl/ /ðə/ /trʊθ/",
+		"vietnamese": "nóisự thật"
 	},
 	{
-		"chinese": "告诉事实(ing形式)",
 		"english": "telling the truth",
-		"soundmark": "/ˈtɛlɪŋ/ /ðə/ /trʊθ/"
+		"soundmark": "/ˈtɛlɪŋ/ /ðə/ /trʊθ/",
+		"vietnamese": "nóisự thật(ing形式)"
 	},
 	{
-		"chinese": "避免",
 		"english": "to avoid",
-		"soundmark": "/tə/ /əˈvɔɪd/"
+		"soundmark": "/tə/ /əˈvɔɪd/",
+		"vietnamese": "[VI:避免]"
 	},
 	{
-		"chinese": "她(过去)避免",
 		"english": "she avoided",
-		"soundmark": "/ʃi/ /əˈvɔɪdɪd/"
+		"soundmark": "/ʃi/ /əˈvɔɪdɪd/",
+		"vietnamese": "Cô ấy(过去)避免"
 	},
 	{
-		"chinese": "她(过去)避免告诉事实",
 		"english": "she avoided telling the truth",
-		"soundmark": "/ʃi/ /əˈvɔɪdɪd/ /ˈtɛlɪŋ/ /ðə/ /trʊθ/"
+		"soundmark": "/ʃi/ /əˈvɔɪdɪd/ /ˈtɛlɪŋ/ /ðə/ /trʊθ/",
+		"vietnamese": "Cô ấy(过去)避免nóisự thật"
 	},
 	{
-		"chinese": "说谎",
 		"english": "to lie",
-		"soundmark": "/tə/ /laɪ/"
+		"soundmark": "/tə/ /laɪ/",
+		"vietnamese": "[VI:说谎]"
 	},
 	{
-		"chinese": "说谎(ing形式)",
 		"english": "lying",
-		"soundmark": "/'laɪɪŋ/"
+		"soundmark": "/'laɪɪŋ/",
+		"vietnamese": "[VI:说谎(ing形式)]"
 	},
 	{
-		"chinese": "父母",
 		"english": "parents",
-		"soundmark": "/'pɛrənts/"
+		"soundmark": "/'pɛrənts/",
+		"vietnamese": "[VI:父母]"
 	},
 	{
-		"chinese": "她的父母",
 		"english": "her parents",
-		"soundmark": "/hɚ/ /'pɛrənts/"
+		"soundmark": "/hɚ/ /'pɛrənts/",
+		"vietnamese": "Cô ấy的父母"
 	},
 	{
-		"chinese": "向她的父母说谎(ing形式)",
 		"english": "lying to her parents",
-		"soundmark": "/'laɪɪŋ/ /tə/ /hɚ/ /'pɛrənts/"
+		"soundmark": "/'laɪɪŋ/ /tə/ /hɚ/ /'pɛrənts/",
+		"vietnamese": "向Cô ấy的父母说谎(ing形式)"
 	},
 	{
-		"chinese": "通过",
 		"english": "by",
-		"soundmark": "/baɪ/"
+		"soundmark": "/baɪ/",
+		"vietnamese": "[VI:通过]"
 	},
 	{
-		"chinese": "通过向她的父母说谎",
 		"english": "by lying to her parents",
-		"soundmark": "/baɪ/ /'laɪɪŋ/ /tə/ /hɚ/ /'pɛrənts/"
+		"soundmark": "/baɪ/ /'laɪɪŋ/ /tə/ /hɚ/ /'pɛrənts/",
+		"vietnamese": "通过向Cô ấy的父母说谎"
 	},
 	{
-		"chinese": "她(过去)避免告诉事实",
 		"english": "she avoided telling the truth",
-		"soundmark": "/ʃi/ /əˈvɔɪdɪd/ /ˈtɛlɪŋ/ /ðə/ /trʊθ/"
+		"soundmark": "/ʃi/ /əˈvɔɪdɪd/ /ˈtɛlɪŋ/ /ðə/ /trʊθ/",
+		"vietnamese": "Cô ấy(过去)避免nóisự thật"
 	},
 	{
-		"chinese": "她通过向她的父母说谎来(过去)避免告诉事实",
 		"english": "she avoided telling the truth by lying to her parents",
-		"soundmark": "/ʃi/ /əˈvɔɪdɪd/ /ˈtɛlɪŋ/ /ðə/ /trʊθ/ /baɪ/ /'laɪɪŋ/ /tə/ /hɚ/ /'pɛrənts/"
+		"soundmark": "/ʃi/ /əˈvɔɪdɪd/ /ˈtɛlɪŋ/ /ðə/ /trʊθ/ /baɪ/ /'laɪɪŋ/ /tə/ /hɚ/ /'pɛrənts/",
+		"vietnamese": "Cô ấy通过向她的父母说谎来(过去)避免nóisự thật"
 	},
 	{
-		"chinese": "伤害",
 		"english": "to hurt",
-		"soundmark": "/tə/ /hɝt/"
+		"soundmark": "/tə/ /hɝt/",
+		"vietnamese": "[VI:伤害]"
 	},
 	{
-		"chinese": "她",
 		"english": "her",
-		"soundmark": "/hɚ/"
+		"soundmark": "/hɚ/",
+		"vietnamese": "Cô ấy"
 	},
 	{
-		"chinese": "伤害她",
 		"english": "to hurt her",
-		"soundmark": "/tə/ /hɝt/ /hɚ/"
+		"soundmark": "/tə/ /hɝt/ /hɚ/",
+		"vietnamese": "伤害Cô ấy"
 	},
 	{
-		"chinese": "伤害她(ing形式)",
 		"english": "hurting her",
-		"soundmark": "/ˈhɝtɪŋ/ /hɚ/"
+		"soundmark": "/ˈhɝtɪŋ/ /hɚ/",
+		"vietnamese": "伤害Cô ấy(ing形式)"
 	},
 	{
-		"chinese": "避免",
 		"english": "to avoid",
-		"soundmark": "/tə/ /əˈvɔɪd/"
+		"soundmark": "/tə/ /əˈvɔɪd/",
+		"vietnamese": "[VI:避免]"
 	},
 	{
-		"chinese": "我(过去)避免",
 		"english": "I avoided",
-		"soundmark": "/aɪ/ /əˈvɔɪdɪd/"
+		"soundmark": "/aɪ/ /əˈvɔɪdɪd/",
+		"vietnamese": "Tôi(过去)避免"
 	},
 	{
-		"chinese": "我(过去)避免伤害她",
 		"english": "I avoided hurting her",
-		"soundmark": "/aɪ/ /əˈvɔɪdɪd/ /ˈhɝtɪŋ/ /hɚ/"
+		"soundmark": "/aɪ/ /əˈvɔɪdɪd/ /ˈhɝtɪŋ/ /hɚ/",
+		"vietnamese": "Tôi(过去)避免伤害Cô ấy"
 	},
 	{
-		"chinese": "保持",
 		"english": "to keep",
-		"soundmark": "/tə/ /kip/"
+		"soundmark": "/tə/ /kip/",
+		"vietnamese": "[VI:保持]"
 	},
 	{
-		"chinese": "沉默",
 		"english": "silent",
-		"soundmark": "/'saɪlənt/"
+		"soundmark": "/'saɪlənt/",
+		"vietnamese": "[VI:沉默]"
 	},
 	{
-		"chinese": "保持沉默",
 		"english": "to keep silent",
-		"soundmark": "/tə/ /kip/ /'saɪlənt/"
+		"soundmark": "/tə/ /kip/ /'saɪlənt/",
+		"vietnamese": "[VI:保持沉默]"
 	},
 	{
-		"chinese": "保持沉默(ing形式)",
 		"english": "keeping silent",
-		"soundmark": "/'kipɪŋ/ /'saɪlənt/"
+		"soundmark": "/'kipɪŋ/ /'saɪlənt/",
+		"vietnamese": "[VI:保持沉默(ing形式)]"
 	},
 	{
-		"chinese": "通过",
 		"english": "by",
-		"soundmark": "/baɪ/"
+		"soundmark": "/baɪ/",
+		"vietnamese": "[VI:通过]"
 	},
 	{
-		"chinese": "通过保持沉默",
 		"english": "by keeping silent",
-		"soundmark": "/baɪ/ /'kipɪŋ/ /'saɪlənt/"
+		"soundmark": "/baɪ/ /'kipɪŋ/ /'saɪlənt/",
+		"vietnamese": "[VI:通过保持沉默]"
 	},
 	{
-		"chinese": "我通过保持沉默来(过去)避免伤害她",
 		"english": "I avoided hurting her by keeping silent",
-		"soundmark": "/aɪ/ /əˈvɔɪdɪd/ /ˈhɝtɪŋ/ /hɚ/ /baɪ/ /'kipɪŋ/ /'saɪlənt/"
+		"soundmark": "/aɪ/ /əˈvɔɪdɪd/ /ˈhɝtɪŋ/ /hɚ/ /baɪ/ /'kipɪŋ/ /'saɪlənt/",
+		"vietnamese": "Tôi通过保持沉默来(过去)避免伤害Cô ấy"
 	},
 	{
-		"chinese": "迟到的",
 		"english": "late",
-		"soundmark": "/let/"
+		"soundmark": "/let/",
+		"vietnamese": "[VI:迟到的]"
 	},
 	{
-		"chinese": "我是迟到的",
 		"english": "I am late",
-		"soundmark": "/aɪ/ /æm/ /let/"
+		"soundmark": "/aɪ/ /æm/ /let/",
+		"vietnamese": "Tôi là迟到的"
 	},
 	{
-		"chinese": "是(ing形式)",
 		"english": "being",
-		"soundmark": "/ˈbiɪŋ/"
+		"soundmark": "/ˈbiɪŋ/",
+		"vietnamese": "là(ing形式)"
 	},
 	{
-		"chinese": "我(过去)避免迟到",
 		"english": "I avoided being late",
-		"soundmark": "/aɪ/ /əˈvɔɪdɪd/ /ˈbiɪŋ/ /let/"
+		"soundmark": "/aɪ/ /əˈvɔɪdɪd/ /ˈbiɪŋ/ /let/",
+		"vietnamese": "Tôi(过去)避免迟到"
 	},
 	{
-		"chinese": "出租车",
 		"english": "taxi",
-		"soundmark": "/'tæksi/"
+		"soundmark": "/'tæksi/",
+		"vietnamese": "[VI:出租车]"
 	},
 	{
-		"chinese": "乘坐",
 		"english": "to take",
-		"soundmark": "/tə/ /tek/"
+		"soundmark": "/tə/ /tek/",
+		"vietnamese": "[VI:乘坐]"
 	},
 	{
-		"chinese": "乘坐一辆出租车",
 		"english": "to take a taxi",
-		"soundmark": "/tə/ /tek/ /ə/ /'tæksi/"
+		"soundmark": "/tə/ /tek/ /ə/ /'tæksi/",
+		"vietnamese": "[VI:乘坐一辆出租车]"
 	},
 	{
-		"chinese": "乘坐一辆出租车(ing形式)",
 		"english": "taking a taxi",
-		"soundmark": "/ˈtekɪŋ/ /ə/ /'tæksi/"
+		"soundmark": "/ˈtekɪŋ/ /ə/ /'tæksi/",
+		"vietnamese": "[VI:乘坐一辆出租车(ing形式)]"
 	},
 	{
-		"chinese": "通过",
 		"english": "by",
-		"soundmark": "/baɪ/"
+		"soundmark": "/baɪ/",
+		"vietnamese": "[VI:通过]"
 	},
 	{
-		"chinese": "通过乘坐一辆出租车",
 		"english": "by taking a taxi",
-		"soundmark": "/baɪ/ /ˈtekɪŋ/ /ə/ /'tæksi/"
+		"soundmark": "/baɪ/ /ˈtekɪŋ/ /ə/ /'tæksi/",
+		"vietnamese": "[VI:通过乘坐一辆出租车]"
 	},
 	{
-		"chinese": "我(过去)避免迟到",
 		"english": "I avoided being late",
-		"soundmark": "/aɪ/ /əˈvɔɪdɪd/ /ˈbiɪŋ/ /let/"
+		"soundmark": "/aɪ/ /əˈvɔɪdɪd/ /ˈbiɪŋ/ /let/",
+		"vietnamese": "Tôi(过去)避免迟到"
 	},
 	{
-		"chinese": "我通过乘坐一辆出租车来(过去)避免迟到",
 		"english": "I avoided being late by taking a taxi",
-		"soundmark": "/aɪ/ /əˈvɔɪdɪd/ /ˈbiɪŋ/ /let/ /baɪ/ /ˈtekɪŋ/ /ə/ /'tæksi/"
+		"soundmark": "/aɪ/ /əˈvɔɪdɪd/ /ˈbiɪŋ/ /let/ /baɪ/ /ˈtekɪŋ/ /ə/ /'tæksi/",
+		"vietnamese": "Tôi通过乘坐一辆出租车来(过去)避免迟到"
 	},
 	{
-		"chinese": "避免",
 		"english": "to avoid",
-		"soundmark": "/tə/ /əˈvɔɪd/"
+		"soundmark": "/tə/ /əˈvɔɪd/",
+		"vietnamese": "[VI:避免]"
 	},
 	{
-		"chinese": "他避免",
 		"english": "he avoids",
-		"soundmark": "/hi/ /əˈvɔɪdz/"
+		"soundmark": "/hi/ /əˈvɔɪdz/",
+		"vietnamese": "Anh ấy避免"
 	},
 	{
-		"chinese": "抽烟",
 		"english": "to smoke",
-		"soundmark": "/tə/ /smok/"
+		"soundmark": "/tə/ /smok/",
+		"vietnamese": "[VI:抽烟]"
 	},
 	{
-		"chinese": "抽烟(ing形式)",
 		"english": "smoking",
-		"soundmark": "/'smokɪŋ/"
+		"soundmark": "/'smokɪŋ/",
+		"vietnamese": "[VI:抽烟(ing形式)]"
 	},
 	{
-		"chinese": "他避免抽烟",
 		"english": "he avoids smoking",
-		"soundmark": "/hi/ /əˈvɔɪdz/ /'smokɪŋ/"
+		"soundmark": "/hi/ /əˈvɔɪdz/ /'smokɪŋ/",
+		"vietnamese": "Anh ấy避免抽烟"
 	},
 	{
-		"chinese": "健康的",
 		"english": "healthy",
-		"soundmark": "/'hɛlθi/"
+		"soundmark": "/'hɛlθi/",
+		"vietnamese": "khỏe mạnh"
 	},
 	{
-		"chinese": "健康",
 		"english": "health",
-		"soundmark": "/hɛlθ/"
+		"soundmark": "/hɛlθ/",
+		"vietnamese": "[VI:健康]"
 	},
 	{
-		"chinese": "他的健康",
 		"english": "his health",
-		"soundmark": "/hɪz/ /hɛlθ/"
+		"soundmark": "/hɪz/ /hɛlθ/",
+		"vietnamese": "Anh ấy的健康"
 	},
 	{
-		"chinese": "保护",
 		"english": "to protect",
-		"soundmark": "/tə/ /prə'tɛkt/"
+		"soundmark": "/tə/ /prə'tɛkt/",
+		"vietnamese": "[VI:保护]"
 	},
 	{
-		"chinese": "保护他的健康",
 		"english": "to protect his health",
-		"soundmark": "/tə/ /prə'tɛkt/ /hɪz/ /hɛlθ/"
+		"soundmark": "/tə/ /prə'tɛkt/ /hɪz/ /hɛlθ/",
+		"vietnamese": "保护Anh ấy的健康"
 	},
 	{
-		"chinese": "他避免抽烟来保护他的健康",
 		"english": "he avoids smoking to protect his health",
-		"soundmark": "/hi/ /əˈvɔɪdz/ /'smokɪŋ/ /tə/ /prə'tɛkt/ /hɪz/ /hɛlθ/"
+		"soundmark": "/hi/ /əˈvɔɪdz/ /'smokɪŋ/ /tə/ /prə'tɛkt/ /hɪz/ /hɛlθ/",
+		"vietnamese": "Anh ấy避免抽烟来保护他的健康"
 	},
 	{
-		"chinese": "谎言",
 		"english": "lie",
-		"soundmark": "/laɪ/"
+		"soundmark": "/laɪ/",
+		"vietnamese": "[VI:谎言]"
 	},
 	{
-		"chinese": "一个谎言",
 		"english": "a lie",
-		"soundmark": "/ə/ /laɪ/"
+		"soundmark": "/ə/ /laɪ/",
+		"vietnamese": "[VI:一个谎言]"
 	},
 	{
-		"chinese": "白色的",
 		"english": "white",
-		"soundmark": "/waɪt/"
+		"soundmark": "/waɪt/",
+		"vietnamese": "[VI:白色的]"
 	},
 	{
-		"chinese": "一个善意的谎言",
 		"english": "a white lie",
-		"soundmark": "/ə/ /waɪt/ /laɪ/"
+		"soundmark": "/ə/ /waɪt/ /laɪ/",
+		"vietnamese": "[VI:一个善意的谎言]"
 	},
 	{
-		"chinese": "告诉",
 		"english": "to tell",
-		"soundmark": "/tə/ /tɛl/"
+		"soundmark": "/tə/ /tɛl/",
+		"vietnamese": "nói"
 	},
 	{
-		"chinese": "说一个善意的谎言",
 		"english": "to tell a white lie",
-		"soundmark": "/tə/ /tɛl/ /ə/ /waɪt/ /laɪ/"
+		"soundmark": "/tə/ /tɛl/ /ə/ /waɪt/ /laɪ/",
+		"vietnamese": "[VI:说一个善意的谎言]"
 	},
 	{
-		"chinese": "说一个善意的谎言(ing形式)",
 		"english": "telling a white lie",
-		"soundmark": "/ˈtɛlɪŋ/ /ə/ /waɪt/ /laɪ/"
+		"soundmark": "/ˈtɛlɪŋ/ /ə/ /waɪt/ /laɪ/",
+		"vietnamese": "[VI:说一个善意的谎言(ing形式)]"
 	},
 	{
-		"chinese": "承认",
 		"english": "to admit",
-		"soundmark": "/tə/ /ədˈmɪt/"
+		"soundmark": "/tə/ /ədˈmɪt/",
+		"vietnamese": "[VI:承认]"
 	},
 	{
-		"chinese": "他(过去)承认",
 		"english": "he admitted",
-		"soundmark": "/hi/ /ədˈmɪtɪd/"
+		"soundmark": "/hi/ /ədˈmɪtɪd/",
+		"vietnamese": "Anh ấy(过去)承认"
 	},
 	{
-		"chinese": "他(过去)承认说一个善意的谎言(ing形式)",
 		"english": "he admitted telling a white lie",
-		"soundmark": "/hi/ /ədˈmɪtɪd/ /ˈtɛlɪŋ/ /ə/ /waɪt/ /laɪ/"
+		"soundmark": "/hi/ /ədˈmɪtɪd/ /ˈtɛlɪŋ/ /ə/ /waɪt/ /laɪ/",
+		"vietnamese": "Anh ấy(过去)承认说一个善意的谎言(ing形式)"
 	},
 	{
-		"chinese": "感觉",
 		"english": "to feel",
-		"soundmark": "/tə/ /fil/"
+		"soundmark": "/tə/ /fil/",
+		"vietnamese": "[VI:感觉]"
 	},
 	{
-		"chinese": "感情",
 		"english": "feelings",
-		"soundmark": "/'filɪŋz/"
+		"soundmark": "/'filɪŋz/",
+		"vietnamese": "[VI:感情]"
 	},
 	{
-		"chinese": "某个人",
 		"english": "someone",
-		"soundmark": "/'sʌmwʌn/"
+		"soundmark": "/'sʌmwʌn/",
+		"vietnamese": "[VI:某个人]"
 	},
 	{
-		"chinese": "某个人的感情",
 		"english": "someone's feelings",
-		"soundmark": "/'sʌmwʌnz/ /'filɪŋz/"
+		"soundmark": "/'sʌmwʌnz/ /'filɪŋz/",
+		"vietnamese": "[VI:某个人的感情]"
 	},
 	{
-		"chinese": "伤害",
 		"english": "to hurt",
-		"soundmark": "/tə/ /hɝt/"
+		"soundmark": "/tə/ /hɝt/",
+		"vietnamese": "[VI:伤害]"
 	},
 	{
-		"chinese": "伤害某个人的感情",
 		"english": "to hurt someone's feelings",
-		"soundmark": "/tə/ /hɝt/ /'sʌmwʌnz/ /'filɪŋz/"
+		"soundmark": "/tə/ /hɝt/ /'sʌmwʌnz/ /'filɪŋz/",
+		"vietnamese": "[VI:伤害某个人的感情]"
 	},
 	{
-		"chinese": "伤害某个人的感情(ing形式)",
 		"english": "hurting someone's feelings",
-		"soundmark": "/ˈhɝtɪŋ/ /'sʌmwʌnz/ /'filɪŋz/"
+		"soundmark": "/ˈhɝtɪŋ/ /'sʌmwʌnz/ /'filɪŋz/",
+		"vietnamese": "[VI:伤害某个人的感情(ing形式)]"
 	},
 	{
-		"chinese": "避免",
 		"english": "to avoid",
-		"soundmark": "/tə/ /əˈvɔɪd/"
+		"soundmark": "/tə/ /əˈvɔɪd/",
+		"vietnamese": "[VI:避免]"
 	},
 	{
-		"chinese": "避免伤害某个人的感情",
 		"english": "to avoid hurting someone's feelings",
-		"soundmark": "/tə/ /əˈvɔɪd/ /ˈhɝtɪŋ/ /'sʌmwʌnz/ /'filɪŋz/"
+		"soundmark": "/tə/ /əˈvɔɪd/ /ˈhɝtɪŋ/ /'sʌmwʌnz/ /'filɪŋz/",
+		"vietnamese": "[VI:避免伤害某个人的感情]"
 	},
 	{
-		"chinese": "他(过去)承认说一个善意的谎言",
 		"english": "he admitted telling a white lie",
-		"soundmark": "/hi/ /ədˈmɪtɪd/ /ˈtɛlɪŋ/ /ə/ /waɪt/ /laɪ/"
+		"soundmark": "/hi/ /ədˈmɪtɪd/ /ˈtɛlɪŋ/ /ə/ /waɪt/ /laɪ/",
+		"vietnamese": "Anh ấy(过去)承认说一个善意的谎言"
 	},
 	{
-		"chinese": "他(过去)承认说一个善意的谎言来避免伤害某个人的感情",
 		"english": "he admitted telling a white lie to avoid hurting someone's feelings",
-		"soundmark": "/hi/ /ədˈmɪtɪd/ /tə/ /ədˈmɪt/ /tə/ /əˈvɔɪd/ /ˈhɝtɪŋ/ /'sʌmwʌnz/ /'filɪŋz/"
+		"soundmark": "/hi/ /ədˈmɪtɪd/ /tə/ /ədˈmɪt/ /tə/ /əˈvɔɪd/ /ˈhɝtɪŋ/ /'sʌmwʌnz/ /'filɪŋz/",
+		"vietnamese": "Anh ấy(过去)承认说一个善意的谎言来避免伤害某个人的感情"
 	}
 ]

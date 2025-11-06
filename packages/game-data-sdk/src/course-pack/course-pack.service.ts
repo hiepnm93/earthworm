@@ -46,9 +46,9 @@ export async function createCoursePack(coursePackInfo: CreateCoursePack) {
       courseIds.push(courseEntity.id.toString());
 
       const createStatementTasks = course.statements.map(
-        ({ chinese, english, phonetic }, sIndex) => {
+        ({ vietnamese, english, phonetic }, sIndex) => {
           return tx.insert(statementSchema).values({
-            chinese,
+            vietnamese,
             english,
             soundmark: phonetic,
             order: sIndex + 1,
@@ -180,9 +180,9 @@ export async function updateCoursePack(coursePackId: string, coursePackInfo: Upd
           courseIds.push(courseEntity.id.toString());
 
           const createStatementTasks = newCourseInfo.statements.map(
-            async ({ chinese, english, phonetic }, sIndex) => {
+            async ({ vietnamese, english, phonetic }, sIndex) => {
               return tx.insert(statementSchema).values({
-                chinese,
+                vietnamese,
                 english,
                 soundmark: phonetic,
                 order: sIndex + 1,
@@ -243,7 +243,7 @@ export async function updateCoursePack(coursePackId: string, coursePackInfo: Upd
           .update(statementSchema)
           .set({
             english: newStatementInfo.english,
-            chinese: newStatementInfo.chinese,
+            vietnamese: newStatementInfo.vietnamese,
             soundmark: newStatementInfo.phonetic,
           })
           .where(eq(statementSchema.id, oldStatement.id));
@@ -257,7 +257,7 @@ export async function updateCoursePack(coursePackId: string, coursePackInfo: Upd
         const newStatementInfo = newStatements[newIndex];
         await tx.insert(statementSchema).values({
           english: newStatementInfo.english,
-          chinese: newStatementInfo.chinese,
+          vietnamese: newStatementInfo.vietnamese,
           soundmark: newStatementInfo.phonetic,
           order: newIndex + 1,
           courseId,

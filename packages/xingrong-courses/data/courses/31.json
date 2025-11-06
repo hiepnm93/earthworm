@@ -1,772 +1,772 @@
 [
 	{
-		"chinese": "递",
 		"english": "to hand",
-		"soundmark": "/tə/ /hænd/"
+		"soundmark": "/tə/ /hænd/",
+		"vietnamese": "[VI:递]"
 	},
 	{
-		"chinese": "我",
 		"english": "me",
-		"soundmark": "/mi/"
+		"soundmark": "/mi/",
+		"vietnamese": "Tôi"
 	},
 	{
-		"chinese": "递给我",
 		"english": "to hand me",
-		"soundmark": "/tə/ /hænd/ /mi/"
+		"soundmark": "/tə/ /hænd/ /mi/",
+		"vietnamese": "递给Tôi"
 	},
 	{
-		"chinese": "钥匙",
 		"english": "key",
-		"soundmark": "/ki/"
+		"soundmark": "/ki/",
+		"vietnamese": "[VI:钥匙]"
 	},
 	{
-		"chinese": "那个钥匙",
 		"english": "the key",
-		"soundmark": "/ðə/ /ki/"
+		"soundmark": "/ðə/ /ki/",
+		"vietnamese": "[VI:那个钥匙]"
 	},
 	{
-		"chinese": "递给我那个钥匙",
 		"english": "to hand me the key",
-		"soundmark": "/tə/ /hænd/ /mi/ /ðə/ /ki/"
+		"soundmark": "/tə/ /hænd/ /mi/ /ðə/ /ki/",
+		"vietnamese": "递给Tôi那个钥匙"
 	},
 	{
-		"chinese": "你",
 		"english": "you",
-		"soundmark": "/ju/"
+		"soundmark": "/ju/",
+		"vietnamese": "Bạn"
 	},
 	{
-		"chinese": "你递给我那个钥匙",
 		"english": "you hand me the key",
-		"soundmark": "/ju/ /hænd/ /mi/ /ðə/ /ki/"
+		"soundmark": "/ju/ /hænd/ /mi/ /ðə/ /ki/",
+		"vietnamese": "Bạn递给Tôi那个钥匙"
 	},
 	{
-		"chinese": "你递那个钥匙",
 		"english": "you hand the key",
-		"soundmark": "/ju/ /hænd/ /ðə/ /ki/"
+		"soundmark": "/ju/ /hænd/ /ðə/ /ki/",
+		"vietnamese": "Bạn递那个钥匙"
 	},
 	{
-		"chinese": "我",
 		"english": "me",
-		"soundmark": "/mi/"
+		"soundmark": "/mi/",
+		"vietnamese": "Tôi"
 	},
 	{
-		"chinese": "你递那个钥匙给我",
 		"english": "you hand the key to me",
-		"soundmark": "/ju/ /hænd/ /ðə/ /ki/ /tə/ /mi/"
+		"soundmark": "/ju/ /hænd/ /ðə/ /ki/ /tə/ /mi/",
+		"vietnamese": "Bạn递那个钥匙给Tôi"
 	},
 	{
-		"chinese": "给",
 		"english": "to give",
-		"soundmark": "/tə/ /ɡɪv/"
+		"soundmark": "/tə/ /ɡɪv/",
+		"vietnamese": "[VI:给]"
 	},
 	{
-		"chinese": "你把那个钥匙给我",
 		"english": "you give the key to me",
-		"soundmark": "/ju/ /ɡɪv/ /ðə/ /ki/ /tə/ /mi/"
+		"soundmark": "/ju/ /ɡɪv/ /ðə/ /ki/ /tə/ /mi/",
+		"vietnamese": "Bạn把那个钥匙给Tôi"
 	},
 	{
-		"chinese": "你给我那个钥匙",
 		"english": "you give me the key",
-		"soundmark": "/ju/ /ɡɪv/ /mi/ /ðə/ /ki/"
+		"soundmark": "/ju/ /ɡɪv/ /mi/ /ðə/ /ki/",
+		"vietnamese": "Bạn给Tôi那个钥匙"
 	},
 	{
-		"chinese": "你把那个钥匙给我",
 		"english": "you give the key to me",
-		"soundmark": "/ju/ /ɡɪv/ /ðə/ /ki/ /tə/ /mi/"
+		"soundmark": "/ju/ /ɡɪv/ /ðə/ /ki/ /tə/ /mi/",
+		"vietnamese": "Bạn把那个钥匙给Tôi"
 	},
 	{
-		"chinese": "钱",
 		"english": "the money",
-		"soundmark": "/ðə/ /'mʌni/"
+		"soundmark": "/ðə/ /'mʌni/",
+		"vietnamese": "[VI:钱]"
 	},
 	{
-		"chinese": "你给我钱",
 		"english": "you give me the money",
-		"soundmark": "/ju/ /ɡɪv/ /mi/ /ðə/ /'mʌni/"
+		"soundmark": "/ju/ /ɡɪv/ /mi/ /ðə/ /'mʌni/",
+		"vietnamese": "Bạn给Tôi钱"
 	},
 	{
-		"chinese": "你把钱给我",
 		"english": "you give the money to me",
-		"soundmark": "/ju/ /ɡɪv/ /ðə/ /'mʌni/ /tə/ /mi/"
+		"soundmark": "/ju/ /ɡɪv/ /ðə/ /'mʌni/ /tə/ /mi/",
+		"vietnamese": "Bạn把钱给Tôi"
 	},
 	{
-		"chinese": "它",
 		"english": "it",
-		"soundmark": "/ɪt/"
+		"soundmark": "/ɪt/",
+		"vietnamese": "Nó"
 	},
 	{
-		"chinese": "你把它给我",
 		"english": "you give it to me",
-		"soundmark": "/ju/ /ɡɪv/ /ɪt/ /tə/ /mi/"
+		"soundmark": "/ju/ /ɡɪv/ /ɪt/ /tə/ /mi/",
+		"vietnamese": "Bạn把Nó给Tôi"
 	},
 	{
-		"chinese": "往回",
 		"english": "back",
-		"soundmark": "/bæk/"
+		"soundmark": "/bæk/",
+		"vietnamese": "[VI:往回]"
 	},
 	{
-		"chinese": "你把它还给我",
 		"english": "you give it back to me",
-		"soundmark": "/ju/ /ɡɪv/ /ɪt/ /bæk/ /tə/ /mi/"
+		"soundmark": "/ju/ /ɡɪv/ /ɪt/ /bæk/ /tə/ /mi/",
+		"vietnamese": "Bạn把Nó还给Tôi"
 	},
 	{
-		"chinese": "把它还给我",
 		"english": "give it back to me",
-		"soundmark": "/ɡɪv/ /ɪt/ /bæk/ /tə/ /mi/"
+		"soundmark": "/ɡɪv/ /ɪt/ /bæk/ /tə/ /mi/",
+		"vietnamese": "把Nó还给Tôi"
 	},
 	{
-		"chinese": "读",
 		"english": "to read",
-		"soundmark": "/tə/ /rid/"
+		"soundmark": "/tə/ /rid/",
+		"vietnamese": "[VI:读]"
 	},
 	{
-		"chinese": "她",
 		"english": "her",
-		"soundmark": "/hɚ/"
+		"soundmark": "/hɚ/",
+		"vietnamese": "Cô ấy"
 	},
 	{
-		"chinese": "读给她",
 		"english": "to read her",
-		"soundmark": "/tə/ /rid/ /hɚ/"
+		"soundmark": "/tə/ /rid/ /hɚ/",
+		"vietnamese": "读给Cô ấy"
 	},
 	{
-		"chinese": "一个故事",
 		"english": "a story",
-		"soundmark": "/ə/ /'stɔri/"
+		"soundmark": "/ə/ /'stɔri/",
+		"vietnamese": "[VI:一个故事]"
 	},
 	{
-		"chinese": "读给她一个故事",
 		"english": "to read her a story",
-		"soundmark": "/tə/ /rid/ /hɚ/ /ə/ /'stɔri/"
+		"soundmark": "/tə/ /rid/ /hɚ/ /ə/ /'stɔri/",
+		"vietnamese": "读给Cô ấy一个故事"
 	},
 	{
-		"chinese": "我",
 		"english": "I",
-		"soundmark": "/aɪ/"
+		"soundmark": "/aɪ/",
+		"vietnamese": "Tôi"
 	},
 	{
-		"chinese": "我读给她一个故事",
 		"english": "I read her a story",
-		"soundmark": "/aɪ/ /rid/ /hɚ/ /ə/ /'stɔri/"
+		"soundmark": "/aɪ/ /rid/ /hɚ/ /ə/ /'stɔri/",
+		"vietnamese": "Tôi读给Cô ấy一个故事"
 	},
 	{
-		"chinese": "晚上",
 		"english": "night",
-		"soundmark": "/naɪt/"
+		"soundmark": "/naɪt/",
+		"vietnamese": "[VI:晚上]"
 	},
 	{
-		"chinese": "每一个",
 		"english": "every",
-		"soundmark": "/'ɛvri/"
+		"soundmark": "/'ɛvri/",
+		"vietnamese": "[VI:每一个]"
 	},
 	{
-		"chinese": "每天晚上",
 		"english": "every night",
-		"soundmark": "/'ɛvri/ /naɪt/"
+		"soundmark": "/'ɛvri/ /naɪt/",
+		"vietnamese": "mỗi ngày晚上"
 	},
 	{
-		"chinese": "我每天晚上读给她一个故事",
 		"english": "I read her a story every night",
-		"soundmark": "/aɪ/ /rid/ /hɚ/ /ə/ /'stɔri/ /'ɛvri/ /naɪt/"
+		"soundmark": "/aɪ/ /rid/ /hɚ/ /ə/ /'stɔri/ /'ɛvri/ /naɪt/",
+		"vietnamese": "Tôimỗi ngày晚上读给Cô ấy一个故事"
 	},
 	{
-		"chinese": "我读一个故事",
 		"english": "I read a story",
-		"soundmark": "/aɪ/ /rid/ /ə/ /'stɔri/"
+		"soundmark": "/aɪ/ /rid/ /ə/ /'stɔri/",
+		"vietnamese": "Tôi读一个故事"
 	},
 	{
-		"chinese": "给她",
 		"english": "to her",
-		"soundmark": "/tə/ /hɚ/"
+		"soundmark": "/tə/ /hɚ/",
+		"vietnamese": "给Cô ấy"
 	},
 	{
-		"chinese": "我给她读一个故事",
 		"english": "I read a story to her",
-		"soundmark": "/aɪ/ /rid/ /ə/ /'stɔri/ /tə/ /hɚ/"
+		"soundmark": "/aɪ/ /rid/ /ə/ /'stɔri/ /tə/ /hɚ/",
+		"vietnamese": "Tôi给Cô ấy读一个故事"
 	},
 	{
-		"chinese": "每天晚上",
 		"english": "every night",
-		"soundmark": "/'ɛvri/ /naɪt/"
+		"soundmark": "/'ɛvri/ /naɪt/",
+		"vietnamese": "mỗi ngày晚上"
 	},
 	{
-		"chinese": "我每天晚上为她读一个故事",
 		"english": "I read a story to her every night",
-		"soundmark": "/aɪ/ /rid/ /ə/ /'stɔri/ /tə/ /hɚ/ /'ɛvri/ /naɪt/"
+		"soundmark": "/aɪ/ /rid/ /ə/ /'stɔri/ /tə/ /hɚ/ /'ɛvri/ /naɪt/",
+		"vietnamese": "Tôimỗi ngày晚上为Cô ấy读一个故事"
 	},
 	{
-		"chinese": "就寝时间",
 		"english": "bedtime",
-		"soundmark": "/'bɛdtaɪm/"
+		"soundmark": "/'bɛdtaɪm/",
+		"vietnamese": "[VI:就寝时间]"
 	},
 	{
-		"chinese": "睡前故事",
 		"english": "bedtime story",
-		"soundmark": "/'bɛdtaɪm/ /'stɔri/"
+		"soundmark": "/'bɛdtaɪm/ /'stɔri/",
+		"vietnamese": "[VI:睡前故事]"
 	},
 	{
-		"chinese": "我每天晚上给她读一个睡前故事",
 		"english": "I read a bedtime story to her every night",
-		"soundmark": "/aɪ/ /rid/ /ə/ /'bɛdtaɪm/ /'stɔri/ /tə/ /hɚ/ /'ɛvri/ /naɪt/"
+		"soundmark": "/aɪ/ /rid/ /ə/ /'bɛdtaɪm/ /'stɔri/ /tə/ /hɚ/ /'ɛvri/ /naɪt/",
+		"vietnamese": "Tôimỗi ngày晚上给Cô ấy读一个睡前故事"
 	},
 	{
-		"chinese": "我每天晚上读给她一个睡前故事",
 		"english": "I read her a bedtime story every night",
-		"soundmark": "/aɪ/ /rid/ /hɚ/ /ə/ /'bɛdtaɪm/ /'stɔri/ /'ɛvri/ /naɪt/"
+		"soundmark": "/aɪ/ /rid/ /hɚ/ /ə/ /'bɛdtaɪm/ /'stɔri/ /'ɛvri/ /naɪt/",
+		"vietnamese": "Tôimỗi ngày晚上读给Cô ấy一个睡前故事"
 	},
 	{
-		"chinese": "买",
 		"english": "to buy",
-		"soundmark": "/tə/ /baɪ/"
+		"soundmark": "/tə/ /baɪ/",
+		"vietnamese": "[VI:买]"
 	},
 	{
-		"chinese": "他",
 		"english": "him",
-		"soundmark": "/hɪm/"
+		"soundmark": "/hɪm/",
+		"vietnamese": "Anh ấy"
 	},
 	{
-		"chinese": "买给他",
 		"english": "to buy him",
-		"soundmark": "/tə/ /baɪ/ /hɪm/"
+		"soundmark": "/tə/ /baɪ/ /hɪm/",
+		"vietnamese": "买给Anh ấy"
 	},
 	{
-		"chinese": "玩具",
 		"english": "toy",
-		"soundmark": "/tɔɪ/"
+		"soundmark": "/tɔɪ/",
+		"vietnamese": "[VI:玩具]"
 	},
 	{
-		"chinese": "一个玩具",
 		"english": "a toy",
-		"soundmark": "/ə/ /tɔɪ/"
+		"soundmark": "/ə/ /tɔɪ/",
+		"vietnamese": "[VI:一个玩具]"
 	},
 	{
-		"chinese": "汽车",
 		"english": "car",
-		"soundmark": "/kɑr/"
+		"soundmark": "/kɑr/",
+		"vietnamese": "[VI:汽车]"
 	},
 	{
-		"chinese": "一个玩具车",
 		"english": "a toy car",
-		"soundmark": "/ə/ /tɔɪ/ /kɑr/"
+		"soundmark": "/ə/ /tɔɪ/ /kɑr/",
+		"vietnamese": "[VI:一个玩具车]"
 	},
 	{
-		"chinese": "买给他一个玩具车",
 		"english": "to buy him a toy car",
-		"soundmark": "/tə/ /baɪ/ /hɪm/ /ə/ /tɔɪ/ /kɑr/"
+		"soundmark": "/tə/ /baɪ/ /hɪm/ /ə/ /tɔɪ/ /kɑr/",
+		"vietnamese": "买给Anh ấy一个玩具车"
 	},
 	{
-		"chinese": "我将会",
 		"english": "I will",
-		"soundmark": "/aɪ/ /wɪl/"
+		"soundmark": "/aɪ/ /wɪl/",
+		"vietnamese": "Tôi将会"
 	},
 	{
-		"chinese": "我将会买给他一个玩具车",
 		"english": "I will buy him a toy car",
-		"soundmark": "/aɪ/ /wɪl/ /baɪ/ /hɪm/ /ə/ /tɔɪ/ /kɑr/"
+		"soundmark": "/aɪ/ /wɪl/ /baɪ/ /hɪm/ /ə/ /tɔɪ/ /kɑr/",
+		"vietnamese": "Tôi将会买给Anh ấy一个玩具车"
 	},
 	{
-		"chinese": "我将会买一个玩具车",
 		"english": "I will buy a toy car",
-		"soundmark": "/aɪ/ /wɪl/ /baɪ/ /ə/ /tɔɪ/ /kɑr/"
+		"soundmark": "/aɪ/ /wɪl/ /baɪ/ /ə/ /tɔɪ/ /kɑr/",
+		"vietnamese": "Tôi将会买一个玩具车"
 	},
 	{
-		"chinese": "为他",
 		"english": "for him",
-		"soundmark": "/fɝ/ /hɪm/"
+		"soundmark": "/fɝ/ /hɪm/",
+		"vietnamese": "为Anh ấy"
 	},
 	{
-		"chinese": "我将会为他买一个玩具车",
 		"english": "I will buy a toy car for him",
-		"soundmark": "/aɪ/ /wɪl/ /baɪ/ /ə/ /tɔɪ/ /kɑr/ /fɝ/ /hɪm/"
+		"soundmark": "/aɪ/ /wɪl/ /baɪ/ /ə/ /tɔɪ/ /kɑr/ /fɝ/ /hɪm/",
+		"vietnamese": "Tôi将会为Anh ấy买一个玩具车"
 	},
 	{
-		"chinese": "明天",
 		"english": "tomorrow",
-		"soundmark": "/tə'mɔro/"
+		"soundmark": "/tə'mɔro/",
+		"vietnamese": "ngày mai"
 	},
 	{
-		"chinese": "我明天将会为他买一个玩具车",
 		"english": "I will buy a toy car for him tomorrow",
-		"soundmark": "/aɪ/ /wɪl/ /baɪ/ /ə/ /tɔɪ/ /kɑr/ /fɝ/ /hɪm/ /tə'mɔro/"
+		"soundmark": "/aɪ/ /wɪl/ /baɪ/ /ə/ /tɔɪ/ /kɑr/ /fɝ/ /hɪm/ /tə'mɔro/",
+		"vietnamese": "Tôingày mai将会为Anh ấy买一个玩具车"
 	},
 	{
-		"chinese": "出生",
 		"english": "birth",
-		"soundmark": "/bɝθ/"
+		"soundmark": "/bɝθ/",
+		"vietnamese": "[VI:出生]"
 	},
 	{
-		"chinese": "日",
 		"english": "day",
-		"soundmark": "/de/"
+		"soundmark": "/de/",
+		"vietnamese": "[VI:日]"
 	},
 	{
-		"chinese": "生日",
 		"english": "birthday",
-		"soundmark": "/'bɝθde/"
+		"soundmark": "/'bɝθde/",
+		"vietnamese": "[VI:生日]"
 	},
 	{
-		"chinese": "蛋糕",
 		"english": "cake",
-		"soundmark": "/kek/"
+		"soundmark": "/kek/",
+		"vietnamese": "[VI:蛋糕]"
 	},
 	{
-		"chinese": "生日蛋糕",
 		"english": "birthday cake",
-		"soundmark": "/'bɝθde/ /kek/"
+		"soundmark": "/'bɝθde/ /kek/",
+		"vietnamese": "[VI:生日蛋糕]"
 	},
 	{
-		"chinese": "一个生日蛋糕",
 		"english": "a birthday cake",
-		"soundmark": "/ə/ /'bɝθde/ /kek/"
+		"soundmark": "/ə/ /'bɝθde/ /kek/",
+		"vietnamese": "[VI:一个生日蛋糕]"
 	},
 	{
-		"chinese": "做",
 		"english": "to make",
-		"soundmark": "/tə/ /mek/"
+		"soundmark": "/tə/ /mek/",
+		"vietnamese": "làm"
 	},
 	{
-		"chinese": "做一个生日蛋糕",
 		"english": "to make a birthday cake",
-		"soundmark": "/tə/ /mek/ /ə/ /'bɝθde/ /kek/"
+		"soundmark": "/tə/ /mek/ /ə/ /'bɝθde/ /kek/",
+		"vietnamese": "làm一个生日蛋糕"
 	},
 	{
-		"chinese": "我们将会",
 		"english": "we will",
-		"soundmark": "/wi/ /wɪl/"
+		"soundmark": "/wi/ /wɪl/",
+		"vietnamese": "Chúng tôi将会"
 	},
 	{
-		"chinese": "我们将会做一个生日蛋糕",
 		"english": "we will make a birthday cake",
-		"soundmark": "/wi/ /wɪl/ /mek/ /ə/ /'bɝθde/ /kek/"
+		"soundmark": "/wi/ /wɪl/ /mek/ /ə/ /'bɝθde/ /kek/",
+		"vietnamese": "Chúng tôi将会làm一个生日蛋糕"
 	},
 	{
-		"chinese": "她",
 		"english": "her",
-		"soundmark": "/hɚ/"
+		"soundmark": "/hɚ/",
+		"vietnamese": "Cô ấy"
 	},
 	{
-		"chinese": "我们将会做给她一个生日蛋糕",
 		"english": "we will make her a birthday cake",
-		"soundmark": "/wi/ /wɪl/ /mek/ /hɚ/ /ə/ /'bɝθde/ /kek/"
+		"soundmark": "/wi/ /wɪl/ /mek/ /hɚ/ /ə/ /'bɝθde/ /kek/",
+		"vietnamese": "Chúng tôi将会làm给Cô ấy一个生日蛋糕"
 	},
 	{
-		"chinese": "为她",
 		"english": "for her",
-		"soundmark": "/fɚ/ /hɚ/"
+		"soundmark": "/fɚ/ /hɚ/",
+		"vietnamese": "为Cô ấy"
 	},
 	{
-		"chinese": "我们将会为她做一个生日蛋糕",
 		"english": "we will make a birthday cake for her",
-		"soundmark": "/wi/ /wɪl/ /mek/ /ə/ /'bɝθde/ /kek/ /fɚ/ /hɚ/"
+		"soundmark": "/wi/ /wɪl/ /mek/ /ə/ /'bɝθde/ /kek/ /fɚ/ /hɚ/",
+		"vietnamese": "Chúng tôi将会为Cô ấylàm一个生日蛋糕"
 	},
 	{
-		"chinese": "做（ing形式）",
 		"english": "making",
-		"soundmark": "/'mekɪŋ/"
+		"soundmark": "/'mekɪŋ/",
+		"vietnamese": "làm（ing形式）"
 	},
 	{
-		"chinese": "是;赋值(原型)",
 		"english": "be",
-		"soundmark": "/bi/"
+		"soundmark": "/bi/",
+		"vietnamese": "là;赋值(原型)"
 	},
 	{
-		"chinese": "正在做",
 		"english": "be making",
-		"soundmark": "/bi/ /'mekɪŋ/"
+		"soundmark": "/bi/ /'mekɪŋ/",
+		"vietnamese": "正在làm"
 	},
 	{
-		"chinese": "我们正在做",
 		"english": "we are making",
-		"soundmark": "/wi/ /ɚ/ /'mekɪŋ/"
+		"soundmark": "/wi/ /ɚ/ /'mekɪŋ/",
+		"vietnamese": "Chúng tôi正在làm"
 	},
 	{
-		"chinese": "一个生日蛋糕",
 		"english": "a birthday cake",
-		"soundmark": "/ə/ /'bɝθde/ /kek/"
+		"soundmark": "/ə/ /'bɝθde/ /kek/",
+		"vietnamese": "[VI:一个生日蛋糕]"
 	},
 	{
-		"chinese": "我们正在做一个生日蛋糕",
 		"english": "we are making a birthday cake",
-		"soundmark": "/wi/ /ɚ/ /'mekɪŋ/ /ə/ /'bɝθde/ /kek/"
+		"soundmark": "/wi/ /ɚ/ /'mekɪŋ/ /ə/ /'bɝθde/ /kek/",
+		"vietnamese": "Chúng tôi正在làm一个生日蛋糕"
 	},
 	{
-		"chinese": "为她",
 		"english": "for her",
-		"soundmark": "/fɚ/ /hɚ/"
+		"soundmark": "/fɚ/ /hɚ/",
+		"vietnamese": "为Cô ấy"
 	},
 	{
-		"chinese": "我们正在为她做一个生日蛋糕",
 		"english": "we are making a birthday cake for her",
-		"soundmark": "/wi/ /ɚ/ /'mekɪŋ/ /ə/ /'bɝθde/ /kek/ /fɚ/ /hɚ/"
+		"soundmark": "/wi/ /ɚ/ /'mekɪŋ/ /ə/ /'bɝθde/ /kek/ /fɚ/ /hɚ/",
+		"vietnamese": "Chúng tôi正在为Cô ấylàm一个生日蛋糕"
 	},
 	{
-		"chinese": "做",
 		"english": "to make",
-		"soundmark": "/tə/ /mek/"
+		"soundmark": "/tə/ /mek/",
+		"vietnamese": "làm"
 	},
 	{
-		"chinese": "钱",
 		"english": "money",
-		"soundmark": "/'mʌni/"
+		"soundmark": "/'mʌni/",
+		"vietnamese": "[VI:钱]"
 	},
 	{
-		"chinese": "赚钱",
 		"english": "to make money",
-		"soundmark": "/tə/ /mek/ /'mʌni/"
+		"soundmark": "/tə/ /mek/ /'mʌni/",
+		"vietnamese": "[VI:赚钱]"
 	},
 	{
-		"chinese": "身体",
 		"english": "body",
-		"soundmark": "/'bɑdi/"
+		"soundmark": "/'bɑdi/",
+		"vietnamese": "[VI:身体]"
 	},
 	{
-		"chinese": "每一个",
 		"english": "every",
-		"soundmark": "/'ɛvri/"
+		"soundmark": "/'ɛvri/",
+		"vietnamese": "[VI:每一个]"
 	},
 	{
-		"chinese": "每个人",
 		"english": "everybody",
-		"soundmark": "/'ɛvrɪbɑdi/"
+		"soundmark": "/'ɛvrɪbɑdi/",
+		"vietnamese": "[VI:每个人]"
 	},
 	{
-		"chinese": "想要",
 		"english": "want",
-		"soundmark": "/wɑnt/"
+		"soundmark": "/wɑnt/",
+		"vietnamese": "muốn"
 	},
 	{
-		"chinese": "每个人想要",
 		"english": "everybody wants",
-		"soundmark": "/'ɛvrɪbɑdi/ /wɑnts/"
+		"soundmark": "/'ɛvrɪbɑdi/ /wɑnts/",
+		"vietnamese": "每个人muốn"
 	},
 	{
-		"chinese": "每个人想要赚钱",
 		"english": "everybody wants to make money",
-		"soundmark": "/'ɛvrɪbɑdi/ /wɑnts/ /tə/ /mek/ /'mʌni/"
+		"soundmark": "/'ɛvrɪbɑdi/ /wɑnts/ /tə/ /mek/ /'mʌni/",
+		"vietnamese": "每个人muốn赚钱"
 	},
 	{
-		"chinese": "需要",
 		"english": "need",
-		"soundmark": "/nid/"
+		"soundmark": "/nid/",
+		"vietnamese": "cần"
 	},
 	{
-		"chinese": "每个人需要赚钱",
 		"english": "everybody needs to make money",
-		"soundmark": "/'ɛvrɪbɑdi/ /nidz/ /tə/ /mek/ /'mʌni/"
+		"soundmark": "/'ɛvrɪbɑdi/ /nidz/ /tə/ /mek/ /'mʌni/",
+		"vietnamese": "每个人cần赚钱"
 	},
 	{
-		"chinese": "做",
 		"english": "to make",
-		"soundmark": "/tə/ /mek/"
+		"soundmark": "/tə/ /mek/",
+		"vietnamese": "làm"
 	},
 	{
-		"chinese": "打电话",
 		"english": "to call",
-		"soundmark": "/tə/ /kɔl/"
+		"soundmark": "/tə/ /kɔl/",
+		"vietnamese": "[VI:打电话]"
 	},
 	{
-		"chinese": "呼叫",
 		"english": "call",
-		"soundmark": "/kɔl/"
+		"soundmark": "/kɔl/",
+		"vietnamese": "[VI:呼叫]"
 	},
 	{
-		"chinese": "一个呼叫",
 		"english": "a call",
-		"soundmark": "/ə/ /kɔl/"
+		"soundmark": "/ə/ /kɔl/",
+		"vietnamese": "[VI:一个呼叫]"
 	},
 	{
-		"chinese": "打一个电话",
 		"english": "to make a call",
-		"soundmark": "/tə/ /mek/ /ə/ /kɔl/"
+		"soundmark": "/tə/ /mek/ /ə/ /kɔl/",
+		"vietnamese": "[VI:打一个电话]"
 	},
 	{
-		"chinese": "视频",
 		"english": "video",
-		"soundmark": "/'vɪdɪo/"
+		"soundmark": "/'vɪdɪo/",
+		"vietnamese": "[VI:视频]"
 	},
 	{
-		"chinese": "打一个视频电话",
 		"english": "to make a video call",
-		"soundmark": "/tə/ /mek/ /ə/ /'vɪdɪo/ /kɔl/"
+		"soundmark": "/tə/ /mek/ /ə/ /'vɪdɪo/ /kɔl/",
+		"vietnamese": "[VI:打一个视频电话]"
 	},
 	{
-		"chinese": "朋友",
 		"english": "friend",
-		"soundmark": "/frɛnd/"
+		"soundmark": "/frɛnd/",
+		"vietnamese": "[VI:朋友]"
 	},
 	{
-		"chinese": "我的",
 		"english": "my",
-		"soundmark": "/maɪ/"
+		"soundmark": "/maɪ/",
+		"vietnamese": "Tôi的"
 	},
 	{
-		"chinese": "我的朋友",
 		"english": "my friend",
-		"soundmark": "/maɪ/ /frɛnd/"
+		"soundmark": "/maɪ/ /frɛnd/",
+		"vietnamese": "Tôi的朋友"
 	},
 	{
-		"chinese": "最好的",
 		"english": "best",
-		"soundmark": "/bɛst/"
+		"soundmark": "/bɛst/",
+		"vietnamese": "最tốt"
 	},
 	{
-		"chinese": "我最好的朋友",
 		"english": "my best friend",
-		"soundmark": "/maɪ/ /bɛst/ /frɛnd/"
+		"soundmark": "/maɪ/ /bɛst/ /frɛnd/",
+		"vietnamese": "Tôi最tốt朋友"
 	},
 	{
-		"chinese": "打一个视频电话",
 		"english": "to make a video call",
-		"soundmark": "/tə/ /mek/ /ə/ /'vɪdɪo/ /kɔl/"
+		"soundmark": "/tə/ /mek/ /ə/ /'vɪdɪo/ /kɔl/",
+		"vietnamese": "[VI:打一个视频电话]"
 	},
 	{
-		"chinese": "打一个视频电话给我最好的朋友",
 		"english": "to make a video call to my best friend",
-		"soundmark": "/tə/ /mek/ /ə/ /'vɪdɪo/ /kɔl/ /tə/ /maɪ/ /bɛst/ /frɛnd/"
+		"soundmark": "/tə/ /mek/ /ə/ /'vɪdɪo/ /kɔl/ /tə/ /maɪ/ /bɛst/ /frɛnd/",
+		"vietnamese": "打一个视频电话给Tôi最tốt朋友"
 	},
 	{
-		"chinese": "我想要",
 		"english": "I want",
-		"soundmark": "/aɪ/ /wɑnt/"
+		"soundmark": "/aɪ/ /wɑnt/",
+		"vietnamese": "Tôi muốn"
 	},
 	{
-		"chinese": "我想要打一个视频电话",
 		"english": "I want to make a video call",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /mek/ /ə/ /'vɪdɪo/ /kɔl/"
+		"soundmark": "/aɪ/ /wɑnt/ /tə/ /mek/ /ə/ /'vɪdɪo/ /kɔl/",
+		"vietnamese": "Tôi muốn打一个视频电话"
 	},
 	{
-		"chinese": "我想要打一个视频电话给我最好的朋友",
 		"english": "I want to make a video call to my best friend",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /mek/ /ə/ /'vɪdɪo/ /kɔl/ /tə/ /maɪ/ /bɛst/ /frɛnd/"
+		"soundmark": "/aɪ/ /wɑnt/ /tə/ /mek/ /ə/ /'vɪdɪo/ /kɔl/ /tə/ /maɪ/ /bɛst/ /frɛnd/",
+		"vietnamese": "Tôi muốn打一个视频电话给Tôi最tốt朋友"
 	},
 	{
-		"chinese": "做",
 		"english": "to make",
-		"soundmark": "/tə/ /mek/"
+		"soundmark": "/tə/ /mek/",
+		"vietnamese": "làm"
 	},
 	{
-		"chinese": "一个视频",
 		"english": "a video",
-		"soundmark": "/ə/ /'vɪdɪo/"
+		"soundmark": "/ə/ /'vɪdɪo/",
+		"vietnamese": "[VI:一个视频]"
 	},
 	{
-		"chinese": "做一个视频",
 		"english": "to make a video",
-		"soundmark": "/tə/ /mek/ /ə/ /'vɪdɪo/"
+		"soundmark": "/tə/ /mek/ /ə/ /'vɪdɪo/",
+		"vietnamese": "làm一个视频"
 	},
 	{
-		"chinese": "我想要做一个视频",
 		"english": "I want to make a video",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /mek/ /ə/ /'vɪdɪo/"
+		"soundmark": "/aɪ/ /wɑnt/ /tə/ /mek/ /ə/ /'vɪdɪo/",
+		"vietnamese": "Tôi muốnlàm一个视频"
 	},
 	{
-		"chinese": "如何",
 		"english": "how",
-		"soundmark": "/haʊ/"
+		"soundmark": "/haʊ/",
+		"vietnamese": "[VI:如何]"
 	},
 	{
-		"chinese": "学习",
 		"english": "to learn",
-		"soundmark": "/tə/ /lɝn/"
+		"soundmark": "/tə/ /lɝn/",
+		"vietnamese": "học"
 	},
 	{
-		"chinese": "如何学习",
 		"english": "how to learn",
-		"soundmark": "/haʊ/ /tə/ /lɝn/"
+		"soundmark": "/haʊ/ /tə/ /lɝn/",
+		"vietnamese": "如何học"
 	},
 	{
-		"chinese": "英语",
 		"english": "English",
-		"soundmark": "/ˈɪŋɡlɪʃ/"
+		"soundmark": "/ˈɪŋɡlɪʃ/",
+		"vietnamese": "[VI:英语]"
 	},
 	{
-		"chinese": "如何学习英语",
 		"english": "how to learn English",
-		"soundmark": "/haʊ/ /tə/ /lɝn/ /ˈɪŋɡlɪʃ/"
+		"soundmark": "/haʊ/ /tə/ /lɝn/ /ˈɪŋɡlɪʃ/",
+		"vietnamese": "如何học英语"
 	},
 	{
-		"chinese": "关于",
 		"english": "about",
-		"soundmark": "/ə'baʊt/"
+		"soundmark": "/ə'baʊt/",
+		"vietnamese": "[VI:关于]"
 	},
 	{
-		"chinese": "关于如何学习英语",
 		"english": "about how to learn English",
-		"soundmark": "/ə'baʊt/ /haʊ/ /tə/ /lɝn/ /ˈɪŋɡlɪʃ/"
+		"soundmark": "/ə'baʊt/ /haʊ/ /tə/ /lɝn/ /ˈɪŋɡlɪʃ/",
+		"vietnamese": "关于如何học英语"
 	},
 	{
-		"chinese": "我想要做一个视频",
 		"english": "I want to make a video",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /mek/ /ə/ /'vɪdɪo/"
+		"soundmark": "/aɪ/ /wɑnt/ /tə/ /mek/ /ə/ /'vɪdɪo/",
+		"vietnamese": "Tôi muốnlàm一个视频"
 	},
 	{
-		"chinese": "我想要做一个关于如何学习英语的视频",
 		"english": "I want to make a video about how to learn English",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /mek/ /ə/ /'vɪdɪo/ /ə'baʊt/ /haʊ/ /tə/ /lɝn/ /ˈɪŋɡlɪʃ/"
+		"soundmark": "/aɪ/ /wɑnt/ /tə/ /mek/ /ə/ /'vɪdɪo/ /ə'baʊt/ /haʊ/ /tə/ /lɝn/ /ˈɪŋɡlɪʃ/",
+		"vietnamese": "Tôi muốnlàm一个关于如何học英语的视频"
 	},
 	{
-		"chinese": "改变",
 		"english": "to change",
-		"soundmark": "/tə/ /tʃendʒ/"
+		"soundmark": "/tə/ /tʃendʒ/",
+		"vietnamese": "[VI:改变]"
 	},
 	{
-		"chinese": "改变",
 		"english": "change",
-		"soundmark": "/tʃendʒ/"
+		"soundmark": "/tʃendʒ/",
+		"vietnamese": "[VI:改变]"
 	},
 	{
-		"chinese": "做",
 		"english": "to make",
-		"soundmark": "/tə/ /mek/"
+		"soundmark": "/tə/ /mek/",
+		"vietnamese": "làm"
 	},
 	{
-		"chinese": "做改变",
 		"english": "to make a change",
-		"soundmark": "/tə/ /mek/ /ə/ /tʃendʒ/"
+		"soundmark": "/tə/ /mek/ /ə/ /tʃendʒ/",
+		"vietnamese": "làm改变"
 	},
 	{
-		"chinese": "决定",
 		"english": "to decide",
-		"soundmark": "/tə/ /dɪ'saɪd/"
+		"soundmark": "/tə/ /dɪ'saɪd/",
+		"vietnamese": "[VI:决定]"
 	},
 	{
-		"chinese": "决定做改变",
 		"english": "to decide to make a change",
-		"soundmark": "/tə/ /dɪ'saɪd/ /tə/ /mek/ /ə/ /tʃendʒ/"
+		"soundmark": "/tə/ /dɪ'saɪd/ /tə/ /mek/ /ə/ /tʃendʒ/",
+		"vietnamese": "决定làm改变"
 	},
 	{
-		"chinese": "我们",
 		"english": "we",
-		"soundmark": "/wi/"
+		"soundmark": "/wi/",
+		"vietnamese": "Chúng tôi"
 	},
 	{
-		"chinese": "我们决定做改变",
 		"english": "we decide to make a change",
-		"soundmark": "/wi/ /dɪ'saɪd/ /tə/ /mek/ /ə/ /tʃendʒ/"
+		"soundmark": "/wi/ /dɪ'saɪd/ /tə/ /mek/ /ə/ /tʃendʒ/",
+		"vietnamese": "Chúng tôi决定làm改变"
 	},
 	{
-		"chinese": "我们（过去）决定做改变",
 		"english": "we decided to make a change",
-		"soundmark": "/wi/ /dɪ'saɪdɪd/ /tə/ /mek/ /ə/ /tʃendʒ/"
+		"soundmark": "/wi/ /dɪ'saɪdɪd/ /tə/ /mek/ /ə/ /tʃendʒ/",
+		"vietnamese": "Chúng tôi（过去）决定làm改变"
 	},
 	{
-		"chinese": "决定",
 		"english": "to decide",
-		"soundmark": "/tə/ /dɪ'saɪd/"
+		"soundmark": "/tə/ /dɪ'saɪd/",
+		"vietnamese": "[VI:决定]"
 	},
 	{
-		"chinese": "决定",
 		"english": "decision",
-		"soundmark": "/dɪ'sɪʒn/"
+		"soundmark": "/dɪ'sɪʒn/",
+		"vietnamese": "[VI:决定]"
 	},
 	{
-		"chinese": "做",
 		"english": "to make",
-		"soundmark": "/tə/ /mek/"
+		"soundmark": "/tə/ /mek/",
+		"vietnamese": "làm"
 	},
 	{
-		"chinese": "做决定",
 		"english": "to make a decision",
-		"soundmark": "/tə/ /mek/ /ə/ /dɪ'sɪʒn/"
+		"soundmark": "/tə/ /mek/ /ə/ /dɪ'sɪʒn/",
+		"vietnamese": "làm决定"
 	},
 	{
-		"chinese": "我们需要",
 		"english": "we need",
-		"soundmark": "/wi/ /nid/"
+		"soundmark": "/wi/ /nid/",
+		"vietnamese": "Chúng tôicần"
 	},
 	{
-		"chinese": "我们需要做决定",
 		"english": "we need to make a decision",
-		"soundmark": "/wi/ /nid/ /tə/ /mek/ /ə/ /dɪ'sɪʒn/"
+		"soundmark": "/wi/ /nid/ /tə/ /mek/ /ə/ /dɪ'sɪʒn/",
+		"vietnamese": "Chúng tôicần làm决定"
 	},
 	{
-		"chinese": "现在",
 		"english": "now",
-		"soundmark": "/naʊ/"
+		"soundmark": "/naʊ/",
+		"vietnamese": "bây giờ"
 	},
 	{
-		"chinese": "我们现在需要做决定",
 		"english": "we need to make a decision now",
-		"soundmark": "/wi/ /nid/ /tə/ /mek/ /ə/ /dɪ'sɪʒn/ /naʊ/"
+		"soundmark": "/wi/ /nid/ /tə/ /mek/ /ə/ /dɪ'sɪʒn/ /naʊ/",
+		"vietnamese": "Chúng tôibây giờcần làm决定"
 	},
 	{
-		"chinese": "我认为",
 		"english": "I think",
-		"soundmark": "/aɪ/ /θɪŋk/"
+		"soundmark": "/aɪ/ /θɪŋk/",
+		"vietnamese": "Tôi认为"
 	},
 	{
-		"chinese": "我认为我们现在需要做决定",
 		"english": "I think we need to make a decision now",
-		"soundmark": "/aɪ/ /θɪŋk/ /wi/ /nid/ /tə/ /mek/ /ə/ /dɪ'sɪʒn/ /naʊ/"
+		"soundmark": "/aɪ/ /θɪŋk/ /wi/ /nid/ /tə/ /mek/ /ə/ /dɪ'sɪʒn/ /naʊ/",
+		"vietnamese": "Tôi认为Chúng tôibây giờcần làm决定"
 	},
 	{
-		"chinese": "不",
 		"english": "don't",
-		"soundmark": "/dont/"
+		"soundmark": "/dont/",
+		"vietnamese": "không"
 	},
 	{
-		"chinese": "我不认为我们现在需要做决定",
 		"english": "I don't think we need to make a decision now",
-		"soundmark": "/aɪ/ /dont/ /θɪŋk/ /wi/ /nid/ /tə/ /mek/ /ə/ /dɪ'sɪʒn/ /naʊ/"
+		"soundmark": "/aɪ/ /dont/ /θɪŋk/ /wi/ /nid/ /tə/ /mek/ /ə/ /dɪ'sɪʒn/ /naʊ/",
+		"vietnamese": "Tôikhông认为Chúng tôibây giờcần làm决定"
 	},
 	{
-		"chinese": "朋友",
 		"english": "friends",
-		"soundmark": "/frɛndz/"
+		"soundmark": "/frɛndz/",
+		"vietnamese": "[VI:朋友]"
 	},
 	{
-		"chinese": "做",
 		"english": "to make",
-		"soundmark": "/tə/ /mek/"
+		"soundmark": "/tə/ /mek/",
+		"vietnamese": "làm"
 	},
 	{
-		"chinese": "交朋友",
 		"english": "to make friends",
-		"soundmark": "/tə/ /mek/ /frɛndz/"
+		"soundmark": "/tə/ /mek/ /frɛndz/",
+		"vietnamese": "[VI:交朋友]"
 	},
 	{
-		"chinese": "你",
 		"english": "you",
-		"soundmark": "/ju/"
+		"soundmark": "/ju/",
+		"vietnamese": "Bạn"
 	},
 	{
-		"chinese": "你可以",
 		"english": "you can",
-		"soundmark": "/ju/ /kæn/"
+		"soundmark": "/ju/ /kæn/",
+		"vietnamese": "Bạn可以"
 	},
 	{
-		"chinese": "你可以交朋友",
 		"english": "you can make friends",
-		"soundmark": "/ju/ /kæn/ /mek/ /frɛndz/"
+		"soundmark": "/ju/ /kæn/ /mek/ /frɛndz/",
+		"vietnamese": "Bạn可以交朋友"
 	},
 	{
-		"chinese": "和",
 		"english": "with",
-		"soundmark": "/wɪð/"
+		"soundmark": "/wɪð/",
+		"vietnamese": "và"
 	},
 	{
-		"chinese": "他们",
 		"english": "them",
-		"soundmark": "/ðəm/"
+		"soundmark": "/ðəm/",
+		"vietnamese": "Họ"
 	},
 	{
-		"chinese": "和他们",
 		"english": "with them",
-		"soundmark": "/wɪð/ /ðəm/"
+		"soundmark": "/wɪð/ /ðəm/",
+		"vietnamese": "vàHọ"
 	},
 	{
-		"chinese": "你可以和他们交朋友",
 		"english": "you can make friends with them",
-		"soundmark": "/ju/ /kæn/ /mek/ /frɛndz/ /wɪð/ /ðəm/"
+		"soundmark": "/ju/ /kæn/ /mek/ /frɛndz/ /wɪð/ /ðəm/",
+		"vietnamese": "Bạn可以vàHọ交朋友"
 	},
 	{
-		"chinese": "不可以",
 		"english": "can't",
-		"soundmark": "/kænt/"
+		"soundmark": "/kænt/",
+		"vietnamese": "không可以"
 	},
 	{
-		"chinese": "你不可以和他们交朋友",
 		"english": "you can't make friends with them",
-		"soundmark": "/ju/ /kænt/ /mek/ /frɛndz/ /wɪð/ /ðəm/"
+		"soundmark": "/ju/ /kænt/ /mek/ /frɛndz/ /wɪð/ /ðəm/",
+		"vietnamese": "Bạnkhông可以vàHọ交朋友"
 	}
 ]

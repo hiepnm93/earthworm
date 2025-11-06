@@ -41,20 +41,20 @@
         class="btn btn-outline btn-sm"
         @click="handleSubmitAnswer"
       >
-        提交
+        Gửi
       </button>
       <div class="flex gap-4">
         <button
           class="btn btn-outline btn-sm"
           @click="handleShowAnswerTip"
         >
-          {{ isAnswerTip() ? "隐藏" : "显示" }}答案
+          {{ isAnswerTip() ? "Ẩn" : "Hiện" }}答案
         </button>
         <button
           class="btn btn-outline btn-sm"
           @click="handlePlaySound"
         >
-          播放声音
+          Phát声音
         </button>
       </div>
     </div>
@@ -149,7 +149,7 @@ function getWordsClassNames(index: number) {
     return "text-fuchsia-500 border-b-fuchsia-500";
   }
 
-  // 当前单词错误 且 聚焦
+  // 当前单词Lỗi 且 聚焦
   if (word.incorrect && focusing.value) {
     // Fix 修复模式添加动画
     return `text-red-500 border-b-red-500 ${isFixMode() && "animate-shake"}`;
@@ -162,7 +162,7 @@ function getWordsClassNames(index: number) {
 // 输入宽度
 function inputWidth(word: string) {
   if (!isShowWordsWidth()) {
-    // 不显示对应单词宽度，默认 4 字符宽度
+    // 不Hiện对应单词宽度，默认 4 字符宽度
     return 4;
   }
 
@@ -183,8 +183,8 @@ function handleCompositionEnd() {
 }
 
 function handleKeydown(e: KeyboardEvent) {
-  // 给 windows 用户添加 ctrl + backspace 删除上一个单词的快捷键
-  // 有些浏览器 input 不支持通过 ctrl + backspace 删除 所以自行扩展下
+  // 给 windows Người dùng添加 ctrl + backspace Xóa上mộtcái单词的快捷键
+  // 有些浏览器 input 不支持通过 ctrl + backspace Xóa 所以自行扩展下
   if (e.code === "Backspace" && e.ctrlKey && isWindows()) {
     e.preventDefault();
     deletePreviousWordOnWin();
@@ -211,7 +211,7 @@ function deletePreviousWordOnWin() {
   var end = inputEl.value!.selectionEnd!;
   if (end === 0) return;
 
-  // 删除光标前的所有连续空格
+  // Xóa光标前的所有连续空格
   while (start > 0 && inputValue.value[start - 1] === " ") {
     start--;
   }

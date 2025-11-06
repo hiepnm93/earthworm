@@ -1,582 +1,582 @@
 [
 	{
-		"chinese": "吃",
 		"english": "to eat",
-		"soundmark": "/tə/ /it/"
+		"soundmark": "/tə/ /it/",
+		"vietnamese": "ăn"
 	},
 	{
-		"chinese": "鸡蛋",
 		"english": "eggs",
-		"soundmark": "/ɛgz/"
+		"soundmark": "/ɛgz/",
+		"vietnamese": "[VI:鸡蛋]"
 	},
 	{
-		"chinese": "吃鸡蛋",
 		"english": "to eat eggs",
-		"soundmark": "/tə/ /it/ /ɛgz/"
+		"soundmark": "/tə/ /it/ /ɛgz/",
+		"vietnamese": "ăn鸡蛋"
 	},
 	{
-		"chinese": "正在吃",
 		"english": "eating",
-		"soundmark": "/'itɪŋ/"
+		"soundmark": "/'itɪŋ/",
+		"vietnamese": "正在ăn"
 	},
 	{
-		"chinese": "正在吃鸡蛋",
 		"english": "eating eggs",
-		"soundmark": "/'itɪŋ/ /ɛgz/"
+		"soundmark": "/'itɪŋ/ /ɛgz/",
+		"vietnamese": "正在ăn鸡蛋"
 	},
 	{
-		"chinese": "我是",
 		"english": "I am",
-		"soundmark": "/aɪ/ /æm/"
+		"soundmark": "/aɪ/ /æm/",
+		"vietnamese": "Tôi là"
 	},
 	{
-		"chinese": "我是星荣",
 		"english": "I am Xingrong",
-		"soundmark": "/aɪ/ /æm/"
+		"soundmark": "/aɪ/ /æm/",
+		"vietnamese": "Tôi là Xingrong"
 	},
 	{
-		"chinese": "正在吃鸡蛋",
 		"english": "eating eggs",
-		"soundmark": "/'itɪŋ/ /ɛgz/"
+		"soundmark": "/'itɪŋ/ /ɛgz/",
+		"vietnamese": "正在ăn鸡蛋"
 	},
 	{
-		"chinese": "我正在吃鸡蛋",
 		"english": "I am eating eggs",
-		"soundmark": "/aɪ/ /æm/ /'itɪŋ/ /ɛgz/"
+		"soundmark": "/aɪ/ /æm/ /'itɪŋ/ /ɛgz/",
+		"vietnamese": "Tôi正在ăn鸡蛋"
 	},
 	{
-		"chinese": "厨房",
 		"english": "the kitchen",
-		"soundmark": "/ðə/ /'kɪtʃɪn/"
+		"soundmark": "/ðə/ /'kɪtʃɪn/",
+		"vietnamese": "[VI:厨房]"
 	},
 	{
-		"chinese": "在厨房里",
 		"english": "in the kitchen",
-		"soundmark": "/ɪn/ /ðə/ /'kɪtʃɪn/"
+		"soundmark": "/ɪn/ /ðə/ /'kɪtʃɪn/",
+		"vietnamese": "[VI:在厨房里]"
 	},
 	{
-		"chinese": "我在厨房里（现在）正在吃鸡蛋",
 		"english": "I am eating eggs in the kitchen",
-		"soundmark": "/aɪ/ /æm/ /'itɪŋ/ /ɛgz/ /ɪn/ /ðə/ /'kɪtʃɪn/"
+		"soundmark": "/aɪ/ /æm/ /'itɪŋ/ /ɛgz/ /ɪn/ /ðə/ /'kɪtʃɪn/",
+		"vietnamese": "Tôi在厨房里（bây giờ）正在ăn鸡蛋"
 	},
 	{
-		"chinese": "我在厨房里（过去）正在吃鸡蛋",
 		"english": "I was eating eggs in the kitchen",
-		"soundmark": "/aɪ/ /wəz/ /'itɪŋ/ /ɛgz/ /ɪn/ /ðə/ /'kɪtʃɪn/"
+		"soundmark": "/aɪ/ /wəz/ /'itɪŋ/ /ɛgz/ /ɪn/ /ðə/ /'kɪtʃɪn/",
+		"vietnamese": "Tôi在厨房里（过去）正在ăn鸡蛋"
 	},
 	{
-		"chinese": "你在厨房里（现在）正在吃鸡蛋",
 		"english": "you are eating eggs in the kitchen",
-		"soundmark": "/ju/ /ɚ/ /'itɪŋ/ /ɛgz/ /ɪn/ /ðə/ /'kɪtʃɪn/"
+		"soundmark": "/ju/ /ɚ/ /'itɪŋ/ /ɛgz/ /ɪn/ /ðə/ /'kɪtʃɪn/",
+		"vietnamese": "Bạn在厨房里（bây giờ）正在ăn鸡蛋"
 	},
 	{
-		"chinese": "你在厨房里（过去）正在吃鸡蛋",
 		"english": "you were eating eggs in the kitchen",
-		"soundmark": "/ju/ /wɚ/ /'itɪŋ/ /ɛgz/ /ɪn/ /ðə/ /'kɪtʃɪn/"
+		"soundmark": "/ju/ /wɚ/ /'itɪŋ/ /ɛgz/ /ɪn/ /ðə/ /'kɪtʃɪn/",
+		"vietnamese": "Bạn在厨房里（过去）正在ăn鸡蛋"
 	},
 	{
-		"chinese": "他们",
 		"english": "they",
-		"soundmark": "/ðe/"
+		"soundmark": "/ðe/",
+		"vietnamese": "Họ"
 	},
 	{
-		"chinese": "他们在厨房里（现在）正在吃鸡蛋",
 		"english": "they are eating eggs in the kitchen",
-		"soundmark": "/ðe/ /ɚ/ /'itɪŋ/ /ɛgz/ /ɪn/ /ðə/ /'kɪtʃɪn/"
+		"soundmark": "/ðe/ /ɚ/ /'itɪŋ/ /ɛgz/ /ɪn/ /ðə/ /'kɪtʃɪn/",
+		"vietnamese": "Họ在厨房里（bây giờ）正在ăn鸡蛋"
 	},
 	{
-		"chinese": "他们在厨房里（过去）正在吃鸡蛋",
 		"english": "they were eating eggs in the kitchen",
-		"soundmark": "/ðe/ /wɚ/ /'itɪŋ/ /ɛgz/ /ɪn/ /ðə/ /'kɪtʃɪn/"
+		"soundmark": "/ðe/ /wɚ/ /'itɪŋ/ /ɛgz/ /ɪn/ /ðə/ /'kɪtʃɪn/",
+		"vietnamese": "Họ在厨房里（过去）正在ăn鸡蛋"
 	},
 	{
-		"chinese": "喝",
 		"english": "to drink",
-		"soundmark": "/tə/ /drɪŋk/"
+		"soundmark": "/tə/ /drɪŋk/",
+		"vietnamese": "[VI:喝]"
 	},
 	{
-		"chinese": "茶",
 		"english": "tea",
-		"soundmark": "/ti/"
+		"soundmark": "/ti/",
+		"vietnamese": "[VI:茶]"
 	},
 	{
-		"chinese": "喝茶",
 		"english": "to drink tea",
-		"soundmark": "/tə/ /drɪŋk/ /ti/"
+		"soundmark": "/tə/ /drɪŋk/ /ti/",
+		"vietnamese": "[VI:喝茶]"
 	},
 	{
-		"chinese": "正在喝",
 		"english": "drinking",
-		"soundmark": "/'drɪŋkɪŋ/"
+		"soundmark": "/'drɪŋkɪŋ/",
+		"vietnamese": "[VI:正在喝]"
 	},
 	{
-		"chinese": "正在喝茶",
 		"english": "drinking tea",
-		"soundmark": "/'drɪŋkɪŋ/ /ti/"
+		"soundmark": "/'drɪŋkɪŋ/ /ti/",
+		"vietnamese": "[VI:正在喝茶]"
 	},
 	{
-		"chinese": "他们",
 		"english": "they",
-		"soundmark": "/ðe/"
+		"soundmark": "/ðe/",
+		"vietnamese": "Họ"
 	},
 	{
-		"chinese": "他们（现在）正在喝茶",
 		"english": "they are drinking tea",
-		"soundmark": "/ðe/ /ɚ/ /'drɪŋkɪŋ/ /ti/"
+		"soundmark": "/ðe/ /ɚ/ /'drɪŋkɪŋ/ /ti/",
+		"vietnamese": "Họ（bây giờ）正在喝茶"
 	},
 	{
-		"chinese": "花园",
 		"english": "the garden",
-		"soundmark": "/ðə/ /ˈɡɑrdn/"
+		"soundmark": "/ðə/ /ˈɡɑrdn/",
+		"vietnamese": "[VI:花园]"
 	},
 	{
-		"chinese": "在花园里",
 		"english": "in the garden",
-		"soundmark": "/ɪn/ /ðə/ /ˈɡɑrdn/"
+		"soundmark": "/ɪn/ /ðə/ /ˈɡɑrdn/",
+		"vietnamese": "[VI:在花园里]"
 	},
 	{
-		"chinese": "他们在花园里（现在）正在喝茶",
 		"english": "they are drinking tea in the garden",
-		"soundmark": "/ðe/ /ɚ/ /'drɪŋkɪŋ/ /ti/ /ɪn/ /ðə/ /ˈɡɑrdn/"
+		"soundmark": "/ðe/ /ɚ/ /'drɪŋkɪŋ/ /ti/ /ɪn/ /ðə/ /ˈɡɑrdn/",
+		"vietnamese": "Họ在花园里（bây giờ）正在喝茶"
 	},
 	{
-		"chinese": "茶",
 		"english": "tea",
-		"soundmark": "/tiː/"
+		"soundmark": "/tiː/",
+		"vietnamese": "[VI:茶]"
 	},
 	{
-		"chinese": "他们在花园里（过去）正在喝茶",
 		"english": "they were drinking tea in the garden",
-		"soundmark": "/ðe/ /wɚ/ /'drɪŋkɪŋ/ /ti/ /ɪn/ /ðə/ /ˈɡɑrdn/"
+		"soundmark": "/ðe/ /wɚ/ /'drɪŋkɪŋ/ /ti/ /ɪn/ /ðə/ /ˈɡɑrdn/",
+		"vietnamese": "Họ在花园里（过去）正在喝茶"
 	},
 	{
-		"chinese": "我在厨房里（过去）正在吃鸡蛋",
 		"english": "I was eating eggs in the kitchen",
-		"soundmark": "/aɪ/ /wəz/ /'itɪŋ/ /ɛgz/ /ɪn/ /ðə/ /'kɪtʃɪn/"
+		"soundmark": "/aɪ/ /wəz/ /'itɪŋ/ /ɛgz/ /ɪn/ /ðə/ /'kɪtʃɪn/",
+		"vietnamese": "Tôi在厨房里（过去）正在ăn鸡蛋"
 	},
 	{
-		"chinese": "与此同时",
 		"english": "while",
-		"soundmark": "/waɪl/"
+		"soundmark": "/waɪl/",
+		"vietnamese": "[VI:与此同时]"
 	},
 	{
-		"chinese": "他们在花园里（过去）正在喝茶与此同时我在厨房里（过去）正在吃鸡蛋",
 		"english": "they were drinking tea in the garden while I was eating eggs in the kitchen",
-		"soundmark": "/ðe/ /wɚ/ /'drɪŋkɪŋ/ /ti/ /ɪn/ /ðə/ /ˈɡɑrdn/ /waɪl/ /aɪ/ /wəz/ /'itɪŋ/ /ɛgz/ /ɪn/ /ðə/ /'kɪtʃɪn/"
+		"soundmark": "/ðe/ /wɚ/ /'drɪŋkɪŋ/ /ti/ /ɪn/ /ðə/ /ˈɡɑrdn/ /waɪl/ /aɪ/ /wəz/ /'itɪŋ/ /ɛgz/ /ɪn/ /ðə/ /'kɪtʃɪn/",
+		"vietnamese": "Họ在花园里（过去）正在喝茶与此同时Tôi在厨房里（过去）正在ăn鸡蛋"
 	},
 	{
-		"chinese": "教",
 		"english": "to teach",
-		"soundmark": "/tə/ /titʃ/"
+		"soundmark": "/tə/ /titʃ/",
+		"vietnamese": "[VI:教]"
 	},
 	{
-		"chinese": "我们",
 		"english": "us",
-		"soundmark": "/ʌs/"
+		"soundmark": "/ʌs/",
+		"vietnamese": "Chúng tôi"
 	},
 	{
-		"chinese": "教我们",
 		"english": "to teach us",
-		"soundmark": "/tə/ /titʃ/ /ʌs/"
+		"soundmark": "/tə/ /titʃ/ /ʌs/",
+		"vietnamese": "教Chúng tôi"
 	},
 	{
-		"chinese": "正在教",
 		"english": "teaching",
-		"soundmark": "/'titʃɪŋ/"
+		"soundmark": "/'titʃɪŋ/",
+		"vietnamese": "[VI:正在教]"
 	},
 	{
-		"chinese": "正在教我们",
 		"english": "teaching us",
-		"soundmark": "/'titʃɪŋ/ /ʌs/"
+		"soundmark": "/'titʃɪŋ/ /ʌs/",
+		"vietnamese": "正在教Chúng tôi"
 	},
 	{
-		"chinese": "说",
 		"english": "to speak",
-		"soundmark": "/tə/ /spik/"
+		"soundmark": "/tə/ /spik/",
+		"vietnamese": "[VI:说]"
 	},
 	{
-		"chinese": "英语",
 		"english": "English",
-		"soundmark": "/ˈɪŋɡlɪʃ/"
+		"soundmark": "/ˈɪŋɡlɪʃ/",
+		"vietnamese": "[VI:英语]"
 	},
 	{
-		"chinese": "说英语",
 		"english": "to speak English",
-		"soundmark": "/tə/ /spik/ /ˈɪŋɡlɪʃ/"
+		"soundmark": "/tə/ /spik/ /ˈɪŋɡlɪʃ/",
+		"vietnamese": "[VI:说英语]"
 	},
 	{
-		"chinese": "如何",
 		"english": "how",
-		"soundmark": "/haʊ/"
+		"soundmark": "/haʊ/",
+		"vietnamese": "[VI:如何]"
 	},
 	{
-		"chinese": "如何说英语",
 		"english": "how to speak English",
-		"soundmark": "/haʊ/ /tə/ /spik/ /ˈɪŋɡlɪʃ/"
+		"soundmark": "/haʊ/ /tə/ /spik/ /ˈɪŋɡlɪʃ/",
+		"vietnamese": "[VI:如何说英语]"
 	},
 	{
-		"chinese": "正在教我们如何说英语",
 		"english": "teaching us how to speak English",
-		"soundmark": "/'titʃɪŋ/ /ʌs/ /haʊ/ /tə/ /spik/ /ˈɪŋɡlɪʃ/"
+		"soundmark": "/'titʃɪŋ/ /ʌs/ /haʊ/ /tə/ /spik/ /ˈɪŋɡlɪʃ/",
+		"vietnamese": "正在教Chúng tôi如何说英语"
 	},
 	{
-		"chinese": "星荣正在教我们如何说英语",
 		"english": "Xingrong is teaching us how to speak English",
-		"soundmark": "/ɪz/ /'titʃɪŋ/ /ʌs/ /haʊ/ /tə/ /spik/ /ˈɪŋɡlɪʃ/"
+		"soundmark": "/ɪz/ /'titʃɪŋ/ /ʌs/ /haʊ/ /tə/ /spik/ /ˈɪŋɡlɪʃ/",
+		"vietnamese": "Xingrong正在教Chúng tôi如何说英语"
 	},
 	{
-		"chinese": "星荣（过去）正在教我们如何说英语",
 		"english": "Xingrong was teaching us how to speak English",
-		"soundmark": "/wəz/ /'titʃɪŋ/ /ʌs/ /haʊ/ /tə/ /spik/ /ˈɪŋɡlɪʃ/"
+		"soundmark": "/wəz/ /'titʃɪŋ/ /ʌs/ /haʊ/ /tə/ /spik/ /ˈɪŋɡlɪʃ/",
+		"vietnamese": "Xingrong（过去）正在教Chúng tôi如何说英语"
 	},
 	{
-		"chinese": "学习",
 		"english": "to learn",
-		"soundmark": "/tə/ /lɝn/"
+		"soundmark": "/tə/ /lɝn/",
+		"vietnamese": "học"
 	},
 	{
-		"chinese": "英语",
 		"english": "English",
-		"soundmark": "/ˈɪŋɡlɪʃ/"
+		"soundmark": "/ˈɪŋɡlɪʃ/",
+		"vietnamese": "[VI:英语]"
 	},
 	{
-		"chinese": "学习英语",
 		"english": "to learn English",
-		"soundmark": "/tə/ /lɝn/ /ˈɪŋɡlɪʃ/"
+		"soundmark": "/tə/ /lɝn/ /ˈɪŋɡlɪʃ/",
+		"vietnamese": "học英语"
 	},
 	{
-		"chinese": "正在学习",
 		"english": "learning",
-		"soundmark": "/'lɝnɪŋ/"
+		"soundmark": "/'lɝnɪŋ/",
+		"vietnamese": "正在học"
 	},
 	{
-		"chinese": "正在学习英语",
 		"english": "learning English",
-		"soundmark": "/'lɝnɪŋ/ /ˈɪŋɡlɪʃ/"
+		"soundmark": "/'lɝnɪŋ/ /ˈɪŋɡlɪʃ/",
+		"vietnamese": "正在học英语"
 	},
 	{
-		"chinese": "我正在学习英语",
 		"english": "I am learning English",
-		"soundmark": "/aɪ/ /æm/ /'lɝnɪŋ/ /ˈɪŋɡlɪʃ/"
+		"soundmark": "/aɪ/ /æm/ /'lɝnɪŋ/ /ˈɪŋɡlɪʃ/",
+		"vietnamese": "Tôi正在học英语"
 	},
 	{
-		"chinese": "视频",
 		"english": "videos",
-		"soundmark": "/'vɪdɪoz/"
+		"soundmark": "/'vɪdɪoz/",
+		"vietnamese": "[VI:视频]"
 	},
 	{
-		"chinese": "他的",
 		"english": "his",
-		"soundmark": "/hɪz/"
+		"soundmark": "/hɪz/",
+		"vietnamese": "Anh ấy的"
 	},
 	{
-		"chinese": "他的视频",
 		"english": "his videos",
-		"soundmark": "/hɪz/ /'vɪdɪoz/"
+		"soundmark": "/hɪz/ /'vɪdɪoz/",
+		"vietnamese": "Anh ấy的视频"
 	},
 	{
-		"chinese": "观看",
 		"english": "to watch",
-		"soundmark": "/tə/ /wɑtʃ/"
+		"soundmark": "/tə/ /wɑtʃ/",
+		"vietnamese": "[VI:观看]"
 	},
 	{
-		"chinese": "观看他的视频",
 		"english": "to watch his videos",
-		"soundmark": "/tə/ /wɑtʃ/ /hɪz/ /'vɪdɪoz/"
+		"soundmark": "/tə/ /wɑtʃ/ /hɪz/ /'vɪdɪoz/",
+		"vietnamese": "观看Anh ấy的视频"
 	},
 	{
-		"chinese": "正在观看",
 		"english": "watching",
-		"soundmark": "/'wɑtʃɪŋ/"
+		"soundmark": "/'wɑtʃɪŋ/",
+		"vietnamese": "[VI:正在观看]"
 	},
 	{
-		"chinese": "正在观看他的视频",
 		"english": "watching his videos",
-		"soundmark": "/'wɑtʃɪŋ/ /hɪz/ /'vɪdɪoz/"
+		"soundmark": "/'wɑtʃɪŋ/ /hɪz/ /'vɪdɪoz/",
+		"vietnamese": "正在观看Anh ấy的视频"
 	},
 	{
-		"chinese": "通过......的方式",
 		"english": "by",
-		"soundmark": "/baɪ/"
+		"soundmark": "/baɪ/",
+		"vietnamese": "[VI:通过......的方式]"
 	},
 	{
-		"chinese": "通过观看他的视频的方式",
 		"english": "by watching his videos",
-		"soundmark": "/baɪ/ /'wɑtʃɪŋ/ /hɪz/ /'vɪdɪoz/"
+		"soundmark": "/baɪ/ /'wɑtʃɪŋ/ /hɪz/ /'vɪdɪoz/",
+		"vietnamese": "通过观看Anh ấy的视频的方式"
 	},
 	{
-		"chinese": "我正在学习英语",
 		"english": "I am learning English",
-		"soundmark": "/aɪ/ /æm/ /'lɝnɪŋ/ /ˈɪŋɡlɪʃ/"
+		"soundmark": "/aɪ/ /æm/ /'lɝnɪŋ/ /ˈɪŋɡlɪʃ/",
+		"vietnamese": "Tôi正在học英语"
 	},
 	{
-		"chinese": "我正在通过观看他的视频的方式学习英语",
 		"english": "I am learning English by watching his videos",
-		"soundmark": "/aɪ/ /æm/ /'lɝnɪŋ/ /ˈɪŋɡlɪʃ/ /baɪ/ /'wɑtʃɪŋ/ /hɪz/ /'vɪdɪoz/"
+		"soundmark": "/aɪ/ /æm/ /'lɝnɪŋ/ /ˈɪŋɡlɪʃ/ /baɪ/ /'wɑtʃɪŋ/ /hɪz/ /'vɪdɪoz/",
+		"vietnamese": "Tôi正在通过观看Anh ấy的视频的方式học英语"
 	},
 	{
-		"chinese": "我（过去）正在通过观看他的视频的方式学习英语",
 		"english": "I was learning English by watching his videos",
-		"soundmark": "/aɪ/ /wəz/ /'lɝnɪŋ/ /ˈɪŋɡlɪʃ/ /baɪ/ /'wɑtʃɪŋ/ /hɪz/ /'vɪdɪoz/"
+		"soundmark": "/aɪ/ /wəz/ /'lɝnɪŋ/ /ˈɪŋɡlɪʃ/ /baɪ/ /'wɑtʃɪŋ/ /hɪz/ /'vɪdɪoz/",
+		"vietnamese": "Tôi（过去）正在通过观看Anh ấy的视频的方式học英语"
 	},
 	{
-		"chinese": "星荣（过去）正在教我们如何说英语",
 		"english": "Xingrong was teaching us how to speak English",
-		"soundmark": "/wəz/ /'titʃɪŋ/ /ʌs/ /haʊ/ /tə/ /spik/ /ˈɪŋɡlɪʃ/"
+		"soundmark": "/wəz/ /'titʃɪŋ/ /ʌs/ /haʊ/ /tə/ /spik/ /ˈɪŋɡlɪʃ/",
+		"vietnamese": "Xingrong（过去）正在教Chúng tôi如何说英语"
 	},
 	{
-		"chinese": "与此同时",
 		"english": "while",
-		"soundmark": "/waɪl/"
+		"soundmark": "/waɪl/",
+		"vietnamese": "[VI:与此同时]"
 	},
 	{
-		"chinese": "星荣（过去）正在教我们如何说英语与此同时我（过去）正在通过观看他的视频的方式学习英语",
 		"english": "Xingrong was teaching us how to speak English while I was learning English by watching his videos",
-		"soundmark": "/wəz/ /'titʃɪŋ/ /ʌs/ /haʊ/ /tə/ /spik/ /ˈɪŋɡlɪʃ/ /waɪl/ /aɪ/ /wəz/ /'lɝnɪŋ/ /ˈɪŋɡlɪʃ/ /baɪ/ /'wɑtʃɪŋ/ /hɪz/ /'vɪdɪoz/"
+		"soundmark": "/wəz/ /'titʃɪŋ/ /ʌs/ /haʊ/ /tə/ /spik/ /ˈɪŋɡlɪʃ/ /waɪl/ /aɪ/ /wəz/ /'lɝnɪŋ/ /ˈɪŋɡlɪʃ/ /baɪ/ /'wɑtʃɪŋ/ /hɪz/ /'vɪdɪoz/",
+		"vietnamese": "Xingrong（过去）正在教Chúng tôi如何说英语与此同时Tôi（过去）正在通过观看Anh ấy的视频的方式học英语"
 	},
 	{
-		"chinese": "走路",
 		"english": "to walk",
-		"soundmark": "/tə/ /wɔk/"
+		"soundmark": "/tə/ /wɔk/",
+		"vietnamese": "[VI:走路]"
 	},
 	{
-		"chinese": "家",
 		"english": "home",
-		"soundmark": "/hom/"
+		"soundmark": "/hom/",
+		"vietnamese": "[VI:家]"
 	},
 	{
-		"chinese": "走路回家",
 		"english": "to walk home",
-		"soundmark": "/tə/ /wɔk/ /hom/"
+		"soundmark": "/tə/ /wɔk/ /hom/",
+		"vietnamese": "[VI:走路回家]"
 	},
 	{
-		"chinese": "学校",
 		"english": "school",
-		"soundmark": "/skul/"
+		"soundmark": "/skul/",
+		"vietnamese": "[VI:学校]"
 	},
 	{
-		"chinese": "从",
 		"english": "from",
-		"soundmark": "/frʌm/"
+		"soundmark": "/frʌm/",
+		"vietnamese": "[VI:从]"
 	},
 	{
-		"chinese": "从学校",
 		"english": "from school",
-		"soundmark": "/frʌm/ /skul/"
+		"soundmark": "/frʌm/ /skul/",
+		"vietnamese": "[VI:从学校]"
 	},
 	{
-		"chinese": "从学校走路回家",
 		"english": "to walk home from school",
-		"soundmark": "/tə/ /wɔk/ /hom/ /frʌm/ /skul/"
+		"soundmark": "/tə/ /wɔk/ /hom/ /frʌm/ /skul/",
+		"vietnamese": "[VI:从学校走路回家]"
 	},
 	{
-		"chinese": "正在从学校走路回家",
 		"english": "walking home from school",
-		"soundmark": "/'wɔkɪŋ/ /hom/ /frʌm/ /skul/"
+		"soundmark": "/'wɔkɪŋ/ /hom/ /frʌm/ /skul/",
+		"vietnamese": "[VI:正在从学校走路回家]"
 	},
 	{
-		"chinese": "我正在从学校走路回家",
 		"english": "I am walking home from school",
-		"soundmark": "/aɪ/ /æm/ /'wɔkɪŋ/ /hom/ /frʌm/ /skul/"
+		"soundmark": "/aɪ/ /æm/ /'wɔkɪŋ/ /hom/ /frʌm/ /skul/",
+		"vietnamese": "Tôi正在从学校走路回家"
 	},
 	{
-		"chinese": "我（过去）正在从学校走路回家",
 		"english": "I was walking home from school",
-		"soundmark": "/aɪ/ /wəz/ /'wɔkɪŋ/ /hom/ /frʌm/ /skul/"
+		"soundmark": "/aɪ/ /wəz/ /'wɔkɪŋ/ /hom/ /frʌm/ /skul/",
+		"vietnamese": "Tôi（过去）正在从学校走路回家"
 	},
 	{
-		"chinese": "朋友",
 		"english": "friend",
-		"soundmark": "/frɛnd/"
+		"soundmark": "/frɛnd/",
+		"vietnamese": "[VI:朋友]"
 	},
 	{
-		"chinese": "老的",
 		"english": "old",
-		"soundmark": "/old/"
+		"soundmark": "/old/",
+		"vietnamese": "[VI:老的]"
 	},
 	{
-		"chinese": "一个老朋友",
 		"english": "an old friend",
-		"soundmark": "/ən/ /old/ /frɛnd/"
+		"soundmark": "/ən/ /old/ /frɛnd/",
+		"vietnamese": "[VI:一个老朋友]"
 	},
 	{
-		"chinese": "遇见",
 		"english": "to meet",
-		"soundmark": "/tə/ /mit/"
+		"soundmark": "/tə/ /mit/",
+		"vietnamese": "[VI:遇见]"
 	},
 	{
-		"chinese": "遇见一个老朋友",
 		"english": "to meet an old friend",
-		"soundmark": "/tə/ /mit/ /ən/ /old/ /frɛnd/"
+		"soundmark": "/tə/ /mit/ /ən/ /old/ /frɛnd/",
+		"vietnamese": "[VI:遇见一个老朋友]"
 	},
 	{
-		"chinese": "我（过去）遇见一个老朋友",
 		"english": "I met an old friend",
-		"soundmark": "/aɪ/ /mɛt/ /ən/ /old/ /frɛnd/"
+		"soundmark": "/aɪ/ /mɛt/ /ən/ /old/ /frɛnd/",
+		"vietnamese": "Tôi（过去）遇见一个老朋友"
 	},
 	{
-		"chinese": "我（过去）正在从学校走路回家",
 		"english": "I was walking home from school",
-		"soundmark": "/aɪ/ /wəz/ /'wɔkɪŋ/ /hom/ /frʌm/ /skul/"
+		"soundmark": "/aɪ/ /wəz/ /'wɔkɪŋ/ /hom/ /frʌm/ /skul/",
+		"vietnamese": "Tôi（过去）正在从学校走路回家"
 	},
 	{
-		"chinese": "当......的时候",
 		"english": "when",
-		"soundmark": "/wɛn/"
+		"soundmark": "/wɛn/",
+		"vietnamese": "[VI:当......的时候]"
 	},
 	{
-		"chinese": "当我（过去）正在从学校走路回家的时候",
 		"english": "when I was walking home from school",
-		"soundmark": "/wɛn/ /aɪ/ /wəz/ /'wɔkɪŋ/ /hom/ /frʌm/ /skul/"
+		"soundmark": "/wɛn/ /aɪ/ /wəz/ /'wɔkɪŋ/ /hom/ /frʌm/ /skul/",
+		"vietnamese": "当Tôi（过去）正在从学校走路回家的时候"
 	},
 	{
-		"chinese": "当我（过去）正在从学校走路回家的时候我（过去）遇见一个老朋友",
 		"english": "I met an old friend when I was walking home from school",
-		"soundmark": "/aɪ/ /mɛt/ /ən/ /old/ /frɛnd/ /wɛn/ /aɪ/ /wəz/ /'wɔkɪŋ/ /hom/ /frʌm/ /skul/"
+		"soundmark": "/aɪ/ /mɛt/ /ən/ /old/ /frɛnd/ /wɛn/ /aɪ/ /wəz/ /'wɔkɪŋ/ /hom/ /frʌm/ /skul/",
+		"vietnamese": "当Tôi（过去）正在从学校走路回家的时候我（过去）遇见一个老朋友"
 	},
 	{
-		"chinese": "睡觉",
 		"english": "to sleep",
-		"soundmark": "/tə/ /slip/"
+		"soundmark": "/tə/ /slip/",
+		"vietnamese": "[VI:睡觉]"
 	},
 	{
-		"chinese": "卧室",
 		"english": "the bedroom",
-		"soundmark": "/ðə/ /'bɛdrum/"
+		"soundmark": "/ðə/ /'bɛdrum/",
+		"vietnamese": "[VI:卧室]"
 	},
 	{
-		"chinese": "在卧室里",
 		"english": "in the bedroom",
-		"soundmark": "/ɪn/ /ðə/ /'bɛdrum/"
+		"soundmark": "/ɪn/ /ðə/ /'bɛdrum/",
+		"vietnamese": "[VI:在卧室里]"
 	},
 	{
-		"chinese": "在卧室里睡觉",
 		"english": "to sleep in the bedroom",
-		"soundmark": "/tə/ /slip/ /ɪn/ /ðə/ /'bɛdrum/"
+		"soundmark": "/tə/ /slip/ /ɪn/ /ðə/ /'bɛdrum/",
+		"vietnamese": "[VI:在卧室里睡觉]"
 	},
 	{
-		"chinese": "正在睡觉",
 		"english": "sleeping",
-		"soundmark": "/ˈslipɪŋ/"
+		"soundmark": "/ˈslipɪŋ/",
+		"vietnamese": "[VI:正在睡觉]"
 	},
 	{
-		"chinese": "正在在卧室里睡觉",
 		"english": "sleeping in the bedroom",
-		"soundmark": "/ˈslipɪŋ/ /ɪn/ /ðə/ /'bɛdrum/"
+		"soundmark": "/ˈslipɪŋ/ /ɪn/ /ðə/ /'bɛdrum/",
+		"vietnamese": "[VI:正在在卧室里睡觉]"
 	},
 	{
-		"chinese": "我正在在卧室里睡觉",
 		"english": "I am sleeping in the bedroom",
-		"soundmark": "/aɪ/ /æm/ /ˈslipɪŋ/ /ɪn/ /ðə/ /'bɛdrum/"
+		"soundmark": "/aɪ/ /æm/ /ˈslipɪŋ/ /ɪn/ /ðə/ /'bɛdrum/",
+		"vietnamese": "Tôi正在在卧室里睡觉"
 	},
 	{
-		"chinese": "我（过去）正在在卧室里睡觉",
 		"english": "I was sleeping in the bedroom",
-		"soundmark": "/aɪ/ /wəz/ /ˈslipɪŋ/ /ɪn/ /ðə/ /'bɛdrum/"
+		"soundmark": "/aɪ/ /wəz/ /ˈslipɪŋ/ /ɪn/ /ðə/ /'bɛdrum/",
+		"vietnamese": "Tôi（过去）正在在卧室里睡觉"
 	},
 	{
-		"chinese": "打电话",
 		"english": "to call",
-		"soundmark": "/tə/ /kɔl/"
+		"soundmark": "/tə/ /kɔl/",
+		"vietnamese": "[VI:打电话]"
 	},
 	{
-		"chinese": "打电话给我",
 		"english": "to call me",
-		"soundmark": "/tə/ /kɔl/ /mi/"
+		"soundmark": "/tə/ /kɔl/ /mi/",
+		"vietnamese": "打电话给Tôi"
 	},
 	{
-		"chinese": "她",
 		"english": "she",
-		"soundmark": "/ʃi/"
+		"soundmark": "/ʃi/",
+		"vietnamese": "Cô ấy"
 	},
 	{
-		"chinese": "她（过去）打电话给我",
 		"english": "she called me",
-		"soundmark": "/ʃi/ /kɔld/ /mi/"
+		"soundmark": "/ʃi/ /kɔld/ /mi/",
+		"vietnamese": "Cô ấy（过去）打电话给Tôi"
 	},
 	{
-		"chinese": "当......的时候",
 		"english": "when",
-		"soundmark": "/wɛn/"
+		"soundmark": "/wɛn/",
+		"vietnamese": "[VI:当......的时候]"
 	},
 	{
-		"chinese": "当她（过去）打电话给我的时候",
 		"english": "when she called me",
-		"soundmark": "/wɛn/ /ʃi/ /kɔld/ /mi/"
+		"soundmark": "/wɛn/ /ʃi/ /kɔld/ /mi/",
+		"vietnamese": "当Cô ấy（过去）打电话给Tôi的时候"
 	},
 	{
-		"chinese": "我（过去）正在在卧室里睡觉",
 		"english": "I was sleeping in the bedroom",
-		"soundmark": "/aɪ/ /wəz/ /ˈslipɪŋ/ /ɪn/ /ðə/ /'bɛdrum/"
+		"soundmark": "/aɪ/ /wəz/ /ˈslipɪŋ/ /ɪn/ /ðə/ /'bɛdrum/",
+		"vietnamese": "Tôi（过去）正在在卧室里睡觉"
 	},
 	{
-		"chinese": "当她打电话给我的时候我（过去）正在在卧室里睡觉",
 		"english": "I was sleeping in the bedroom when she called me",
-		"soundmark": "/aɪ/ /wəz/ /ˈslipɪŋ/ /ɪn/ /ðə/ /'bɛdrum/ /wɛn/ /ʃi/ /kɔld/ /mi/"
+		"soundmark": "/aɪ/ /wəz/ /ˈslipɪŋ/ /ɪn/ /ðə/ /'bɛdrum/ /wɛn/ /ʃi/ /kɔld/ /mi/",
+		"vietnamese": "当Cô ấy打电话给Tôi的时候我（过去）正在在卧室里睡觉"
 	},
 	{
-		"chinese": "玩",
 		"english": "to play",
-		"soundmark": "/tə/ /ple/"
+		"soundmark": "/tə/ /ple/",
+		"vietnamese": "[VI:玩]"
 	},
 	{
-		"chinese": "钢琴",
 		"english": "the piano",
-		"soundmark": "/ðə/ /pɪ'æno/"
+		"soundmark": "/ðə/ /pɪ'æno/",
+		"vietnamese": "[VI:钢琴]"
 	},
 	{
-		"chinese": "弹钢琴",
 		"english": "to play the piano",
-		"soundmark": "/tə/ /ple/ /ðə/ /pɪ'æno/"
+		"soundmark": "/tə/ /ple/ /ðə/ /pɪ'æno/",
+		"vietnamese": "[VI:弹钢琴]"
 	},
 	{
-		"chinese": "正在玩",
 		"english": "playing",
-		"soundmark": "/pleɪŋ/"
+		"soundmark": "/pleɪŋ/",
+		"vietnamese": "[VI:正在玩]"
 	},
 	{
-		"chinese": "正在弹钢琴",
 		"english": "playing the piano",
-		"soundmark": "/pleɪŋ/ /ðə/ /pɪ'æno/"
+		"soundmark": "/pleɪŋ/ /ðə/ /pɪ'æno/",
+		"vietnamese": "[VI:正在弹钢琴]"
 	},
 	{
-		"chinese": "她正在弹钢琴",
 		"english": "she is playing the piano",
-		"soundmark": "/ʃi/ /ɪz/ /pleɪŋ/ /ðə/ /pɪ'æno/"
+		"soundmark": "/ʃi/ /ɪz/ /pleɪŋ/ /ðə/ /pɪ'æno/",
+		"vietnamese": "Cô ấy正在弹钢琴"
 	},
 	{
-		"chinese": "她（过去）正在弹钢琴",
 		"english": "she was playing the piano",
-		"soundmark": "/ʃi/ /wəz/ /pleɪŋ/ /ðə/ /pɪ'æno/"
+		"soundmark": "/ʃi/ /wəz/ /pleɪŋ/ /ðə/ /pɪ'æno/",
+		"vietnamese": "Cô ấy（过去）正在弹钢琴"
 	},
 	{
-		"chinese": "起居室；客厅",
 		"english": "the living room",
-		"soundmark": "/ðə/ /'lɪvɪŋ/ /rum/"
+		"soundmark": "/ðə/ /'lɪvɪŋ/ /rum/",
+		"vietnamese": "[VI:起居室；客厅]"
 	},
 	{
-		"chinese": "在客厅",
 		"english": "in the living room",
-		"soundmark": "/ɪn/ /ðə/ /'lɪvɪŋ/ /rum/"
+		"soundmark": "/ɪn/ /ðə/ /'lɪvɪŋ/ /rum/",
+		"vietnamese": "[VI:在客厅]"
 	},
 	{
-		"chinese": "她（过去）正在在客厅弹钢琴",
 		"english": "she was playing the piano in the living room",
-		"soundmark": "/ʃi/ /wəz/ /pleɪŋ/ /ðə/ /pɪ'æno/ /ɪn/ /ðə/ /'lɪvɪŋ/ /rum/"
+		"soundmark": "/ʃi/ /wəz/ /pleɪŋ/ /ðə/ /pɪ'æno/ /ɪn/ /ðə/ /'lɪvɪŋ/ /rum/",
+		"vietnamese": "Cô ấy（过去）正在在客厅弹钢琴"
 	},
 	{
-		"chinese": "与此同时",
 		"english": "while",
-		"soundmark": "/waɪl/"
+		"soundmark": "/waɪl/",
+		"vietnamese": "[VI:与此同时]"
 	},
 	{
-		"chinese": "我（过去）正在在卧室里睡觉",
 		"english": "I was sleeping in the bedroom",
-		"soundmark": "/aɪ/ /wəz/ /ˈslipɪŋ/ /ɪn/ /ðə/ /'bɛdrum/"
+		"soundmark": "/aɪ/ /wəz/ /ˈslipɪŋ/ /ɪn/ /ðə/ /'bɛdrum/",
+		"vietnamese": "Tôi（过去）正在在卧室里睡觉"
 	},
 	{
-		"chinese": "她（过去）正在在客厅弹钢琴与此同时我（过去）正在在卧室里睡觉",
 		"english": "she was playing the piano in the living room while I was sleeping in the bedroom",
-		"soundmark": "/ʃi/ /wəz/ /pleɪŋ/ /ðə/ /pɪ'æno/ /ɪn/ /ðə/ /'lɪvɪŋ/ /rum/ /waɪl/ /aɪ/ /wəz/ /ˈslipɪŋ/ /ɪn/ /ðə/ /'bɛdrum/"
+		"soundmark": "/ʃi/ /wəz/ /pleɪŋ/ /ðə/ /pɪ'æno/ /ɪn/ /ðə/ /'lɪvɪŋ/ /rum/ /waɪl/ /aɪ/ /wəz/ /ˈslipɪŋ/ /ɪn/ /ðə/ /'bɛdrum/",
+		"vietnamese": "Cô ấy（过去）正在在客厅弹钢琴与此同时Tôi（过去）正在在卧室里睡觉"
 	}
 ]

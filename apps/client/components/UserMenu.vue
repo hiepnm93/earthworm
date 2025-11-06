@@ -91,25 +91,25 @@ const isDarkMode = computed(() => darkMode.value === Theme.DARK);
 const showMenuOptions = computed(() => {
   return [
     {
-      title: "设置",
+      title: "Cài đặt",
       name: "setting",
       eventName: handleSetting,
       icon: "i-ph-gear",
     },
     {
-      title: "掌握列表",
+      title: "掌握Danh sách",
       name: "setting",
       eventName: handleMasteredElements,
       icon: "i-ph-book",
     },
     {
-      title: "编辑器",
+      title: "Chỉnh sửa器",
       name: "setting",
       eventName: handleGoToEditor,
       icon: "i-ph-planet-duotone",
     },
     {
-      title: "帮助文档",
+      title: "Trợ giúp文档",
       name: "helpDocs",
       eventName: handleHelpDocs,
       icon: "i-ph-book-open-text-duotone",

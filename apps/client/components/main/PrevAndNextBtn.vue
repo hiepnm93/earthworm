@@ -39,13 +39,13 @@ const { goToNextQuestion, goToPreviousQuestion } = usePrevAndNextQuestion(
   shortcutKeys.value.skip,
 );
 
-const PREV_BTN_TIP = `上一题 (${shortcutKeys.value.previous})`;
-const NEXT_BTN_TIP = `下一题 (${shortcutKeys.value.skip})`;
+const PREV_BTN_TIP = `上một题 (${shortcutKeys.value.previous})`;
+const NEXT_BTN_TIP = `Câu tiếp theo (${shortcutKeys.value.skip})`;
 
 const { showQuestion } = useGameMode();
 const courseStore = useCourseStore();
 
-// 上一题/下一题
+// 上một题/Câu tiếp theo
 function usePrevAndNextQuestion(prevKey: string, nextKey: string) {
   handleShortcut();
 

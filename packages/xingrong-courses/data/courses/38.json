@@ -1,1012 +1,1012 @@
 [
 	{
-		"chinese": "球",
 		"english": "ball",
-		"soundmark": "/bɔl/"
+		"soundmark": "/bɔl/",
+		"vietnamese": "[VI:球]"
 	},
 	{
-		"chinese": "篮子",
 		"english": "basket",
-		"soundmark": "/'bæskɪt/"
+		"soundmark": "/'bæskɪt/",
+		"vietnamese": "[VI:篮子]"
 	},
 	{
-		"chinese": "篮球",
 		"english": "basketball",
-		"soundmark": "/'bæskɪtbɔl/"
+		"soundmark": "/'bæskɪtbɔl/",
+		"vietnamese": "[VI:篮球]"
 	},
 	{
-		"chinese": "玩",
 		"english": "to play",
-		"soundmark": "/tə/ /ple/"
+		"soundmark": "/tə/ /ple/",
+		"vietnamese": "[VI:玩]"
 	},
 	{
-		"chinese": "打篮球",
 		"english": "to play basketball",
-		"soundmark": "/tə/ /ple/ /'bæskɪtbɔl/"
+		"soundmark": "/tə/ /ple/ /'bæskɪtbɔl/",
+		"vietnamese": "[VI:打篮球]"
 	},
 	{
-		"chinese": "我想要",
 		"english": "I want",
-		"soundmark": "/aɪ/ /wɑnt/"
+		"soundmark": "/aɪ/ /wɑnt/",
+		"vietnamese": "Tôi muốn"
 	},
 	{
-		"chinese": "我想要打篮球",
 		"english": "I want to play basketball",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /ple/ /'bæskɪtbɔl/"
+		"soundmark": "/aɪ/ /wɑnt/ /tə/ /ple/ /'bæskɪtbɔl/",
+		"vietnamese": "Tôi muốn打篮球"
 	},
 	{
-		"chinese": "我(过去)想要打篮球",
 		"english": "I wanted to play basketball",
-		"soundmark": "/aɪ/ /wɑntɪd/ /tə/ /ple/ /'bæskɪtbɔl/"
+		"soundmark": "/aɪ/ /wɑntɪd/ /tə/ /ple/ /'bæskɪtbɔl/",
+		"vietnamese": "Tôi(过去)muốn打篮球"
 	},
 	{
-		"chinese": "使用",
 		"english": "to use",
-		"soundmark": "/tə/ /juz/"
+		"soundmark": "/tə/ /juz/",
+		"vietnamese": "[VI:使用]"
 	},
 	{
-		"chinese": "我(过去)想要打篮球",
 		"english": "I wanted to play basketball",
-		"soundmark": "/aɪ/ /wɑntɪd/ /tə/ /ple/ /'bæskɪtbɔl/"
+		"soundmark": "/aɪ/ /wɑntɪd/ /tə/ /ple/ /'bæskɪtbɔl/",
+		"vietnamese": "Tôi(过去)muốn打篮球"
 	},
 	{
-		"chinese": "我过去常常打篮球",
 		"english": "I used to play basketball",
-		"soundmark": "/aɪ/ /juzd/ /tə/ /ple/ /'bæskɪtbɔl/"
+		"soundmark": "/aɪ/ /juzd/ /tə/ /ple/ /'bæskɪtbɔl/",
+		"vietnamese": "Tôi过去常常打篮球"
 	},
 	{
-		"chinese": "过去常常做......",
 		"english": "used to do",
-		"soundmark": "/juzd/ /tə/ /du/"
+		"soundmark": "/juzd/ /tə/ /du/",
+		"vietnamese": "过去常常làm......"
 	},
 	{
-		"chinese": "学校",
 		"english": "school",
-		"soundmark": "/skul/"
+		"soundmark": "/skul/",
+		"vietnamese": "[VI:学校]"
 	},
 	{
-		"chinese": "高",
 		"english": "high",
-		"soundmark": "/haɪ/"
+		"soundmark": "/haɪ/",
+		"vietnamese": "[VI:高]"
 	},
 	{
-		"chinese": "高中",
 		"english": "high school",
-		"soundmark": "/haɪ/ /skul/"
+		"soundmark": "/haɪ/ /skul/",
+		"vietnamese": "[VI:高中]"
 	},
 	{
-		"chinese": "在高中",
 		"english": "in high school",
-		"soundmark": "/ɪn/ /haɪ/ /skul/"
+		"soundmark": "/ɪn/ /haɪ/ /skul/",
+		"vietnamese": "[VI:在高中]"
 	},
 	{
-		"chinese": "我在高中常常打篮球",
 		"english": "I used to play basketball in high school",
-		"soundmark": "/aɪ/ /juzd/ /tə/ /ple/ /'bæskɪtbɔl/ /ɪn/ /haɪ/ /skul/"
+		"soundmark": "/aɪ/ /juzd/ /tə/ /ple/ /'bæskɪtbɔl/ /ɪn/ /haɪ/ /skul/",
+		"vietnamese": "Tôi在高中常常打篮球"
 	},
 	{
-		"chinese": "在高中",
 		"english": "in high school",
-		"soundmark": "/ɪn/ /haɪ/ /skul/"
+		"soundmark": "/ɪn/ /haɪ/ /skul/",
+		"vietnamese": "[VI:在高中]"
 	},
 	{
-		"chinese": "我在高中",
 		"english": "I am in high school",
-		"soundmark": "/aɪ/ /æm/ /ɪn/ /haɪ/ /skul/"
+		"soundmark": "/aɪ/ /æm/ /ɪn/ /haɪ/ /skul/",
+		"vietnamese": "Tôi在高中"
 	},
 	{
-		"chinese": "我(过去)在高中",
 		"english": "I was in high school",
-		"soundmark": "/aɪ/ /wəz/ /ɪn/ /haɪ/ /skul/"
+		"soundmark": "/aɪ/ /wəz/ /ɪn/ /haɪ/ /skul/",
+		"vietnamese": "Tôi(过去)在高中"
 	},
 	{
-		"chinese": "当......的时候",
 		"english": "when",
-		"soundmark": "/wɛn/"
+		"soundmark": "/wɛn/",
+		"vietnamese": "[VI:当......的时候]"
 	},
 	{
-		"chinese": "当我(过去)在高中的时候",
 		"english": "when I was in high school",
-		"soundmark": "/wɛn/ /aɪ/ /wəz/ /ɪn/ /haɪ/ /skul/"
+		"soundmark": "/wɛn/ /aɪ/ /wəz/ /ɪn/ /haɪ/ /skul/",
+		"vietnamese": "当Tôi(过去)在高中的时候"
 	},
 	{
-		"chinese": "我过去常常打篮球当我在高中的时候",
 		"english": "I used to play basketball when I was in high school",
-		"soundmark": "/aɪ/ /juzd/ /tə/ /ple/ /'bæskɪtbɔl/ /ɪn/ /haɪ/ /skul/ /wɛn/ /aɪ/ /wəz/ /ɪn/ /haɪ/ /skul/"
+		"soundmark": "/aɪ/ /juzd/ /tə/ /ple/ /'bæskɪtbɔl/ /ɪn/ /haɪ/ /skul/ /wɛn/ /aɪ/ /wəz/ /ɪn/ /haɪ/ /skul/",
+		"vietnamese": "Tôi过去常常打篮球当我在高中的时候"
 	},
 	{
-		"chinese": "象棋",
 		"english": "chess",
-		"soundmark": "/tʃɛs/"
+		"soundmark": "/tʃɛs/",
+		"vietnamese": "[VI:象棋]"
 	},
 	{
-		"chinese": "玩",
 		"english": "to play",
-		"soundmark": "/tə/ /ple/"
+		"soundmark": "/tə/ /ple/",
+		"vietnamese": "[VI:玩]"
 	},
 	{
-		"chinese": "下象棋",
 		"english": "to play chess",
-		"soundmark": "/tə/ /ple/ /tʃɛs/"
+		"soundmark": "/tə/ /ple/ /tʃɛs/",
+		"vietnamese": "[VI:下象棋]"
 	},
 	{
-		"chinese": "过去常常做......",
 		"english": "used to do",
-		"soundmark": "/juzd/ /tə/ /du/"
+		"soundmark": "/juzd/ /tə/ /du/",
+		"vietnamese": "过去常常làm......"
 	},
 	{
-		"chinese": "我过去常常下象棋",
 		"english": "I used to play chess",
-		"soundmark": "/aɪ/ /juzd/ /tə/ /ple/ /tʃɛs/"
+		"soundmark": "/aɪ/ /juzd/ /tə/ /ple/ /tʃɛs/",
+		"vietnamese": "Tôi过去常常下象棋"
 	},
 	{
-		"chinese": "年轻的",
 		"english": "young",
-		"soundmark": "/jʌŋ/"
+		"soundmark": "/jʌŋ/",
+		"vietnamese": "[VI:年轻的]"
 	},
 	{
-		"chinese": "我是年轻的",
 		"english": "I am young",
-		"soundmark": "/aɪ/ /æm/ /jʌŋ/"
+		"soundmark": "/aɪ/ /æm/ /jʌŋ/",
+		"vietnamese": "Tôi là年轻的"
 	},
 	{
-		"chinese": "我(过去)是年轻的",
 		"english": "I was young",
-		"soundmark": "/aɪ/ /wəz/ /jʌŋ/"
+		"soundmark": "/aɪ/ /wəz/ /jʌŋ/",
+		"vietnamese": "Tôi(过去)là年轻的"
 	},
 	{
-		"chinese": "当......的时候",
 		"english": "when",
-		"soundmark": "/wɛn/"
+		"soundmark": "/wɛn/",
+		"vietnamese": "[VI:当......的时候]"
 	},
 	{
-		"chinese": "当我(过去)是年轻的时候",
 		"english": "when I was young",
-		"soundmark": "/wɛn/ /aɪ/ /wəz/ /jʌŋ/"
+		"soundmark": "/wɛn/ /aɪ/ /wəz/ /jʌŋ/",
+		"vietnamese": "当Tôi(过去)là年轻的时候"
 	},
 	{
-		"chinese": "我过去常常下象棋当我(过去)是年轻的时候",
 		"english": "I used to play chess when I was young",
-		"soundmark": "/aɪ/ /juzd/ /tə/ /ple/ /tʃɛs/ /wɛn/ /aɪ/ /wəz/ /jʌŋ/"
+		"soundmark": "/aɪ/ /juzd/ /tə/ /ple/ /tʃɛs/ /wɛn/ /aɪ/ /wəz/ /jʌŋ/",
+		"vietnamese": "Tôi过去常常下象棋当我(过去)là年轻的时候"
 	},
 	{
-		"chinese": "看",
 		"english": "to watch",
-		"soundmark": "/tə/ /wɑtʃ/"
+		"soundmark": "/tə/ /wɑtʃ/",
+		"vietnamese": "[VI:看]"
 	},
 	{
-		"chinese": "卡通片",
 		"english": "cartoons",
-		"soundmark": "/kɑrˈtunz/"
+		"soundmark": "/kɑrˈtunz/",
+		"vietnamese": "[VI:卡通片]"
 	},
 	{
-		"chinese": "看卡通片",
 		"english": "to watch cartoons",
-		"soundmark": "/tə/ /wɑtʃ/ /kɑrˈtunz/"
+		"soundmark": "/tə/ /wɑtʃ/ /kɑrˈtunz/",
+		"vietnamese": "[VI:看卡通片]"
 	},
 	{
-		"chinese": "过去常常做......",
 		"english": "used to do",
-		"soundmark": "/juzd/ /tə/ /du/"
+		"soundmark": "/juzd/ /tə/ /du/",
+		"vietnamese": "过去常常làm......"
 	},
 	{
-		"chinese": "我过去常常看卡通片",
 		"english": "I used to watch cartoons",
-		"soundmark": "/aɪ/ /juzd/ /tə/ /wɑtʃ/ /kɑrˈtunz/"
+		"soundmark": "/aɪ/ /juzd/ /tə/ /wɑtʃ/ /kɑrˈtunz/",
+		"vietnamese": "Tôi过去常常看卡通片"
 	},
 	{
-		"chinese": "早上",
 		"english": "morning",
-		"soundmark": "/'mɔrnɪŋ/"
+		"soundmark": "/'mɔrnɪŋ/",
+		"vietnamese": "[VI:早上]"
 	},
 	{
-		"chinese": "每一个",
 		"english": "every",
-		"soundmark": "/'ɛvri/"
+		"soundmark": "/'ɛvri/",
+		"vietnamese": "[VI:每一个]"
 	},
 	{
-		"chinese": "每天早上",
 		"english": "every morning",
-		"soundmark": "/'ɛvri/ /'mɔrnɪŋ/"
+		"soundmark": "/'ɛvri/ /'mɔrnɪŋ/",
+		"vietnamese": "mỗi ngày早上"
 	},
 	{
-		"chinese": "我过去每天早上都会看卡通片",
 		"english": "I used to watch cartoons every morning",
-		"soundmark": "/aɪ/ /juzd/ /tə/ /wɑtʃ/ /kɑrˈtunz/ /'ɛvri/ /'mɔrnɪŋ/"
+		"soundmark": "/aɪ/ /juzd/ /tə/ /wɑtʃ/ /kɑrˈtunz/ /'ɛvri/ /'mɔrnɪŋ/",
+		"vietnamese": "Tôi过去mỗi ngày早上都会看卡通片"
 	},
 	{
-		"chinese": "孩子",
 		"english": "kid",
-		"soundmark": "/kɪd/"
+		"soundmark": "/kɪd/",
+		"vietnamese": "[VI:孩子]"
 	},
 	{
-		"chinese": "我是一个孩子",
 		"english": "I am a kid",
-		"soundmark": "/aɪ/ /æm/ /ə/ /kɪd/"
+		"soundmark": "/aɪ/ /æm/ /ə/ /kɪd/",
+		"vietnamese": "Tôi là一个孩子"
 	},
 	{
-		"chinese": "我(过去)是一个孩子",
 		"english": "I was a kid",
-		"soundmark": "/aɪ/ /wəz/ /ə/ /kɪd/"
+		"soundmark": "/aɪ/ /wəz/ /ə/ /kɪd/",
+		"vietnamese": "Tôi(过去)là一个孩子"
 	},
 	{
-		"chinese": "当我(过去)是一个孩子的时候",
 		"english": "when I was a kid",
-		"soundmark": "/wɛn/ /aɪ/ /wəz/ /ə/ /kɪd/"
+		"soundmark": "/wɛn/ /aɪ/ /wəz/ /ə/ /kɪd/",
+		"vietnamese": "当Tôi(过去)là一个孩子的时候"
 	},
 	{
-		"chinese": "我过去每天早上都会看卡通片当我(过去)是一个孩子的时候",
 		"english": "I used to watch cartoons every morning when I was a kid",
-		"soundmark": "/aɪ/ /juzd/ /tə/ /wɑtʃ/ /kɑrˈtunz/ /'ɛvri/ /'mɔrnɪŋ/ /wɛn/ /aɪ/ /wəz/ /ə/ /kɪd/"
+		"soundmark": "/aɪ/ /juzd/ /tə/ /wɑtʃ/ /kɑrˈtunz/ /'ɛvri/ /'mɔrnɪŋ/ /wɛn/ /aɪ/ /wəz/ /ə/ /kɪd/",
+		"vietnamese": "Tôi过去mỗi ngày早上都会看卡通片当我(过去)là一个孩子的时候"
 	},
 	{
-		"chinese": "喝",
 		"english": "to drink",
-		"soundmark": "/tə/ /drɪŋk/"
+		"soundmark": "/tə/ /drɪŋk/",
+		"vietnamese": "[VI:喝]"
 	},
 	{
-		"chinese": "咖啡",
 		"english": "coffee",
-		"soundmark": "/'kɔfi/"
+		"soundmark": "/'kɔfi/",
+		"vietnamese": "[VI:咖啡]"
 	},
 	{
-		"chinese": "喝咖啡",
 		"english": "to drink coffee",
-		"soundmark": "/tə/ /drɪŋk/ /'kɔfi/"
+		"soundmark": "/tə/ /drɪŋk/ /'kɔfi/",
+		"vietnamese": "[VI:喝咖啡]"
 	},
 	{
-		"chinese": "过去常常做......",
 		"english": "used to do",
-		"soundmark": "/juzd/ /tə/ /du/"
+		"soundmark": "/juzd/ /tə/ /du/",
+		"vietnamese": "过去常常làm......"
 	},
 	{
-		"chinese": "过去常常喝咖啡",
 		"english": "used to drink coffee",
-		"soundmark": "/juzd/ /tə/ /drɪŋk/ /'kɔfi/"
+		"soundmark": "/juzd/ /tə/ /drɪŋk/ /'kɔfi/",
+		"vietnamese": "[VI:过去常常喝咖啡]"
 	},
 	{
-		"chinese": "我过去常常喝咖啡",
 		"english": "I used to drink coffee",
-		"soundmark": "/aɪ/ /juzd/ /tə/ /drɪŋk/ /'kɔfi/"
+		"soundmark": "/aɪ/ /juzd/ /tə/ /drɪŋk/ /'kɔfi/",
+		"vietnamese": "Tôi过去常常喝咖啡"
 	},
 	{
-		"chinese": "早上",
 		"english": "morning",
-		"soundmark": "/'mɔrnɪŋ/"
+		"soundmark": "/'mɔrnɪŋ/",
+		"vietnamese": "[VI:早上]"
 	},
 	{
-		"chinese": "每天早上",
 		"english": "every morning",
-		"soundmark": "/'ɛvri/ /'mɔrnɪŋ/"
+		"soundmark": "/'ɛvri/ /'mɔrnɪŋ/",
+		"vietnamese": "mỗi ngày早上"
 	},
 	{
-		"chinese": "我过去每天早上喝咖啡",
 		"english": "I used to drink coffee every morning",
-		"soundmark": "/aɪ/ /juzd/ /tə/ /drɪŋk/ /'kɔfi/ /'ɛvri/ /'mɔrnɪŋ/"
+		"soundmark": "/aɪ/ /juzd/ /tə/ /drɪŋk/ /'kɔfi/ /'ɛvri/ /'mɔrnɪŋ/",
+		"vietnamese": "Tôi过去mỗi ngày早上喝咖啡"
 	},
 	{
-		"chinese": "喜欢",
 		"english": "like",
-		"soundmark": "/laɪk/"
+		"soundmark": "/laɪk/",
+		"vietnamese": "thích"
 	},
 	{
-		"chinese": "更喜欢",
 		"english": "to prefer",
-		"soundmark": "/tə/ /prɪˈfɝ/"
+		"soundmark": "/tə/ /prɪˈfɝ/",
+		"vietnamese": "更thích"
 	},
 	{
-		"chinese": "茶",
 		"english": "tea",
-		"soundmark": "/ti/"
+		"soundmark": "/ti/",
+		"vietnamese": "[VI:茶]"
 	},
 	{
-		"chinese": "更喜欢茶",
 		"english": "to prefer tea",
-		"soundmark": "/tə/ /prɪˈfɝ/ /ti/"
+		"soundmark": "/tə/ /prɪˈfɝ/ /ti/",
+		"vietnamese": "更thích茶"
 	},
 	{
-		"chinese": "我更喜欢茶",
 		"english": "I prefer tea",
-		"soundmark": "/aɪ/ /prɪˈfɝ/ /ti/"
+		"soundmark": "/aɪ/ /prɪˈfɝ/ /ti/",
+		"vietnamese": "Tôi更thích茶"
 	},
 	{
-		"chinese": "现在",
 		"english": "now",
-		"soundmark": "/naʊ/"
+		"soundmark": "/naʊ/",
+		"vietnamese": "bây giờ"
 	},
 	{
-		"chinese": "现在我更喜欢茶",
 		"english": "now I prefer tea",
-		"soundmark": "/naʊ/ /aɪ/ /prɪˈfɝ/ /ti/"
+		"soundmark": "/naʊ/ /aɪ/ /prɪˈfɝ/ /ti/",
+		"vietnamese": "bây giờTôi更thích茶"
 	},
 	{
-		"chinese": "但是",
 		"english": "but",
-		"soundmark": "/bʌt/"
+		"soundmark": "/bʌt/",
+		"vietnamese": "但là"
 	},
 	{
-		"chinese": "但是现在我更喜欢茶",
 		"english": "but now I prefer tea",
-		"soundmark": "/bʌt/ /naʊ/ /aɪ/ /prɪˈfɝ/ /ti/"
+		"soundmark": "/bʌt/ /naʊ/ /aɪ/ /prɪˈfɝ/ /ti/",
+		"vietnamese": "但làbây giờTôi更thích茶"
 	},
 	{
-		"chinese": "我过去每天早上喝咖啡",
 		"english": "I used to drink coffee every morning",
-		"soundmark": "/aɪ/ /juzd/ /tə/ /drɪŋk/ /'kɔfi/ /'ɛvri/ /'mɔrnɪŋ/"
+		"soundmark": "/aɪ/ /juzd/ /tə/ /drɪŋk/ /'kɔfi/ /'ɛvri/ /'mɔrnɪŋ/",
+		"vietnamese": "Tôi过去mỗi ngày早上喝咖啡"
 	},
 	{
-		"chinese": "我过去每天早上喝咖啡但是现在我更喜欢茶",
 		"english": "I used to drink coffee every morning but now I prefer tea",
-		"soundmark": "/aɪ/ /juzd/ /tə/ /drɪŋk/ /'kɔfi/ /'ɛvri/ /'mɔrnɪŋ/ /bʌt/ /naʊ/ /aɪ/ /prɪˈfɝ/ /ti/"
+		"soundmark": "/aɪ/ /juzd/ /tə/ /drɪŋk/ /'kɔfi/ /'ɛvri/ /'mɔrnɪŋ/ /bʌt/ /naʊ/ /aɪ/ /prɪˈfɝ/ /ti/",
+		"vietnamese": "Tôi过去mỗi ngày早上喝咖啡但làbây giờ我更thích茶"
 	},
 	{
-		"chinese": "老师",
 		"english": "teacher",
-		"soundmark": "/'titʃɚ/"
+		"soundmark": "/'titʃɚ/",
+		"vietnamese": "[VI:老师]"
 	},
 	{
-		"chinese": "她是一名老师",
 		"english": "she is a teacher",
-		"soundmark": "/ʃi/ /ɪz/ /ə/ /'titʃɚ/"
+		"soundmark": "/ʃi/ /ɪz/ /ə/ /'titʃɚ/",
+		"vietnamese": "Cô ấy là一名老师"
 	},
 	{
-		"chinese": "她(过去)是一名老师",
 		"english": "she was a teacher",
-		"soundmark": "/ʃi/ /wəz/ /ə/ /'titʃɚ/"
+		"soundmark": "/ʃi/ /wəz/ /ə/ /'titʃɚ/",
+		"vietnamese": "Cô ấy(过去)là一名老师"
 	},
 	{
-		"chinese": "过去常常做......",
 		"english": "used to do",
-		"soundmark": "/juzd/ /tə/ /du/"
+		"soundmark": "/juzd/ /tə/ /du/",
+		"vietnamese": "过去常常làm......"
 	},
 	{
-		"chinese": "曾经是......",
 		"english": "used to be",
-		"soundmark": "/juzd/ /tə/ /bi/"
+		"soundmark": "/juzd/ /tə/ /bi/",
+		"vietnamese": "曾经là......"
 	},
 	{
-		"chinese": "她曾经是一名老师",
 		"english": "she used to be a teacher",
-		"soundmark": "/ʃi/ /juzd/ /tə/ /bi/ /ə/ /'titʃɚ/"
+		"soundmark": "/ʃi/ /juzd/ /tə/ /bi/ /ə/ /'titʃɚ/",
+		"vietnamese": "Cô ấy曾经là一名老师"
 	},
 	{
-		"chinese": "退出",
 		"english": "to quit",
-		"soundmark": "/tə/ /kwɪt/"
+		"soundmark": "/tə/ /kwɪt/",
+		"vietnamese": "[VI:退出]"
 	},
 	{
-		"chinese": "工作",
 		"english": "job",
-		"soundmark": "/dʒɑb/"
+		"soundmark": "/dʒɑb/",
+		"vietnamese": "[VI:工作]"
 	},
 	{
-		"chinese": "她的工作",
 		"english": "her job",
-		"soundmark": "/hɚ/ /dʒɑb/"
+		"soundmark": "/hɚ/ /dʒɑb/",
+		"vietnamese": "Cô ấy的工作"
 	},
 	{
-		"chinese": "辞去她的工作",
 		"english": "to quit her job",
-		"soundmark": "/tə/ /kwɪt/ /hɚ/ /dʒɑb/"
+		"soundmark": "/tə/ /kwɪt/ /hɚ/ /dʒɑb/",
+		"vietnamese": "辞去Cô ấy的工作"
 	},
 	{
-		"chinese": "她辞去她的工作",
 		"english": "she quit her job",
-		"soundmark": "/ʃi/ /kwɪt/ /hɚ/ /dʒɑb/"
+		"soundmark": "/ʃi/ /kwɪt/ /hɚ/ /dʒɑb/",
+		"vietnamese": "Cô ấy辞去她的工作"
 	},
 	{
-		"chinese": "她辞去了她的工作",
 		"english": "she quit her job",
-		"soundmark": "/ʃi/ /kwɪt/ /hɚ/ /dʒɑb/"
+		"soundmark": "/ʃi/ /kwɪt/ /hɚ/ /dʒɑb/",
+		"vietnamese": "Cô ấy辞去了她的工作"
 	},
 	{
-		"chinese": "但是她辞去了她的工作",
 		"english": "but she quit her job",
-		"soundmark": "/bʌt/ /ʃi/ /kwɪt/ /hɚ/ /dʒɑb/"
+		"soundmark": "/bʌt/ /ʃi/ /kwɪt/ /hɚ/ /dʒɑb/",
+		"vietnamese": "但làCô ấy辞去了她的工作"
 	},
 	{
-		"chinese": "上一个",
 		"english": "last",
-		"soundmark": "/læst/"
+		"soundmark": "/læst/",
+		"vietnamese": "[VI:上一个]"
 	},
 	{
-		"chinese": "年",
 		"english": "year",
-		"soundmark": "/jɪr/"
+		"soundmark": "/jɪr/",
+		"vietnamese": "[VI:年]"
 	},
 	{
-		"chinese": "去年",
 		"english": "last year",
-		"soundmark": "/læst/ /jɪr/"
+		"soundmark": "/læst/ /jɪr/",
+		"vietnamese": "[VI:去年]"
 	},
 	{
-		"chinese": "但是去年她辞去了她的工作",
 		"english": "but she quit her job last year",
-		"soundmark": "/bʌt/ /ʃi/ /kwɪt/ /hɚ/ /dʒɑb/ /læst/ /jɪr/"
+		"soundmark": "/bʌt/ /ʃi/ /kwɪt/ /hɚ/ /dʒɑb/ /læst/ /jɪr/",
+		"vietnamese": "但là去年Cô ấy辞去了她的工作"
 	},
 	{
-		"chinese": "她曾经是一名老师",
 		"english": "she used to be a teacher",
-		"soundmark": "/ʃi/ /juzd/ /tə/ /bi/ /ə/ /'titʃɚ/"
+		"soundmark": "/ʃi/ /juzd/ /tə/ /bi/ /ə/ /'titʃɚ/",
+		"vietnamese": "Cô ấy曾经là一名老师"
 	},
 	{
-		"chinese": "她曾经是一名老师但是她去年辞去了她的工作",
 		"english": "she used to be a teacher but she quit her job last year",
-		"soundmark": "/ʃi/ /juzd/ /tə/ /bi/ /ə/ /'titʃɚ/ /bʌt/ /ʃi/ /kwɪt/ /hɚ/ /dʒɑb/ /læst/ /jɪr/"
+		"soundmark": "/ʃi/ /juzd/ /tə/ /bi/ /ə/ /'titʃɚ/ /bʌt/ /ʃi/ /kwɪt/ /hɚ/ /dʒɑb/ /læst/ /jɪr/",
+		"vietnamese": "Cô ấy曾经là一名老师但是她去年辞去了她的工作"
 	},
 	{
-		"chinese": "曾经是......",
 		"english": "used to be",
-		"soundmark": "/juzd/ /tə/ /bi/"
+		"soundmark": "/juzd/ /tə/ /bi/",
+		"vietnamese": "曾经là......"
 	},
 	{
-		"chinese": "抽烟",
 		"english": "to smoke",
-		"soundmark": "/tə/ /smok/"
+		"soundmark": "/tə/ /smok/",
+		"vietnamese": "[VI:抽烟]"
 	},
 	{
-		"chinese": "烟民",
 		"english": "smoker",
-		"soundmark": "/'smokɚ/"
+		"soundmark": "/'smokɚ/",
+		"vietnamese": "[VI:烟民]"
 	},
 	{
-		"chinese": "曾经是一个烟民",
 		"english": "used to be a smoker",
-		"soundmark": "/juzd/ /tə/ /bi/ /ə/ /'smokɚ/"
+		"soundmark": "/juzd/ /tə/ /bi/ /ə/ /'smokɚ/",
+		"vietnamese": "曾经là一个烟民"
 	},
 	{
-		"chinese": "你曾经是一个烟民",
 		"english": "you used to be a smoker",
-		"soundmark": "/ju/ /juzd/ /tə/ /bi/ /ə/ /'smokɚ/"
+		"soundmark": "/ju/ /juzd/ /tə/ /bi/ /ə/ /'smokɚ/",
+		"vietnamese": "Bạn曾经là一个烟民"
 	},
 	{
-		"chinese": "退出",
 		"english": "to quit",
-		"soundmark": "/tə/ /kwɪt/"
+		"soundmark": "/tə/ /kwɪt/",
+		"vietnamese": "[VI:退出]"
 	},
 	{
-		"chinese": "你退出",
 		"english": "you quit",
-		"soundmark": "/ju/ /kwɪt/"
+		"soundmark": "/ju/ /kwɪt/",
+		"vietnamese": "Bạn退出"
 	},
 	{
-		"chinese": "你戒了",
 		"english": "you quit",
-		"soundmark": "/ju/ /kwɪt/"
+		"soundmark": "/ju/ /kwɪt/",
+		"vietnamese": "Bạn戒了"
 	},
 	{
-		"chinese": "但是现在",
 		"english": "but now",
-		"soundmark": "/bʌt/ /naʊ/"
+		"soundmark": "/bʌt/ /naʊ/",
+		"vietnamese": "但làbây giờ"
 	},
 	{
-		"chinese": "但是现在你戒了",
 		"english": "but now you quit",
-		"soundmark": "/bʌt/ /naʊ/ /ju/ /kwɪt/"
+		"soundmark": "/bʌt/ /naʊ/ /ju/ /kwɪt/",
+		"vietnamese": "但làbây giờBạn戒了"
 	},
 	{
-		"chinese": "你曾经是一个烟民",
 		"english": "you used to be a smoker",
-		"soundmark": "/ju/ /juzd/ /tə/ /bi/ /ə/ /'smokɚ/"
+		"soundmark": "/ju/ /juzd/ /tə/ /bi/ /ə/ /'smokɚ/",
+		"vietnamese": "Bạn曾经là一个烟民"
 	},
 	{
-		"chinese": "你曾经是一个烟民但是现在你戒了",
 		"english": "you used to be a smoker but now you quit",
-		"soundmark": "/ju/ /juzd/ /tə/ /bi/ /ə/ /'smokɚ/ /bʌt/ /naʊ/ /ju/ /kwɪt/"
+		"soundmark": "/ju/ /juzd/ /tə/ /bi/ /ə/ /'smokɚ/ /bʌt/ /naʊ/ /ju/ /kwɪt/",
+		"vietnamese": "Bạn曾经là一个烟民但是bây giờ你戒了"
 	},
 	{
-		"chinese": "陌生的",
 		"english": "strange",
-		"soundmark": "/strendʒ/"
+		"soundmark": "/strendʒ/",
+		"vietnamese": "[VI:陌生的]"
 	},
 	{
-		"chinese": "陌生人",
 		"english": "stranger",
-		"soundmark": "/'strendʒɚ/"
+		"soundmark": "/'strendʒɚ/",
+		"vietnamese": "[VI:陌生人]"
 	},
 	{
-		"chinese": "我们是陌生人",
 		"english": "we are strangers",
-		"soundmark": "/wi/ /ɚ/ /'strendʒɚz/"
+		"soundmark": "/wi/ /ɚ/ /'strendʒɚz/",
+		"vietnamese": "Chúng tôilà陌生人"
 	},
 	{
-		"chinese": "曾经是......",
 		"english": "used to be",
-		"soundmark": "/juzd/ /tə/ /bi/"
+		"soundmark": "/juzd/ /tə/ /bi/",
+		"vietnamese": "曾经là......"
 	},
 	{
-		"chinese": "我们曾经是陌生人",
 		"english": "we used to be strangers",
-		"soundmark": "/wi/ /juzd/ /tə/ /bi/ /'strendʒɚz/"
+		"soundmark": "/wi/ /juzd/ /tə/ /bi/ /'strendʒɚz/",
+		"vietnamese": "Chúng tôi曾经là陌生人"
 	},
 	{
-		"chinese": "朋友",
 		"english": "friend",
-		"soundmark": "/frɛnd/"
+		"soundmark": "/frɛnd/",
+		"vietnamese": "[VI:朋友]"
 	},
 	{
-		"chinese": "我们是朋友",
 		"english": "we are friends",
-		"soundmark": "/wi/ /ɚ/ /frɛndz/"
+		"soundmark": "/wi/ /ɚ/ /frɛndz/",
+		"vietnamese": "Chúng tôilà朋友"
 	},
 	{
-		"chinese": "但是现在",
 		"english": "but now",
-		"soundmark": "/bʌt/ /naʊ/"
+		"soundmark": "/bʌt/ /naʊ/",
+		"vietnamese": "但làbây giờ"
 	},
 	{
-		"chinese": "但是现在我们是朋友",
 		"english": "but now we are friends",
-		"soundmark": "/bʌt/ /naʊ/ /wi/ /ɚ/ /frɛndz/"
+		"soundmark": "/bʌt/ /naʊ/ /wi/ /ɚ/ /frɛndz/",
+		"vietnamese": "但làbây giờChúng tôi是朋友"
 	},
 	{
-		"chinese": "我们曾经是陌生人",
 		"english": "we used to be strangers",
-		"soundmark": "/wi/ /juzd/ /tə/ /bi/ /'strendʒɚz/"
+		"soundmark": "/wi/ /juzd/ /tə/ /bi/ /'strendʒɚz/",
+		"vietnamese": "Chúng tôi曾经là陌生人"
 	},
 	{
-		"chinese": "我们曾经是陌生人但是现在我们是朋友",
 		"english": "we used to be strangers but now we are friends",
-		"soundmark": "/wi/ /juzd/ /tə/ /bi/ /'strendʒɚz/ /bʌt/ /naʊ/ /wi/ /ɚ/ /frɛndz/"
+		"soundmark": "/wi/ /juzd/ /tə/ /bi/ /'strendʒɚz/ /bʌt/ /naʊ/ /wi/ /ɚ/ /frɛndz/",
+		"vietnamese": "Chúng tôi曾经là陌生人但是bây giờTôi们是朋友"
 	},
 	{
-		"chinese": "我们是朋友",
 		"english": "we are friends",
-		"soundmark": "/wi/ /ɚ/ /frɛndz/"
+		"soundmark": "/wi/ /ɚ/ /frɛndz/",
+		"vietnamese": "Chúng tôilà朋友"
 	},
 	{
-		"chinese": "曾经是......",
 		"english": "used to be",
-		"soundmark": "/juzd/ /tə/ /bi/"
+		"soundmark": "/juzd/ /tə/ /bi/",
+		"vietnamese": "曾经là......"
 	},
 	{
-		"chinese": "我们曾经是朋友",
 		"english": "we used to be friends",
-		"soundmark": "/wi/ /juzd/ /tə/ /bi/ /frɛndz/"
+		"soundmark": "/wi/ /juzd/ /tə/ /bi/ /frɛndz/",
+		"vietnamese": "Chúng tôi曾经là朋友"
 	},
 	{
-		"chinese": "亲密的",
 		"english": "close",
-		"soundmark": "/klos/"
+		"soundmark": "/klos/",
+		"vietnamese": "[VI:亲密的]"
 	},
 	{
-		"chinese": "我们曾经是亲密的朋友",
 		"english": "we used to be close friends",
-		"soundmark": "/wi/ /juzd/ /tə/ /bi/ /klos/ /frɛndz/"
+		"soundmark": "/wi/ /juzd/ /tə/ /bi/ /klos/ /frɛndz/",
+		"vietnamese": "Chúng tôi曾经là亲密的朋友"
 	},
 	{
-		"chinese": "更多",
 		"english": "more",
-		"soundmark": "/mɔr/"
+		"soundmark": "/mɔr/",
+		"vietnamese": "[VI:更多]"
 	},
 	{
-		"chinese": "任何",
 		"english": "any",
-		"soundmark": "/'ɛni/"
+		"soundmark": "/'ɛni/",
+		"vietnamese": "[VI:任何]"
 	},
 	{
-		"chinese": "任何更多",
 		"english": "anymore",
-		"soundmark": "/ɛniˈmɔr/"
+		"soundmark": "/ɛniˈmɔr/",
+		"vietnamese": "[VI:任何更多]"
 	},
 	{
-		"chinese": "再也不",
 		"english": "not anymore",
-		"soundmark": "/nɑt/ /ɛniˈmɔr/"
+		"soundmark": "/nɑt/ /ɛniˈmɔr/",
+		"vietnamese": "再也không"
 	},
 	{
-		"chinese": "我们曾经是亲密的朋友但是再也不是了",
 		"english": "we used to be close friends but not anymore",
-		"soundmark": "/wi/ /juzd/ /tə/ /bi/ /klos/ /frɛndz/ /bʌt/ /nɑt/ /ɛniˈmɔr/"
+		"soundmark": "/wi/ /juzd/ /tə/ /bi/ /klos/ /frɛndz/ /bʌt/ /nɑt/ /ɛniˈmɔr/",
+		"vietnamese": "Chúng tôi曾经là亲密的朋友但是再也không是了"
 	},
 	{
-		"chinese": "爱",
 		"english": "to love",
-		"soundmark": "/tə/ /lʌv/"
+		"soundmark": "/tə/ /lʌv/",
+		"vietnamese": "[VI:爱]"
 	},
 	{
-		"chinese": "他",
 		"english": "him",
-		"soundmark": "/hɪm/"
+		"soundmark": "/hɪm/",
+		"vietnamese": "Anh ấy"
 	},
 	{
-		"chinese": "爱他",
 		"english": "to love him",
-		"soundmark": "/tə/ /lʌv/ /hɪm/"
+		"soundmark": "/tə/ /lʌv/ /hɪm/",
+		"vietnamese": "爱Anh ấy"
 	},
 	{
-		"chinese": "她爱他",
 		"english": "she loves him",
-		"soundmark": "/ʃi/ /lʌvz/ /hɪm/"
+		"soundmark": "/ʃi/ /lʌvz/ /hɪm/",
+		"vietnamese": "Cô ấy爱Anh ấy"
 	},
 	{
-		"chinese": "过去常常做......",
 		"english": "used to do",
-		"soundmark": "/juzd/ /tə/ /du/"
+		"soundmark": "/juzd/ /tə/ /du/",
+		"vietnamese": "过去常常làm......"
 	},
 	{
-		"chinese": "她过去爱他",
 		"english": "she used to love him",
-		"soundmark": "/ʃi/ /juzd/ /tə/ /lʌv/ /hɪm/"
+		"soundmark": "/ʃi/ /juzd/ /tə/ /lʌv/ /hɪm/",
+		"vietnamese": "Cô ấy过去爱Anh ấy"
 	},
 	{
-		"chinese": "再也不",
 		"english": "not anymore",
-		"soundmark": "/nɑt/ /ɛniˈmɔr/"
+		"soundmark": "/nɑt/ /ɛniˈmɔr/",
+		"vietnamese": "再也không"
 	},
 	{
-		"chinese": "她过去爱他但是再也不会了",
 		"english": "she used to love him but not anymore",
-		"soundmark": "/ʃi/ /juzd/ /tə/ /lʌv/ /hɪm/ /bʌt/ /nɑt/ /ɛniˈmɔr/"
+		"soundmark": "/ʃi/ /juzd/ /tə/ /lʌv/ /hɪm/ /bʌt/ /nɑt/ /ɛniˈmɔr/",
+		"vietnamese": "Cô ấy过去爱Anh ấy但là再也không会了"
 	},
 	{
-		"chinese": "驾驶",
 		"english": "to drive",
-		"soundmark": "/tə/ /draɪv/"
+		"soundmark": "/tə/ /draɪv/",
+		"vietnamese": "[VI:驾驶]"
 	},
 	{
-		"chinese": "汽车",
 		"english": "car",
-		"soundmark": "/kɑr/"
+		"soundmark": "/kɑr/",
+		"vietnamese": "[VI:汽车]"
 	},
 	{
-		"chinese": "开车",
 		"english": "to drive a car",
-		"soundmark": "/tə/ /draɪv/ /ə/ /kɑr/"
+		"soundmark": "/tə/ /draɪv/ /ə/ /kɑr/",
+		"vietnamese": "[VI:开车]"
 	},
 	{
-		"chinese": "去工作",
 		"english": "to work",
-		"soundmark": "/tə/ /wɝk/"
+		"soundmark": "/tə/ /wɝk/",
+		"vietnamese": "[VI:去工作]"
 	},
 	{
-		"chinese": "开车去工作",
 		"english": "to drive a car to work",
-		"soundmark": "/tə/ /draɪv/ /ə/ /kɑr/ /tə/ /wɝk/"
+		"soundmark": "/tə/ /draɪv/ /ə/ /kɑr/ /tə/ /wɝk/",
+		"vietnamese": "[VI:开车去工作]"
 	},
 	{
-		"chinese": "他开车去工作",
 		"english": "he drives a car to work",
-		"soundmark": "/hi/ /draɪvz/ /ə/ /kɑr/ /tə/ /wɝk/"
+		"soundmark": "/hi/ /draɪvz/ /ə/ /kɑr/ /tə/ /wɝk/",
+		"vietnamese": "Anh ấy开车去工作"
 	},
 	{
-		"chinese": "过去常常做......",
 		"english": "used to do",
-		"soundmark": "/juzd/ /tə/ /du/"
+		"soundmark": "/juzd/ /tə/ /du/",
+		"vietnamese": "过去常常làm......"
 	},
 	{
-		"chinese": "他过去常常开车去工作",
 		"english": "he used to drive a car to work",
-		"soundmark": "/hi/ /juzd/ /tə/ /draɪv/ /ə/ /kɑr/ /tə/ /wɝk/"
+		"soundmark": "/hi/ /juzd/ /tə/ /draɪv/ /ə/ /kɑr/ /tə/ /wɝk/",
+		"vietnamese": "Anh ấy过去常常开车去工作"
 	},
 	{
-		"chinese": "再也不",
 		"english": "not anymore",
-		"soundmark": "/nɑt/ /ɛniˈmɔr/"
+		"soundmark": "/nɑt/ /ɛniˈmɔr/",
+		"vietnamese": "再也không"
 	},
 	{
-		"chinese": "他过去常常开车去工作但是再也不会了",
 		"english": "he used to drive a car to work but not anymore",
-		"soundmark": "/hi/ /juzd/ /tə/ /draɪv/ /ə/ /kɑr/ /tə/ /wɝk/ /bʌt/ /nɑt/ /ɛniˈmɔr/"
+		"soundmark": "/hi/ /juzd/ /tə/ /draɪv/ /ə/ /kɑr/ /tə/ /wɝk/ /bʌt/ /nɑt/ /ɛniˈmɔr/",
+		"vietnamese": "Anh ấy过去常常开车去工作但là再也không会了"
 	},
 	{
-		"chinese": "工作",
 		"english": "to work",
-		"soundmark": "/tə/ /wɝk/"
+		"soundmark": "/tə/ /wɝk/",
+		"vietnamese": "[VI:工作]"
 	},
 	{
-		"chinese": "公司",
 		"english": "company",
-		"soundmark": "/ˈkʌmpəni/"
+		"soundmark": "/ˈkʌmpəni/",
+		"vietnamese": "[VI:公司]"
 	},
 	{
-		"chinese": "那个",
 		"english": "that",
-		"soundmark": "/ðæt/"
+		"soundmark": "/ðæt/",
+		"vietnamese": "[VI:那个]"
 	},
 	{
-		"chinese": "那个公司",
 		"english": "that company",
-		"soundmark": "/ðæt/ /ˈkʌmpəni/"
+		"soundmark": "/ðæt/ /ˈkʌmpəni/",
+		"vietnamese": "[VI:那个公司]"
 	},
 	{
-		"chinese": "在那个公司",
 		"english": "at that company",
-		"soundmark": "/ət/ /ðæt/ /ˈkʌmpəni/"
+		"soundmark": "/ət/ /ðæt/ /ˈkʌmpəni/",
+		"vietnamese": "[VI:在那个公司]"
 	},
 	{
-		"chinese": "在那个公司工作",
 		"english": "to work at that company",
-		"soundmark": "/tə/ /wɝk/ /ət/ /ðæt/ /ˈkʌmpəni/"
+		"soundmark": "/tə/ /wɝk/ /ət/ /ðæt/ /ˈkʌmpəni/",
+		"vietnamese": "[VI:在那个公司工作]"
 	},
 	{
-		"chinese": "他在那个公司工作",
 		"english": "he works at that company",
-		"soundmark": "/hi/ /wɝks/ /ət/ /ðæt/ /ˈkʌmpəni/"
+		"soundmark": "/hi/ /wɝks/ /ət/ /ðæt/ /ˈkʌmpəni/",
+		"vietnamese": "Anh ấy在那个公司工作"
 	},
 	{
-		"chinese": "过去常常做......",
 		"english": "used to do",
-		"soundmark": "/juzd/ /tə/ /du/"
+		"soundmark": "/juzd/ /tə/ /du/",
+		"vietnamese": "过去常常làm......"
 	},
 	{
-		"chinese": "他曾经在那个公司工作",
 		"english": "he used to work at that company",
-		"soundmark": "/hi/ /juzd/ /tə/ /wɝk/ /ət/ /ðæt/ /ˈkʌmpəni/"
+		"soundmark": "/hi/ /juzd/ /tə/ /wɝk/ /ət/ /ðæt/ /ˈkʌmpəni/",
+		"vietnamese": "Anh ấy曾经在那个公司工作"
 	},
 	{
-		"chinese": "再也不",
 		"english": "not anymore",
-		"soundmark": "/nɑt/ /ɛniˈmɔr/"
+		"soundmark": "/nɑt/ /ɛniˈmɔr/",
+		"vietnamese": "再也không"
 	},
 	{
-		"chinese": "他曾经在那个公司工作但是再也不会了",
 		"english": "he used to work at that company but not anymore",
-		"soundmark": "/hi/ /juzd/ /tə/ /wɝk/ /ət/ /ðæt/ /ˈkʌmpəni/ /bʌt/ /nɑt/ /ɛniˈmɔr/"
+		"soundmark": "/hi/ /juzd/ /tə/ /wɝk/ /ət/ /ðæt/ /ˈkʌmpəni/ /bʌt/ /nɑt/ /ɛniˈmɔr/",
+		"vietnamese": "Anh ấy曾经在那个公司工作但là再也không会了"
 	},
 	{
-		"chinese": "餐厅",
 		"english": "restaurant",
-		"soundmark": "/'rɛstrɑnt/"
+		"soundmark": "/'rɛstrɑnt/",
+		"vietnamese": "[VI:餐厅]"
 	},
 	{
-		"chinese": "那个餐厅",
 		"english": "that restaurant",
-		"soundmark": "/ðæt/ /'rɛstrɑnt/"
+		"soundmark": "/ðæt/ /'rɛstrɑnt/",
+		"vietnamese": "[VI:那个餐厅]"
 	},
 	{
-		"chinese": "去",
 		"english": "to go",
-		"soundmark": "/tə/ /ɡo/"
+		"soundmark": "/tə/ /ɡo/",
+		"vietnamese": "[VI:去]"
 	},
 	{
-		"chinese": "去那个餐厅",
 		"english": "to go to that restaurant",
-		"soundmark": "/tə/ /ɡo/ /tə/ /ðæt/ /'rɛstrɑnt/"
+		"soundmark": "/tə/ /ɡo/ /tə/ /ðæt/ /'rɛstrɑnt/",
+		"vietnamese": "[VI:去那个餐厅]"
 	},
 	{
-		"chinese": "我们去那个餐厅",
 		"english": "we go to that restaurant",
-		"soundmark": "/wi/ /ɡo/ /tə/ /ðæt/ /'rɛstrɑnt/"
+		"soundmark": "/wi/ /ɡo/ /tə/ /ðæt/ /'rɛstrɑnt/",
+		"vietnamese": "Chúng tôi去那个餐厅"
 	},
 	{
-		"chinese": "过去常常做......",
 		"english": "used to do",
-		"soundmark": "/juzd/ /tə/ /du/"
+		"soundmark": "/juzd/ /tə/ /du/",
+		"vietnamese": "过去常常làm......"
 	},
 	{
-		"chinese": "我们过去常常去那个餐厅",
 		"english": "we used to go to that restaurant",
-		"soundmark": "/wi/ /juzd/ /tə/ /ɡo/ /tə/ /ðæt/ /'rɛstrɑnt/"
+		"soundmark": "/wi/ /juzd/ /tə/ /ɡo/ /tə/ /ðæt/ /'rɛstrɑnt/",
+		"vietnamese": "Chúng tôi过去常常去那个餐厅"
 	},
 	{
-		"chinese": "再也不",
 		"english": "not anymore",
-		"soundmark": "/nɑt/ /ɛniˈmɔr/"
+		"soundmark": "/nɑt/ /ɛniˈmɔr/",
+		"vietnamese": "再也không"
 	},
 	{
-		"chinese": "我们过去常常去那个餐厅但是再也不会了",
 		"english": "we used to go to that restaurant but not anymore",
-		"soundmark": "/wi/ /juzd/ /tə/ /ɡo/ /tə/ /ðæt/ /'rɛstrɑnt/ /bʌt/ /nɑt/ /ɛniˈmɔr/"
+		"soundmark": "/wi/ /juzd/ /tə/ /ɡo/ /tə/ /ðæt/ /'rɛstrɑnt/ /bʌt/ /nɑt/ /ɛniˈmɔr/",
+		"vietnamese": "Chúng tôi过去常常去那个餐厅但là再也không会了"
 	},
 	{
-		"chinese": "朋友",
 		"english": "friend",
-		"soundmark": "/frɛnd/"
+		"soundmark": "/frɛnd/",
+		"vietnamese": "[VI:朋友]"
 	},
 	{
-		"chinese": "我们是朋友",
 		"english": "we are friends",
-		"soundmark": "/wi/ /ɚ/ /frɛndz/"
+		"soundmark": "/wi/ /ɚ/ /frɛndz/",
+		"vietnamese": "Chúng tôilà朋友"
 	},
 	{
-		"chinese": "我们不是朋友",
 		"english": "we are not friends",
-		"soundmark": "/wi/ /ɚ/ /nɑt/ /frɛndz/"
+		"soundmark": "/wi/ /ɚ/ /nɑt/ /frɛndz/",
+		"vietnamese": "Chúng tôikhônglà朋友"
 	},
 	{
-		"chinese": "再也不",
 		"english": "not anymore",
-		"soundmark": "/nɑt/ /ɛniˈmɔr/"
+		"soundmark": "/nɑt/ /ɛniˈmɔr/",
+		"vietnamese": "再也không"
 	},
 	{
-		"chinese": "我们再也不是朋友",
 		"english": "we are not friends anymore",
-		"soundmark": "/wi/ /ɚ/ /nɑt/ /frɛndz/ /ɛniˈmɔr/"
+		"soundmark": "/wi/ /ɚ/ /nɑt/ /frɛndz/ /ɛniˈmɔr/",
+		"vietnamese": "Chúng tôi再也khônglà朋友"
 	},
 	{
-		"chinese": "有名的",
 		"english": "famous",
-		"soundmark": "/'feməs/"
+		"soundmark": "/'feməs/",
+		"vietnamese": "[VI:有名的]"
 	},
 	{
-		"chinese": "她是有名的",
 		"english": "she is famous",
-		"soundmark": "/ʃi/ /ɪz/ /'feməs/"
+		"soundmark": "/ʃi/ /ɪz/ /'feməs/",
+		"vietnamese": "Cô ấy là有名的"
 	},
 	{
-		"chinese": "她不是有名的",
 		"english": "she is not famous",
-		"soundmark": "/ʃi/ /ɪz/ /nɑt/ /'feməs/"
+		"soundmark": "/ʃi/ /ɪz/ /nɑt/ /'feməs/",
+		"vietnamese": "Cô ấykhônglà有名的"
 	},
 	{
-		"chinese": "再也不",
 		"english": "not anymore",
-		"soundmark": "/nɑt/ /ɛniˈmɔr/"
+		"soundmark": "/nɑt/ /ɛniˈmɔr/",
+		"vietnamese": "再也không"
 	},
 	{
-		"chinese": "她再也不是有名的",
 		"english": "she is not famous anymore",
-		"soundmark": "/ʃi/ /ɪz/ /nɑt/ /'feməs/ /ɛniˈmɔr/"
+		"soundmark": "/ʃi/ /ɪz/ /nɑt/ /'feməs/ /ɛniˈmɔr/",
+		"vietnamese": "Cô ấy再也khônglà有名的"
 	},
 	{
-		"chinese": "老板",
 		"english": "boss",
-		"soundmark": "/bɔs/"
+		"soundmark": "/bɔs/",
+		"vietnamese": "[VI:老板]"
 	},
 	{
-		"chinese": "我的老板",
 		"english": "my boss",
-		"soundmark": "/maɪ/ /bɔs/"
+		"soundmark": "/maɪ/ /bɔs/",
+		"vietnamese": "Tôi的老板"
 	},
 	{
-		"chinese": "你是我的老板",
 		"english": "you are my boss",
-		"soundmark": "/ju/ /ɚ/ /maɪ/ /bɔs/"
+		"soundmark": "/ju/ /ɚ/ /maɪ/ /bɔs/",
+		"vietnamese": "Bạn làTôi的老板"
 	},
 	{
-		"chinese": "你不是我的老板",
 		"english": "you are not my boss",
-		"soundmark": "/ju/ /ɚ/ /nɑt/ /maɪ/ /bɔs/"
+		"soundmark": "/ju/ /ɚ/ /nɑt/ /maɪ/ /bɔs/",
+		"vietnamese": "BạnkhônglàTôi的老板"
 	},
 	{
-		"chinese": "再也不",
 		"english": "not anymore",
-		"soundmark": "/nɑt/ /ɛniˈmɔr/"
+		"soundmark": "/nɑt/ /ɛniˈmɔr/",
+		"vietnamese": "再也không"
 	},
 	{
-		"chinese": "你再也不是我的老板",
 		"english": "you are not my boss anymore",
-		"soundmark": "/ju/ /ɚ/ /nɑt/ /maɪ/ /bɔs/ /ɛniˈmɔr/"
+		"soundmark": "/ju/ /ɚ/ /nɑt/ /maɪ/ /bɔs/ /ɛniˈmɔr/",
+		"vietnamese": "Bạn再也khônglàTôi的老板"
 	},
 	{
-		"chinese": "退出",
 		"english": "to quit",
-		"soundmark": "/tə/ /kwɪt/"
+		"soundmark": "/tə/ /kwɪt/",
+		"vietnamese": "[VI:退出]"
 	},
 	{
-		"chinese": "我辞职",
 		"english": "I quit",
-		"soundmark": "/aɪ/ /kwɪt/"
+		"soundmark": "/aɪ/ /kwɪt/",
+		"vietnamese": "Tôi辞职"
 	},
 	{
-		"chinese": "你再也不是我的老板。我辞职。",
 		"english": "you are not my boss anymore I quit",
-		"soundmark": "/ju/ /ɚ/ /nɑt/ /maɪ/ /bɔs/ /ɛniˈmɔr/ /aɪ/ /kwɪt/"
+		"soundmark": "/ju/ /ɚ/ /nɑt/ /maɪ/ /bɔs/ /ɛniˈmɔr/ /aɪ/ /kwɪt/",
+		"vietnamese": "Bạn再也khônglàTôi的老板。我辞职。"
 	},
 	{
-		"chinese": "重要的",
 		"english": "important",
-		"soundmark": "/ɪm'pɔrtnt/"
+		"soundmark": "/ɪm'pɔrtnt/",
+		"vietnamese": "quan trọng"
 	},
 	{
-		"chinese": "它是重要的",
 		"english": "it is important",
-		"soundmark": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/"
+		"soundmark": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/",
+		"vietnamese": "Nó quan trọng"
 	},
 	{
-		"chinese": "它不是重要的",
 		"english": "it is not important",
-		"soundmark": "/ɪt/ /ɪz/ /nɑt/ /ɪm'pɔrtnt/"
+		"soundmark": "/ɪt/ /ɪz/ /nɑt/ /ɪm'pɔrtnt/",
+		"vietnamese": "Nó không quan trọng"
 	},
 	{
-		"chinese": "再也不",
 		"english": "not anymore",
-		"soundmark": "/nɑt/ /ɛniˈmɔr/"
+		"soundmark": "/nɑt/ /ɛniˈmɔr/",
+		"vietnamese": "再也không"
 	},
 	{
-		"chinese": "它再也不是重要的",
 		"english": "it is not important anymore",
-		"soundmark": "/ɪt/ /ɪz/ /nɑt/ /ɪm'pɔrtnt/ /ɛniˈmɔr/"
+		"soundmark": "/ɪt/ /ɪz/ /nɑt/ /ɪm'pɔrtnt/ /ɛniˈmɔr/",
+		"vietnamese": "Nó再也khônglàquan trọng"
 	},
 	{
-		"chinese": "喝",
 		"english": "to drink",
-		"soundmark": "/tə/ /drɪŋk/"
+		"soundmark": "/tə/ /drɪŋk/",
+		"vietnamese": "[VI:喝]"
 	},
 	{
-		"chinese": "咖啡",
 		"english": "coffee",
-		"soundmark": "/'kɔfi/"
+		"soundmark": "/'kɔfi/",
+		"vietnamese": "[VI:咖啡]"
 	},
 	{
-		"chinese": "喝咖啡",
 		"english": "to drink coffee",
-		"soundmark": "/tə/ /drɪŋk/ /'kɔfi/"
+		"soundmark": "/tə/ /drɪŋk/ /'kɔfi/",
+		"vietnamese": "[VI:喝咖啡]"
 	},
 	{
-		"chinese": "我喝咖啡",
 		"english": "I drink coffee",
-		"soundmark": "/aɪ/ /drɪŋk/ /'kɔfi/"
+		"soundmark": "/aɪ/ /drɪŋk/ /'kɔfi/",
+		"vietnamese": "Tôi喝咖啡"
 	},
 	{
-		"chinese": "我不喝咖啡",
 		"english": "I don't drink coffee",
-		"soundmark": "/aɪ/ /dont/ /drɪŋk/ /'kɔfi/"
+		"soundmark": "/aɪ/ /dont/ /drɪŋk/ /'kɔfi/",
+		"vietnamese": "Tôikhông喝咖啡"
 	},
 	{
-		"chinese": "再也不",
 		"english": "not anymore",
-		"soundmark": "/nɑt/ /ɛniˈmɔr/"
+		"soundmark": "/nɑt/ /ɛniˈmɔr/",
+		"vietnamese": "再也không"
 	},
 	{
-		"chinese": "我再也不喝咖啡了",
 		"english": "I don't drink coffee anymore",
-		"soundmark": "/aɪ/ /dont/ /drɪŋk/ /'kɔfi/ /ɛniˈmɔr/"
+		"soundmark": "/aɪ/ /dont/ /drɪŋk/ /'kɔfi/ /ɛniˈmɔr/",
+		"vietnamese": "Tôi再也không喝咖啡了"
 	},
 	{
-		"chinese": "玩",
 		"english": "to play",
-		"soundmark": "/tə/ /ple/"
+		"soundmark": "/tə/ /ple/",
+		"vietnamese": "[VI:玩]"
 	},
 	{
-		"chinese": "游戏",
 		"english": "games",
-		"soundmark": "/ɡemz/"
+		"soundmark": "/ɡemz/",
+		"vietnamese": "[VI:游戏]"
 	},
 	{
-		"chinese": "玩游戏",
 		"english": "to play games",
-		"soundmark": "/tə/ /ple/ /ɡemz/"
+		"soundmark": "/tə/ /ple/ /ɡemz/",
+		"vietnamese": "[VI:玩游戏]"
 	},
 	{
-		"chinese": "视频",
 		"english": "video",
-		"soundmark": "/'vɪdɪo/"
+		"soundmark": "/'vɪdɪo/",
+		"vietnamese": "[VI:视频]"
 	},
 	{
-		"chinese": "电子游戏",
 		"english": "video games",
-		"soundmark": "/'vɪdɪo/ /ɡemz/"
+		"soundmark": "/'vɪdɪo/ /ɡemz/",
+		"vietnamese": "[VI:电子游戏]"
 	},
 	{
-		"chinese": "玩电子游戏",
 		"english": "to play video games",
-		"soundmark": "/tə/ /ple/ /'vɪdɪo/ /ɡemz/"
+		"soundmark": "/tə/ /ple/ /'vɪdɪo/ /ɡemz/",
+		"vietnamese": "[VI:玩电子游戏]"
 	},
 	{
-		"chinese": "他玩电子游戏",
 		"english": "he plays video games",
-		"soundmark": "/hi/ /plez/ /'vɪdɪo/ /ɡemz/"
+		"soundmark": "/hi/ /plez/ /'vɪdɪo/ /ɡemz/",
+		"vietnamese": "Anh ấy玩电子游戏"
 	},
 	{
-		"chinese": "他不玩电子游戏",
 		"english": "he doesn't play video games",
-		"soundmark": "/hi/ /ˈdʌznt/ /ple/ /'vɪdɪo/ /ɡemz/"
+		"soundmark": "/hi/ /ˈdʌznt/ /ple/ /'vɪdɪo/ /ɡemz/",
+		"vietnamese": "Anh ấykhông玩电子游戏"
 	},
 	{
-		"chinese": "再也不",
 		"english": "not anymore",
-		"soundmark": "/nɑt/ /ɛniˈmɔr/"
+		"soundmark": "/nɑt/ /ɛniˈmɔr/",
+		"vietnamese": "再也không"
 	},
 	{
-		"chinese": "他再也不玩电子游戏",
 		"english": "he doesn't play video games anymore",
-		"soundmark": "/hi/ /ˈdʌznt/ /ple/ /'vɪdɪo/ /ɡemz/ /ɛniˈmɔr/"
+		"soundmark": "/hi/ /ˈdʌznt/ /ple/ /'vɪdɪo/ /ɡemz/ /ɛniˈmɔr/",
+		"vietnamese": "Anh ấy再也không玩电子游戏"
 	},
 	{
-		"chinese": "我们玩电子游戏",
 		"english": "we play video games",
-		"soundmark": "/wi/ /ple/ /'vɪdɪo/ /ɡemz/"
+		"soundmark": "/wi/ /ple/ /'vɪdɪo/ /ɡemz/",
+		"vietnamese": "Chúng tôi玩电子游戏"
 	},
 	{
-		"chinese": "我们不玩电子游戏",
 		"english": "we don't play video games",
-		"soundmark": "/wi/ /dont/ /ple/ /'vɪdɪo/ /ɡemz/"
+		"soundmark": "/wi/ /dont/ /ple/ /'vɪdɪo/ /ɡemz/",
+		"vietnamese": "Chúng tôikhông玩电子游戏"
 	},
 	{
-		"chinese": "我们再也不玩电子游戏",
 		"english": "we don't play video games anymore",
-		"soundmark": "/wi/ /dont/ /ple/ /'vɪdɪo/ /ɡemz/ /ɛniˈmɔr/"
+		"soundmark": "/wi/ /dont/ /ple/ /'vɪdɪo/ /ɡemz/ /ɛniˈmɔr/",
+		"vietnamese": "Chúng tôi再也không玩电子游戏"
 	}
 ]

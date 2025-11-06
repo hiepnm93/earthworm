@@ -1,912 +1,912 @@
 [
 	{
-		"chinese": "我们",
 		"english": "we",
-		"soundmark": "/wi/"
+		"soundmark": "/wi/",
+		"vietnamese": "Chúng tôi"
 	},
 	{
-		"chinese": "喜欢",
 		"english": "like",
-		"soundmark": "/laɪk/"
+		"soundmark": "/laɪk/",
+		"vietnamese": "thích"
 	},
 	{
-		"chinese": "我们喜欢",
 		"english": "we like",
-		"soundmark": "/wi/ /laɪk/"
+		"soundmark": "/wi/ /laɪk/",
+		"vietnamese": "Chúng tôithích"
 	},
 	{
-		"chinese": "做",
 		"english": "to do",
-		"soundmark": "/tə/ /du/"
+		"soundmark": "/tə/ /du/",
+		"vietnamese": "làm"
 	},
 	{
-		"chinese": "这件事",
 		"english": "it",
-		"soundmark": "/ɪt/"
+		"soundmark": "/ɪt/",
+		"vietnamese": "[VI:这件事]"
 	},
 	{
-		"chinese": "做这件事",
 		"english": "to do it",
-		"soundmark": "/tə/ /du/ /ɪt/"
+		"soundmark": "/tə/ /du/ /ɪt/",
+		"vietnamese": "làm điều này"
 	},
 	{
-		"chinese": "我们喜欢做这件事",
 		"english": "we like to do it",
-		"soundmark": "/wi/ /laɪk/ /tə/ /du/ /ɪt/"
+		"soundmark": "/wi/ /laɪk/ /tə/ /du/ /ɪt/",
+		"vietnamese": "Chúng tôithíchlàm điều này"
 	},
 	{
-		"chinese": "现在",
 		"english": "now",
-		"soundmark": "/naʊ/"
+		"soundmark": "/naʊ/",
+		"vietnamese": "bây giờ"
 	},
 	{
-		"chinese": "我们喜欢现在做这件事",
 		"english": "we like to do it now",
-		"soundmark": "/wi/ /laɪk/ /tə/ /du/ /ɪt/ /naʊ/"
+		"soundmark": "/wi/ /laɪk/ /tə/ /du/ /ɪt/ /naʊ/",
+		"vietnamese": "Chúng tôithíchbây giờlàm điều này"
 	},
 	{
-		"chinese": "不",
 		"english": "don't",
-		"soundmark": "/dont/"
+		"soundmark": "/dont/",
+		"vietnamese": "không"
 	},
 	{
-		"chinese": "我们不喜欢现在做这件事",
 		"english": "we don't like to do it now",
-		"soundmark": "/wi/ /dont/ /laɪk/ /tə/ /du/ /ɪt/ /naʊ/"
+		"soundmark": "/wi/ /dont/ /laɪk/ /tə/ /du/ /ɪt/ /naʊ/",
+		"vietnamese": "Chúng tôikhông thíchbây giờlàm điều này"
 	},
 	{
-		"chinese": "跳舞",
 		"english": "to dance",
-		"soundmark": "/tə/ /dæns/"
+		"soundmark": "/tə/ /dæns/",
+		"vietnamese": "[VI:跳舞]"
 	},
 	{
-		"chinese": "我们喜欢跳舞",
 		"english": "we like to dance",
-		"soundmark": "/wi/ /laɪk/ /tə/ /dæns/"
+		"soundmark": "/wi/ /laɪk/ /tə/ /dæns/",
+		"vietnamese": "Chúng tôithích跳舞"
 	},
 	{
-		"chinese": "我们喜欢现在跳舞",
 		"english": "we like to dance now",
-		"soundmark": "/wi/ /laɪk/ /tə/ /dæns/ /naʊ/"
+		"soundmark": "/wi/ /laɪk/ /tə/ /dæns/ /naʊ/",
+		"vietnamese": "Chúng tôithíchbây giờ跳舞"
 	},
 	{
-		"chinese": "街道",
 		"english": "the street",
-		"soundmark": "/ðə/ /strit/"
+		"soundmark": "/ðə/ /strit/",
+		"vietnamese": "[VI:街道]"
 	},
 	{
-		"chinese": "在街头",
 		"english": "in the street",
-		"soundmark": "/ɪn/ /ðə/ /strit/"
+		"soundmark": "/ɪn/ /ðə/ /strit/",
+		"vietnamese": "[VI:在街头]"
 	},
 	{
-		"chinese": "我们喜欢在街头跳舞",
 		"english": "we like to dance in the street",
-		"soundmark": "/wi/ /laɪk/ /tə/ /dæns/ /ɪn/ /ðə/ /strit/"
+		"soundmark": "/wi/ /laɪk/ /tə/ /dæns/ /ɪn/ /ðə/ /strit/",
+		"vietnamese": "Chúng tôithích在街头跳舞"
 	},
 	{
-		"chinese": "晚上",
 		"english": "night",
-		"soundmark": "/naɪt/"
+		"soundmark": "/naɪt/",
+		"vietnamese": "[VI:晚上]"
 	},
 	{
-		"chinese": "在晚上",
 		"english": "at night",
-		"soundmark": "/ət/ /naɪt/"
+		"soundmark": "/ət/ /naɪt/",
+		"vietnamese": "[VI:在晚上]"
 	},
 	{
-		"chinese": "我们喜欢在晚上在街头跳舞",
 		"english": "we like to dance in the street at night",
-		"soundmark": "/wi/ /laɪk/ /tə/ /dæns/ /ɪn/ /ðə/ /strit/ /ət/ /naɪt/"
+		"soundmark": "/wi/ /laɪk/ /tə/ /dæns/ /ɪn/ /ðə/ /strit/ /ət/ /naɪt/",
+		"vietnamese": "Chúng tôithích在晚上在街头跳舞"
 	},
 	{
-		"chinese": "我们不喜欢在晚上在街头跳舞",
 		"english": "we don't like to dance in the street at night",
-		"soundmark": "/wi/ /dont/ /laɪk/ /tə/ /dæns/ /ɪn/ /ðə/ /strit/ /ət/ /naɪt/"
+		"soundmark": "/wi/ /dont/ /laɪk/ /tə/ /dæns/ /ɪn/ /ðə/ /strit/ /ət/ /naɪt/",
+		"vietnamese": "Chúng tôikhông thích在晚上在街头跳舞"
 	},
 	{
-		"chinese": "睡觉",
 		"english": "to sleep",
-		"soundmark": "/tə/ /slip/"
+		"soundmark": "/tə/ /slip/",
+		"vietnamese": "[VI:睡觉]"
 	},
 	{
-		"chinese": "你们",
 		"english": "you",
-		"soundmark": "/ju/"
+		"soundmark": "/ju/",
+		"vietnamese": "Các bạn"
 	},
 	{
-		"chinese": "你们喜欢",
 		"english": "you like",
-		"soundmark": "/ju/ /laɪk/"
+		"soundmark": "/ju/ /laɪk/",
+		"vietnamese": "Các bạnthích"
 	},
 	{
-		"chinese": "你们喜欢睡觉",
 		"english": "you like to sleep",
-		"soundmark": "/ju/ /laɪk/ /tə/ /slip/"
+		"soundmark": "/ju/ /laɪk/ /tə/ /slip/",
+		"vietnamese": "Các bạnthích睡觉"
 	},
 	{
-		"chinese": "在床上",
 		"english": "on the bed",
-		"soundmark": "/ɑn/ /ðə/ /bɛd/"
+		"soundmark": "/ɑn/ /ðə/ /bɛd/",
+		"vietnamese": "[VI:在床上]"
 	},
 	{
-		"chinese": "你们喜欢在床上睡觉",
 		"english": "you like to sleep on the bed",
-		"soundmark": "/ju/ /laɪk/ /tə/ /slip/ /ɑn/ /ðə/ /bɛd/"
+		"soundmark": "/ju/ /laɪk/ /tə/ /slip/ /ɑn/ /ðə/ /bɛd/",
+		"vietnamese": "Các bạnthích在床上睡觉"
 	},
 	{
-		"chinese": "不",
 		"english": "don't",
-		"soundmark": "/dont/"
+		"soundmark": "/dont/",
+		"vietnamese": "không"
 	},
 	{
-		"chinese": "你们不喜欢在床上睡觉",
 		"english": "you don't like to sleep on the bed",
-		"soundmark": "/ju/ /dont/ /laɪk/ /tə/ /slip/ /ɑn/ /ðə/ /bɛd/"
+		"soundmark": "/ju/ /dont/ /laɪk/ /tə/ /slip/ /ɑn/ /ðə/ /bɛd/",
+		"vietnamese": "Các bạnkhông thích在床上睡觉"
 	},
 	{
-		"chinese": "我",
 		"english": "me",
-		"soundmark": "/mi/"
+		"soundmark": "/mi/",
+		"vietnamese": "Tôi"
 	},
 	{
-		"chinese": "和我一起",
 		"english": "with me",
-		"soundmark": "/wɪð/ /mi/"
+		"soundmark": "/wɪð/ /mi/",
+		"vietnamese": "với tôi一起"
 	},
 	{
-		"chinese": "和我一起跳舞",
 		"english": "to dance with me",
-		"soundmark": "/tə/ /dæns/ /wɪð/ /mi/"
+		"soundmark": "/tə/ /dæns/ /wɪð/ /mi/",
+		"vietnamese": "với tôi一起跳舞"
 	},
 	{
-		"chinese": "你们喜欢和我一起跳舞",
 		"english": "you like to dance with me",
-		"soundmark": "/ju/ /laɪk/ /tə/ /dæns/ /wɪð/ /mi/"
+		"soundmark": "/ju/ /laɪk/ /tə/ /dæns/ /wɪð/ /mi/",
+		"vietnamese": "Các bạnthíchvới tôi一起跳舞"
 	},
 	{
-		"chinese": "你们不喜欢和我一起跳舞",
 		"english": "you don't like to dance with me",
-		"soundmark": "/ju/ /dont/ /laɪk/ /tə/ /dæns/ /wɪð/ /mi/"
+		"soundmark": "/ju/ /dont/ /laɪk/ /tə/ /dæns/ /wɪð/ /mi/",
+		"vietnamese": "Các bạnkhông thíchvới tôi一起跳舞"
 	},
 	{
-		"chinese": "在街头",
 		"english": "in the street",
-		"soundmark": "/ɪn/ /ðə/ /strit/"
+		"soundmark": "/ɪn/ /ðə/ /strit/",
+		"vietnamese": "[VI:在街头]"
 	},
 	{
-		"chinese": "你们不喜欢在街头和我一起跳舞",
 		"english": "you don't like to dance with me in the street",
-		"soundmark": "/ju/ /dont/ /laɪk/ /tə/ /dæns/ /wɪð/ /mi/ /ɪn/ /ðə/ /strit/"
+		"soundmark": "/ju/ /dont/ /laɪk/ /tə/ /dæns/ /wɪð/ /mi/ /ɪn/ /ðə/ /strit/",
+		"vietnamese": "Các bạnkhông thích在街头với tôi一起跳舞"
 	},
 	{
-		"chinese": "在晚上",
 		"english": "at night",
-		"soundmark": "/ət/ /naɪt/"
+		"soundmark": "/ət/ /naɪt/",
+		"vietnamese": "[VI:在晚上]"
 	},
 	{
-		"chinese": "你们不喜欢在晚上在街头和我一起跳舞",
 		"english": "you don't like to dance with me in the street at night",
-		"soundmark": "/ju/ /dont/ /laɪk/ /tə/ /dæns/ /wɪð/ /mi/ /ɪn/ /ðə/ /strit/ /ət/ /naɪt/"
+		"soundmark": "/ju/ /dont/ /laɪk/ /tə/ /dæns/ /wɪð/ /mi/ /ɪn/ /ðə/ /strit/ /ət/ /naɪt/",
+		"vietnamese": "Các bạnkhông thích在晚上在街头với tôi一起跳舞"
 	},
 	{
-		"chinese": "说话",
 		"english": "to talk",
-		"soundmark": "/tə/ /tɔk/"
+		"soundmark": "/tə/ /tɔk/",
+		"vietnamese": "nói chuyện"
 	},
 	{
-		"chinese": "和我",
 		"english": "with me",
-		"soundmark": "/wɪð/ /mi/"
+		"soundmark": "/wɪð/ /mi/",
+		"vietnamese": "với tôi"
 	},
 	{
-		"chinese": "和我说话",
 		"english": "to talk with me",
-		"soundmark": "/tə/ /tɔk/ /wɪð/ /mi/"
+		"soundmark": "/tə/ /tɔk/ /wɪð/ /mi/",
+		"vietnamese": "nói chuyện với tôi"
 	},
 	{
-		"chinese": "他们",
 		"english": "they",
-		"soundmark": "/ðe/"
+		"soundmark": "/ðe/",
+		"vietnamese": "Họ"
 	},
 	{
-		"chinese": "他们喜欢和我说话",
 		"english": "they like to talk with me",
-		"soundmark": "/ðe/ /laɪk/ /tə/ /tɔk/ /wɪð/ /mi/"
+		"soundmark": "/ðe/ /laɪk/ /tə/ /tɔk/ /wɪð/ /mi/",
+		"vietnamese": "Họthíchnói chuyện với tôi"
 	},
 	{
-		"chinese": "他们不喜欢和我说话",
 		"english": "they don't like to talk with me",
-		"soundmark": "/ðe/ /dont/ /laɪk/ /tə/ /tɔk/ /wɪð/ /mi/"
+		"soundmark": "/ðe/ /dont/ /laɪk/ /tə/ /tɔk/ /wɪð/ /mi/",
+		"vietnamese": "Họkhông thíchnói chuyện với tôi"
 	},
 	{
-		"chinese": "和你",
 		"english": "with you",
-		"soundmark": "/wɪð/ /ju/"
+		"soundmark": "/wɪð/ /ju/",
+		"vietnamese": "vàBạn"
 	},
 	{
-		"chinese": "和你一起跳舞",
 		"english": "to dance with you",
-		"soundmark": "/tə/ /dæns/ /wɪð/ /ju/"
+		"soundmark": "/tə/ /dæns/ /wɪð/ /ju/",
+		"vietnamese": "vàBạn一起跳舞"
 	},
 	{
-		"chinese": "他们喜欢和你一起跳舞",
 		"english": "they like to dance with you",
-		"soundmark": "/ðe/ /laɪk/ /tə/ /dæns/ /wɪð/ /ju/"
+		"soundmark": "/ðe/ /laɪk/ /tə/ /dæns/ /wɪð/ /ju/",
+		"vietnamese": "HọthíchvàBạn一起跳舞"
 	},
 	{
-		"chinese": "他们不喜欢和你一起跳舞",
 		"english": "they don't like to dance with you",
-		"soundmark": "/ðe/ /dont/ /laɪk/ /tə/ /dæns/ /wɪð/ /ju/"
+		"soundmark": "/ðe/ /dont/ /laɪk/ /tə/ /dæns/ /wɪð/ /ju/",
+		"vietnamese": "Họkhông thíchvàBạn一起跳舞"
 	},
 	{
-		"chinese": "在街头",
 		"english": "in the street",
-		"soundmark": "/ɪn/ /ðə/ /strit/"
+		"soundmark": "/ɪn/ /ðə/ /strit/",
+		"vietnamese": "[VI:在街头]"
 	},
 	{
-		"chinese": "他们喜欢和你一起在街头跳舞",
 		"english": "they like to dance with you in the street",
-		"soundmark": "/ðe/ /laɪk/ /tə/ /dæns/ /wɪð/ /ju/ /ɪn/ /ðə/ /strit/"
+		"soundmark": "/ðe/ /laɪk/ /tə/ /dæns/ /wɪð/ /ju/ /ɪn/ /ðə/ /strit/",
+		"vietnamese": "HọthíchvàBạn一起在街头跳舞"
 	},
 	{
-		"chinese": "在晚上",
 		"english": "at night",
-		"soundmark": "/ət/ /naɪt/"
+		"soundmark": "/ət/ /naɪt/",
+		"vietnamese": "[VI:在晚上]"
 	},
 	{
-		"chinese": "他们喜欢在晚上和你一起在街头跳舞",
 		"english": "they like to dance with you in the street at night",
-		"soundmark": "/ðe/ /laɪk/ /tə/ /dæns/ /wɪð/ /ju/ /ɪn/ /ðə/ /strit/ /ət/ /naɪt/"
+		"soundmark": "/ðe/ /laɪk/ /tə/ /dæns/ /wɪð/ /ju/ /ɪn/ /ðə/ /strit/ /ət/ /naɪt/",
+		"vietnamese": "Họthích在晚上vàBạn一起在街头跳舞"
 	},
 	{
-		"chinese": "他们不喜欢在晚上和你一起在街头跳舞",
 		"english": "they don't like to dance with you in the street at night",
-		"soundmark": "/ðe/ /dont/ /laɪk/ /tə/ /dæns/ /wɪð/ /ju/ /ɪn/ /ðə/ /strit/ /ət/ /naɪt/"
+		"soundmark": "/ðe/ /dont/ /laɪk/ /tə/ /dæns/ /wɪð/ /ju/ /ɪn/ /ðə/ /strit/ /ət/ /naɪt/",
+		"vietnamese": "Họkhông thích在晚上vàBạn一起在街头跳舞"
 	},
 	{
-		"chinese": "知道",
 		"english": "to know",
-		"soundmark": "/tə/ /no/"
+		"soundmark": "/tə/ /no/",
+		"vietnamese": "biết"
 	},
 	{
-		"chinese": "想要知道",
 		"english": "want to know",
-		"soundmark": "/wɑnt/ /tə/ /no/"
+		"soundmark": "/wɑnt/ /tə/ /no/",
+		"vietnamese": "muốn biết"
 	},
 	{
-		"chinese": "我们想要知道",
 		"english": "we want to know",
-		"soundmark": "/wi/ /wɑnt/ /tə/ /no/"
+		"soundmark": "/wi/ /wɑnt/ /tə/ /no/",
+		"vietnamese": "Chúng tôimuốn biết"
 	},
 	{
-		"chinese": "只是",
 		"english": "just",
-		"soundmark": "/dʒʌst/"
+		"soundmark": "/dʒʌst/",
+		"vietnamese": "只là"
 	},
 	{
-		"chinese": "我们只是想要知道",
 		"english": "we just want to know",
-		"soundmark": "/wi/ /dʒʌst/ /wɑnt/ /tə/ /no/"
+		"soundmark": "/wi/ /dʒʌst/ /wɑnt/ /tə/ /no/",
+		"vietnamese": "Chúng tôi只làmuốn biết"
 	},
 	{
-		"chinese": "是否",
 		"english": "if",
-		"soundmark": "/ɪf/"
+		"soundmark": "/ɪf/",
+		"vietnamese": "có hay không"
 	},
 	{
-		"chinese": "我们只是想要知道是否他们喜欢在晚上和你一起在街头跳舞",
 		"english": "we just want to know if they like to dance with you in the street at night",
-		"soundmark": "/wi/ /dʒʌst/ /wɑnt/ /tə/ /no/ /ɪf/ /ðe/ /laɪk/ /tə/ /dæns/ /wɪð/ /ju/ /ɪn/ /ðə/ /strit/ /ət/ /naɪt/"
+		"soundmark": "/wi/ /dʒʌst/ /wɑnt/ /tə/ /no/ /ɪf/ /ðe/ /laɪk/ /tə/ /dæns/ /wɪð/ /ju/ /ɪn/ /ðə/ /strit/ /ət/ /naɪt/",
+		"vietnamese": "Chúng tôi只làmuốn biếtcó hay khôngHọthích在晚上vàBạn一起在街头跳舞"
 	},
 	{
-		"chinese": "答案",
 		"english": "the answer",
-		"soundmark": "/ði/ /'ænsɚ/"
+		"soundmark": "/ði/ /'ænsɚ/",
+		"vietnamese": "[VI:答案]"
 	},
 	{
-		"chinese": "我们想要知道答案",
 		"english": "we want to know the answer",
-		"soundmark": "/wi/ /wɑnt/ /tə/ /no/ /ði/ /'ænsɚ/"
+		"soundmark": "/wi/ /wɑnt/ /tə/ /no/ /ði/ /'ænsɚ/",
+		"vietnamese": "Chúng tôimuốn biết答案"
 	},
 	{
-		"chinese": "问题",
 		"english": "the question",
-		"soundmark": "/ðə/ /'kwɛstʃən/"
+		"soundmark": "/ðə/ /'kwɛstʃən/",
+		"vietnamese": "[VI:问题]"
 	},
 	{
-		"chinese": "问题的答案",
 		"english": "the answer to the question",
-		"soundmark": "/ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+		"soundmark": "/ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+		"vietnamese": "[VI:问题的答案]"
 	},
 	{
-		"chinese": "我们想要知道问题的答案",
 		"english": "we want to know the answer to the question",
-		"soundmark": "/wi/ /wɑnt/ /tə/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+		"soundmark": "/wi/ /wɑnt/ /tə/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+		"vietnamese": "Chúng tôimuốn biết问题的答案"
 	},
 	{
-		"chinese": "我们不想知道问题的答案",
 		"english": "we don't want to know the answer to the question",
-		"soundmark": "/wi/ /dont/ /wɑnt/ /tə/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+		"soundmark": "/wi/ /dont/ /wɑnt/ /tə/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+		"vietnamese": "Chúng tôikhông muốnbiết问题的答案"
 	},
 	{
-		"chinese": "很快",
 		"english": "soon",
-		"soundmark": "/sun/"
+		"soundmark": "/sun/",
+		"vietnamese": "[VI:很快]"
 	},
 	{
-		"chinese": "可能",
 		"english": "possible",
-		"soundmark": "/'pɑsəbl/"
+		"soundmark": "/'pɑsəbl/",
+		"vietnamese": "[VI:可能]"
 	},
 	{
-		"chinese": "尽快；尽可能地快",
 		"english": "as soon as possible",
-		"soundmark": "/əz/ /sun/ /əz/ /'pɑsəbl/"
+		"soundmark": "/əz/ /sun/ /əz/ /'pɑsəbl/",
+		"vietnamese": "sớm；尽可能地快"
 	},
 	{
-		"chinese": "我们想要尽快知道问题的答案",
 		"english": "we want to know the answer to the question as soon as possible",
-		"soundmark": "/wi/ /wɑnt/ /tə/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/ /əz/ /sun/ /əz/ /'pɑsəbl/"
+		"soundmark": "/wi/ /wɑnt/ /tə/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/ /əz/ /sun/ /əz/ /'pɑsəbl/",
+		"vietnamese": "Chúng tôimuốnsớmbiết问题的答案"
 	},
 	{
-		"chinese": "散步",
 		"english": "to walk",
-		"soundmark": "/tə/ /wɔk/"
+		"soundmark": "/tə/ /wɔk/",
+		"vietnamese": "[VI:散步]"
 	},
 	{
-		"chinese": "在公园里",
 		"english": "in the park",
-		"soundmark": "/ɪn/ /ðə/ /pɑrk/"
+		"soundmark": "/ɪn/ /ðə/ /pɑrk/",
+		"vietnamese": "[VI:在公园里]"
 	},
 	{
-		"chinese": "我们想要在公园里散步",
 		"english": "we want to walk in the park",
-		"soundmark": "/wi/ /wɑnt/ /tə/ /wɔk/ /ɪn/ /ðə/ /pɑrk/"
+		"soundmark": "/wi/ /wɑnt/ /tə/ /wɔk/ /ɪn/ /ðə/ /pɑrk/",
+		"vietnamese": "Chúng tôimuốn在公园里散步"
 	},
 	{
-		"chinese": "每天",
 		"english": "every day",
-		"soundmark": "/'ɛvri/ /de/"
+		"soundmark": "/'ɛvri/ /de/",
+		"vietnamese": "mỗi ngày"
 	},
 	{
-		"chinese": "我们想要每天在公园里散步",
 		"english": "we want to walk in the park every day",
-		"soundmark": "/wi/ /wɑnt/ /tə/ /wɔk/ /ɪn/ /ðə/ /pɑrk/ /'ɛvri/ /de/"
+		"soundmark": "/wi/ /wɑnt/ /tə/ /wɔk/ /ɪn/ /ðə/ /pɑrk/ /'ɛvri/ /de/",
+		"vietnamese": "Chúng tôimuốnmỗi ngày在公园里散步"
 	},
 	{
-		"chinese": "这个食物",
 		"english": "the food",
-		"soundmark": "/ðə/ /fud/"
+		"soundmark": "/ðə/ /fud/",
+		"vietnamese": "thức ăn này"
 	},
 	{
-		"chinese": "这个餐厅",
 		"english": "the restaurant",
-		"soundmark": "/ðə/ /'rɛstrɑnt/"
+		"soundmark": "/ðə/ /'rɛstrɑnt/",
+		"vietnamese": "[VI:这个餐厅]"
 	},
 	{
-		"chinese": "来自这个餐厅",
 		"english": "from the restaurant",
-		"soundmark": "/frʌm/ /ðə/ /'rɛstrɑnt/"
+		"soundmark": "/frʌm/ /ðə/ /'rɛstrɑnt/",
+		"vietnamese": "[VI:来自这个餐厅]"
 	},
 	{
-		"chinese": "来自这个餐厅的食物",
 		"english": "the food from the restaurant",
-		"soundmark": "/ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/"
+		"soundmark": "/ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/",
+		"vietnamese": "来自这个餐厅的thức ăn"
 	},
 	{
-		"chinese": "吃",
 		"english": "to eat",
-		"soundmark": "/tə/ /it/"
+		"soundmark": "/tə/ /it/",
+		"vietnamese": "ăn"
 	},
 	{
-		"chinese": "吃来自这个餐厅的食物",
 		"english": "to eat the food from the restaurant",
-		"soundmark": "/tə/ /it/ /ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/"
+		"soundmark": "/tə/ /it/ /ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/",
+		"vietnamese": "ăn来自这个餐厅的thức ăn"
 	},
 	{
-		"chinese": "我们想吃来自这个餐厅的食物",
 		"english": "we want to eat the food from the restaurant",
-		"soundmark": "/wi/ /wɑnt/ /tə/ /it/ /ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/"
+		"soundmark": "/wi/ /wɑnt/ /tə/ /it/ /ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/",
+		"vietnamese": "Chúng tôi想ăn来自这个餐厅的thức ăn"
 	},
 	{
-		"chinese": "我们不想吃来自这个餐厅的食物",
 		"english": "we don't want to eat the food from the restaurant",
-		"soundmark": "/wi/ /dont/ /wɑnt/ /tə/ /it/ /ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/"
+		"soundmark": "/wi/ /dont/ /wɑnt/ /tə/ /it/ /ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/",
+		"vietnamese": "Chúng tôikhông muốnăn来自这个餐厅的thức ăn"
 	},
 	{
-		"chinese": "工作",
 		"english": "to work",
-		"soundmark": "/tə/ /wɝk/"
+		"soundmark": "/tə/ /wɝk/",
+		"vietnamese": "[VI:工作]"
 	},
 	{
-		"chinese": "这个餐厅",
 		"english": "the restaurant",
-		"soundmark": "/ðə/ /'rɛstrɑnt/"
+		"soundmark": "/ðə/ /'rɛstrɑnt/",
+		"vietnamese": "[VI:这个餐厅]"
 	},
 	{
-		"chinese": "在这个餐厅",
 		"english": "at the restaurant",
-		"soundmark": "/ət/ /ðə/ /'rɛstrɑnt/"
+		"soundmark": "/ət/ /ðə/ /'rɛstrɑnt/",
+		"vietnamese": "[VI:在这个餐厅]"
 	},
 	{
-		"chinese": "在这个餐厅工作",
 		"english": "to work at the restaurant",
-		"soundmark": "/tə/ /wɝk/ /ət/ /ðə/ /'rɛstrɑnt/"
+		"soundmark": "/tə/ /wɝk/ /ət/ /ðə/ /'rɛstrɑnt/",
+		"vietnamese": "[VI:在这个餐厅工作]"
 	},
 	{
-		"chinese": "我们想要在这个餐厅工作",
 		"english": "we want to work at the restaurant",
-		"soundmark": "/wi/ /wɑnt/ /tə/ /wɝk/ /ət/ /ðə/ /'rɛstrɑnt/"
+		"soundmark": "/wi/ /wɑnt/ /tə/ /wɝk/ /ət/ /ðə/ /'rɛstrɑnt/",
+		"vietnamese": "Chúng tôimuốn在这个餐厅工作"
 	},
 	{
-		"chinese": "我们不想在这个餐厅工作",
 		"english": "we don't want to work at the restaurant",
-		"soundmark": "/wi/ /dont/ /wɑnt/ /tə/ /wɝk/ /ət/ /ðə/ /'rɛstrɑnt/"
+		"soundmark": "/wi/ /dont/ /wɑnt/ /tə/ /wɝk/ /ət/ /ðə/ /'rɛstrɑnt/",
+		"vietnamese": "Chúng tôikhông muốn在这个餐厅工作"
 	},
 	{
-		"chinese": "你们想要在这个餐厅工作",
 		"english": "you want to work at the restaurant",
-		"soundmark": "/ju/ /wɑnt/ /tə/ /wɝk/ /ət/ /ðə/ /'rɛstrɑnt/"
+		"soundmark": "/ju/ /wɑnt/ /tə/ /wɝk/ /ət/ /ðə/ /'rɛstrɑnt/",
+		"vietnamese": "Các bạnmuốn在这个餐厅工作"
 	},
 	{
-		"chinese": "你们不想在这个餐厅工作",
 		"english": "you don't want to work at the restaurant",
-		"soundmark": "/ju/ /dont/ /wɑnt/ /tə/ /wɝk/ /ət/ /ðə/ /'rɛstrɑnt/"
+		"soundmark": "/ju/ /dont/ /wɑnt/ /tə/ /wɝk/ /ət/ /ðə/ /'rɛstrɑnt/",
+		"vietnamese": "Các bạnkhông muốn在这个餐厅工作"
 	},
 	{
-		"chinese": "他们想要在这个餐厅工作",
 		"english": "they want to work at the restaurant",
-		"soundmark": "/ðe/ /wɑnt/ /tə/ /wɝk/ /ət/ /ðə/ /'rɛstrɑnt/"
+		"soundmark": "/ðe/ /wɑnt/ /tə/ /wɝk/ /ət/ /ðə/ /'rɛstrɑnt/",
+		"vietnamese": "Họmuốn在这个餐厅工作"
 	},
 	{
-		"chinese": "他们不想在这个餐厅工作",
 		"english": "they don't want to work at the restaurant",
-		"soundmark": "/ðe/ /dont/ /wɑnt/ /tə/ /wɝk/ /ət/ /ðə/ /'rɛstrɑnt/"
+		"soundmark": "/ðe/ /dont/ /wɑnt/ /tə/ /wɝk/ /ət/ /ðə/ /'rɛstrɑnt/",
+		"vietnamese": "Họkhông muốn在这个餐厅工作"
 	},
 	{
-		"chinese": "和你一起",
 		"english": "with you",
-		"soundmark": "/wɪð/ /ju/"
+		"soundmark": "/wɪð/ /ju/",
+		"vietnamese": "vàBạn一起"
 	},
 	{
-		"chinese": "和你一起工作",
 		"english": "to work with you",
-		"soundmark": "/tə/ /wɝk/ /wɪð/ /ju/"
+		"soundmark": "/tə/ /wɝk/ /wɪð/ /ju/",
+		"vietnamese": "vàBạn一起工作"
 	},
 	{
-		"chinese": "他们想要和你一起工作",
 		"english": "they want to work with you",
-		"soundmark": "/ðe/ /wɑnt/ /tə/ /wɝk/ /wɪð/ /ju/"
+		"soundmark": "/ðe/ /wɑnt/ /tə/ /wɝk/ /wɪð/ /ju/",
+		"vietnamese": "HọmuốnvàBạn一起工作"
 	},
 	{
-		"chinese": "他们不想和你一起工作",
 		"english": "they don't want to work with you",
-		"soundmark": "/ðe/ /dont/ /wɑnt/ /tə/ /wɝk/ /wɪð/ /ju/"
+		"soundmark": "/ðe/ /dont/ /wɑnt/ /tə/ /wɝk/ /wɪð/ /ju/",
+		"vietnamese": "Họkhông muốnvàBạn一起工作"
 	},
 	{
-		"chinese": "认为",
 		"english": "think",
-		"soundmark": "/θɪŋk/"
+		"soundmark": "/θɪŋk/",
+		"vietnamese": "[VI:认为]"
 	},
 	{
-		"chinese": "我认为",
 		"english": "I think",
-		"soundmark": "/aɪ/ /θɪŋk/"
+		"soundmark": "/aɪ/ /θɪŋk/",
+		"vietnamese": "Tôi认为"
 	},
 	{
-		"chinese": "我认为他们想要和你一起工作",
 		"english": "I think they want to work with you",
-		"soundmark": "/aɪ/ /θɪŋk/ /ðe/ /wɑnt/ /tə/ /wɝk/ /wɪð/ /ju/"
+		"soundmark": "/aɪ/ /θɪŋk/ /ðe/ /wɑnt/ /tə/ /wɝk/ /wɪð/ /ju/",
+		"vietnamese": "Tôi认为HọmuốnvàBạn一起工作"
 	},
 	{
-		"chinese": "我认为他们不想和你一起工作",
 		"english": "I don't think they want to work with you",
-		"soundmark": "/aɪ/ /dont/ /θɪŋk/ /ðe/ /wɑnt/ /tə/ /wɝk/ /wɪð/ /ju/"
+		"soundmark": "/aɪ/ /dont/ /θɪŋk/ /ðe/ /wɑnt/ /tə/ /wɝk/ /wɪð/ /ju/",
+		"vietnamese": "Tôi认为Họkhông muốnvàBạn一起工作"
 	},
 	{
-		"chinese": "问题",
 		"english": "the question",
-		"soundmark": "/ðə/ /'kwɛstʃən/"
+		"soundmark": "/ðə/ /'kwɛstʃən/",
+		"vietnamese": "[VI:问题]"
 	},
 	{
-		"chinese": "问题（们）",
 		"english": "the questions",
-		"soundmark": "/ðə/ /'kwestʃənz/"
+		"soundmark": "/ðə/ /'kwestʃənz/",
+		"vietnamese": "[VI:问题（们）]"
 	},
 	{
-		"chinese": "回答",
 		"english": "to answer",
-		"soundmark": "/tə/ /'ænsɚ/"
+		"soundmark": "/tə/ /'ænsɚ/",
+		"vietnamese": "[VI:回答]"
 	},
 	{
-		"chinese": "回答问题",
 		"english": "to answer the questions",
-		"soundmark": "/tə/ /'ænsɚ/ /ðə/ /'kwestʃənz/"
+		"soundmark": "/tə/ /'ænsɚ/ /ðə/ /'kwestʃənz/",
+		"vietnamese": "[VI:回答问题]"
 	},
 	{
-		"chinese": "我们需要回答问题",
 		"english": "we need to answer the questions",
-		"soundmark": "/wi/ /nid/ /tə/ /'ænsɚ/ /ðə/ /'kwestʃənz/"
+		"soundmark": "/wi/ /nid/ /tə/ /'ænsɚ/ /ðə/ /'kwestʃənz/",
+		"vietnamese": "Chúng tôicần回答问题"
 	},
 	{
-		"chinese": "关于",
 		"english": "about",
-		"soundmark": "/ə'baʊt/"
+		"soundmark": "/ə'baʊt/",
+		"vietnamese": "[VI:关于]"
 	},
 	{
-		"chinese": "关于工作",
 		"english": "about the work",
-		"soundmark": "/ə'baʊt/ /ðə/ /wɝk/"
+		"soundmark": "/ə'baʊt/ /ðə/ /wɝk/",
+		"vietnamese": "[VI:关于工作]"
 	},
 	{
-		"chinese": "我们需要回答关于工作的问题",
 		"english": "we need to answer the questions about the work",
-		"soundmark": "/wi/ /nid/ /tə/ /'ænsɚ/ /ðə/ /'kwestʃənz/ /ə'baʊt/ /ðə/ /wɝk/"
+		"soundmark": "/wi/ /nid/ /tə/ /'ænsɚ/ /ðə/ /'kwestʃənz/ /ə'baʊt/ /ðə/ /wɝk/",
+		"vietnamese": "Chúng tôicần回答关于工作的问题"
 	},
 	{
-		"chinese": "我们不需要回答关于工作的问题",
 		"english": "we don't need to answer the questions about the work",
-		"soundmark": "/wi/ /dont/ /nid/ /tə/ /'ænsɚ/ /ðə/ /'kwestʃənz/ /ə'baʊt/ /ðə/ /wɝk/"
+		"soundmark": "/wi/ /dont/ /nid/ /tə/ /'ænsɚ/ /ðə/ /'kwestʃənz/ /ə'baʊt/ /ðə/ /wɝk/",
+		"vietnamese": "Chúng tôikhôngcần回答关于工作的问题"
 	},
 	{
-		"chinese": "你们需要回答关于工作的问题",
 		"english": "you need to answer the questions about the work",
-		"soundmark": "/ju/ /nid/ /tə/ /'ænsɚ/ /ðə/ /'kwestʃənz/ /ə'baʊt/ /ðə/ /wɝk/"
+		"soundmark": "/ju/ /nid/ /tə/ /'ænsɚ/ /ðə/ /'kwestʃənz/ /ə'baʊt/ /ðə/ /wɝk/",
+		"vietnamese": "Các bạncần回答关于工作的问题"
 	},
 	{
-		"chinese": "很快",
 		"english": "soon",
-		"soundmark": "/sun/"
+		"soundmark": "/sun/",
+		"vietnamese": "[VI:很快]"
 	},
 	{
-		"chinese": "可能",
 		"english": "possible",
-		"soundmark": "/'pɑsəbl/"
+		"soundmark": "/'pɑsəbl/",
+		"vietnamese": "[VI:可能]"
 	},
 	{
-		"chinese": "尽快；尽可能地快",
 		"english": "as soon as possible",
-		"soundmark": "/əz/ /sun/ /əz/ /'pɑsəbl/"
+		"soundmark": "/əz/ /sun/ /əz/ /'pɑsəbl/",
+		"vietnamese": "sớm；尽可能地快"
 	},
 	{
-		"chinese": "你们需要尽快回答关于工作的问题",
 		"english": "you need to answer the questions about the work as soon as possible",
-		"soundmark": "/ju/ /nid/ /tə/ /'ænsɚ/ /ðə/ /'kwestʃənz/ /ə'baʊt/ /ðə/ /wɝk/ /əz/ /sun/ /əz/ /'pɑsəbl/"
+		"soundmark": "/ju/ /nid/ /tə/ /'ænsɚ/ /ðə/ /'kwestʃənz/ /ə'baʊt/ /ðə/ /wɝk/ /əz/ /sun/ /əz/ /'pɑsəbl/",
+		"vietnamese": "Các bạncầnsớm回答关于工作的问题"
 	},
 	{
-		"chinese": "重要的",
 		"english": "important",
-		"soundmark": "/ɪm'pɔrtnt/"
+		"soundmark": "/ɪm'pɔrtnt/",
+		"vietnamese": "quan trọng"
 	},
 	{
-		"chinese": "它们是重要的",
 		"english": "they are important",
-		"soundmark": "/ðe/ /ɚ/ /ɪm'pɔrtnt/"
+		"soundmark": "/ðe/ /ɚ/ /ɪm'pɔrtnt/",
+		"vietnamese": "Chúnglàquan trọng"
 	},
 	{
-		"chinese": "非常",
 		"english": "very",
-		"soundmark": "/ˈvɛri/"
+		"soundmark": "/ˈvɛri/",
+		"vietnamese": "rất"
 	},
 	{
-		"chinese": "它们是非常重要的",
 		"english": "they are very important",
-		"soundmark": "/ðe/ /ɚ/ /ˈvɛri/ /ɪm'pɔrtnt/"
+		"soundmark": "/ðe/ /ɚ/ /ˈvɛri/ /ɪm'pɔrtnt/",
+		"vietnamese": "Chúnglàrấtquan trọng"
 	},
 	{
-		"chinese": "因为",
 		"english": "because",
-		"soundmark": "/bɪ'kɔz/"
+		"soundmark": "/bɪ'kɔz/",
+		"vietnamese": "bởi vì"
 	},
 	{
-		"chinese": "你们需要尽快回答关于工作的问题因为它们是非常重要的",
 		"english": "you need to answer the questions about the work as soon as possible because they are very important",
-		"soundmark": "/ju/ /nid/ /tə/ /'ænsɚ/ /ðə/ /'kwestʃənz/ /ə'baʊt/ /ðə/ /wɝk/ /əz/ /sun/ /əz/ /'pɑsəbl/ /bɪ'kɔz/ /ðe/ /ɚ/ /ˈvɛri/ /ɪm'pɔrtnt/"
+		"soundmark": "/ju/ /nid/ /tə/ /'ænsɚ/ /ðə/ /'kwestʃənz/ /ə'baʊt/ /ðə/ /wɝk/ /əz/ /sun/ /əz/ /'pɑsəbl/ /bɪ'kɔz/ /ðe/ /ɚ/ /ˈvɛri/ /ɪm'pɔrtnt/",
+		"vietnamese": "Các bạncầnsớm回答关于工作的问题bởi vìChúnglàrấtquan trọng"
 	},
 	{
-		"chinese": "离开",
 		"english": "to leave",
-		"soundmark": "/tə/ /liv/"
+		"soundmark": "/tə/ /liv/",
+		"vietnamese": "[VI:离开]"
 	},
 	{
-		"chinese": "我们必须离开",
 		"english": "we have to leave",
-		"soundmark": "/wi/ /hæv/ /tə/ /liv/"
+		"soundmark": "/wi/ /hæv/ /tə/ /liv/",
+		"vietnamese": "Chúng tôiphải离开"
 	},
 	{
-		"chinese": "现在",
 		"english": "now",
-		"soundmark": "/naʊ/"
+		"soundmark": "/naʊ/",
+		"vietnamese": "bây giờ"
 	},
 	{
-		"chinese": "我们必须现在离开",
 		"english": "we have to leave now",
-		"soundmark": "/wi/ /hæv/ /tə/ /liv/ /naʊ/"
+		"soundmark": "/wi/ /hæv/ /tə/ /liv/ /naʊ/",
+		"vietnamese": "Chúng tôiphảibây giờ离开"
 	},
 	{
-		"chinese": "我们不必现在离开",
 		"english": "we don't have to leave now",
-		"soundmark": "/wi/ /dont/ /hæv/ /tə/ /liv/ /naʊ/"
+		"soundmark": "/wi/ /dont/ /hæv/ /tə/ /liv/ /naʊ/",
+		"vietnamese": "Chúng tôikhông必bây giờ离开"
 	},
 	{
-		"chinese": "你们必须现在离开",
 		"english": "you have to leave now",
-		"soundmark": "/ju/ /hæv/ /tə/ /liv/ /naʊ/"
+		"soundmark": "/ju/ /hæv/ /tə/ /liv/ /naʊ/",
+		"vietnamese": "Các bạnphảibây giờ离开"
 	},
 	{
-		"chinese": "你们不必现在离开",
 		"english": "you don't have to leave now",
-		"soundmark": "/ju/ /dont/ /hæv/ /tə/ /liv/ /naʊ/"
+		"soundmark": "/ju/ /dont/ /hæv/ /tə/ /liv/ /naʊ/",
+		"vietnamese": "Các bạnkhông必bây giờ离开"
 	},
 	{
-		"chinese": "这个餐厅",
 		"english": "the restaurant",
-		"soundmark": "/ðə/ /'rɛstrɑnt/"
+		"soundmark": "/ðə/ /'rɛstrɑnt/",
+		"vietnamese": "[VI:这个餐厅]"
 	},
 	{
-		"chinese": "你们必须现在离开这个餐厅",
 		"english": "you have to leave the restaurant now",
-		"soundmark": "/ju/ /hæv/ /tə/ /liv/ /ðə/ /'rɛstrɑnt/ /naʊ/"
+		"soundmark": "/ju/ /hæv/ /tə/ /liv/ /ðə/ /'rɛstrɑnt/ /naʊ/",
+		"vietnamese": "Các bạnphảibây giờ离开这个餐厅"
 	},
 	{
-		"chinese": "你们不必现在离开这个餐厅",
 		"english": "you don't have to leave the restaurant now",
-		"soundmark": "/ju/ /dont/ /hæv/ /tə/ /liv/ /ðə/ /'rɛstrɑnt/ /naʊ/"
+		"soundmark": "/ju/ /dont/ /hæv/ /tə/ /liv/ /ðə/ /'rɛstrɑnt/ /naʊ/",
+		"vietnamese": "Các bạnkhông必bây giờ离开这个餐厅"
 	},
 	{
-		"chinese": "跳舞",
 		"english": "to dance",
-		"soundmark": "/tə/ /dæns/"
+		"soundmark": "/tə/ /dæns/",
+		"vietnamese": "[VI:跳舞]"
 	},
 	{
-		"chinese": "可以",
 		"english": "can",
-		"soundmark": "/kæn/"
+		"soundmark": "/kæn/",
+		"vietnamese": "[VI:可以]"
 	},
 	{
-		"chinese": "我们可以",
 		"english": "we can",
-		"soundmark": "/wi/ /kæn/"
+		"soundmark": "/wi/ /kæn/",
+		"vietnamese": "Chúng tôi可以"
 	},
 	{
-		"chinese": "我们可以跳舞",
 		"english": "we can dance",
-		"soundmark": "/wi/ /kæn/ /dæns/"
+		"soundmark": "/wi/ /kæn/ /dæns/",
+		"vietnamese": "Chúng tôi可以跳舞"
 	},
 	{
-		"chinese": "在街头",
 		"english": "in the street",
-		"soundmark": "/ɪn/ /ðə/ /strit/"
+		"soundmark": "/ɪn/ /ðə/ /strit/",
+		"vietnamese": "[VI:在街头]"
 	},
 	{
-		"chinese": "我们可以在街头跳舞",
 		"english": "we can dance in the street",
-		"soundmark": "/wi/ /kæn/ /dæns/ /ɪn/ /ðə/ /strit/"
+		"soundmark": "/wi/ /kæn/ /dæns/ /ɪn/ /ðə/ /strit/",
+		"vietnamese": "Chúng tôi可以在街头跳舞"
 	},
 	{
-		"chinese": "在晚上",
 		"english": "at night",
-		"soundmark": "/ət/ /naɪt/"
+		"soundmark": "/ət/ /naɪt/",
+		"vietnamese": "[VI:在晚上]"
 	},
 	{
-		"chinese": "我们可以晚上在街头跳舞",
 		"english": "we can dance in the street at night",
-		"soundmark": "/wi/ /kæn/ /dæns/ /ɪn/ /ðə/ /strit/ /ət/ /naɪt/"
+		"soundmark": "/wi/ /kæn/ /dæns/ /ɪn/ /ðə/ /strit/ /ət/ /naɪt/",
+		"vietnamese": "Chúng tôi可以晚上在街头跳舞"
 	},
 	{
-		"chinese": "我们不可以晚上在街头跳舞",
 		"english": "we can not dance in the street at night",
-		"soundmark": "/wi/ /kæn/ /nɑt/ /dæns/ /ɪn/ /ðə/ /strit/ /ət/ /naɪt/"
+		"soundmark": "/wi/ /kæn/ /nɑt/ /dæns/ /ɪn/ /ðə/ /strit/ /ət/ /naɪt/",
+		"vietnamese": "Chúng tôikhông可以晚上在街头跳舞"
 	},
 	{
-		"chinese": "工作",
 		"english": "to work",
-		"soundmark": "/tə/ /wɝk/"
+		"soundmark": "/tə/ /wɝk/",
+		"vietnamese": "[VI:工作]"
 	},
 	{
-		"chinese": "我们可以工作",
 		"english": "we can work",
-		"soundmark": "/wi/ /kæn/ /wɝk/"
+		"soundmark": "/wi/ /kæn/ /wɝk/",
+		"vietnamese": "Chúng tôi可以工作"
 	},
 	{
-		"chinese": "这个餐厅",
 		"english": "the restaurant",
-		"soundmark": "/ðə/ /'rɛstrɑnt/"
+		"soundmark": "/ðə/ /'rɛstrɑnt/",
+		"vietnamese": "[VI:这个餐厅]"
 	},
 	{
-		"chinese": "在这个餐厅",
 		"english": "at the restaurant",
-		"soundmark": "/ət/ /ðə/ /'rɛstrɑnt/"
+		"soundmark": "/ət/ /ðə/ /'rɛstrɑnt/",
+		"vietnamese": "[VI:在这个餐厅]"
 	},
 	{
-		"chinese": "我们可以在这个餐厅工作",
 		"english": "we can work at the restaurant",
-		"soundmark": "/wi/ /kæn/ /wɝk/ /ət/ /ðə/ /'rɛstrɑnt/"
+		"soundmark": "/wi/ /kæn/ /wɝk/ /ət/ /ðə/ /'rɛstrɑnt/",
+		"vietnamese": "Chúng tôi可以在这个餐厅工作"
 	},
 	{
-		"chinese": "我们不可以在这个餐厅工作",
 		"english": "we can not work at the restaurant",
-		"soundmark": "/wi/ /kæn/ /nɑt/ /wɝk/ /ət/ /ðə/ /'rɛstrɑnt/"
+		"soundmark": "/wi/ /kæn/ /nɑt/ /wɝk/ /ət/ /ðə/ /'rɛstrɑnt/",
+		"vietnamese": "Chúng tôikhông可以在这个餐厅工作"
 	},
 	{
-		"chinese": "散步",
 		"english": "to walk",
-		"soundmark": "/tə/ /wɔk/"
+		"soundmark": "/tə/ /wɔk/",
+		"vietnamese": "[VI:散步]"
 	},
 	{
-		"chinese": "我们可以散步",
 		"english": "we can walk",
-		"soundmark": "/wi/ /kæn/ /wɔk/"
+		"soundmark": "/wi/ /kæn/ /wɔk/",
+		"vietnamese": "Chúng tôi可以散步"
 	},
 	{
-		"chinese": "在公园里",
 		"english": "in the park",
-		"soundmark": "/ɪn/ /ðə/ /pɑrk/"
+		"soundmark": "/ɪn/ /ðə/ /pɑrk/",
+		"vietnamese": "[VI:在公园里]"
 	},
 	{
-		"chinese": "我们可以在公园里散步",
 		"english": "we can walk in the park",
-		"soundmark": "/wi/ /kæn/ /wɔk/ /ɪn/ /ðə/ /pɑrk/"
+		"soundmark": "/wi/ /kæn/ /wɔk/ /ɪn/ /ðə/ /pɑrk/",
+		"vietnamese": "Chúng tôi可以在公园里散步"
 	},
 	{
-		"chinese": "每天",
 		"english": "every day",
-		"soundmark": "/'ɛvri/ /de/"
+		"soundmark": "/'ɛvri/ /de/",
+		"vietnamese": "mỗi ngày"
 	},
 	{
-		"chinese": "我们可以每天在公园里散步",
 		"english": "we can walk in the park every day",
-		"soundmark": "/wi/ /kæn/ /wɔk/ /ɪn/ /ðə/ /pɑrk/ /'ɛvri/ /de/"
+		"soundmark": "/wi/ /kæn/ /wɔk/ /ɪn/ /ðə/ /pɑrk/ /'ɛvri/ /de/",
+		"vietnamese": "Chúng tôi可以mỗi ngày在公园里散步"
 	},
 	{
-		"chinese": "我们不可以每天在公园里散步",
 		"english": "we can not walk in the park every day",
-		"soundmark": "/wi/ /kæn/ /nɑt/ /wɔk/ /ɪn/ /ðə/ /pɑrk/ /'ɛvri/ /de/"
+		"soundmark": "/wi/ /kæn/ /nɑt/ /wɔk/ /ɪn/ /ðə/ /pɑrk/ /'ɛvri/ /de/",
+		"vietnamese": "Chúng tôikhông可以mỗi ngày在公园里散步"
 	},
 	{
-		"chinese": "知道",
 		"english": "to know",
-		"soundmark": "/tə/ /no/"
+		"soundmark": "/tə/ /no/",
+		"vietnamese": "biết"
 	},
 	{
-		"chinese": "应该",
 		"english": "should",
-		"soundmark": "/ʃʊd/"
+		"soundmark": "/ʃʊd/",
+		"vietnamese": "[VI:应该]"
 	},
 	{
-		"chinese": "我们应该",
 		"english": "we should",
-		"soundmark": "/wi/ /ʃʊd/"
+		"soundmark": "/wi/ /ʃʊd/",
+		"vietnamese": "Chúng tôi应该"
 	},
 	{
-		"chinese": "我们应该知道",
 		"english": "we should know",
-		"soundmark": "/wi/ /ʃʊd/ /no/"
+		"soundmark": "/wi/ /ʃʊd/ /no/",
+		"vietnamese": "Chúng tôi应该biết"
 	},
 	{
-		"chinese": "答案",
 		"english": "the answer",
-		"soundmark": "/ði/ /'ænsɚ/"
+		"soundmark": "/ði/ /'ænsɚ/",
+		"vietnamese": "[VI:答案]"
 	},
 	{
-		"chinese": "我们应该知道答案",
 		"english": "we should know the answer",
-		"soundmark": "/wi/ /ʃʊd/ /no/ /ði/ /'ænsɚ/"
+		"soundmark": "/wi/ /ʃʊd/ /no/ /ði/ /'ænsɚ/",
+		"vietnamese": "Chúng tôi应该biết答案"
 	},
 	{
-		"chinese": "这个问题",
 		"english": "the question",
-		"soundmark": "/ðə/ /'kwɛstʃən/"
+		"soundmark": "/ðə/ /'kwɛstʃən/",
+		"vietnamese": "[VI:这个问题]"
 	},
 	{
-		"chinese": "这个问题的答案",
 		"english": "the answer to the question",
-		"soundmark": "/ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+		"soundmark": "/ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+		"vietnamese": "[VI:这个问题的答案]"
 	},
 	{
-		"chinese": "我们应该知道这个问题的答案",
 		"english": "we should know the answer to the question",
-		"soundmark": "/wi/ /ʃʊd/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+		"soundmark": "/wi/ /ʃʊd/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+		"vietnamese": "Chúng tôi应该biết这个问题的答案"
 	},
 	{
-		"chinese": "我们不应该知道这个问题的答案",
 		"english": "we should not know the answer to the question",
-		"soundmark": "/wi/ /ʃʊd/ /nɑt/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+		"soundmark": "/wi/ /ʃʊd/ /nɑt/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+		"vietnamese": "Chúng tôikhông应该biết这个问题的答案"
 	},
 	{
-		"chinese": "我认为",
 		"english": "I think",
-		"soundmark": "/aɪ/ /θɪŋk/"
+		"soundmark": "/aɪ/ /θɪŋk/",
+		"vietnamese": "Tôi认为"
 	},
 	{
-		"chinese": "我认为我们应该知道这个问题的答案",
 		"english": "I think we should know the answer to the question",
-		"soundmark": "/aɪ/ /θɪŋk/ /wi/ /ʃʊd/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+		"soundmark": "/aɪ/ /θɪŋk/ /wi/ /ʃʊd/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+		"vietnamese": "Tôi认为Chúng tôi应该biết这个问题的答案"
 	},
 	{
-		"chinese": "我认为我们不应该知道这个问题的答案",
 		"english": "I don't think we should know the answer to the question",
-		"soundmark": "/aɪ/ /dont/ /θɪŋk/ /wi/ /ʃʊd/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+		"soundmark": "/aɪ/ /dont/ /θɪŋk/ /wi/ /ʃʊd/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+		"vietnamese": "Tôi认为Chúng tôikhông应该biết这个问题的答案"
 	},
 	{
-		"chinese": "应该知道",
 		"english": "should know",
-		"soundmark": "/ʃʊd/ /no/"
+		"soundmark": "/ʃʊd/ /no/",
+		"vietnamese": "应该biết"
 	},
 	{
-		"chinese": "你们应该知道",
 		"english": "you should know",
-		"soundmark": "/ju/ /ʃʊd/ /no/"
+		"soundmark": "/ju/ /ʃʊd/ /no/",
+		"vietnamese": "Các bạn应该biết"
 	},
 	{
-		"chinese": "原因",
 		"english": "the reason",
-		"soundmark": "/ðə/ /ˈrizən/"
+		"soundmark": "/ðə/ /ˈrizən/",
+		"vietnamese": "[VI:原因]"
 	},
 	{
-		"chinese": "你们应该知道原因",
 		"english": "you should know the reason",
-		"soundmark": "/ju/ /ʃʊd/ /no/ /ðə/ /ˈrizən/"
+		"soundmark": "/ju/ /ʃʊd/ /no/ /ðə/ /ˈrizən/",
+		"vietnamese": "Các bạn应该biết原因"
 	},
 	{
-		"chinese": "这个食物",
 		"english": "the food",
-		"soundmark": "/ðə/ /fud/"
+		"soundmark": "/ðə/ /fud/",
+		"vietnamese": "thức ăn này"
 	},
 	{
-		"chinese": "这个餐厅",
 		"english": "the restaurant",
-		"soundmark": "/ðə/ /'rɛstrɑnt/"
+		"soundmark": "/ðə/ /'rɛstrɑnt/",
+		"vietnamese": "[VI:这个餐厅]"
 	},
 	{
-		"chinese": "来自这个餐厅的食物",
 		"english": "the food from the restaurant",
-		"soundmark": "/ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/"
+		"soundmark": "/ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/",
+		"vietnamese": "来自这个餐厅的thức ăn"
 	},
 	{
-		"chinese": "吃来自这个餐厅的食物",
 		"english": "to eat the food from the restaurant",
-		"soundmark": "/tə/ /it/ /ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/"
+		"soundmark": "/tə/ /it/ /ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/",
+		"vietnamese": "ăn来自这个餐厅的thức ăn"
 	},
 	{
-		"chinese": "我们想要",
 		"english": "we want",
-		"soundmark": "/wi/ /wɑnt/"
+		"soundmark": "/wi/ /wɑnt/",
+		"vietnamese": "Chúng tôimuốn"
 	},
 	{
-		"chinese": "吃",
 		"english": "to eat",
-		"soundmark": "/tə/ /it/"
+		"soundmark": "/tə/ /it/",
+		"vietnamese": "ăn"
 	},
 	{
-		"chinese": "我们想要吃来自这个餐厅的食物",
 		"english": "we want to eat the food from the restaurant",
-		"soundmark": "/wi/ /wɑnt/ /tə/ /it/ /ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/"
+		"soundmark": "/wi/ /wɑnt/ /tə/ /it/ /ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/",
+		"vietnamese": "Chúng tôimuốnăn来自这个餐厅的thức ăn"
 	},
 	{
-		"chinese": "我们不想吃来自这个餐厅的食物",
 		"english": "we don't want to eat the food from the restaurant",
-		"soundmark": "/wi/ /dont/ /wɑnt/ /tə/ /it/ /ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/"
+		"soundmark": "/wi/ /dont/ /wɑnt/ /tə/ /it/ /ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/",
+		"vietnamese": "Chúng tôikhông muốnăn来自这个餐厅的thức ăn"
 	},
 	{
-		"chinese": "为什么",
 		"english": "why",
-		"soundmark": "/waɪ/"
+		"soundmark": "/waɪ/",
+		"vietnamese": "[VI:为什么]"
 	},
 	{
-		"chinese": "你应该知道原因为什么我们不想吃来自这个餐厅的食物",
 		"english": "you should know the reason why we don't want to eat the food from the restaurant",
-		"soundmark": "/ju/ /ʃʊd/ /no/ /ðə/ /ˈrizən/ /waɪ/ /wi/ /dont/ /wɑnt/ /tə/ /it/ /ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/"
+		"soundmark": "/ju/ /ʃʊd/ /no/ /ðə/ /ˈrizən/ /waɪ/ /wi/ /dont/ /wɑnt/ /tə/ /it/ /ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/",
+		"vietnamese": "Bạn应该biết原bởi vì什么Chúng tôikhông muốnăn来自这个餐厅的thức ăn"
 	},
 	{
-		"chinese": "我认为",
 		"english": "I think",
-		"soundmark": "/aɪ/ /θɪŋk/"
+		"soundmark": "/aɪ/ /θɪŋk/",
+		"vietnamese": "Tôi认为"
 	},
 	{
-		"chinese": "我认为你应该知道原因为什么我们不想吃来自这个餐厅的食物",
 		"english": "I think you should know the reason why we don't want to eat the food from the restaurant",
-		"soundmark": "/aɪ/ /θɪŋk/ /ju/ /ʃʊd/ /no/ /ðə/ /ˈrizən/ /waɪ/ /wi/ /dont/ /wɑnt/ /tə/ /it/ /ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/"
+		"soundmark": "/aɪ/ /θɪŋk/ /ju/ /ʃʊd/ /no/ /ðə/ /ˈrizən/ /waɪ/ /wi/ /dont/ /wɑnt/ /tə/ /it/ /ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/",
+		"vietnamese": "Tôi认为Bạn应该biết原bởi vì什么Chúng tôikhông muốnăn来自这个餐厅的thức ăn"
 	}
 ]

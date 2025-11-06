@@ -1,4 +1,4 @@
-<!-- 用于 logto 的登录回调 -->
+<!-- 用于 logto 的Đăng nhập回调 -->
 <script setup lang="ts">
 import { useHandleSignInCallback } from "@logto/vue";
 import { navigateTo } from "nuxt/app";
@@ -17,7 +17,7 @@ const { isLoading } = useHandleSignInCallback(async () => {
   const res = await fetchCurrentUser();
   userStore.initUser(res);
 
-  // 新用户并且没有用户名需要设置
+  // 新Người dùng并且没有Người dùng名需要Cài đặt
   if (userStore.isNewUser()) {
     isShowSettingUsernameModal.value = true;
   } else {
@@ -47,9 +47,9 @@ function useUsername() {
   function checkUsername() {
     const minLength = 2;
     const errorMessage = {
-      empty: "用户名不能为空",
-      minLength: `用户名至少输入 ${minLength} 个字符`,
-      invalid: "用户名只能包含字母、数字和下划线，且首字符必须是字母或下划线",
+      empty: "Người dùng名不能为空",
+      minLength: `Người dùng名至少输入 ${minLength} cái字符`,
+      invalid: "Người dùng名只能包含字母、数字和下划线，且首字符必须是字母或下划线",
     };
 
     if (!username.value) {
@@ -88,11 +88,11 @@ function useUsername() {
     </template>
     <template v-else-if="isShowSettingUsernameModal">
       <CommonModal :show-modal="true">
-        <h3 class="mb-4 text-lg font-bold">设置用户名</h3>
+        <h3 class="mb-4 text-lg font-bold">Cài đặtNgười dùng名</h3>
         <input
           v-model="username"
           type="text"
-          placeholder="请输入用户名"
+          placeholder="Vui lòng nhậpNgười dùng名"
           class="input input-sm input-bordered w-full"
           maxlength="20"
           @keydown.enter="handleChangeUsername"
@@ -103,7 +103,7 @@ function useUsername() {
             type="submit"
             @click="handleChangeUsername"
           >
-            确定
+            Xác nhận
             <span
               v-if="isLoadingFetchUserSetup"
               class="loading loading-spinner loading-lg"

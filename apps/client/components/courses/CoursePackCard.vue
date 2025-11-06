@@ -48,7 +48,7 @@ defineEmits<{
   @apply flex cursor-pointer flex-col overflow-hidden rounded-md rounded-t-xl border bg-white transition-all duration-300 dark:border-gray-700 dark:bg-gray-900;
   @apply hover:text-purple-500 hover:shadow-even-lg hover:shadow-gray-300 hover:dark:text-purple-400 dark:hover:shadow-gray-500;
   width: 100%;
-  max-width: 100%; /* 在移动端允许卡片占满整个宽度 */
+  max-width: 100%; /* 在移动端允许卡片占满整cái宽度 */
   height: 100%;
 }
 

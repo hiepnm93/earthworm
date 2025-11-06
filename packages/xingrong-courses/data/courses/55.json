@@ -1,637 +1,637 @@
 [
 	{
-		"chinese": "解决",
 		"english": "to solve",
-		"soundmark": "/tə/ /sɔlv/"
+		"soundmark": "/tə/ /sɔlv/",
+		"vietnamese": "[VI:解决]"
 	},
 	{
-		"chinese": "解决(ed形式)",
 		"english": "solved",
-		"soundmark": "/sɔlvd/"
+		"soundmark": "/sɔlvd/",
+		"vietnamese": "[VI:解决(ed形式)]"
 	},
 	{
-		"chinese": "被解决",
 		"english": "be solved",
-		"soundmark": "/bi/ /sɔlvd/"
+		"soundmark": "/bi/ /sɔlvd/",
+		"vietnamese": "[VI:被解决]"
 	},
 	{
-		"chinese": "那个问题",
 		"english": "the problem",
-		"soundmark": "/ðə/ /'prɑbləm/"
+		"soundmark": "/ðə/ /'prɑbləm/",
+		"vietnamese": "[VI:那个问题]"
 	},
 	{
-		"chinese": "那个问题被解决",
 		"english": "the problem is solved",
-		"soundmark": "/ðə/ /'prɑbləm/ /ɪz/ /sɔlvd/"
+		"soundmark": "/ðə/ /'prɑbləm/ /ɪz/ /sɔlvd/",
+		"vietnamese": "[VI:那个问题被解决]"
 	},
 	{
-		"chinese": "(已经)被解决",
 		"english": "has been solved",
-		"soundmark": "/hæz/ /bɪn/ /sɔlvd/"
+		"soundmark": "/hæz/ /bɪn/ /sɔlvd/",
+		"vietnamese": "[VI:(已经)被解决]"
 	},
 	{
-		"chinese": "那个问题(已经)被解决",
 		"english": "the problem has been solved",
-		"soundmark": "/ðə/ /'prɑbləm/ /hæz/ /bɪn/ /sɔlvd/"
+		"soundmark": "/ðə/ /'prɑbləm/ /hæz/ /bɪn/ /sɔlvd/",
+		"vietnamese": "[VI:那个问题(已经)被解决]"
 	},
 	{
-		"chinese": "(过去已经)被解决",
 		"english": "had been solved",
-		"soundmark": "/hæd/ /bɪn/ /sɔlvd/"
+		"soundmark": "/hæd/ /bɪn/ /sɔlvd/",
+		"vietnamese": "[VI:(过去已经)被解决]"
 	},
 	{
-		"chinese": "那个问题(过去已经)被解决",
 		"english": "the problem had been solved",
-		"soundmark": "/ðə/ /'prɑbləm/ /hæd/ /bɪn/ /sɔlvd/"
+		"soundmark": "/ðə/ /'prɑbləm/ /hæd/ /bɪn/ /sɔlvd/",
+		"vietnamese": "[VI:那个问题(过去已经)被解决]"
 	},
 	{
-		"chinese": "通过他",
 		"english": "by him",
-		"soundmark": "/baɪ/ /hɪm/"
+		"soundmark": "/baɪ/ /hɪm/",
+		"vietnamese": "通过Anh ấy"
 	},
 	{
-		"chinese": "那个问题(过去已经)通过他被解决",
 		"english": "the problem had been solved by him",
-		"soundmark": "/ðə/ /'prɑbləm/ /hæd/ /bɪn/ /sɔlvd/ /baɪ/ /hɪm/"
+		"soundmark": "/ðə/ /'prɑbləm/ /hæd/ /bɪn/ /sɔlvd/ /baɪ/ /hɪm/",
+		"vietnamese": "那个问题(过去已经)通过Anh ấy被解决"
 	},
 	{
-		"chinese": "其他",
 		"english": "else",
-		"soundmark": "/ɛls/"
+		"soundmark": "/ɛls/",
+		"vietnamese": "其Anh ấy"
 	},
 	{
-		"chinese": "任何人",
 		"english": "anyone",
-		"soundmark": "/'ɛnɪwʌn/"
+		"soundmark": "/'ɛnɪwʌn/",
+		"vietnamese": "[VI:任何人]"
 	},
 	{
-		"chinese": "其他任何人",
 		"english": "anyone else",
-		"soundmark": "/'ɛnɪwʌn/ /ɛls/"
+		"soundmark": "/'ɛnɪwʌn/ /ɛls/",
+		"vietnamese": "其Anh ấy任何人"
 	},
 	{
-		"chinese": "注意到",
 		"english": "to notice",
-		"soundmark": "/tə/ /ˈnotɪs/"
+		"soundmark": "/tə/ /ˈnotɪs/",
+		"vietnamese": "[VI:注意到]"
 	},
 	{
-		"chinese": "注意到(过去)",
 		"english": "noticed",
-		"soundmark": "/ˈnotɪst/"
+		"soundmark": "/ˈnotɪst/",
+		"vietnamese": "[VI:注意到(过去)]"
 	},
 	{
-		"chinese": "它",
 		"english": "it",
-		"soundmark": "/ɪt/"
+		"soundmark": "/ɪt/",
+		"vietnamese": "Nó"
 	},
 	{
-		"chinese": "注意到(过去)它",
 		"english": "noticed it",
-		"soundmark": "/ˈnotɪst/ /ɪt/"
+		"soundmark": "/ˈnotɪst/ /ɪt/",
+		"vietnamese": "注意到(过去)Nó"
 	},
 	{
-		"chinese": "其他任何人注意到(过去)它",
 		"english": "anyone else noticed it",
-		"soundmark": "/'ɛnɪwʌn/ /ɛls/ /ˈnotɪst/ /ɪt/"
+		"soundmark": "/'ɛnɪwʌn/ /ɛls/ /ˈnotɪst/ /ɪt/",
+		"vietnamese": "其Anh ấy任何人注意到(过去)Nó"
 	},
 	{
-		"chinese": "在......之前",
 		"english": "before",
-		"soundmark": "/bɪ'fɔr/"
+		"soundmark": "/bɪ'fɔr/",
+		"vietnamese": "[VI:在......之前]"
 	},
 	{
-		"chinese": "在其他任何人注意到(过去)它之前",
 		"english": "before anyone else noticed it",
-		"soundmark": "/bɪ'fɔr/ /'ɛnɪwʌn/ /ɛls/ /ˈnotɪst/ /ɪt/"
+		"soundmark": "/bɪ'fɔr/ /'ɛnɪwʌn/ /ɛls/ /ˈnotɪst/ /ɪt/",
+		"vietnamese": "在其Anh ấy任何人注意到(过去)Nó之前"
 	},
 	{
-		"chinese": "那个问题(过去已经)被他解决",
 		"english": "the problem had been solved by him",
-		"soundmark": "/ðə/ /'prɑbləm/ /hæd/ /bɪn/ /sɔlvd/ /baɪ/ /hɪm/"
+		"soundmark": "/ðə/ /'prɑbləm/ /hæd/ /bɪn/ /sɔlvd/ /baɪ/ /hɪm/",
+		"vietnamese": "那个问题(过去已经)被Anh ấy解决"
 	},
 	{
-		"chinese": "在其他任何人注意到(过去)它之前那个问题(过去已经)被他解决",
 		"english": "the problem had been solved by him before anyone else noticed it",
-		"soundmark": "/ðə/ /'prɑbləm/ /hæd/ /bɪn/ /sɔlvd/ /baɪ/ /hɪm/ /bɪ'fɔr/ /'ɛnɪwʌn/ /ɛls/ /ˈnotɪst/ /ɪt/"
+		"soundmark": "/ðə/ /'prɑbləm/ /hæd/ /bɪn/ /sɔlvd/ /baɪ/ /hɪm/ /bɪ'fɔr/ /'ɛnɪwʌn/ /ɛls/ /ˈnotɪst/ /ɪt/",
+		"vietnamese": "在其Anh ấy任何人注意到(过去)Nó之前那个问题(过去已经)被他解决"
 	},
 	{
-		"chinese": "粉刷",
 		"english": "to paint",
-		"soundmark": "/tə/ /pent/"
+		"soundmark": "/tə/ /pent/",
+		"vietnamese": "[VI:粉刷]"
 	},
 	{
-		"chinese": "粉刷(ed形式)",
 		"english": "painted",
-		"soundmark": "/ˈpentɪd/"
+		"soundmark": "/ˈpentɪd/",
+		"vietnamese": "[VI:粉刷(ed形式)]"
 	},
 	{
-		"chinese": "被粉刷",
 		"english": "be painted",
-		"soundmark": "/bi/ /ˈpentɪd/"
+		"soundmark": "/bi/ /ˈpentɪd/",
+		"vietnamese": "[VI:被粉刷]"
 	},
 	{
-		"chinese": "(已经)被粉刷",
 		"english": "has been painted",
-		"soundmark": "/hæz/ /bɪn/ /ˈpentɪd/"
+		"soundmark": "/hæz/ /bɪn/ /ˈpentɪd/",
+		"vietnamese": "[VI:(已经)被粉刷]"
 	},
 	{
-		"chinese": "(过去已经)被粉刷",
 		"english": "had been painted",
-		"soundmark": "/hæd/ /bɪn/ /ˈpentɪd/"
+		"soundmark": "/hæd/ /bɪn/ /ˈpentɪd/",
+		"vietnamese": "[VI:(过去已经)被粉刷]"
 	},
 	{
-		"chinese": "那个房子",
 		"english": "the house",
-		"soundmark": "/ðə/ /haʊs/"
+		"soundmark": "/ðə/ /haʊs/",
+		"vietnamese": "[VI:那个房子]"
 	},
 	{
-		"chinese": "那个房子(过去已经)被粉刷",
 		"english": "the house had been painted",
-		"soundmark": "/ðə/ /haʊs/ /hæd/ /bɪn/ /ˈpentɪd/"
+		"soundmark": "/ðə/ /haʊs/ /hæd/ /bɪn/ /ˈpentɪd/",
+		"vietnamese": "[VI:那个房子(过去已经)被粉刷]"
 	},
 	{
-		"chinese": "搬",
 		"english": "to move",
-		"soundmark": "/tə/ /muv/"
+		"soundmark": "/tə/ /muv/",
+		"vietnamese": "[VI:搬]"
 	},
 	{
-		"chinese": "搬(过去)",
 		"english": "moved",
-		"soundmark": "/muvd/"
+		"soundmark": "/muvd/",
+		"vietnamese": "[VI:搬(过去)]"
 	},
 	{
-		"chinese": "他们搬(过去)",
 		"english": "they moved",
-		"soundmark": "/ðe/ /muvd/"
+		"soundmark": "/ðe/ /muvd/",
+		"vietnamese": "Họ搬(过去)"
 	},
 	{
-		"chinese": "往里面",
 		"english": "in",
-		"soundmark": "/ɪn/"
+		"soundmark": "/ɪn/",
+		"vietnamese": "[VI:往里面]"
 	},
 	{
-		"chinese": "他们搬(过去)进去",
 		"english": "they moved in",
-		"soundmark": "/ðe/ /muvd/ /ɪn/"
+		"soundmark": "/ðe/ /muvd/ /ɪn/",
+		"vietnamese": "Họ搬(过去)进去"
 	},
 	{
-		"chinese": "在......之前",
 		"english": "before",
-		"soundmark": "/bɪ'fɔr/"
+		"soundmark": "/bɪ'fɔr/",
+		"vietnamese": "[VI:在......之前]"
 	},
 	{
-		"chinese": "在他们搬(过去)进去之前",
 		"english": "before they moved in",
-		"soundmark": "/bɪ'fɔr/ /ðe/ /muvd/ /ɪn/"
+		"soundmark": "/bɪ'fɔr/ /ðe/ /muvd/ /ɪn/",
+		"vietnamese": "在Họ搬(过去)进去之前"
 	},
 	{
-		"chinese": "那个房子(过去已经)被粉刷",
 		"english": "the house had been painted",
-		"soundmark": "/ðə/ /haʊs/ /hæd/ /bɪn/ /ˈpentɪd/"
+		"soundmark": "/ðə/ /haʊs/ /hæd/ /bɪn/ /ˈpentɪd/",
+		"vietnamese": "[VI:那个房子(过去已经)被粉刷]"
 	},
 	{
-		"chinese": "在他们搬(过去)进去之前那个房子(过去已经)被粉刷",
 		"english": "the house had been painted before they moved in",
-		"soundmark": "/ðə/ /haʊs/ /hæd/ /bɪn/ /ˈpentɪd/ /bɪ'fɔr/ /ðe/ /muvd/ /ɪn/"
+		"soundmark": "/ðə/ /haʊs/ /hæd/ /bɪn/ /ˈpentɪd/ /bɪ'fɔr/ /ðe/ /muvd/ /ɪn/",
+		"vietnamese": "在Họ搬(过去)进去之前那个房子(过去已经)被粉刷"
 	},
 	{
-		"chinese": "建造",
 		"english": "to build",
-		"soundmark": "/tə/ /bɪld/"
+		"soundmark": "/tə/ /bɪld/",
+		"vietnamese": "[VI:建造]"
 	},
 	{
-		"chinese": "建筑物",
 		"english": "building",
-		"soundmark": "/'bɪldɪŋ/"
+		"soundmark": "/'bɪldɪŋ/",
+		"vietnamese": "[VI:建筑物]"
 	},
 	{
-		"chinese": "那个建筑物",
 		"english": "the building",
-		"soundmark": "/ðə/ /'bɪldɪŋ/"
+		"soundmark": "/ðə/ /'bɪldɪŋ/",
+		"vietnamese": "[VI:那个建筑物]"
 	},
 	{
-		"chinese": "疏散",
 		"english": "to evacuate",
-		"soundmark": "/tə/ /ɪˈvækjuet/"
+		"soundmark": "/tə/ /ɪˈvækjuet/",
+		"vietnamese": "[VI:疏散]"
 	},
 	{
-		"chinese": "疏散(ed形式)",
 		"english": "evacuated",
-		"soundmark": "/ɪˈvækjuetɪd/"
+		"soundmark": "/ɪˈvækjuetɪd/",
+		"vietnamese": "[VI:疏散(ed形式)]"
 	},
 	{
-		"chinese": "被疏散",
 		"english": "be evacuated",
-		"soundmark": "/bi/ /ɪˈvækjuetɪd/"
+		"soundmark": "/bi/ /ɪˈvækjuetɪd/",
+		"vietnamese": "[VI:被疏散]"
 	},
 	{
-		"chinese": "(过去已经)被疏散",
 		"english": "had been evacuated",
-		"soundmark": "/hæd/ /bɪn/ /ɪˈvækjuetɪd/"
+		"soundmark": "/hæd/ /bɪn/ /ɪˈvækjuetɪd/",
+		"vietnamese": "[VI:(过去已经)被疏散]"
 	},
 	{
-		"chinese": "那个建筑物(过去已经)被疏散",
 		"english": "the building had been evacuated",
-		"soundmark": "/ðə/ /'bɪldɪŋ/ /hæd/ /bɪn/ /ɪˈvækjuetɪd/"
+		"soundmark": "/ðə/ /'bɪldɪŋ/ /hæd/ /bɪn/ /ɪˈvækjuetɪd/",
+		"vietnamese": "[VI:那个建筑物(过去已经)被疏散]"
 	},
 	{
-		"chinese": "火",
 		"english": "fire",
-		"soundmark": "/ˈfaɪər/"
+		"soundmark": "/ˈfaɪər/",
+		"vietnamese": "[VI:火]"
 	},
 	{
-		"chinese": "蔓延",
 		"english": "to spread",
-		"soundmark": "/tə/ /sprɛd/"
+		"soundmark": "/tə/ /sprɛd/",
+		"vietnamese": "[VI:蔓延]"
 	},
 	{
-		"chinese": "蔓延(过去)",
 		"english": "spread",
-		"soundmark": "/sprɛd/"
+		"soundmark": "/sprɛd/",
+		"vietnamese": "[VI:蔓延(过去)]"
 	},
 	{
-		"chinese": "火势蔓延(过去)",
 		"english": "the fire spread",
-		"soundmark": "/ðə/ /ˈfaɪər/ /sprɛd/"
+		"soundmark": "/ðə/ /ˈfaɪər/ /sprɛd/",
+		"vietnamese": "[VI:火势蔓延(过去)]"
 	},
 	{
-		"chinese": "在......之前",
 		"english": "before",
-		"soundmark": "/bɪ'fɔr/"
+		"soundmark": "/bɪ'fɔr/",
+		"vietnamese": "[VI:在......之前]"
 	},
 	{
-		"chinese": "在火势蔓延(过去)之前",
 		"english": "before the fire spread",
-		"soundmark": "/bɪ'fɔr/ /ðə/ /ˈfaɪər/ /sprɛd/"
+		"soundmark": "/bɪ'fɔr/ /ðə/ /ˈfaɪər/ /sprɛd/",
+		"vietnamese": "[VI:在火势蔓延(过去)之前]"
 	},
 	{
-		"chinese": "那个建筑物(过去已经)被疏散",
 		"english": "the building had been evacuated",
-		"soundmark": "/ðə/ /'bɪldɪŋ/ /hæd/ /bɪn/ /ɪˈvækjuetɪd/"
+		"soundmark": "/ðə/ /'bɪldɪŋ/ /hæd/ /bɪn/ /ɪˈvækjuetɪd/",
+		"vietnamese": "[VI:那个建筑物(过去已经)被疏散]"
 	},
 	{
-		"chinese": "在火势蔓延(过去)之前那个建筑物(过去已经)被疏散",
 		"english": "the building had been evacuated before the fire spread",
-		"soundmark": "/ðə/ /'bɪldɪŋ/ /hæd/ /bɪn/ /ɪˈvækjuetɪd/ /bɪ'fɔr/ /ðə/ /ˈfaɪər/ /sprɛd/"
+		"soundmark": "/ðə/ /'bɪldɪŋ/ /hæd/ /bɪn/ /ɪˈvækjuetɪd/ /bɪ'fɔr/ /ðə/ /ˈfaɪər/ /sprɛd/",
+		"vietnamese": "[VI:在火势蔓延(过去)之前那个建筑物(过去已经)被疏散]"
 	},
 	{
-		"chinese": "停车",
 		"english": "to park",
-		"soundmark": "/tə/ /pɑrk/"
+		"soundmark": "/tə/ /pɑrk/",
+		"vietnamese": "[VI:停车]"
 	},
 	{
-		"chinese": "停车(ed形式)",
 		"english": "parked",
-		"soundmark": "/pɑrkt/"
+		"soundmark": "/pɑrkt/",
+		"vietnamese": "[VI:停车(ed形式)]"
 	},
 	{
-		"chinese": "(过去已经)被停",
 		"english": "had been parked",
-		"soundmark": "/hæd/ /bɪn/ /pɑrkt/"
+		"soundmark": "/hæd/ /bɪn/ /pɑrkt/",
+		"vietnamese": "[VI:(过去已经)被停]"
 	},
 	{
-		"chinese": "那辆车",
 		"english": "the car",
-		"soundmark": "/ðə/ /kɑr/"
+		"soundmark": "/ðə/ /kɑr/",
+		"vietnamese": "[VI:那辆车]"
 	},
 	{
-		"chinese": "那辆车(过去已经)被停",
 		"english": "the car had been parked",
-		"soundmark": "/ðə/ /kɑr/ /hæd/ /bɪn/ /pɑrkt/"
+		"soundmark": "/ðə/ /kɑr/ /hæd/ /bɪn/ /pɑrkt/",
+		"vietnamese": "[VI:那辆车(过去已经)被停]"
 	},
 	{
-		"chinese": "车库",
 		"english": "garage",
-		"soundmark": "/ɡəˈrɑʒ/"
+		"soundmark": "/ɡəˈrɑʒ/",
+		"vietnamese": "[VI:车库]"
 	},
 	{
-		"chinese": "在车库里",
 		"english": "in the garage",
-		"soundmark": "/ɪn/ /ðə/ /ɡəˈrɑʒ/"
+		"soundmark": "/ɪn/ /ðə/ /ɡəˈrɑʒ/",
+		"vietnamese": "[VI:在车库里]"
 	},
 	{
-		"chinese": "那辆车(过去已经)被停在车库里",
 		"english": "the car had been parked in the garage",
-		"soundmark": "/ðə/ /kɑr/ /hæd/ /bɪn/ /pɑrkt/ /ɪn/ /ðə/ /ɡəˈrɑʒ/"
+		"soundmark": "/ðə/ /kɑr/ /hæd/ /bɪn/ /pɑrkt/ /ɪn/ /ðə/ /ɡəˈrɑʒ/",
+		"vietnamese": "[VI:那辆车(过去已经)被停在车库里]"
 	},
 	{
-		"chinese": "暴风雨",
 		"english": "storm",
-		"soundmark": "/stɔrm/"
+		"soundmark": "/stɔrm/",
+		"vietnamese": "[VI:暴风雨]"
 	},
 	{
-		"chinese": "在......之前",
 		"english": "before",
-		"soundmark": "/bɪ'fɔr/"
+		"soundmark": "/bɪ'fɔr/",
+		"vietnamese": "[VI:在......之前]"
 	},
 	{
-		"chinese": "在暴风雨之前",
 		"english": "before the storm",
-		"soundmark": "/bɪ'fɔr/ /ðə/ /stɔrm/"
+		"soundmark": "/bɪ'fɔr/ /ðə/ /stɔrm/",
+		"vietnamese": "[VI:在暴风雨之前]"
 	},
 	{
-		"chinese": "在暴风雨之前那辆车(过去已经)被停在车库里",
 		"english": "the car had been parked in the garage before the storm",
-		"soundmark": "/ðə/ /kɑr/ /hæd/ /bɪn/ /pɑrkt/ /ɪn/ /ðə/ /ɡəˈrɑʒ/ /bɪ'fɔr/ /ðə/ /stɔrm/"
+		"soundmark": "/ðə/ /kɑr/ /hæd/ /bɪn/ /pɑrkt/ /ɪn/ /ðə/ /ɡəˈrɑʒ/ /bɪ'fɔr/ /ðə/ /stɔrm/",
+		"vietnamese": "[VI:在暴风雨之前那辆车(过去已经)被停在车库里]"
 	},
 	{
-		"chinese": "建造",
 		"english": "to constructe",
-		"soundmark": "/tə/ /kənˈstrʌkt/"
+		"soundmark": "/tə/ /kənˈstrʌkt/",
+		"vietnamese": "[VI:建造]"
 	},
 	{
-		"chinese": "建造(ed形式)",
 		"english": "constructed",
-		"soundmark": "/kənˈstrʌktɪd/"
+		"soundmark": "/kənˈstrʌktɪd/",
+		"vietnamese": "[VI:建造(ed形式)]"
 	},
 	{
-		"chinese": "被建造",
 		"english": "be constructed",
-		"soundmark": "/bi/ /kənˈstrʌktɪd/"
+		"soundmark": "/bi/ /kənˈstrʌktɪd/",
+		"vietnamese": "[VI:被建造]"
 	},
 	{
-		"chinese": "(过去已经)被建造",
 		"english": "had been constructed",
-		"soundmark": "/hæd/ /bɪn/ /kənˈstrʌktɪd/"
+		"soundmark": "/hæd/ /bɪn/ /kənˈstrʌktɪd/",
+		"vietnamese": "[VI:(过去已经)被建造]"
 	},
 	{
-		"chinese": "那座桥",
 		"english": "the bridge",
-		"soundmark": "/ðə/ /brɪdʒ/"
+		"soundmark": "/ðə/ /brɪdʒ/",
+		"vietnamese": "[VI:那座桥]"
 	},
 	{
-		"chinese": "那座桥(过去已经)被建造",
 		"english": "the bridge had been constructed",
-		"soundmark": "/ðə/ /brɪdʒ/ /hæd/ /bɪn/ /kənˈstrʌktɪd/"
+		"soundmark": "/ðə/ /brɪdʒ/ /hæd/ /bɪn/ /kənˈstrʌktɪd/",
+		"vietnamese": "[VI:那座桥(过去已经)被建造]"
 	},
 	{
-		"chinese": "雨",
 		"english": "rain",
-		"soundmark": "/ren/"
+		"soundmark": "/ren/",
+		"vietnamese": "[VI:雨]"
 	},
 	{
-		"chinese": "多雨的",
 		"english": "rainy",
-		"soundmark": "/'reni/"
+		"soundmark": "/'reni/",
+		"vietnamese": "[VI:多雨的]"
 	},
 	{
-		"chinese": "季节",
 		"english": "season",
-		"soundmark": "/'sizn/"
+		"soundmark": "/'sizn/",
+		"vietnamese": "[VI:季节]"
 	},
 	{
-		"chinese": "雨季",
 		"english": "rainy season",
-		"soundmark": "/'reni/ /'sizn/"
+		"soundmark": "/'reni/ /'sizn/",
+		"vietnamese": "[VI:雨季]"
 	},
 	{
-		"chinese": "在......之前",
 		"english": "before",
-		"soundmark": "/bɪ'fɔr/"
+		"soundmark": "/bɪ'fɔr/",
+		"vietnamese": "[VI:在......之前]"
 	},
 	{
-		"chinese": "在雨季之前",
 		"english": "before the rainy season",
-		"soundmark": "/bɪ'fɔr/ /ðə/ /'reni/ /'sizn/"
+		"soundmark": "/bɪ'fɔr/ /ðə/ /'reni/ /'sizn/",
+		"vietnamese": "[VI:在雨季之前]"
 	},
 	{
-		"chinese": "那座桥(过去已经)被建造",
 		"english": "the bridge had been constructed",
-		"soundmark": "/ðə/ /brɪdʒ/ /hæd/ /bɪn/ /kənˈstrʌktɪd/"
+		"soundmark": "/ðə/ /brɪdʒ/ /hæd/ /bɪn/ /kənˈstrʌktɪd/",
+		"vietnamese": "[VI:那座桥(过去已经)被建造]"
 	},
 	{
-		"chinese": "在雨季之前那座桥(过去已经)被建造",
 		"english": "the bridge had been constructed before the rainy season",
-		"soundmark": "/ðə/ /brɪdʒ/ /hæd/ /bɪn/ /kənˈstrʌktɪd/ /bɪ'fɔr/ /ðə/ /'reni/ /'sizn/"
+		"soundmark": "/ðə/ /brɪdʒ/ /hæd/ /bɪn/ /kənˈstrʌktɪd/ /bɪ'fɔr/ /ðə/ /'reni/ /'sizn/",
+		"vietnamese": "[VI:在雨季之前那座桥(过去已经)被建造]"
 	},
 	{
-		"chinese": "纠正",
 		"english": "to correct",
-		"soundmark": "/tə/ /kə'rɛkt/"
+		"soundmark": "/tə/ /kə'rɛkt/",
+		"vietnamese": "[VI:纠正]"
 	},
 	{
-		"chinese": "纠正(ed形式)",
 		"english": "corrected",
-		"soundmark": "/kə'rɛktɪd/"
+		"soundmark": "/kə'rɛktɪd/",
+		"vietnamese": "[VI:纠正(ed形式)]"
 	},
 	{
-		"chinese": "被纠正",
 		"english": "be corrected",
-		"soundmark": "/bi/ /kə'rɛktɪd/"
+		"soundmark": "/bi/ /kə'rɛktɪd/",
+		"vietnamese": "[VI:被纠正]"
 	},
 	{
-		"chinese": "(过去已经)被纠正",
 		"english": "had been corrected",
-		"soundmark": "/hæd/ /bɪn/ /kə'rɛktɪd/"
+		"soundmark": "/hæd/ /bɪn/ /kə'rɛktɪd/",
+		"vietnamese": "[VI:(过去已经)被纠正]"
 	},
 	{
-		"chinese": "错误",
 		"english": "error",
-		"soundmark": "/ˈɛrər/"
+		"soundmark": "/ˈɛrər/",
+		"vietnamese": "[VI:错误]"
 	},
 	{
-		"chinese": "那个错误(过去已经)被纠正",
 		"english": "the error had been corrected",
-		"soundmark": "/ði/ /ˈɛrər/ /hæd/ /bɪn/ /kə'rɛktɪd/"
+		"soundmark": "/ði/ /ˈɛrər/ /hæd/ /bɪn/ /kə'rɛktɪd/",
+		"vietnamese": "[VI:那个错误(过去已经)被纠正]"
 	},
 	{
-		"chinese": "提交",
 		"english": "to submit",
-		"soundmark": "/tə/ /səbˈmɪt/"
+		"soundmark": "/tə/ /səbˈmɪt/",
+		"vietnamese": "[VI:提交]"
 	},
 	{
-		"chinese": "提交(ed形式)",
 		"english": "submitted",
-		"soundmark": "/səbˈmɪtɪd/"
+		"soundmark": "/səbˈmɪtɪd/",
+		"vietnamese": "[VI:提交(ed形式)]"
 	},
 	{
-		"chinese": "被提交",
 		"english": "be submitted",
-		"soundmark": "/bi/ /səbˈmɪtɪd/"
+		"soundmark": "/bi/ /səbˈmɪtɪd/",
+		"vietnamese": "[VI:被提交]"
 	},
 	{
-		"chinese": "报告",
 		"english": "report",
-		"soundmark": "/rɪ'pɔrt/"
+		"soundmark": "/rɪ'pɔrt/",
+		"vietnamese": "[VI:报告]"
 	},
 	{
-		"chinese": "那个报告(过去)被提交",
 		"english": "the report was submitted",
-		"soundmark": "/ðə/ /rɪ'pɔrt/ /wəz/ /səbˈmɪtɪd/"
+		"soundmark": "/ðə/ /rɪ'pɔrt/ /wəz/ /səbˈmɪtɪd/",
+		"vietnamese": "[VI:那个报告(过去)被提交]"
 	},
 	{
-		"chinese": "在......之前",
 		"english": "before",
-		"soundmark": "/bɪ'fɔr/"
+		"soundmark": "/bɪ'fɔr/",
+		"vietnamese": "[VI:在......之前]"
 	},
 	{
-		"chinese": "在那个报告(过去)被提交之前",
 		"english": "before the report was submitted",
-		"soundmark": "/bɪ'fɔr/ /ðə/ /rɪ'pɔrt/ /wəz/ /səbˈmɪtɪd/"
+		"soundmark": "/bɪ'fɔr/ /ðə/ /rɪ'pɔrt/ /wəz/ /səbˈmɪtɪd/",
+		"vietnamese": "[VI:在那个报告(过去)被提交之前]"
 	},
 	{
-		"chinese": "那个错误(过去已经)被纠正",
 		"english": "the error had been corrected",
-		"soundmark": "/ði/ /ˈɛrər/ /hæd/ /bɪn/ /kə'rɛktɪd/"
+		"soundmark": "/ði/ /ˈɛrər/ /hæd/ /bɪn/ /kə'rɛktɪd/",
+		"vietnamese": "[VI:那个错误(过去已经)被纠正]"
 	},
 	{
-		"chinese": "在那个报告(过去)被提交之前那个错误(过去已经)被纠正",
 		"english": "the error had been corrected before the report was submitted",
-		"soundmark": "/ði/ /ˈɛrər/ /hæd/ /bɪn/ /kə'rɛktɪd/ /bɪ'fɔr/ /ðə/ /rɪ'pɔrt/ /wəz/ /səbˈmɪtɪd/"
+		"soundmark": "/ði/ /ˈɛrər/ /hæd/ /bɪn/ /kə'rɛktɪd/ /bɪ'fɔr/ /ðə/ /rɪ'pɔrt/ /wəz/ /səbˈmɪtɪd/",
+		"vietnamese": "[VI:在那个报告(过去)被提交之前那个错误(过去已经)被纠正]"
 	},
 	{
-		"chinese": "卖",
 		"english": "to sell",
-		"soundmark": "/tə/ /sɛl/"
+		"soundmark": "/tə/ /sɛl/",
+		"vietnamese": "[VI:卖]"
 	},
 	{
-		"chinese": "卖光",
 		"english": "to sell out",
-		"soundmark": "/tə/ /sɛl/ /aʊt/"
+		"soundmark": "/tə/ /sɛl/ /aʊt/",
+		"vietnamese": "[VI:卖光]"
 	},
 	{
-		"chinese": "卖光(ed形式)",
 		"english": "sold out",
-		"soundmark": "/sold/ /aʊt/"
+		"soundmark": "/sold/ /aʊt/",
+		"vietnamese": "[VI:卖光(ed形式)]"
 	},
 	{
-		"chinese": "被卖光",
 		"english": "be sold out",
-		"soundmark": "/bi/ /sold/ /aʊt/"
+		"soundmark": "/bi/ /sold/ /aʊt/",
+		"vietnamese": "[VI:被卖光]"
 	},
 	{
-		"chinese": "(过去已经)被卖光了",
 		"english": "had been sold out",
-		"soundmark": "/hæd/ /bɪn/ /sold/ /aʊt/"
+		"soundmark": "/hæd/ /bɪn/ /sold/ /aʊt/",
+		"vietnamese": "[VI:(过去已经)被卖光了]"
 	},
 	{
-		"chinese": "票",
 		"english": "ticket",
-		"soundmark": "/'tɪkɪt/"
+		"soundmark": "/'tɪkɪt/",
+		"vietnamese": "[VI:票]"
 	},
 	{
-		"chinese": "那些票",
 		"english": "the tickets",
-		"soundmark": "/ðə/ /'tɪkɪts/"
+		"soundmark": "/ðə/ /'tɪkɪts/",
+		"vietnamese": "[VI:那些票]"
 	},
 	{
-		"chinese": "那些票(过去已经)被卖光了",
 		"english": "the tickets had been sold out",
-		"soundmark": "/ðə/ /'tɪkɪts/ /hæd/ /bɪn/ /sold/ /aʊt/"
+		"soundmark": "/ðə/ /'tɪkɪts/ /hæd/ /bɪn/ /sold/ /aʊt/",
+		"vietnamese": "[VI:那些票(过去已经)被卖光了]"
 	},
 	{
-		"chinese": "到达",
 		"english": "to arrive",
-		"soundmark": "/tə/ /ə'raɪv/"
+		"soundmark": "/tə/ /ə'raɪv/",
+		"vietnamese": "[VI:到达]"
 	},
 	{
-		"chinese": "达到(过去)",
 		"english": "arrived",
-		"soundmark": "/ə'raɪvd/"
+		"soundmark": "/ə'raɪvd/",
+		"vietnamese": "[VI:达到(过去)]"
 	},
 	{
-		"chinese": "我们到达(过去)",
 		"english": "we arrived",
-		"soundmark": "/wi/ /ə'raɪvd/"
+		"soundmark": "/wi/ /ə'raɪvd/",
+		"vietnamese": "Chúng tôi到达(过去)"
 	},
 	{
-		"chinese": "时间",
 		"english": "the time",
-		"soundmark": "/ðə/ /taɪm/"
+		"soundmark": "/ðə/ /taɪm/",
+		"vietnamese": "[VI:时间]"
 	},
 	{
-		"chinese": "我们到达(过去)的时间",
 		"english": "the time we arrived",
-		"soundmark": "/ðə/ /taɪm/ /wi/ /ə'raɪvd/"
+		"soundmark": "/ðə/ /taɪm/ /wi/ /ə'raɪvd/",
+		"vietnamese": "Chúng tôi到达(过去)的时间"
 	},
 	{
-		"chinese": "在我们到达(过去)的时间",
 		"english": "by the time we arrived",
-		"soundmark": "/baɪ/ /ðə/ /taɪm/ /wi/ /ə'raɪvd/"
+		"soundmark": "/baɪ/ /ðə/ /taɪm/ /wi/ /ə'raɪvd/",
+		"vietnamese": "在Chúng tôi到达(过去)的时间"
 	},
 	{
-		"chinese": "那些票(过去已经)被卖光了",
 		"english": "the tickets had been sold out",
-		"soundmark": "/ðə/ /'tɪkɪts/ /hæd/ /bɪn/ /sold/ /aʊt/"
+		"soundmark": "/ðə/ /'tɪkɪts/ /hæd/ /bɪn/ /sold/ /aʊt/",
+		"vietnamese": "[VI:那些票(过去已经)被卖光了]"
 	},
 	{
-		"chinese": "在我们到达(过去)的时间那些票(过去已经)被卖光了",
 		"english": "the tickets had been sold out by the time we arrived",
-		"soundmark": "/ðə/ /'tɪkɪts/ /hæd/ /bɪn/ /sold/ /aʊt/ /baɪ/ /ðə/ /taɪm/ /wi/ /ə'raɪvd/"
+		"soundmark": "/ðə/ /'tɪkɪts/ /hæd/ /bɪn/ /sold/ /aʊt/ /baɪ/ /ðə/ /taɪm/ /wi/ /ə'raɪvd/",
+		"vietnamese": "在Chúng tôi到达(过去)的时间那些票(过去已经)被卖光了"
 	},
 	{
-		"chinese": "改变",
 		"english": "to change",
-		"soundmark": "/tə/ /tʃendʒ/"
+		"soundmark": "/tə/ /tʃendʒ/",
+		"vietnamese": "[VI:改变]"
 	},
 	{
-		"chinese": "改变(ed形式)",
 		"english": "changed",
-		"soundmark": "/tʃendʒd/"
+		"soundmark": "/tʃendʒd/",
+		"vietnamese": "[VI:改变(ed形式)]"
 	},
 	{
-		"chinese": "被改变",
 		"english": "be changed",
-		"soundmark": "/bi/ /tʃendʒd/"
+		"soundmark": "/bi/ /tʃendʒd/",
+		"vietnamese": "[VI:被改变]"
 	},
 	{
-		"chinese": "(过去已经)被改变",
 		"english": "had been changed",
-		"soundmark": "/hæd/ /bɪn/ /tʃendʒd/"
+		"soundmark": "/hæd/ /bɪn/ /tʃendʒd/",
+		"vietnamese": "[VI:(过去已经)被改变]"
 	},
 	{
-		"chinese": "密码",
 		"english": "password",
-		"soundmark": "/ˈpæswɝd/"
+		"soundmark": "/ˈpæswɝd/",
+		"vietnamese": "[VI:密码]"
 	},
 	{
-		"chinese": "那个密码(过去已经)被改变",
 		"english": "the password had been changed",
-		"soundmark": "/ðə/ /ˈpæswɝd/ /hæd/ /bɪn/ /tʃendʒd/"
+		"soundmark": "/ðə/ /ˈpæswɝd/ /hæd/ /bɪn/ /tʃendʒd/",
+		"vietnamese": "[VI:那个密码(过去已经)被改变]"
 	},
 	{
-		"chinese": "非法入侵",
 		"english": "to hack",
-		"soundmark": "/tə/ /hæk/"
+		"soundmark": "/tə/ /hæk/",
+		"vietnamese": "[VI:非法入侵]"
 	},
 	{
-		"chinese": "非法入侵(ed形式)",
 		"english": "hacked",
-		"soundmark": "/hækt/"
+		"soundmark": "/hækt/",
+		"vietnamese": "[VI:非法入侵(ed形式)]"
 	},
 	{
-		"chinese": "被非法入侵",
 		"english": "be hacked",
-		"soundmark": "/bi/ /hækt/"
+		"soundmark": "/bi/ /hækt/",
+		"vietnamese": "[VI:被非法入侵]"
 	},
 	{
-		"chinese": "系统",
 		"english": "system",
-		"soundmark": "/ˈsɪstəm/"
+		"soundmark": "/ˈsɪstəm/",
+		"vietnamese": "[VI:系统]"
 	},
 	{
-		"chinese": "系统被(过去)非法入侵",
 		"english": "the system was hacked",
-		"soundmark": "/ðə/ /ˈsɪstəm/ /wəz/ /hækt/"
+		"soundmark": "/ðə/ /ˈsɪstəm/ /wəz/ /hækt/",
+		"vietnamese": "[VI:系统被(过去)非法入侵]"
 	},
 	{
-		"chinese": "在......之前",
 		"english": "before",
-		"soundmark": "/bɪ'fɔr/"
+		"soundmark": "/bɪ'fɔr/",
+		"vietnamese": "[VI:在......之前]"
 	},
 	{
-		"chinese": "在系统被(过去)非法入侵之前",
 		"english": "before the system was hacked",
-		"soundmark": "/bɪ'fɔr/ /ðə/ /ˈsɪstəm/ /wəz/ /hækt/"
+		"soundmark": "/bɪ'fɔr/ /ðə/ /ˈsɪstəm/ /wəz/ /hækt/",
+		"vietnamese": "[VI:在系统被(过去)非法入侵之前]"
 	},
 	{
-		"chinese": "那个密码(过去已经)被改变",
 		"english": "the password had been changed",
-		"soundmark": "/ðə/ /ˈpæswɝd/ /hæd/ /bɪn/ /tʃendʒd/"
+		"soundmark": "/ðə/ /ˈpæswɝd/ /hæd/ /bɪn/ /tʃendʒd/",
+		"vietnamese": "[VI:那个密码(过去已经)被改变]"
 	},
 	{
-		"chinese": "在系统被(过去)非法入侵之前那个密码(过去已经)被改变",
 		"english": "the password had been changed before the system was hacked",
-		"soundmark": "/ðə/ /ˈpæswɝd/ /hæd/ /bɪn/ /tʃendʒd/ /bɪ'fɔr/ /ðə/ /ˈsɪstəm/ /wəz/ /hækt/"
+		"soundmark": "/ðə/ /ˈpæswɝd/ /hæd/ /bɪn/ /tʃendʒd/ /bɪ'fɔr/ /ðə/ /ˈsɪstəm/ /wəz/ /hækt/",
+		"vietnamese": "[VI:在系统被(过去)非法入侵之前那个密码(过去已经)被改变]"
 	}
 ]

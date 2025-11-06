@@ -1,732 +1,732 @@
 [
 	{
-		"chinese": "我需要",
 		"english": "I need",
-		"soundmark": "/aɪ/ /nid/"
+		"soundmark": "/aɪ/ /nid/",
+		"vietnamese": "Tôi cần"
 	},
 	{
-		"chinese": "我不需要",
 		"english": "I don't need",
-		"soundmark": "/aɪ/ /dont/ /nid/"
+		"soundmark": "/aɪ/ /dont/ /nid/",
+		"vietnamese": "Tôi không cần"
 	},
 	{
-		"chinese": "做这件事",
 		"english": "to do it",
-		"soundmark": "/tə/ /du/ /ɪt/"
+		"soundmark": "/tə/ /du/ /ɪt/",
+		"vietnamese": "làm điều này"
 	},
 	{
-		"chinese": "我不需要做这件事",
 		"english": "I don't need to do it",
-		"soundmark": "/aɪ/ /dont/ /nid/ /tə/ /du/ /ɪt/"
+		"soundmark": "/aɪ/ /dont/ /nid/ /tə/ /du/ /ɪt/",
+		"vietnamese": "Tôi không cầnlàm điều này"
 	},
 	{
-		"chinese": "今天",
 		"english": "today",
-		"soundmark": "/tə'de/"
+		"soundmark": "/tə'de/",
+		"vietnamese": "hôm nay"
 	},
 	{
-		"chinese": "我今天不需要做这件事",
 		"english": "I don't need to do it today",
-		"soundmark": "/aɪ/ /dont/ /nid/ /tə/ /du/ /ɪt/ /tə'de/"
+		"soundmark": "/aɪ/ /dont/ /nid/ /tə/ /du/ /ɪt/ /tə'de/",
+		"vietnamese": "Tôihôm naykhôngcầnlàm điều này"
 	},
 	{
-		"chinese": "重要的",
 		"english": "important",
-		"soundmark": "/ɪm'pɔrtnt/"
+		"soundmark": "/ɪm'pɔrtnt/",
+		"vietnamese": "quan trọng"
 	},
 	{
-		"chinese": "不重要的",
 		"english": "not important",
-		"soundmark": "/nɑt/ /ɪm'pɔrtnt/"
+		"soundmark": "/nɑt/ /ɪm'pɔrtnt/",
+		"vietnamese": "không quan trọng"
 	},
 	{
-		"chinese": "它是不重要的",
 		"english": "it is not important",
-		"soundmark": "/ɪt/ /ɪz/ /nɑt/ /ɪm'pɔrtnt/"
+		"soundmark": "/ɪt/ /ɪz/ /nɑt/ /ɪm'pɔrtnt/",
+		"vietnamese": "Nó làkhông quan trọng"
 	},
 	{
-		"chinese": "所以",
 		"english": "so",
-		"soundmark": "/so/"
+		"soundmark": "/so/",
+		"vietnamese": "vì vậy"
 	},
 	{
-		"chinese": "它是不重要的所以我今天不需要做这件事",
 		"english": "it is not important so I don't need to do it today",
-		"soundmark": "/ɪt/ /ɪz/ /nɑt/ /ɪm'pɔrtnt/ /so/ /aɪ/ /dont/ /nid/ /tə/ /du/ /ɪt/ /tə'de/"
+		"soundmark": "/ɪt/ /ɪz/ /nɑt/ /ɪm'pɔrtnt/ /so/ /aɪ/ /dont/ /nid/ /tə/ /du/ /ɪt/ /tə'de/",
+		"vietnamese": "Nó làkhông quan trọngvì vậyTôihôm naykhôngcầnlàm điều này"
 	},
 	{
-		"chinese": "你需要",
 		"english": "you need",
-		"soundmark": "/ju/ /nid/"
+		"soundmark": "/ju/ /nid/",
+		"vietnamese": "Bạncần"
 	},
 	{
-		"chinese": "你不需要",
 		"english": "you don't need",
-		"soundmark": "/ju/ /dont/ /nid/"
+		"soundmark": "/ju/ /dont/ /nid/",
+		"vietnamese": "Bạnkhôngcần"
 	},
 	{
-		"chinese": "你不需要做这件事",
 		"english": "you don't need to do it",
-		"soundmark": "/ju/ /dont/ /nid/ /tə/ /du/ /ɪt/"
+		"soundmark": "/ju/ /dont/ /nid/ /tə/ /du/ /ɪt/",
+		"vietnamese": "Bạnkhôngcầnlàm điều này"
 	},
 	{
-		"chinese": "现在",
 		"english": "now",
-		"soundmark": "/naʊ/"
+		"soundmark": "/naʊ/",
+		"vietnamese": "bây giờ"
 	},
 	{
-		"chinese": "你现在不需要做这件事",
 		"english": "you don't need to do it now",
-		"soundmark": "/ju/ /dont/ /nid/ /tə/ /du/ /ɪt/ /naʊ/"
+		"soundmark": "/ju/ /dont/ /nid/ /tə/ /du/ /ɪt/ /naʊ/",
+		"vietnamese": "Bạnbây giờkhôngcầnlàm điều này"
 	},
 	{
-		"chinese": "紧急的",
 		"english": "urgent",
-		"soundmark": "/'ɝdʒənt/"
+		"soundmark": "/'ɝdʒənt/",
+		"vietnamese": "[VI:紧急的]"
 	},
 	{
-		"chinese": "它是紧急的",
 		"english": "it is urgent",
-		"soundmark": "/ɪt/ /ɪz/ /'ɝdʒənt/"
+		"soundmark": "/ɪt/ /ɪz/ /'ɝdʒənt/",
+		"vietnamese": "Nó là紧急的"
 	},
 	{
-		"chinese": "而且",
 		"english": "and",
-		"soundmark": "/ənd/"
+		"soundmark": "/ənd/",
+		"vietnamese": "[VI:而且]"
 	},
 	{
-		"chinese": "它是紧急的而且你需要现在做这件事",
 		"english": "it is urgent and you need to do it now",
-		"soundmark": "/ɪt/ /ɪz/ /'ɝdʒənt/ /ənd/ /ju/ /nid/ /tə/ /du/ /ɪt/ /naʊ/"
+		"soundmark": "/ɪt/ /ɪz/ /'ɝdʒənt/ /ənd/ /ju/ /nid/ /tə/ /du/ /ɪt/ /naʊ/",
+		"vietnamese": "Nó là紧急的而且Bạncầnbây giờlàm điều này"
 	},
 	{
-		"chinese": "他需要",
 		"english": "he needs",
-		"soundmark": "/hi/ /nidz/"
+		"soundmark": "/hi/ /nidz/",
+		"vietnamese": "Anh ấycần"
 	},
 	{
-		"chinese": "他需要做这件事",
 		"english": "he needs to do it",
-		"soundmark": "/hi/ /nidz/ /tə/ /du/ /ɪt/"
+		"soundmark": "/hi/ /nidz/ /tə/ /du/ /ɪt/",
+		"vietnamese": "Anh ấycầnlàm điều này"
 	},
 	{
-		"chinese": "他不需要",
 		"english": "he doesn't need",
-		"soundmark": "/hi/ /ˈdʌznt/ /nid/"
+		"soundmark": "/hi/ /ˈdʌznt/ /nid/",
+		"vietnamese": "Anh ấykhôngcần"
 	},
 	{
-		"chinese": "他不需要做这件事",
 		"english": "he doesn't need to do it",
-		"soundmark": "/hi/ /ˈdʌznt/ /nid/ /tə/ /du/ /ɪt/"
+		"soundmark": "/hi/ /ˈdʌznt/ /nid/ /tə/ /du/ /ɪt/",
+		"vietnamese": "Anh ấykhôngcầnlàm điều này"
 	},
 	{
-		"chinese": "她不需要做这件事",
 		"english": "she doesn't need to do it",
-		"soundmark": "/ʃi/ /ˈdʌznt/ /nid/ /tə/ /du/ /ɪt/"
+		"soundmark": "/ʃi/ /ˈdʌznt/ /nid/ /tə/ /du/ /ɪt/",
+		"vietnamese": "Cô ấykhôngcầnlàm điều này"
 	},
 	{
-		"chinese": "它不需要做这件事",
 		"english": "it doesn't need to do it",
-		"soundmark": "/ɪt/ /ˈdʌznt/ /nid/ /tə/ /du/ /ɪt/"
+		"soundmark": "/ɪt/ /ˈdʌznt/ /nid/ /tə/ /du/ /ɪt/",
+		"vietnamese": "Nókhôngcầnlàm điều này"
 	},
 	{
-		"chinese": "星荣不需要做这件事情",
 		"english": "Xingrong doesn't need to do it",
-		"soundmark": "/ˈdʌznt/ /nid/ /tə/ /du/ /ɪt/"
+		"soundmark": "/ˈdʌznt/ /nid/ /tə/ /du/ /ɪt/",
+		"vietnamese": "Xingrongkhôngcầnlàm điều này"
 	},
 	{
-		"chinese": "我想要",
 		"english": "I want",
-		"soundmark": "/aɪ/ /wɑnt/"
+		"soundmark": "/aɪ/ /wɑnt/",
+		"vietnamese": "Tôi muốn"
 	},
 	{
-		"chinese": "我想要做这件事",
 		"english": "I want to do it",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /du/ /ɪt/"
+		"soundmark": "/aɪ/ /wɑnt/ /tə/ /du/ /ɪt/",
+		"vietnamese": "Tôi muốnlàm điều này"
 	},
 	{
-		"chinese": "我不想要",
 		"english": "I don't want",
-		"soundmark": "/aɪ/ /dont/ /wɑnt/"
+		"soundmark": "/aɪ/ /dont/ /wɑnt/",
+		"vietnamese": "Tôi không muốn要"
 	},
 	{
-		"chinese": "我不想要做这件事",
 		"english": "I don't want to do it",
-		"soundmark": "/aɪ/ /dont/ /wɑnt/ /tə/ /du/ /ɪt/"
+		"soundmark": "/aɪ/ /dont/ /wɑnt/ /tə/ /du/ /ɪt/",
+		"vietnamese": "Tôi không muốn要làm điều này"
 	},
 	{
-		"chinese": "你想要",
 		"english": "you want",
-		"soundmark": "/ju/ /wɑnt/"
+		"soundmark": "/ju/ /wɑnt/",
+		"vietnamese": "Bạnmuốn"
 	},
 	{
-		"chinese": "你不想要",
 		"english": "you don't want",
-		"soundmark": "/ju/ /dont/ /wɑnt/"
+		"soundmark": "/ju/ /dont/ /wɑnt/",
+		"vietnamese": "Bạnkhôngmuốn"
 	},
 	{
-		"chinese": "你不想要做这件事",
 		"english": "you don't want to do it",
-		"soundmark": "/ju/ /dont/ /wɑnt/ /tə/ /du/ /ɪt/"
+		"soundmark": "/ju/ /dont/ /wɑnt/ /tə/ /du/ /ɪt/",
+		"vietnamese": "Bạnkhôngmuốnlàm điều này"
 	},
 	{
-		"chinese": "他想要",
 		"english": "he wants",
-		"soundmark": "/hi/ /wɑnts/"
+		"soundmark": "/hi/ /wɑnts/",
+		"vietnamese": "Anh ấymuốn"
 	},
 	{
-		"chinese": "他想要做这件事",
 		"english": "he wants to do it",
-		"soundmark": "/hi/ /wɑnts/ /tə/ /du/ /ɪt/"
+		"soundmark": "/hi/ /wɑnts/ /tə/ /du/ /ɪt/",
+		"vietnamese": "Anh ấymuốnlàm điều này"
 	},
 	{
-		"chinese": "我需要",
 		"english": "I need",
-		"soundmark": "/aɪ/ /nid/"
+		"soundmark": "/aɪ/ /nid/",
+		"vietnamese": "Tôi cần"
 	},
 	{
-		"chinese": "知道",
 		"english": "to know",
-		"soundmark": "/tə/ /no/"
+		"soundmark": "/tə/ /no/",
+		"vietnamese": "biết"
 	},
 	{
-		"chinese": "我需要知道",
 		"english": "I need to know",
-		"soundmark": "/aɪ/ /nid/ /tə/ /no/"
+		"soundmark": "/aɪ/ /nid/ /tə/ /no/",
+		"vietnamese": "Tôicần biết"
 	},
 	{
-		"chinese": "是否",
 		"english": "if",
-		"soundmark": "/ɪf/"
+		"soundmark": "/ɪf/",
+		"vietnamese": "có hay không"
 	},
 	{
-		"chinese": "我需要知道是否他想要做这件事",
 		"english": "I need to know if he wants to do it",
-		"soundmark": "/aɪ/ /nid/ /tə/ /no/ /ɪf/ /hi/ /wɑnts/ /tə/ /du/ /ɪt/"
+		"soundmark": "/aɪ/ /nid/ /tə/ /no/ /ɪf/ /hi/ /wɑnts/ /tə/ /du/ /ɪt/",
+		"vietnamese": "Tôicần biếtcó hay khôngAnh ấymuốnlàm điều này"
 	},
 	{
-		"chinese": "他不想要",
 		"english": "he doesn't want",
-		"soundmark": "/hi/ /ˈdʌznt/ /wɑnt/"
+		"soundmark": "/hi/ /ˈdʌznt/ /wɑnt/",
+		"vietnamese": "Anh ấykhôngmuốn"
 	},
 	{
-		"chinese": "他不想要做这件事",
 		"english": "he doesn't want to do it",
-		"soundmark": "/hi/ /ˈdʌznt/ /wɑnt/ /tə/ /du/ /ɪt/"
+		"soundmark": "/hi/ /ˈdʌznt/ /wɑnt/ /tə/ /du/ /ɪt/",
+		"vietnamese": "Anh ấykhôngmuốnlàm điều này"
 	},
 	{
-		"chinese": "因为",
 		"english": "because",
-		"soundmark": "/bɪ'kɔz/"
+		"soundmark": "/bɪ'kɔz/",
+		"vietnamese": "bởi vì"
 	},
 	{
-		"chinese": "它是不重要的",
 		"english": "it is not important",
-		"soundmark": "/ɪt/ /ɪz/ /nɑt/ /ɪm'pɔrtnt/"
+		"soundmark": "/ɪt/ /ɪz/ /nɑt/ /ɪm'pɔrtnt/",
+		"vietnamese": "Nó làkhông quan trọng"
 	},
 	{
-		"chinese": "他不想做这件事因为它是不重要的",
 		"english": "he doesn't want to do it because it is not important",
-		"soundmark": "/hi/ /ˈdʌznt/ /wɑnt/ /tə/ /du/ /ɪt/ /bɪ'kɔz/ /ɪt/ /ɪz/ /nɑt/ /ɪm'pɔrtnt/"
+		"soundmark": "/hi/ /ˈdʌznt/ /wɑnt/ /tə/ /du/ /ɪt/ /bɪ'kɔz/ /ɪt/ /ɪz/ /nɑt/ /ɪm'pɔrtnt/",
+		"vietnamese": "Anh ấykhông muốnlàm điều nàybởi vìNó làkhông quan trọng"
 	},
 	{
-		"chinese": "她不想要做这件事",
 		"english": "she doesn't want to do it",
-		"soundmark": "/ʃi/ /ˈdʌznt/ /wɑnt/ /tə/ /du/ /ɪt/"
+		"soundmark": "/ʃi/ /ˈdʌznt/ /wɑnt/ /tə/ /du/ /ɪt/",
+		"vietnamese": "Cô ấykhôngmuốnlàm điều này"
 	},
 	{
-		"chinese": "它不想要做这件事",
 		"english": "it doesn't want to do it",
-		"soundmark": "/ɪt/ /ˈdʌznt/ /wɑnt/ /tə/ /du/ /ɪt/"
+		"soundmark": "/ɪt/ /ˈdʌznt/ /wɑnt/ /tə/ /du/ /ɪt/",
+		"vietnamese": "Nókhôngmuốnlàm điều này"
 	},
 	{
-		"chinese": "我喜欢",
 		"english": "I like",
-		"soundmark": "/aɪ/ /laɪk/"
+		"soundmark": "/aɪ/ /laɪk/",
+		"vietnamese": "Tôi thích"
 	},
 	{
-		"chinese": "我喜欢做这件事",
 		"english": "I like to do it",
-		"soundmark": "/aɪ/ /laɪk/ /tə/ /du/ /ɪt/"
+		"soundmark": "/aɪ/ /laɪk/ /tə/ /du/ /ɪt/",
+		"vietnamese": "Tôi thíchlàm điều này"
 	},
 	{
-		"chinese": "我不喜欢",
 		"english": "I don't like",
-		"soundmark": "/aɪ/ /dont/ /laɪk/"
+		"soundmark": "/aɪ/ /dont/ /laɪk/",
+		"vietnamese": "Tôi không thích"
 	},
 	{
-		"chinese": "我不喜欢做这件事",
 		"english": "I don't like to do it",
-		"soundmark": "/aɪ/ /dont/ /laɪk/ /tə/ /du/ /ɪt/"
+		"soundmark": "/aɪ/ /dont/ /laɪk/ /tə/ /du/ /ɪt/",
+		"vietnamese": "Tôi không thíchlàm điều này"
 	},
 	{
-		"chinese": "你喜欢",
 		"english": "you like",
-		"soundmark": "/ju/ /laɪk/"
+		"soundmark": "/ju/ /laɪk/",
+		"vietnamese": "Bạnthích"
 	},
 	{
-		"chinese": "你不喜欢",
 		"english": "you don't like",
-		"soundmark": "/ju/ /dont/ /laɪk/"
+		"soundmark": "/ju/ /dont/ /laɪk/",
+		"vietnamese": "Bạnkhông thích"
 	},
 	{
-		"chinese": "你不喜欢做这件事",
 		"english": "you don't like to do it",
-		"soundmark": "/ju/ /dont/ /laɪk/ /tə/ /du/ /ɪt/"
+		"soundmark": "/ju/ /dont/ /laɪk/ /tə/ /du/ /ɪt/",
+		"vietnamese": "Bạnkhông thíchlàm điều này"
 	},
 	{
-		"chinese": "他喜欢",
 		"english": "he likes",
-		"soundmark": "/hi/ /laɪks/"
+		"soundmark": "/hi/ /laɪks/",
+		"vietnamese": "Anh ấythích"
 	},
 	{
-		"chinese": "他不喜欢",
 		"english": "he doesn't like",
-		"soundmark": "/hi/ /ˈdʌznt/ /laɪk/"
+		"soundmark": "/hi/ /ˈdʌznt/ /laɪk/",
+		"vietnamese": "Anh ấykhông thích"
 	},
 	{
-		"chinese": "他不喜欢做这件事",
 		"english": "he doesn't like to do it",
-		"soundmark": "/hi/ /ˈdʌznt/ /laɪk/ /tə/ /du/ /ɪt/"
+		"soundmark": "/hi/ /ˈdʌznt/ /laɪk/ /tə/ /du/ /ɪt/",
+		"vietnamese": "Anh ấykhông thíchlàm điều này"
 	},
 	{
-		"chinese": "她不喜欢做这件事",
 		"english": "she doesn't like to do it",
-		"soundmark": "/ʃi/ /ˈdʌznt/ /laɪk/ /tə/ /du/ /ɪt/"
+		"soundmark": "/ʃi/ /ˈdʌznt/ /laɪk/ /tə/ /du/ /ɪt/",
+		"vietnamese": "Cô ấykhông thíchlàm điều này"
 	},
 	{
-		"chinese": "它不喜欢做这件事",
 		"english": "it doesn't like to do it",
-		"soundmark": "/ɪt/ /ˈdʌznt/ /laɪk/ /tə/ /du/ /ɪt/"
+		"soundmark": "/ɪt/ /ˈdʌznt/ /laɪk/ /tə/ /du/ /ɪt/",
+		"vietnamese": "Nókhông thíchlàm điều này"
 	},
 	{
-		"chinese": "我必须做这件事",
 		"english": "I have to do it",
-		"soundmark": "/aɪ/ /hæv/ /tə/ /du/ /ɪt/"
+		"soundmark": "/aɪ/ /hæv/ /tə/ /du/ /ɪt/",
+		"vietnamese": "Tôi phảilàm điều này"
 	},
 	{
-		"chinese": "我不必做这件事",
 		"english": "I don't have to do it",
-		"soundmark": "/aɪ/ /hæv/ /tə/ /du/ /ɪt/"
+		"soundmark": "/aɪ/ /hæv/ /tə/ /du/ /ɪt/",
+		"vietnamese": "Tôikhông必làm điều này"
 	},
 	{
-		"chinese": "你必须做这件事",
 		"english": "you have to do it",
-		"soundmark": "/ju/ /hæv/ /tə/ /du/ /ɪt/"
+		"soundmark": "/ju/ /hæv/ /tə/ /du/ /ɪt/",
+		"vietnamese": "Bạnphảilàm điều này"
 	},
 	{
-		"chinese": "你不必做这件事",
 		"english": "you don't have to do it",
-		"soundmark": "/ju/ /dont/ /hæv/ /tə/ /du/ /ɪt/"
+		"soundmark": "/ju/ /dont/ /hæv/ /tə/ /du/ /ɪt/",
+		"vietnamese": "Bạnkhông必làm điều này"
 	},
 	{
-		"chinese": "他必须做这件事",
 		"english": "he has to do it",
-		"soundmark": "/hi/ /hæz/ /tə/ /du/ /ɪt/"
+		"soundmark": "/hi/ /hæz/ /tə/ /du/ /ɪt/",
+		"vietnamese": "Anh ấyphảilàm điều này"
 	},
 	{
-		"chinese": "他不必做这件事",
 		"english": "he doesn't have to do it",
-		"soundmark": "/hi/ /ˈdʌznt/ /hæv/ /tə/ /du/ /ɪt/"
+		"soundmark": "/hi/ /ˈdʌznt/ /hæv/ /tə/ /du/ /ɪt/",
+		"vietnamese": "Anh ấykhông必làm điều này"
 	},
 	{
-		"chinese": "她必须做这件事",
 		"english": "she has to do it",
-		"soundmark": "/ʃi/ /hæz/ /tə/ /du/ /ɪt/"
+		"soundmark": "/ʃi/ /hæz/ /tə/ /du/ /ɪt/",
+		"vietnamese": "Cô ấyphảilàm điều này"
 	},
 	{
-		"chinese": "她不必做这件事",
 		"english": "she doesn't have to do it",
-		"soundmark": "/ʃi/ /ˈdʌznt/ /hæv/ /tə/ /du/ /ɪt/"
+		"soundmark": "/ʃi/ /ˈdʌznt/ /hæv/ /tə/ /du/ /ɪt/",
+		"vietnamese": "Cô ấykhông必làm điều này"
 	},
 	{
-		"chinese": "它必须做这件事",
 		"english": "it has to do it",
-		"soundmark": "/ɪt/ /hæz/ /tə/ /du/ /ɪt/"
+		"soundmark": "/ɪt/ /hæz/ /tə/ /du/ /ɪt/",
+		"vietnamese": "Nóphảilàm điều này"
 	},
 	{
-		"chinese": "它不必做这件事",
 		"english": "it doesn't have to do it",
-		"soundmark": "/ɪt/ /ˈdʌznt/ /hæv/ /tə/ /du/ /ɪt/"
+		"soundmark": "/ɪt/ /ˈdʌznt/ /hæv/ /tə/ /du/ /ɪt/",
+		"vietnamese": "Nókhông必làm điều này"
 	},
 	{
-		"chinese": "它需要",
 		"english": "it needs",
-		"soundmark": "/ɪt/ /nidz/"
+		"soundmark": "/ɪt/ /nidz/",
+		"vietnamese": "Nócần"
 	},
 	{
-		"chinese": "它不需要",
 		"english": "it doesn't need",
-		"soundmark": "/ɪt/ /ˈdʌznt/ /nid/"
+		"soundmark": "/ɪt/ /ˈdʌznt/ /nid/",
+		"vietnamese": "Nókhôngcần"
 	},
 	{
-		"chinese": "吃这个食物",
 		"english": "to eat the food",
-		"soundmark": "/tə/ /it/ /ðə/ /fud/"
+		"soundmark": "/tə/ /it/ /ðə/ /fud/",
+		"vietnamese": "ăn thức ăn này"
 	},
 	{
-		"chinese": "它需要吃这个食物",
 		"english": "it needs to eat the food",
-		"soundmark": "/ɪt/ /nidz/ /tə/ /it/ /ðə/ /fud/"
+		"soundmark": "/ɪt/ /nidz/ /tə/ /it/ /ðə/ /fud/",
+		"vietnamese": "Nócầnăn thức ăn này"
 	},
 	{
-		"chinese": "现在",
 		"english": "now",
-		"soundmark": "/naʊ/"
+		"soundmark": "/naʊ/",
+		"vietnamese": "bây giờ"
 	},
 	{
-		"chinese": "它需要现在吃这个食物",
 		"english": "it needs to eat the food now",
-		"soundmark": "/ɪt/ /nidz/ /tə/ /it/ /ðə/ /fud/ /naʊ/"
+		"soundmark": "/ɪt/ /nidz/ /tə/ /it/ /ðə/ /fud/ /naʊ/",
+		"vietnamese": "Nócầnbây giờăn thức ăn này"
 	},
 	{
-		"chinese": "它不需要现在吃这个食物",
 		"english": "it doesn't need to eat the food now",
-		"soundmark": "/ɪt/ /ˈdʌznt/ /nid/ /tə/ /it/ /ðə/ /fud/ /naʊ/"
+		"soundmark": "/ɪt/ /ˈdʌznt/ /nid/ /tə/ /it/ /ðə/ /fud/ /naʊ/",
+		"vietnamese": "Nókhôngcầnbây giờăn thức ăn này"
 	},
 	{
-		"chinese": "星荣需要",
 		"english": "Xingrong needs",
-		"soundmark": "/nidz/"
+		"soundmark": "/nidz/",
+		"vietnamese": "Xingrongcần"
 	},
 	{
-		"chinese": "休息",
 		"english": "to rest",
-		"soundmark": "/tə/ /rɛst/"
+		"soundmark": "/tə/ /rɛst/",
+		"vietnamese": "[VI:休息]"
 	},
 	{
-		"chinese": "星荣需要休息",
 		"english": "Xingrong needs to rest",
-		"soundmark": "/nidz/ /tə/ /rɛst/"
+		"soundmark": "/nidz/ /tə/ /rɛst/",
+		"vietnamese": "Xingrongcần休息"
 	},
 	{
-		"chinese": "星荣不需要",
 		"english": "Xingrong doesn't need",
-		"soundmark": "/ˈdʌznt/ /nid/"
+		"soundmark": "/ˈdʌznt/ /nid/",
+		"vietnamese": "Xingrongkhôngcần"
 	},
 	{
-		"chinese": "星荣不需要休息",
 		"english": "Xingrong doesn't need to rest",
-		"soundmark": "/ˈdʌznt/ /nid/ /tə/ /rɛst/"
+		"soundmark": "/ˈdʌznt/ /nid/ /tə/ /rɛst/",
+		"vietnamese": "Xingrongkhôngcần休息"
 	},
 	{
-		"chinese": "他想要",
 		"english": "he wants",
-		"soundmark": "/hi/ /wɑnts/"
+		"soundmark": "/hi/ /wɑnts/",
+		"vietnamese": "Anh ấymuốn"
 	},
 	{
-		"chinese": "他不想",
 		"english": "he doesn't want",
-		"soundmark": "/hi/ /ˈdʌznt/ /wɑnt/"
+		"soundmark": "/hi/ /ˈdʌznt/ /wɑnt/",
+		"vietnamese": "Anh ấykhông muốn"
 	},
 	{
-		"chinese": "告诉我",
 		"english": "to tell me",
-		"soundmark": "/tə/ /tɛl/ /mi/"
+		"soundmark": "/tə/ /tɛl/ /mi/",
+		"vietnamese": "nói với tôi"
 	},
 	{
-		"chinese": "重要的某事",
 		"english": "something important",
-		"soundmark": "/'sʌmθɪŋ/ /ɪm'pɔrtnt/"
+		"soundmark": "/'sʌmθɪŋ/ /ɪm'pɔrtnt/",
+		"vietnamese": "quan trọng某事"
 	},
 	{
-		"chinese": "他想要告诉我重要的某事",
 		"english": "he wants to tell me something important",
-		"soundmark": "/hi/ /wɑnts/ /tə/ /tɛl/ /mi/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/"
+		"soundmark": "/hi/ /wɑnts/ /tə/ /tɛl/ /mi/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/",
+		"vietnamese": "Anh ấymuốnnói với tôiquan trọng某事"
 	},
 	{
-		"chinese": "他不想告诉我重要的某件事",
 		"english": "he doesn't want to tell me something important",
-		"soundmark": "/hi/ /ˈdʌznt/ /wɑnt/ /tə/ /tɛl/ /mi/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/"
+		"soundmark": "/hi/ /ˈdʌznt/ /wɑnt/ /tə/ /tɛl/ /mi/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/",
+		"vietnamese": "Anh ấykhông muốnnói với tôiquan trọng某件事"
 	},
 	{
-		"chinese": "她想",
 		"english": "she wants",
-		"soundmark": "/ʃi/ /wɑnts/"
+		"soundmark": "/ʃi/ /wɑnts/",
+		"vietnamese": "Cô ấy想"
 	},
 	{
-		"chinese": "她不想",
 		"english": "she doesn't want",
-		"soundmark": "/ʃi/ /ˈdʌznt/ /wɑnt/"
+		"soundmark": "/ʃi/ /ˈdʌznt/ /wɑnt/",
+		"vietnamese": "Cô ấykhông muốn"
 	},
 	{
-		"chinese": "解释",
 		"english": "to explain",
-		"soundmark": "/tə/ /ɪk'splen/"
+		"soundmark": "/tə/ /ɪk'splen/",
+		"vietnamese": "[VI:解释]"
 	},
 	{
-		"chinese": "原因",
 		"english": "the reason",
-		"soundmark": "/ðə/ /ˈrizən/"
+		"soundmark": "/ðə/ /ˈrizən/",
+		"vietnamese": "[VI:原因]"
 	},
 	{
-		"chinese": "解释原因",
 		"english": "to explain the reason",
-		"soundmark": "/tə/ /ɪk'splen/ /ðə/ /ˈrizən/"
+		"soundmark": "/tə/ /ɪk'splen/ /ðə/ /ˈrizən/",
+		"vietnamese": "[VI:解释原因]"
 	},
 	{
-		"chinese": "她想要解释原因",
 		"english": "she wants to explain the reason",
-		"soundmark": "/ʃi/ /wɑnts/ /tə/ /ɪk'splen/ /ðə/ /ˈrizən/"
+		"soundmark": "/ʃi/ /wɑnts/ /tə/ /ɪk'splen/ /ðə/ /ˈrizən/",
+		"vietnamese": "Cô ấymuốn解释原因"
 	},
 	{
-		"chinese": "她不想解释原因",
 		"english": "she doesn't want to explain the reason",
-		"soundmark": "/ʃi/ /ˈdʌznt/ /wɑnt/ /tə/ /ɪk'splen/ /ðə/ /ˈrizən/"
+		"soundmark": "/ʃi/ /ˈdʌznt/ /wɑnt/ /tə/ /ɪk'splen/ /ðə/ /ˈrizən/",
+		"vietnamese": "Cô ấykhông muốn解释原因"
 	},
 	{
-		"chinese": "问我",
 		"english": "to ask me",
-		"soundmark": "/tə/ /æsk/ /mi/"
+		"soundmark": "/tə/ /æsk/ /mi/",
+		"vietnamese": "问Tôi"
 	},
 	{
-		"chinese": "一个问题",
 		"english": "a question",
-		"soundmark": "/ə/ /'kwɛstʃən/"
+		"soundmark": "/ə/ /'kwɛstʃən/",
+		"vietnamese": "[VI:一个问题]"
 	},
 	{
-		"chinese": "问我一个问题",
 		"english": "to ask me a question",
-		"soundmark": "/tə/ /æsk/ /mi/ /ə/ /'kwɛstʃən/"
+		"soundmark": "/tə/ /æsk/ /mi/ /ə/ /'kwɛstʃən/",
+		"vietnamese": "问Tôi一个问题"
 	},
 	{
-		"chinese": "她想要问我一个问题",
 		"english": "she wants to ask me a question",
-		"soundmark": "/ʃi/ /wɑnts/ /tə/ /æsk/ /mi/ /ə/ /'kwɛstʃən/"
+		"soundmark": "/ʃi/ /wɑnts/ /tə/ /æsk/ /mi/ /ə/ /'kwɛstʃən/",
+		"vietnamese": "Cô ấymuốn问Tôi一个问题"
 	},
 	{
-		"chinese": "她不想问我一个问题",
 		"english": "she doesn't want to ask me a question",
-		"soundmark": "/ʃi/ /ˈdʌznt/ /wɑnt/ /tə/ /æsk/ /mi/ /ə/ /'kwɛstʃən/"
+		"soundmark": "/ʃi/ /ˈdʌznt/ /wɑnt/ /tə/ /æsk/ /mi/ /ə/ /'kwɛstʃən/",
+		"vietnamese": "Cô ấykhông muốn问Tôi一个问题"
 	},
 	{
-		"chinese": "它想",
 		"english": "it wants",
-		"soundmark": "/ɪt/ /wɑnts/"
+		"soundmark": "/ɪt/ /wɑnts/",
+		"vietnamese": "Nó想"
 	},
 	{
-		"chinese": "它不想",
 		"english": "it doesn't want",
-		"soundmark": "/ɪt/ /ˈdʌznt/ /wɑnt/"
+		"soundmark": "/ɪt/ /ˈdʌznt/ /wɑnt/",
+		"vietnamese": "Nókhông muốn"
 	},
 	{
-		"chinese": "飞翔",
 		"english": "to fly",
-		"soundmark": "/tə/ /flaɪ/"
+		"soundmark": "/tə/ /flaɪ/",
+		"vietnamese": "[VI:飞翔]"
 	},
 	{
-		"chinese": "在天空中",
 		"english": "in the sky",
-		"soundmark": "/ɪn/ /ðə/ /skaɪ/"
+		"soundmark": "/ɪn/ /ðə/ /skaɪ/",
+		"vietnamese": "[VI:在天空中]"
 	},
 	{
-		"chinese": "在天空中飞翔",
 		"english": "to fly in the sky",
-		"soundmark": "/tə/ /flaɪ/ /ɪn/ /ðə/ /skaɪ/"
+		"soundmark": "/tə/ /flaɪ/ /ɪn/ /ðə/ /skaɪ/",
+		"vietnamese": "[VI:在天空中飞翔]"
 	},
 	{
-		"chinese": "它想在天空中飞翔",
 		"english": "it wants to fly in the sky",
-		"soundmark": "/ɪt/ /wɑnts/ /tə/ /flaɪ/ /ɪn/ /ðə/ /skaɪ/"
+		"soundmark": "/ɪt/ /wɑnts/ /tə/ /flaɪ/ /ɪn/ /ðə/ /skaɪ/",
+		"vietnamese": "Nó想在天空中飞翔"
 	},
 	{
-		"chinese": "它不想在天空中飞翔",
 		"english": "it doesn't want to fly in the sky",
-		"soundmark": "/ɪt/ /ˈdʌznt/ /wɑnt/ /tə/ /flaɪ/ /ɪn/ /ðə/ /skaɪ/"
+		"soundmark": "/ɪt/ /ˈdʌznt/ /wɑnt/ /tə/ /flaɪ/ /ɪn/ /ðə/ /skaɪ/",
+		"vietnamese": "Nókhông muốn在天空中飞翔"
 	},
 	{
-		"chinese": "他喜欢",
 		"english": "he likes",
-		"soundmark": "/hi/ /laɪks/"
+		"soundmark": "/hi/ /laɪks/",
+		"vietnamese": "Anh ấythích"
 	},
 	{
-		"chinese": "他不喜欢",
 		"english": "he doesn't like",
-		"soundmark": "/hi/ /ˈdʌznt/ /laɪk/"
+		"soundmark": "/hi/ /ˈdʌznt/ /laɪk/",
+		"vietnamese": "Anh ấykhông thích"
 	},
 	{
-		"chinese": "散步",
 		"english": "to walk",
-		"soundmark": "/tə/ /wɔk/"
+		"soundmark": "/tə/ /wɔk/",
+		"vietnamese": "[VI:散步]"
 	},
 	{
-		"chinese": "在公园里",
 		"english": "in the park",
-		"soundmark": "/ɪn/ /ðə/ /pɑrk/"
+		"soundmark": "/ɪn/ /ðə/ /pɑrk/",
+		"vietnamese": "[VI:在公园里]"
 	},
 	{
-		"chinese": "在公园里散步",
 		"english": "to walk in the park",
-		"soundmark": "/tə/ /wɔk/ /ɪn/ /ðə/ /pɑrk/"
+		"soundmark": "/tə/ /wɔk/ /ɪn/ /ðə/ /pɑrk/",
+		"vietnamese": "[VI:在公园里散步]"
 	},
 	{
-		"chinese": "他喜欢在公园里散步",
 		"english": "he likes to walk in the park",
-		"soundmark": "/hi/ /laɪks/ /tə/ /wɔk/ /ɪn/ /ðə/ /pɑrk/"
+		"soundmark": "/hi/ /laɪks/ /tə/ /wɔk/ /ɪn/ /ðə/ /pɑrk/",
+		"vietnamese": "Anh ấythích在公园里散步"
 	},
 	{
-		"chinese": "他不喜欢在公园里散步",
 		"english": "he doesn't like to walk in the park",
-		"soundmark": "/hi/ /ˈdʌznt/ /laɪk/ /tə/ /wɔk/ /ɪn/ /ðə/ /pɑrk/"
+		"soundmark": "/hi/ /ˈdʌznt/ /laɪk/ /tə/ /wɔk/ /ɪn/ /ðə/ /pɑrk/",
+		"vietnamese": "Anh ấykhông thích在公园里散步"
 	},
 	{
-		"chinese": "她喜欢",
 		"english": "she likes",
-		"soundmark": "/ʃi/ /laɪks/"
+		"soundmark": "/ʃi/ /laɪks/",
+		"vietnamese": "Cô ấythích"
 	},
 	{
-		"chinese": "她不喜欢",
 		"english": "she doesn't like",
-		"soundmark": "/ʃi/ /ˈdʌznt/ /laɪk/"
+		"soundmark": "/ʃi/ /ˈdʌznt/ /laɪk/",
+		"vietnamese": "Cô ấykhông thích"
 	},
 	{
-		"chinese": "阅读",
 		"english": "to read",
-		"soundmark": "/tə/ /rid/"
+		"soundmark": "/tə/ /rid/",
+		"vietnamese": "[VI:阅读]"
 	},
 	{
-		"chinese": "在家里",
 		"english": "at home",
-		"soundmark": "/ət/ /hom/"
+		"soundmark": "/ət/ /hom/",
+		"vietnamese": "[VI:在家里]"
 	},
 	{
-		"chinese": "在家里阅读",
 		"english": "to read at home",
-		"soundmark": "/tə/ /rid/ /ət/ /hom/"
+		"soundmark": "/tə/ /rid/ /ət/ /hom/",
+		"vietnamese": "[VI:在家里阅读]"
 	},
 	{
-		"chinese": "她喜欢在家里阅读",
 		"english": "she likes to read at home",
-		"soundmark": "/ʃi/ /laɪks/ /tə/ /rid/ /ət/ /hom/"
+		"soundmark": "/ʃi/ /laɪks/ /tə/ /rid/ /ət/ /hom/",
+		"vietnamese": "Cô ấythích在家里阅读"
 	},
 	{
-		"chinese": "她不喜欢在家里阅读",
 		"english": "she doesn't like to read at home",
-		"soundmark": "/ʃi/ /ˈdʌznt/ /laɪk/ /tə/ /rid/ /ət/ /hom/"
+		"soundmark": "/ʃi/ /ˈdʌznt/ /laɪk/ /tə/ /rid/ /ət/ /hom/",
+		"vietnamese": "Cô ấykhông thích在家里阅读"
 	},
 	{
-		"chinese": "它喜欢",
 		"english": "it likes",
-		"soundmark": "/ɪt/ /laɪks/"
+		"soundmark": "/ɪt/ /laɪks/",
+		"vietnamese": "Nóthích"
 	},
 	{
-		"chinese": "它不喜欢",
 		"english": "it doesn't like",
-		"soundmark": "/ɪt/ /ˈdʌznt/ /laɪk/"
+		"soundmark": "/ɪt/ /ˈdʌznt/ /laɪk/",
+		"vietnamese": "Nókhông thích"
 	},
 	{
-		"chinese": "睡觉",
 		"english": "to sleep",
-		"soundmark": "/tə/ /slip/"
+		"soundmark": "/tə/ /slip/",
+		"vietnamese": "[VI:睡觉]"
 	},
 	{
-		"chinese": "在床上",
 		"english": "on the bed",
-		"soundmark": "/ɑn/ /ðə/ /bɛd/"
+		"soundmark": "/ɑn/ /ðə/ /bɛd/",
+		"vietnamese": "[VI:在床上]"
 	},
 	{
-		"chinese": "在床上睡觉",
 		"english": "to sleep on the bed",
-		"soundmark": "/tə/ /slip/ /ɑn/ /ðə/ /bɛd/"
+		"soundmark": "/tə/ /slip/ /ɑn/ /ðə/ /bɛd/",
+		"vietnamese": "[VI:在床上睡觉]"
 	},
 	{
-		"chinese": "它喜欢在床上睡觉",
 		"english": "it likes to sleep on the bed",
-		"soundmark": "/ɪt/ /laɪks/ /tə/ /slip/ /ɑn/ /ðə/ /bɛd/"
+		"soundmark": "/ɪt/ /laɪks/ /tə/ /slip/ /ɑn/ /ðə/ /bɛd/",
+		"vietnamese": "Nóthích在床上睡觉"
 	},
 	{
-		"chinese": "它不喜欢在床上睡觉",
 		"english": "it doesn't like to sleep on the bed",
-		"soundmark": "/ɪt/ /ˈdʌznt/ /laɪk/ /tə/ /slip/ /ɑn/ /ðə/ /bɛd/"
+		"soundmark": "/ɪt/ /ˈdʌznt/ /laɪk/ /tə/ /slip/ /ɑn/ /ðə/ /bɛd/",
+		"vietnamese": "Nókhông thích在床上睡觉"
 	},
 	{
-		"chinese": "解释",
 		"english": "to explain",
-		"soundmark": "/tə/ /ɪk'splen/"
+		"soundmark": "/tə/ /ɪk'splen/",
+		"vietnamese": "[VI:解释]"
 	},
 	{
-		"chinese": "原因",
 		"english": "the reason",
-		"soundmark": "/ðə/ /ˈrizən/"
+		"soundmark": "/ðə/ /ˈrizən/",
+		"vietnamese": "[VI:原因]"
 	},
 	{
-		"chinese": "解释原因",
 		"english": "to explain the reason",
-		"soundmark": "/tə/ /ɪk'splen/ /ðə/ /ˈrizən/"
+		"soundmark": "/tə/ /ɪk'splen/ /ðə/ /ˈrizən/",
+		"vietnamese": "[VI:解释原因]"
 	},
 	{
-		"chinese": "他必须解释原因",
 		"english": "he has to explain the reason",
-		"soundmark": "/hi/ /hæz/ /tə/ /ɪk'splen/ /ðə/ /ˈrizən/"
+		"soundmark": "/hi/ /hæz/ /tə/ /ɪk'splen/ /ðə/ /ˈrizən/",
+		"vietnamese": "Anh ấyphải解释原因"
 	},
 	{
-		"chinese": "他不必解释原因",
 		"english": "he doesn't have to explain the reason",
-		"soundmark": "/hi/ /ˈdʌznt/ /hæv/ /tə/ /ɪk'splen/ /ðə/ /ˈrizən/"
+		"soundmark": "/hi/ /ˈdʌznt/ /hæv/ /tə/ /ɪk'splen/ /ðə/ /ˈrizən/",
+		"vietnamese": "Anh ấykhông必解释原因"
 	},
 	{
-		"chinese": "在家里阅读",
 		"english": "to read at home",
-		"soundmark": "/tə/ /rid/ /ət/ /hom/"
+		"soundmark": "/tə/ /rid/ /ət/ /hom/",
+		"vietnamese": "[VI:在家里阅读]"
 	},
 	{
-		"chinese": "她不必在家里阅读",
 		"english": "she doesn't have to read at home",
-		"soundmark": "/ʃi/ /ˈdʌznt/ /hæv/ /tə/ /rid/ /ət/ /hom/"
+		"soundmark": "/ʃi/ /ˈdʌznt/ /hæv/ /tə/ /rid/ /ət/ /hom/",
+		"vietnamese": "Cô ấykhông必在家里阅读"
 	},
 	{
-		"chinese": "告诉我",
 		"english": "to tell me",
-		"soundmark": "/tə/ /tɛl/ /mi/"
+		"soundmark": "/tə/ /tɛl/ /mi/",
+		"vietnamese": "nói với tôi"
 	},
 	{
-		"chinese": "事实",
 		"english": "the truth",
-		"soundmark": "/ðə/ /trʊθ/"
+		"soundmark": "/ðə/ /trʊθ/",
+		"vietnamese": "sự thật"
 	},
 	{
-		"chinese": "告诉我事实",
 		"english": "to tell me the truth",
-		"soundmark": "/tə/ /tɛl/ /mi/ /ðə/ /trʊθ/"
+		"soundmark": "/tə/ /tɛl/ /mi/ /ðə/ /trʊθ/",
+		"vietnamese": "nói sự thật với tôi"
 	},
 	{
-		"chinese": "她必须告诉我事实",
 		"english": "she has to tell me the truth",
-		"soundmark": "/ʃi/ /hæz/ /tə/ /tɛl/ /mi/ /ðə/ /trʊθ/"
+		"soundmark": "/ʃi/ /hæz/ /tə/ /tɛl/ /mi/ /ðə/ /trʊθ/",
+		"vietnamese": "Cô ấyphảinói sự thật với tôi"
 	},
 	{
-		"chinese": "她不必告诉我事实",
 		"english": "she doesn't have to tell me the truth",
-		"soundmark": "/ʃi/ /ˈdʌznt/ /hæv/ /tə/ /tɛl/ /mi/ /ðə/ /trʊθ/"
+		"soundmark": "/ʃi/ /ˈdʌznt/ /hæv/ /tə/ /tɛl/ /mi/ /ðə/ /trʊθ/",
+		"vietnamese": "Cô ấykhông必nói sự thật với tôi"
 	},
 	{
-		"chinese": "睡觉",
 		"english": "to sleep",
-		"soundmark": "/tə/ /slip/"
+		"soundmark": "/tə/ /slip/",
+		"vietnamese": "[VI:睡觉]"
 	},
 	{
-		"chinese": "在床上",
 		"english": "on the bed",
-		"soundmark": "/ɑn/ /ðə/ /bɛd/"
+		"soundmark": "/ɑn/ /ðə/ /bɛd/",
+		"vietnamese": "[VI:在床上]"
 	},
 	{
-		"chinese": "在床上睡觉",
 		"english": "to sleep on the bed",
-		"soundmark": "/tə/ /slip/ /ɑn/ /ðə/ /bɛd/"
+		"soundmark": "/tə/ /slip/ /ɑn/ /ðə/ /bɛd/",
+		"vietnamese": "[VI:在床上睡觉]"
 	},
 	{
-		"chinese": "它必须在床上睡觉",
 		"english": "it has to sleep on the bed",
-		"soundmark": "/ɪt/ /hæz/ /tə/ /slip/ /ɑn/ /ðə/ /bɛd/"
+		"soundmark": "/ɪt/ /hæz/ /tə/ /slip/ /ɑn/ /ðə/ /bɛd/",
+		"vietnamese": "Nóphải在床上睡觉"
 	},
 	{
-		"chinese": "它不必",
 		"english": "it doesn't have",
-		"soundmark": "/ɪt/ /ˈdʌznt/ /hæv/"
+		"soundmark": "/ɪt/ /ˈdʌznt/ /hæv/",
+		"vietnamese": "Nókhông必"
 	},
 	{
-		"chinese": "它不必在床上睡觉",
 		"english": "it doesn't have to sleep on the bed",
-		"soundmark": "/ɪt/ /ˈdʌznt/ /hæv/ /tə/ /slip/ /ɑn/ /ðə/ /bɛd/"
+		"soundmark": "/ɪt/ /ˈdʌznt/ /hæv/ /tə/ /slip/ /ɑn/ /ðə/ /bɛd/",
+		"vietnamese": "Nókhông必在床上睡觉"
 	}
 ]

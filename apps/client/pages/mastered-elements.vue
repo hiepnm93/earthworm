@@ -27,7 +27,7 @@
         </div>
       </div>
       <div
-        data-tippy-content="删除"
+        data-tippy-content="Xóa"
         @click="removeItem(item)"
         class="cursor-pointer transition-transform duration-300 hover:scale-110"
       >

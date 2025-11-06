@@ -1,667 +1,667 @@
 [
 	{
-		"chinese": "清洗",
 		"english": "to wash",
-		"soundmark": "/tə/ /wɑʃ/"
+		"soundmark": "/tə/ /wɑʃ/",
+		"vietnamese": "[VI:清洗]"
 	},
 	{
-		"chinese": "清洗(ing形式)",
 		"english": "washing",
-		"soundmark": "/'wɑʃɪŋ/"
+		"soundmark": "/'wɑʃɪŋ/",
+		"vietnamese": "[VI:清洗(ing形式)]"
 	},
 	{
-		"chinese": "正在清洗",
 		"english": "be washing",
-		"soundmark": "/bi/ /'wɑʃɪŋ/"
+		"soundmark": "/bi/ /'wɑʃɪŋ/",
+		"vietnamese": "[VI:正在清洗]"
 	},
 	{
-		"chinese": "我(现在)正在清洗",
 		"english": "I am washing",
-		"soundmark": "/aɪ/ /æm/ /'wɑʃɪŋ/"
+		"soundmark": "/aɪ/ /æm/ /'wɑʃɪŋ/",
+		"vietnamese": "Tôi(bây giờ)正在清洗"
 	},
 	{
-		"chinese": "我的车",
 		"english": "my car",
-		"soundmark": "/maɪ/ /kɑr/"
+		"soundmark": "/maɪ/ /kɑr/",
+		"vietnamese": "Tôi的车"
 	},
 	{
-		"chinese": "我(现在)正在清洗我的车",
 		"english": "I am washing my car",
-		"soundmark": "/aɪ/ /æm/ /'wɑʃɪŋ/ /maɪ/ /kɑr/"
+		"soundmark": "/aɪ/ /æm/ /'wɑʃɪŋ/ /maɪ/ /kɑr/",
+		"vietnamese": "Tôi(bây giờ)正在清洗我的车"
 	},
 	{
-		"chinese": "正在清洗",
 		"english": "be washing",
-		"soundmark": "/bi/ /'wɑʃɪŋ/"
+		"soundmark": "/bi/ /'wɑʃɪŋ/",
+		"vietnamese": "[VI:正在清洗]"
 	},
 	{
-		"chinese": "清洗(过去分词)",
 		"english": "washed",
-		"soundmark": "/wɑʃt/"
+		"soundmark": "/wɑʃt/",
+		"vietnamese": "[VI:清洗(过去分词)]"
 	},
 	{
-		"chinese": "被清洗了",
 		"english": "be washed",
-		"soundmark": "/bi/ /wɑʃt/"
+		"soundmark": "/bi/ /wɑʃt/",
+		"vietnamese": "[VI:被清洗了]"
 	},
 	{
-		"chinese": "我的车",
 		"english": "my car",
-		"soundmark": "/maɪ/ /kɑr/"
+		"soundmark": "/maɪ/ /kɑr/",
+		"vietnamese": "Tôi的车"
 	},
 	{
-		"chinese": "我的车被清洗了",
 		"english": "my car is washed",
-		"soundmark": "/maɪ/ /kɑr/ /ɪz/ /wɑʃt/"
+		"soundmark": "/maɪ/ /kɑr/ /ɪz/ /wɑʃt/",
+		"vietnamese": "Tôi的车被清洗了"
 	},
 	{
-		"chinese": "我(已经)洗完了我的车",
 		"english": "I have washed my car",
-		"soundmark": "/aɪ/ /hæv/ /wɑʃt/ /maɪ/ /kɑr/"
+		"soundmark": "/aɪ/ /hæv/ /wɑʃt/ /maɪ/ /kɑr/",
+		"vietnamese": "Tôi(已经)洗完了我的车"
 	},
 	{
-		"chinese": "手",
 		"english": "hand",
-		"soundmark": "/hænd/"
+		"soundmark": "/hænd/",
+		"vietnamese": "[VI:手]"
 	},
 	{
-		"chinese": "我(已经)洗完了我的手",
 		"english": "I have washed my hands",
-		"soundmark": "/aɪ/ /hæv/ /wɑʃt/ /maɪ/ /hændz/"
+		"soundmark": "/aɪ/ /hæv/ /wɑʃt/ /maɪ/ /hændz/",
+		"vietnamese": "Tôi(已经)洗完了我的手"
 	},
 	{
-		"chinese": "完成",
 		"english": "to finish",
-		"soundmark": "/tə/ /'fɪnɪʃ/"
+		"soundmark": "/tə/ /'fɪnɪʃ/",
+		"vietnamese": "[VI:完成]"
 	},
 	{
-		"chinese": "完成(过去分词)",
 		"english": "finished",
-		"soundmark": "/'fɪnɪʃt/"
+		"soundmark": "/'fɪnɪʃt/",
+		"vietnamese": "[VI:完成(过去分词)]"
 	},
 	{
-		"chinese": "我(已经)完成了",
 		"english": "I have finished",
-		"soundmark": "/aɪ/ /hæv/ /'fɪnɪʃt/"
+		"soundmark": "/aɪ/ /hæv/ /'fɪnɪʃt/",
+		"vietnamese": "Tôi(已经)完成了"
 	},
 	{
-		"chinese": "家庭作业",
 		"english": "homework",
-		"soundmark": "/'homwɝk/"
+		"soundmark": "/'homwɝk/",
+		"vietnamese": "[VI:家庭作业]"
 	},
 	{
-		"chinese": "我的家庭作业",
 		"english": "my homework",
-		"soundmark": "/maɪ/ /'homwɝk/"
+		"soundmark": "/maɪ/ /'homwɝk/",
+		"vietnamese": "Tôi的家庭作业"
 	},
 	{
-		"chinese": "我(已经)完成了我的家庭作业",
 		"english": "I have finished my homework",
-		"soundmark": "/aɪ/ /hæv/ /'fɪnɪʃt/ /maɪ/ /'homwɝk/"
+		"soundmark": "/aɪ/ /hæv/ /'fɪnɪʃt/ /maɪ/ /'homwɝk/",
+		"vietnamese": "Tôi(已经)完成了我的家庭作业"
 	},
 	{
-		"chinese": "我们",
 		"english": "we",
-		"soundmark": "/wi/"
+		"soundmark": "/wi/",
+		"vietnamese": "Chúng tôi"
 	},
 	{
-		"chinese": "我们(已经)完成了",
 		"english": "we have finished",
-		"soundmark": "/wi/ /hæv/ /'fɪnɪʃt/"
+		"soundmark": "/wi/ /hæv/ /'fɪnɪʃt/",
+		"vietnamese": "Chúng tôi(已经)完成了"
 	},
 	{
-		"chinese": "项目",
 		"english": "project",
-		"soundmark": "/ˈprɑdʒɛkt/"
+		"soundmark": "/ˈprɑdʒɛkt/",
+		"vietnamese": "[VI:项目]"
 	},
 	{
-		"chinese": "我们的项目",
 		"english": "our project",
-		"soundmark": "/'aʊɚ/ /ˈprɑdʒɛkt/"
+		"soundmark": "/'aʊɚ/ /ˈprɑdʒɛkt/",
+		"vietnamese": "Chúng tôi的项目"
 	},
 	{
-		"chinese": "我们(已经)完成了我们的项目",
 		"english": "we have finished our project",
-		"soundmark": "/wi/ /hæv/ /'fɪnɪʃt/ /'aʊɚ/ /ˈprɑdʒɛkt/"
+		"soundmark": "/wi/ /hæv/ /'fɪnɪʃt/ /'aʊɚ/ /ˈprɑdʒɛkt/",
+		"vietnamese": "Chúng tôi(已经)完成了Tôi们的项目"
 	},
 	{
-		"chinese": "去",
 		"english": "to go",
-		"soundmark": "/tə/ /ɡo/"
+		"soundmark": "/tə/ /ɡo/",
+		"vietnamese": "[VI:去]"
 	},
 	{
-		"chinese": "公园",
 		"english": "the park",
-		"soundmark": "/ðə/ /pɑrk/"
+		"soundmark": "/ðə/ /pɑrk/",
+		"vietnamese": "[VI:公园]"
 	},
 	{
-		"chinese": "去公园",
 		"english": "to go to the park",
-		"soundmark": "/tə/ /ɡo/ /tə/ /ðə/ /pɑrk/"
+		"soundmark": "/tə/ /ɡo/ /tə/ /ðə/ /pɑrk/",
+		"vietnamese": "[VI:去公园]"
 	},
 	{
-		"chinese": "去(过去分词)",
 		"english": "gone",
-		"soundmark": "/ɡɔn/"
+		"soundmark": "/ɡɔn/",
+		"vietnamese": "[VI:去(过去分词)]"
 	},
 	{
-		"chinese": "他们(已经)去了",
 		"english": "they have gone",
-		"soundmark": "/ðe/ /hæv/ /ɡɔn/"
+		"soundmark": "/ðe/ /hæv/ /ɡɔn/",
+		"vietnamese": "Họ(已经)去了"
 	},
 	{
-		"chinese": "他们(已经)去了公园",
 		"english": "they have gone to the park",
-		"soundmark": "/ðe/ /hæv/ /ɡɔn/ /tə/ /ðə/ /pɑrk/"
+		"soundmark": "/ðe/ /hæv/ /ɡɔn/ /tə/ /ðə/ /pɑrk/",
+		"vietnamese": "Họ(已经)去了公园"
 	},
 	{
-		"chinese": "阅读",
 		"english": "to read",
-		"soundmark": "/tə/ /rid/"
+		"soundmark": "/tə/ /rid/",
+		"vietnamese": "[VI:阅读]"
 	},
 	{
-		"chinese": "读(过去分词)",
 		"english": "read",
-		"soundmark": "/rid/"
+		"soundmark": "/rid/",
+		"vietnamese": "[VI:读(过去分词)]"
 	},
 	{
-		"chinese": "我(已经)读过",
 		"english": "I have read",
-		"soundmark": "/aɪ/ /hæv/ /rid/"
+		"soundmark": "/aɪ/ /hæv/ /rid/",
+		"vietnamese": "Tôi(已经)读过"
 	},
 	{
-		"chinese": "那本书",
 		"english": "that book",
-		"soundmark": "/ðæt/ /bʊk/"
+		"soundmark": "/ðæt/ /bʊk/",
+		"vietnamese": "[VI:那本书]"
 	},
 	{
-		"chinese": "我(已经)读过那本书",
 		"english": "I have read that book",
-		"soundmark": "/aɪ/ /hæv/ /rid/ /ðæt/ /bʊk/"
+		"soundmark": "/aɪ/ /hæv/ /rid/ /ðæt/ /bʊk/",
+		"vietnamese": "Tôi(已经)读过那本书"
 	},
 	{
-		"chinese": "次",
 		"english": "time",
-		"soundmark": "/taɪm/"
+		"soundmark": "/taɪm/",
+		"vietnamese": "[VI:次]"
 	},
 	{
-		"chinese": "两次",
 		"english": "two times",
-		"soundmark": "/tu/ /taɪmz/"
+		"soundmark": "/tu/ /taɪmz/",
+		"vietnamese": "[VI:两次]"
 	},
 	{
-		"chinese": "两次",
 		"english": "twice",
-		"soundmark": "/twaɪs/"
+		"soundmark": "/twaɪs/",
+		"vietnamese": "[VI:两次]"
 	},
 	{
-		"chinese": "我(已经)读过那本书两次了",
 		"english": "I have read that book twice",
-		"soundmark": "/aɪ/ /hæv/ /rid/ /ðæt/ /bʊk/ /twaɪs/"
+		"soundmark": "/aɪ/ /hæv/ /rid/ /ðæt/ /bʊk/ /twaɪs/",
+		"vietnamese": "Tôi(已经)读过那本书两次了"
 	},
 	{
-		"chinese": "学到",
 		"english": "to learn",
-		"soundmark": "/tə/ /lɝn/"
+		"soundmark": "/tə/ /lɝn/",
+		"vietnamese": "[VI:学到]"
 	},
 	{
-		"chinese": "学到(过去分词)",
 		"english": "learned",
-		"soundmark": "/lɝnd/"
+		"soundmark": "/lɝnd/",
+		"vietnamese": "[VI:学到(过去分词)]"
 	},
 	{
-		"chinese": "我(已经)学到了",
 		"english": "I have learned",
-		"soundmark": "/aɪ/ /hæv/ /lɝnd/"
+		"soundmark": "/aɪ/ /hæv/ /lɝnd/",
+		"vietnamese": "Tôi(已经)学到了"
 	},
 	{
-		"chinese": "大量的",
 		"english": "lot",
-		"soundmark": "/lɑt/"
+		"soundmark": "/lɑt/",
+		"vietnamese": "[VI:大量的]"
 	},
 	{
-		"chinese": "很多",
 		"english": "a lot",
-		"soundmark": "/ə/ /lɑt/"
+		"soundmark": "/ə/ /lɑt/",
+		"vietnamese": "[VI:很多]"
 	},
 	{
-		"chinese": "我(已经)学到了很多",
 		"english": "I have learned a lot",
-		"soundmark": "/aɪ/ /hæv/ /lɝnd/ /ə/ /lɑt/"
+		"soundmark": "/aɪ/ /hæv/ /lɝnd/ /ə/ /lɑt/",
+		"vietnamese": "Tôi(已经)学到了很多"
 	},
 	{
-		"chinese": "课程",
 		"english": "course",
-		"soundmark": "/kɔrs/"
+		"soundmark": "/kɔrs/",
+		"vietnamese": "[VI:课程]"
 	},
 	{
-		"chinese": "这个课程",
 		"english": "this course",
-		"soundmark": "/ðɪs/ /kɔrs/"
+		"soundmark": "/ðɪs/ /kɔrs/",
+		"vietnamese": "[VI:这个课程]"
 	},
 	{
-		"chinese": "从",
 		"english": "from",
-		"soundmark": "/frʌm/"
+		"soundmark": "/frʌm/",
+		"vietnamese": "[VI:从]"
 	},
 	{
-		"chinese": "从这个课程",
 		"english": "from this course",
-		"soundmark": "/frʌm/ /ðɪs/ /kɔrs/"
+		"soundmark": "/frʌm/ /ðɪs/ /kɔrs/",
+		"vietnamese": "[VI:从这个课程]"
 	},
 	{
-		"chinese": "我从这个课程(已经)学到了很多",
 		"english": "I have learned a lot from this course",
-		"soundmark": "/aɪ/ /hæv/ /lɝnd/ /ə/ /lɑt/ /frʌm/ /ðɪs/ /kɔrs/"
+		"soundmark": "/aɪ/ /hæv/ /lɝnd/ /ə/ /lɑt/ /frʌm/ /ðɪs/ /kɔrs/",
+		"vietnamese": "Tôi从这个课程(已经)学到了很多"
 	},
 	{
-		"chinese": "提高",
 		"english": "to improve",
-		"soundmark": "/tə/ /ɪmˈpruv/"
+		"soundmark": "/tə/ /ɪmˈpruv/",
+		"vietnamese": "[VI:提高]"
 	},
 	{
-		"chinese": "提高(过去分词)",
 		"english": "improved",
-		"soundmark": "/ɪmˈpruvd/"
+		"soundmark": "/ɪmˈpruvd/",
+		"vietnamese": "[VI:提高(过去分词)]"
 	},
 	{
-		"chinese": "你(已经)提高了",
 		"english": "you have improved",
-		"soundmark": "/ju/ /hæv/ /ɪmˈpruvd/"
+		"soundmark": "/ju/ /hæv/ /ɪmˈpruvd/",
+		"vietnamese": "Bạn(已经)提高了"
 	},
 	{
-		"chinese": "英文",
 		"english": "English",
-		"soundmark": "/ˈɪŋɡlɪʃ/"
+		"soundmark": "/ˈɪŋɡlɪʃ/",
+		"vietnamese": "[VI:英文]"
 	},
 	{
-		"chinese": "你的英文",
 		"english": "your English",
-		"soundmark": "/jʊr/ /ˈɪŋɡlɪʃ/"
+		"soundmark": "/jʊr/ /ˈɪŋɡlɪʃ/",
+		"vietnamese": "Bạn的英文"
 	},
 	{
-		"chinese": "你(已经)提高了你的英文",
 		"english": "you have improved your English",
-		"soundmark": "/ju/ /hæv/ /ɪmˈpruvd/ /jʊr/ /ˈɪŋɡlɪʃ/"
+		"soundmark": "/ju/ /hæv/ /ɪmˈpruvd/ /jʊr/ /ˈɪŋɡlɪʃ/",
+		"vietnamese": "Bạn(已经)提高了你的英文"
 	},
 	{
-		"chinese": "大量的",
 		"english": "lot",
-		"soundmark": "/lɑt/"
+		"soundmark": "/lɑt/",
+		"vietnamese": "[VI:大量的]"
 	},
 	{
-		"chinese": "很多",
 		"english": "a lot",
-		"soundmark": "/ə/ /lɑt/"
+		"soundmark": "/ə/ /lɑt/",
+		"vietnamese": "[VI:很多]"
 	},
 	{
-		"chinese": "你(已经)提高了你的英文很多",
 		"english": "you have improved your English a lot",
-		"soundmark": "/ju/ /hæv/ /ɪmˈpruvd/ /jʊr/ /ˈɪŋɡlɪʃ/ /ə/ /lɑt/"
+		"soundmark": "/ju/ /hæv/ /ɪmˈpruvd/ /jʊr/ /ˈɪŋɡlɪʃ/ /ə/ /lɑt/",
+		"vietnamese": "Bạn(已经)提高了你的英文很多"
 	},
 	{
-		"chinese": "参观",
 		"english": "to visit",
-		"soundmark": "/tə/ /'vɪzɪt/"
+		"soundmark": "/tə/ /'vɪzɪt/",
+		"vietnamese": "[VI:参观]"
 	},
 	{
-		"chinese": "参观(过去分词)",
 		"english": "visited",
-		"soundmark": "/'vɪzɪtɪd/"
+		"soundmark": "/'vɪzɪtɪd/",
+		"vietnamese": "[VI:参观(过去分词)]"
 	},
 	{
-		"chinese": "我(已经)参观过",
 		"english": "I have visited",
-		"soundmark": "/aɪ/ /hæv/ /'vɪzɪtɪd/"
+		"soundmark": "/aɪ/ /hæv/ /'vɪzɪtɪd/",
+		"vietnamese": "Tôi(已经)参观过"
 	},
 	{
-		"chinese": "墙",
 		"english": "wall",
-		"soundmark": "/wɔl/"
+		"soundmark": "/wɔl/",
+		"vietnamese": "[VI:墙]"
 	},
 	{
-		"chinese": "伟大的",
 		"english": "great",
-		"soundmark": "/ɡret/"
+		"soundmark": "/ɡret/",
+		"vietnamese": "[VI:伟大的]"
 	},
 	{
-		"chinese": "长城",
 		"english": "The Great Wall",
-		"soundmark": "/ðə/ /ɡret/ /wɔl/"
+		"soundmark": "/ðə/ /ɡret/ /wɔl/",
+		"vietnamese": "[VI:长城]"
 	},
 	{
-		"chinese": "我(已经)参观过长城",
 		"english": "I have visited The Great Wall",
-		"soundmark": "/aɪ/ /hæv/ /'vɪzɪtɪd/ /ðə/ /ɡret/ /wɔl/"
+		"soundmark": "/aɪ/ /hæv/ /'vɪzɪtɪd/ /ðə/ /ɡret/ /wɔl/",
+		"vietnamese": "Tôi(已经)参观过长城"
 	},
 	{
-		"chinese": "两次",
 		"english": "twice",
-		"soundmark": "/twaɪs/"
+		"soundmark": "/twaɪs/",
+		"vietnamese": "[VI:两次]"
 	},
 	{
-		"chinese": "我(已经)参观过长城两次了",
 		"english": "I have visited the Great Wall twice",
-		"soundmark": "/aɪ/ /hæv/ /'vɪzɪtɪd/ /ðə/ /ɡret/ /wɔl/ /twaɪs/"
+		"soundmark": "/aɪ/ /hæv/ /'vɪzɪtɪd/ /ðə/ /ɡret/ /wɔl/ /twaɪs/",
+		"vietnamese": "Tôi(已经)参观过长城两次了"
 	},
 	{
-		"chinese": "写",
 		"english": "to write",
-		"soundmark": "/raɪt/"
+		"soundmark": "/raɪt/",
+		"vietnamese": "[VI:写]"
 	},
 	{
-		"chinese": "写(过去分词)",
 		"english": "written",
-		"soundmark": "/'rɪtn/"
+		"soundmark": "/'rɪtn/",
+		"vietnamese": "[VI:写(过去分词)]"
 	},
 	{
-		"chinese": "我(已经)写了",
 		"english": "I have written",
-		"soundmark": "/aɪ/ /hæv/ /'rɪtn/"
+		"soundmark": "/aɪ/ /hæv/ /'rɪtn/",
+		"vietnamese": "Tôi(已经)写了"
 	},
 	{
-		"chinese": "书",
 		"english": "book",
-		"soundmark": "/bʊk/"
+		"soundmark": "/bʊk/",
+		"vietnamese": "[VI:书]"
 	},
 	{
-		"chinese": "三本书",
 		"english": "three books",
-		"soundmark": "/θri/ /bʊks/"
+		"soundmark": "/θri/ /bʊks/",
+		"vietnamese": "[VI:三本书]"
 	},
 	{
-		"chinese": "我(已经)写了三本书",
 		"english": "I have written three books",
-		"soundmark": "/aɪ/ /hæv/ /'rɪtn/ /θri/ /bʊks/"
+		"soundmark": "/aɪ/ /hæv/ /'rɪtn/ /θri/ /bʊks/",
+		"vietnamese": "Tôi(已经)写了三本书"
 	},
 	{
-		"chinese": "职业生涯",
 		"english": "career",
-		"soundmark": "/kəˈrɪr/"
+		"soundmark": "/kəˈrɪr/",
+		"vietnamese": "[VI:职业生涯]"
 	},
 	{
-		"chinese": "我的职业生涯",
 		"english": "my career",
-		"soundmark": "/maɪ/ /kəˈrɪr/"
+		"soundmark": "/maɪ/ /kəˈrɪr/",
+		"vietnamese": "Tôi的职业生涯"
 	},
 	{
-		"chinese": "在我的职业生涯里",
 		"english": "in my career",
-		"soundmark": "/ɪn/ /maɪ/ /kəˈrɪr/"
+		"soundmark": "/ɪn/ /maɪ/ /kəˈrɪr/",
+		"vietnamese": "在Tôi的职业生涯里"
 	},
 	{
-		"chinese": "我在我的职业生涯里(已经)写了三本书",
 		"english": "I have written three books in my career",
-		"soundmark": "/aɪ/ /hæv/ /'rɪtn/ /θri/ /bʊks/ /ɪn/ /maɪ/ /kəˈrɪr/"
+		"soundmark": "/aɪ/ /hæv/ /'rɪtn/ /θri/ /bʊks/ /ɪn/ /maɪ/ /kəˈrɪr/",
+		"vietnamese": "Tôi在我的职业生涯里(已经)写了三本书"
 	},
 	{
-		"chinese": "教",
 		"english": "to teach",
-		"soundmark": "/tə/ /titʃ/"
+		"soundmark": "/tə/ /titʃ/",
+		"vietnamese": "[VI:教]"
 	},
 	{
-		"chinese": "教(过去分词)",
 		"english": "taught",
-		"soundmark": "/tɔt/"
+		"soundmark": "/tɔt/",
+		"vietnamese": "[VI:教(过去分词)]"
 	},
 	{
-		"chinese": "我(已经)教了",
 		"english": "I have taught",
-		"soundmark": "/aɪ/ /hæv/ /tɔt/"
+		"soundmark": "/aɪ/ /hæv/ /tɔt/",
+		"vietnamese": "Tôi(已经)教了"
 	},
 	{
-		"chinese": "我(已经)教了你",
 		"english": "I have taught you",
-		"soundmark": "/aɪ/ /hæv/ /tɔt/ /ju/"
+		"soundmark": "/aɪ/ /hæv/ /tɔt/ /ju/",
+		"vietnamese": "Tôi(已经)教了Bạn"
 	},
 	{
-		"chinese": "每一个",
 		"english": "every",
-		"soundmark": "/'ɛvri/"
+		"soundmark": "/'ɛvri/",
+		"vietnamese": "[VI:每一个]"
 	},
 	{
-		"chinese": "东西",
 		"english": "thing",
-		"soundmark": "/θɪŋ/"
+		"soundmark": "/θɪŋ/",
+		"vietnamese": "[VI:东西]"
 	},
 	{
-		"chinese": "一切",
 		"english": "everything",
-		"soundmark": "/'ɛvriθɪŋ/"
+		"soundmark": "/'ɛvriθɪŋ/",
+		"vietnamese": "[VI:一切]"
 	},
 	{
-		"chinese": "我知道",
 		"english": "I know",
-		"soundmark": "/aɪ/ /no/"
+		"soundmark": "/aɪ/ /no/",
+		"vietnamese": "Tôibiết"
 	},
 	{
-		"chinese": "我知道的一切",
 		"english": "everything I know",
-		"soundmark": "/'ɛvriθɪŋ/ /aɪ/ /no/"
+		"soundmark": "/'ɛvriθɪŋ/ /aɪ/ /no/",
+		"vietnamese": "Tôibiết的一切"
 	},
 	{
-		"chinese": "我(已经)教了你我知道的一切",
 		"english": "I have taught you everything I know",
-		"soundmark": "/aɪ/ /hæv/ /tɔt/ /ju/ /'ɛvriθɪŋ/ /aɪ/ /no/"
+		"soundmark": "/aɪ/ /hæv/ /tɔt/ /ju/ /'ɛvriθɪŋ/ /aɪ/ /no/",
+		"vietnamese": "Tôi(已经)教了Bạn我biết的一切"
 	},
 	{
-		"chinese": "我(已经)教了",
 		"english": "I have taught",
-		"soundmark": "/aɪ/ /hæv/ /tɔt/"
+		"soundmark": "/aɪ/ /hæv/ /tɔt/",
+		"vietnamese": "Tôi(已经)教了"
 	},
 	{
-		"chinese": "我自己",
 		"english": "myself",
-		"soundmark": "/maɪ'sɛlf/"
+		"soundmark": "/maɪ'sɛlf/",
+		"vietnamese": "Tôi自己"
 	},
 	{
-		"chinese": "我(已经)教了我自己",
 		"english": "I have taught myself",
-		"soundmark": "/aɪ/ /hæv/ /tɔt/ /maɪ'sɛlf/"
+		"soundmark": "/aɪ/ /hæv/ /tɔt/ /maɪ'sɛlf/",
+		"vietnamese": "Tôi(已经)教了我自己"
 	},
 	{
-		"chinese": "玩",
 		"english": "to play",
-		"soundmark": "/tə/ /ple/"
+		"soundmark": "/tə/ /ple/",
+		"vietnamese": "[VI:玩]"
 	},
 	{
-		"chinese": "钢琴",
 		"english": "the piano",
-		"soundmark": "/ðə/ /pɪ'æno/"
+		"soundmark": "/ðə/ /pɪ'æno/",
+		"vietnamese": "[VI:钢琴]"
 	},
 	{
-		"chinese": "弹钢琴",
 		"english": "to play the piano",
-		"soundmark": "/tə/ /ple/ /ðə/ /pɪ'æno/"
+		"soundmark": "/tə/ /ple/ /ðə/ /pɪ'æno/",
+		"vietnamese": "[VI:弹钢琴]"
 	},
 	{
-		"chinese": "如何",
 		"english": "how",
-		"soundmark": "/haʊ/"
+		"soundmark": "/haʊ/",
+		"vietnamese": "[VI:如何]"
 	},
 	{
-		"chinese": "如何弹钢琴",
 		"english": "how to play the piano",
-		"soundmark": "/haʊ/ /tə/ /ple/ /ðə/ /pɪ'æno/"
+		"soundmark": "/haʊ/ /tə/ /ple/ /ðə/ /pɪ'æno/",
+		"vietnamese": "[VI:如何弹钢琴]"
 	},
 	{
-		"chinese": "我(已经)自学了",
 		"english": "I have taught myself",
-		"soundmark": "/aɪ/ /hæv/ /tɔt/ /maɪ'sɛlf/"
+		"soundmark": "/aɪ/ /hæv/ /tɔt/ /maɪ'sɛlf/",
+		"vietnamese": "Tôi(已经)自学了"
 	},
 	{
-		"chinese": "我(已经)自学了如何弹钢琴",
 		"english": "I have taught myself how to play the piano",
-		"soundmark": "/aɪ/ /hæv/ /tɔt/ /maɪ'sɛlf/ /haʊ/ /tə/ /ple/ /ðə/ /pɪ'æno/"
+		"soundmark": "/aɪ/ /hæv/ /tɔt/ /maɪ'sɛlf/ /haʊ/ /tə/ /ple/ /ðə/ /pɪ'æno/",
+		"vietnamese": "Tôi(已经)自学了如何弹钢琴"
 	},
 	{
-		"chinese": "居住",
 		"english": "to live",
-		"soundmark": "/tə/ /lɪv/"
+		"soundmark": "/tə/ /lɪv/",
+		"vietnamese": "[VI:居住]"
 	},
 	{
-		"chinese": "居住(过去分词)",
 		"english": "lived",
-		"soundmark": "/lɪvd/"
+		"soundmark": "/lɪvd/",
+		"vietnamese": "[VI:居住(过去分词)]"
 	},
 	{
-		"chinese": "我(已经)居住了",
 		"english": "I have lived",
-		"soundmark": "/aɪ/ /hæv/ /lɪvd/"
+		"soundmark": "/aɪ/ /hæv/ /lɪvd/",
+		"vietnamese": "Tôi(已经)居住了"
 	},
 	{
-		"chinese": "城市",
 		"english": "city",
-		"soundmark": "/'sɪti/"
+		"soundmark": "/'sɪti/",
+		"vietnamese": "[VI:城市]"
 	},
 	{
-		"chinese": "这个城市",
 		"english": "this city",
-		"soundmark": "/ðɪs/ /'sɪti/"
+		"soundmark": "/ðɪs/ /'sɪti/",
+		"vietnamese": "[VI:这个城市]"
 	},
 	{
-		"chinese": "在这个城市里",
 		"english": "in this city",
-		"soundmark": "/ɪn/ /ðɪs/ /'sɪti/"
+		"soundmark": "/ɪn/ /ðɪs/ /'sɪti/",
+		"vietnamese": "[VI:在这个城市里]"
 	},
 	{
-		"chinese": "我(已经)在这个城市里居住了",
 		"english": "I have lived in this city",
-		"soundmark": "/aɪ/ /hæv/ /lɪvd/ /ɪn/ /ðɪs/ /'sɪti/"
+		"soundmark": "/aɪ/ /hæv/ /lɪvd/ /ɪn/ /ðɪs/ /'sɪti/",
+		"vietnamese": "Tôi(已经)在这个城市里居住了"
 	},
 	{
-		"chinese": "年",
 		"english": "year",
-		"soundmark": "/jɪr/"
+		"soundmark": "/jɪr/",
+		"vietnamese": "[VI:年]"
 	},
 	{
-		"chinese": "五年",
 		"english": "five years",
-		"soundmark": "/faɪv/ /jɪrz/"
+		"soundmark": "/faɪv/ /jɪrz/",
+		"vietnamese": "[VI:五年]"
 	},
 	{
-		"chinese": "我(已经)在这个城市里居住了五年了",
 		"english": "I have lived in this city for five years",
-		"soundmark": "/aɪ/ /hæv/ /lɪvd/ /ɪn/ /ðɪs/ /'sɪti/ /fɚ/ /faɪv/ /jɪrz/"
+		"soundmark": "/aɪ/ /hæv/ /lɪvd/ /ɪn/ /ðɪs/ /'sɪti/ /fɚ/ /faɪv/ /jɪrz/",
+		"vietnamese": "Tôi(已经)在这个城市里居住了五年了"
 	},
 	{
-		"chinese": "工作",
 		"english": "to work",
-		"soundmark": "/tə/ /wɝk/"
+		"soundmark": "/tə/ /wɝk/",
+		"vietnamese": "[VI:工作]"
 	},
 	{
-		"chinese": "工作(过去分词)",
 		"english": "worked",
-		"soundmark": "/wɝkt/"
+		"soundmark": "/wɝkt/",
+		"vietnamese": "[VI:工作(过去分词)]"
 	},
 	{
-		"chinese": "我(已经)工作了",
 		"english": "I have worked",
-		"soundmark": "/aɪ/ /hæv/ /wɝkt/"
+		"soundmark": "/aɪ/ /hæv/ /wɝkt/",
+		"vietnamese": "Tôi(已经)工作了"
 	},
 	{
-		"chinese": "公司",
 		"english": "company",
-		"soundmark": "/ˈkʌmpəni/"
+		"soundmark": "/ˈkʌmpəni/",
+		"vietnamese": "[VI:公司]"
 	},
 	{
-		"chinese": "那个公司",
 		"english": "that company",
-		"soundmark": "/ðæt/ /ˈkʌmpəni/"
+		"soundmark": "/ðæt/ /ˈkʌmpəni/",
+		"vietnamese": "[VI:那个公司]"
 	},
 	{
-		"chinese": "在那个公司",
 		"english": "at that company",
-		"soundmark": "/ət/ /ðæt/ /ˈkʌmpəni/"
+		"soundmark": "/ət/ /ðæt/ /ˈkʌmpəni/",
+		"vietnamese": "[VI:在那个公司]"
 	},
 	{
-		"chinese": "我(已经)在那个公司工作了",
 		"english": "I have worked at that company",
-		"soundmark": "/aɪ/ /hæv/ /wɝkt/ /ət/ /ðæt/ /ˈkʌmpəni/"
+		"soundmark": "/aɪ/ /hæv/ /wɝkt/ /ət/ /ðæt/ /ˈkʌmpəni/",
+		"vietnamese": "Tôi(已经)在那个公司工作了"
 	},
 	{
-		"chinese": "年",
 		"english": "year",
-		"soundmark": "/jɪr/"
+		"soundmark": "/jɪr/",
+		"vietnamese": "[VI:年]"
 	},
 	{
-		"chinese": "三年",
 		"english": "three years",
-		"soundmark": "/θri/ /jɪrz/"
+		"soundmark": "/θri/ /jɪrz/",
+		"vietnamese": "[VI:三年]"
 	},
 	{
-		"chinese": "我(已经)在那个公司工作了三年了",
 		"english": "I have worked at that company for three years",
-		"soundmark": "/aɪ/ /hæv/ /wɝkt/ /ət/ /ðæt/ /ˈkʌmpəni/ /fɚ/ /θri/ /jɪrz/"
+		"soundmark": "/aɪ/ /hæv/ /wɝkt/ /ət/ /ðæt/ /ˈkʌmpəni/ /fɚ/ /θri/ /jɪrz/",
+		"vietnamese": "Tôi(已经)在那个公司工作了三年了"
 	},
 	{
-		"chinese": "自从......以来",
 		"english": "since",
-		"soundmark": "/sɪns/ /twenty twenty/ /'twɛnti/ /'twɛnti/"
+		"soundmark": "/sɪns/ /twenty twenty/ /'twɛnti/ /'twɛnti/",
+		"vietnamese": "[VI:自从......以来]"
 	},
 	{
-		"chinese": "自从2020年以来",
 		"english": "since 2020",
-		"soundmark": "/sɪns/ /'twɛnti/ /'twɛnti/"
+		"soundmark": "/sɪns/ /'twɛnti/ /'twɛnti/",
+		"vietnamese": "[VI:自从2020年以来]"
 	},
 	{
-		"chinese": "我自从2020年以来(已经)在那个公司工作了",
 		"english": "I have worked at that company since 2020",
-		"soundmark": "/aɪ/ /hæv/ /wɝkt/ /ət/ /ðæt/ /ˈkʌmpəni/ /sɪns/ /'twɛnti/ /'twɛnti/"
+		"soundmark": "/aɪ/ /hæv/ /wɝkt/ /ət/ /ðæt/ /ˈkʌmpəni/ /sɪns/ /'twɛnti/ /'twɛnti/",
+		"vietnamese": "Tôi自从2020年以来(已经)在那个公司工作了"
 	},
 	{
-		"chinese": "学习",
 		"english": "to study",
-		"soundmark": "/tə/ /'stʌdi/"
+		"soundmark": "/tə/ /'stʌdi/",
+		"vietnamese": "học"
 	},
 	{
-		"chinese": "学习(过去分词)",
 		"english": "studied",
-		"soundmark": "/ˈstʌdid/"
+		"soundmark": "/ˈstʌdid/",
+		"vietnamese": "học(过去分词)"
 	},
 	{
-		"chinese": "我们(已经)学习了",
 		"english": "we have studied",
-		"soundmark": "/wi/ /hæv/ /ˈstʌdid/"
+		"soundmark": "/wi/ /hæv/ /ˈstʌdid/",
+		"vietnamese": "Chúng tôi(已经)học了"
 	},
 	{
-		"chinese": "英文",
 		"english": "English",
-		"soundmark": "/ˈɪŋɡlɪʃ/"
+		"soundmark": "/ˈɪŋɡlɪʃ/",
+		"vietnamese": "[VI:英文]"
 	},
 	{
-		"chinese": "我们(已经)学习了英文",
 		"english": "we have studied English",
-		"soundmark": "/wi/ /hæv/ /ˈstʌdid/ /ˈɪŋɡlɪʃ/"
+		"soundmark": "/wi/ /hæv/ /ˈstʌdid/ /ˈɪŋɡlɪʃ/",
+		"vietnamese": "Chúng tôi(已经)học了英文"
 	},
 	{
-		"chinese": "年",
 		"english": "year",
-		"soundmark": "/jɪr/"
+		"soundmark": "/jɪr/",
+		"vietnamese": "[VI:年]"
 	},
 	{
-		"chinese": "三年",
 		"english": "three years",
-		"soundmark": "/θri/ /jɪrz/"
+		"soundmark": "/θri/ /jɪrz/",
+		"vietnamese": "[VI:三年]"
 	},
 	{
-		"chinese": "我们(已经)学习了英文三年了",
 		"english": "we have studied English for three years",
-		"soundmark": "/wi/ /hæv/ /ˈstʌdid/ /ˈɪŋɡlɪʃ/ /fɚ/ /θri/ /jɪrz/"
+		"soundmark": "/wi/ /hæv/ /ˈstʌdid/ /ˈɪŋɡlɪʃ/ /fɚ/ /θri/ /jɪrz/",
+		"vietnamese": "Chúng tôi(已经)học了英文三年了"
 	},
 	{
-		"chinese": "自从......以来",
 		"english": "since",
-		"soundmark": "/sɪns/ /twenty twenty/ /'twɛnti/ /'twɛnti/"
+		"soundmark": "/sɪns/ /twenty twenty/ /'twɛnti/ /'twɛnti/",
+		"vietnamese": "[VI:自从......以来]"
 	},
 	{
-		"chinese": "自从2020年以来",
 		"english": "since 2020",
-		"soundmark": "/sɪns/ /'twɛnti/ /'twɛnti/"
+		"soundmark": "/sɪns/ /'twɛnti/ /'twɛnti/",
+		"vietnamese": "[VI:自从2020年以来]"
 	},
 	{
-		"chinese": "我们自从2020年以来(已经)学习英文了",
 		"english": "we have studied English since 2020",
-		"soundmark": "/wi/ /hæv/ /ˈstʌdid/ /ˈɪŋɡlɪʃ/ /sɪns/ /'twɛnti/ /'twɛnti/"
+		"soundmark": "/wi/ /hæv/ /ˈstʌdid/ /ˈɪŋɡlɪʃ/ /sɪns/ /'twɛnti/ /'twɛnti/",
+		"vietnamese": "Chúng tôi自从2020年以来(已经)học英文了"
 	}
 ]
