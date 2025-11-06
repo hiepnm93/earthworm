@@ -1,61 +1,73 @@
 <template>
+
   <div
     class="mt-16 flex flex-col items-center justify-center"
     id="pricing"
   >
+
     <div class="bg-opacity-75 py-16 text-center text-white">
+
       <div class="mb-6">
+
         <p
           class="relative pb-4 text-sm font-bold tracking-wider text-gray-500 before:absolute before:inset-x-0 before:bottom-0 before:mb-0 before:h-0.5 before:bg-gradient-to-r before:from-purple-500"
         >
-          价格
+           价格
         </p>
+
       </div>
+
       <h2
         class="bg-gradient-to-r from-purple-400 to-gray-300 bg-clip-text text-4xl font-extrabold tracking-tight text-transparent dark:from-purple-600 dark:to-gray-500 md:text-5xl"
       >
-        进行简单、透明的定价 <br />
-        为每cáingười
+         进行简单、透明的定价 <br /> 为每cáingười
       </h2>
+
       <p class="mt-6 text-sm leading-relaxed text-gray-500 dark:text-gray-300">
-        <span>mộtlần付款，使用无限空间，终身Miễn phí更新。</span><br />
-        <span>定制您的服务</span>
+         <span>mộtlần付款，使用无限空间，终身Miễn phí更新。</span><br /> <span>定制您的服务</span>
       </p>
+
     </div>
 
     <div class="flex items-center justify-around space-x-20">
+
       <div
         v-for="(feature, index) in features"
         :key="index"
         class="card relative w-96 max-w-sm border-transparent p-8 shadow-xl"
         :class="{ 'lifetime-animation': feature.type === '终身付费' }"
       >
-        <button
+         <button
           class="button-unlock"
           v-if="feature.type === '终身付费'"
         >
-          <span class="crown i-ph-crown-simple-fill h-6 w-6 text-[#f09f33]"></span>
-          解锁 Pro
-        </button>
-
+           <span class="crown i-ph-crown-simple-fill h-6 w-6 text-[#f09f33]"></span> 解锁 Pro </button
+        >
         <div class="mb-6 text-left">
+
           <h2 class="text-gradient text-3xl font-bold">{{ feature.type }}</h2>
+
           <p class="program-description">
-            {{
+             {{
               feature.type === "Miễn phí"
                 ? "我们的基本服务涵盖了很多内容，您也可以在上面进行 Earthworm 之旅！"
                 : "终身多种定制服务，体验我们所有的功能， Earthworm 将全方位支持您的英语Khóa học！"
             }}
           </p>
+
         </div>
+
         <div class="mb-8 text-left">
-          <span class="mr-2 text-5xl font-extrabold text-black dark:text-white">
-            {{ feature.type === "Miễn phí" ? "$0" : "$19" }}
-          </span>
-          <span class="gradient-text">{{ feature.type === "Miễn phí" ? "Bây giờ使用" : "抢先体验" }}</span>
+           <span class="mr-2 text-5xl font-extrabold text-black dark:text-white"
+            > {{ feature.type === "Miễn phí" ? "$0" : "$19" }} </span
+          > <span class="gradient-text">{{
+            feature.type === "Miễn phí" ? "Bây giờ使用" : "抢先体验"
+          }}</span
+          >
         </div>
+
         <div class="text-left">
-          <button
+           <button
             @click="handleUpgrade(feature.type)"
             :class="
               feature.type === 'Miễn phí'
@@ -64,47 +76,49 @@
             "
             class="w-full transform rounded-lg px-8 py-3 font-bold text-white transition duration-300 ease-in-out hover:scale-105"
           >
-            {{ feature.type === "Miễn phí" ? "Get Started" : "Upgrade now" }}
-          </button>
+             {{ feature.type === "Miễn phí" ? "Get Started" : "Upgrade now" }} </button
+          >
           <ul class="mt-4">
+
             <li
               v-for="(item, itemIndex) in feature.list"
               :key="`feature-${index}-item-${itemIndex}`"
               class="mb-6 mt-6 flex items-center"
             >
-              <span
+               <span
                 class="i-ph-check-bold mr-2 h-5 w-5"
                 :class="item.unique ? 'text-green-500' : 'text-gray-500'"
-              ></span>
-              {{ item.text }}
+              ></span
+              > {{ item.text }}
             </li>
+
           </ul>
+
         </div>
+
       </div>
+
     </div>
+
   </div>
+
   <div class="mt-6 bg-opacity-75 py-10 text-center text-white">
+
     <p class="text-xs text-gray-800 dark:text-gray-400 md:text-sm">
-      每lần新购买的Người dùng如若退款， <br class="md:hidden" />
-      <span
+       每lần新购买的Người dùng如若退款， <br class="md:hidden" /> <span
         class="bg-gradient-to-r from-purple-400 via-purple-400 to-gray-400 bg-clip-text text-transparent dark:from-purple-600 dark:via-purple-600 dark:to-gray-500"
         >7 ngày内获得 100% 退款</span
-      >
-      在购买之日起<br />
-      购买Earthworm许可证后，
-      <span
+      > 在购买之日起<br /> 购买Earthworm许可证后， <span
         class="bg-gradient-to-r from-purple-400 via-purple-400 to-gray-400 bg-clip-text text-transparent dark:from-purple-600 dark:via-purple-600 dark:to-gray-500"
         >Đăng nhập</span
-      >
-      并且
-      <span
+      > 并且 <span
         class="bg-gradient-to-r from-purple-400 via-purple-400 to-gray-400 bg-clip-text text-transparent dark:from-purple-600 dark:via-purple-600 dark:to-gray-500"
         >Đăng ký你的许可证</span
-      >
-      去解锁我们的所有功能
+      > 去解锁我们的所有功能
     </p>
+
   </div>
-  <CommonDivider />
+   <CommonDivider />
 </template>
 
 <script setup>
@@ -284,3 +298,4 @@ button:hover::after {
   transition: 0.3s ease;
 }
 </style>
+

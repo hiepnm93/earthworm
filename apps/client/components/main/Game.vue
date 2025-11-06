@@ -1,16 +1,9 @@
 <template>
-  <template v-if="currentGameMode === GameMode.Dictation">
-    <ModeDictationMode />
-  </template>
-  <template v-else-if="currentGameMode === GameMode.ChineseToEnglish">
-    <ModeChineseToEnglishMode />
-  </template>
-
-  <MainLearningTimer v-if="isAuthenticated()"></MainLearningTimer>
-  <MainTips />
-  <MainSummary />
-  <MainShare />
-  <MainAuthRequired />
+   <template v-if="currentGameMode === GameMode.Dictation"> <ModeDictationMode /> </template>
+  <template v-else-if="currentGameMode === GameMode.VietnameseToEnglish"
+    > <ModeVietnameseToEnglishMode /> </template
+  > <MainLearningTimer v-if="isAuthenticated()"></MainLearningTimer> <MainTips /> <MainSummary />
+  <MainShare /> <MainAuthRequired />
 </template>
 
 <script setup lang="ts">
@@ -33,3 +26,4 @@ onUnmounted(() => {
   gameStore.exitGame();
 });
 </script>
+

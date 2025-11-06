@@ -1,26 +1,29 @@
 <template>
+
   <div class="text-center">
+
     <div class="relative flex flex-wrap justify-center gap-2 transition-all">
-      <template
+       <template
         v-for="(w, i) in courseStore.words"
         :key="i"
-      >
+        >
         <div
           v-if="isWord(w)"
           class="h-[4rem] rounded-[2px] border-b-2 border-solid text-[3em] leading-none transition-all"
           :class="getWordsClassNames(i)"
           :style="{ minWidth: `${inputWidth(w)}ch` }"
         >
-          {{ findWordById(i)!.userInput }}
+           {{ findWordById(i)!.userInput }}
         </div>
+
         <div
           v-else
           class="h-[4rem] rounded-[2px] text-[3em] leading-none transition-all"
         >
-          {{ w }}
+           {{ w }}
         </div>
-      </template>
-      <input
+         </template
+      > <input
         lang="en"
         ref="inputEl"
         class="absolute h-full w-full opacity-0"
@@ -36,29 +39,32 @@
         autoFocus
       />
     </div>
+
     <div class="mt-12 flex flex-col items-center justify-center gap-4 md:hidden">
-      <button
+       <button
         class="btn btn-outline btn-sm"
         @click="handleSubmitAnswer"
       >
-        Gửi
-      </button>
+         Gửi </button
+      >
       <div class="flex gap-4">
-        <button
+         <button
           class="btn btn-outline btn-sm"
           @click="handleShowAnswerTip"
         >
-          {{ isAnswerTip() ? "Ẩn" : "Hiện" }}答案
-        </button>
-        <button
+           {{ isAnswerTip() ? "Ẩn" : "Hiện" }}答案 </button
+        > <button
           class="btn btn-outline btn-sm"
           @click="handlePlaySound"
         >
-          Phát声音
-        </button>
+           Phát声音 </button
+        >
       </div>
+
     </div>
+
   </div>
+
 </template>
 
 <script setup lang="ts">
@@ -229,3 +235,4 @@ function preventCursorMove(event: MouseEvent) {
   focusInput();
 }
 </script>
+

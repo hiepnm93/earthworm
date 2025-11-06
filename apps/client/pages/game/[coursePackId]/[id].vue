@@ -1,13 +1,11 @@
 <template>
+
   <div class="flex w-full flex-col pt-2">
-    <template v-if="isLoading">
-      <Loading></Loading>
-    </template>
-    <template v-else>
-      <MainTool />
-      <MainGame />
-    </template>
+     <template v-if="isLoading"> <Loading></Loading> </template> <template v-else
+      > <MainTool /> <MainGame /> </template
+    >
   </div>
+
 </template>
 
 <script setup lang="ts">
@@ -49,3 +47,4 @@ onMounted(async () => {
   isLoading.value = false;
 });
 </script>
+

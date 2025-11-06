@@ -2,16 +2,16 @@ import { ref } from "vue";
 
 export enum GameMode {
   Dictation = "DICTATION",
-  ChineseToEnglish = "CHINESE_TO_ENGLISH",
+  VietnameseToEnglish = "VIETNAMESE_TO_ENGLISH",
 }
 
 export const gameModeLabels: { [key in GameMode]: string } = {
-  [GameMode.ChineseToEnglish]: "中译英",
-  [GameMode.Dictation]: "听写",
+  [GameMode.VietnameseToEnglish]: "Tiếng Việt sang Anh",
+  [GameMode.Dictation]: "Chính tả",
 };
 
 const GameModeKey = "gameMode";
-const currentGameMode = ref<GameMode>(GameMode.ChineseToEnglish);
+const currentGameMode = ref<GameMode>(GameMode.VietnameseToEnglish);
 
 function loadCache() {
   const mode = getStore() || currentGameMode.value;

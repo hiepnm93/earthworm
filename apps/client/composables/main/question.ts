@@ -20,11 +20,7 @@ interface InputOptions {
   inputChangedCallback?: (e: KeyboardEvent) => void;
 }
 
-enum Mode {
-  Input = "input",
-  Fix = "fix",
-  Fix_Input = "fix-input",
-}
+enum Mode
 
 const separator = " ";
 

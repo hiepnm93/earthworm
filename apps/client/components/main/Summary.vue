@@ -1,86 +1,83 @@
 <template>
-  <CommonModal
+   <CommonModal
     :show-modal="showModal"
     tw-class="max-w-[48rem]"
-  >
+    >
     <div class="relative">
+
       <h3 className="font-bold text-lg mb-4">🎉 Congratulations!</h3>
-      <button
+       <button
         tabindex="0"
         class="btn btn-ghost btn-sm absolute right-0 top-0 mx-1 h-7 w-7 rounded-md p-0"
         @click="soundSentence"
       >
-        <span class="i-ph-speaker-simple-high h-full w-full"></span>
-      </button>
+         <span class="i-ph-speaker-simple-high h-full w-full"></span> </button
+      >
     </div>
 
     <div class="flex flex-col">
+
       <div class="flex">
-        <span class="text-6xl font-bold">"</span>
-        <div class="flex-1 text-center text-xl leading-loose">
-          {{ enSentence }}
-        </div>
-        <span class="invisible text-6xl font-bold">"</span>
+         <span class="text-6xl font-bold">"</span>
+        <div class="flex-1 text-center text-xl leading-loose"> {{ enSentence }} </div>
+         <span class="invisible text-6xl font-bold">"</span>
       </div>
 
       <div class="flex">
-        <span class="invisible text-6xl font-bold">"</span>
-        <div class="flex-1 text-center text-xl leading-loose">
-          {{ zhSentence }}
-        </div>
-        <span class="text-6xl font-bold">"</span>
+         <span class="invisible text-6xl font-bold">"</span>
+        <div class="flex-1 text-center text-xl leading-loose"> {{ zhSentence }} </div>
+         <span class="text-6xl font-bold">"</span>
       </div>
+
       <p class="text-3 text-right text-gray-200">—— 金山词霸「每日một句」</p>
+
       <p class="pl-14 text-base leading-loose text-gray-600">
-        {{
+         {{
           `Chúc mừng您một共Hoàn thành ${courseTimer.totalRecordNumber()} 道题，用时 ${formatSecondsToTime(
             courseTimer.calculateTotalTime(),
           )} `
         }}
       </p>
+
       <p
         v-if="isAuthenticated()"
         class="pl-14 text-base leading-loose text-gray-400"
       >
-        Hôm naymột共Học tập <span class="text-purple-500">{{ formattedMinutes }}phút</span> 啦！
+         Hôm naymột共Học tập <span class="text-purple-500">{{ formattedMinutes }}phút</span> 啦！
         <span v-if="totalMinutes >= 30">太强了，给自己来点掌声 😄</span>
       </p>
+
     </div>
+
     <div className="modal-action">
-      <button
+       <button
         class="btn btn-primary"
         @click="toShare"
       >
-        生成Điểm danh图
-      </button>
-      <button
+         生成Điểm danh图 </button
+      > <button
         class="btn"
         @click="handleDoAgain"
       >
-        Làm lại
-      </button>
-
-      <button
+         Làm lại </button
+      > <button
         class="btn"
         @click="handleGoToCourseList"
       >
-        Khóa họcDanh sách
-      </button>
-
-      <button
+         Khóa họcDanh sách </button
+      > <button
         class="btn"
         @click="goToNextCourse"
       >
-        下một课
-        <kbd class="kbd"> ↵ </kbd>
-      </button>
+         下một课 <kbd class="kbd"> ↵ </kbd> </button
+      >
     </div>
-  </CommonModal>
-
-  <canvas
+     </CommonModal
+  > <canvas
     ref="confettiCanvasRef"
     class="pointer-events-none absolute left-0 top-0 z-[1000] h-full w-full"
-  ></canvas>
+  ></canvas
+  >
 </template>
 
 <script setup lang="ts">
@@ -248,3 +245,4 @@ const toShare = () => {
   showShareModal();
 };
 </script>
+

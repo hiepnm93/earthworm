@@ -1,26 +1,27 @@
 <template>
+
   <div class="relative flex h-full items-center justify-center">
+
     <div v-if="!isStart">
-      <button
+       <button
         class="btn"
         v-if="isMobile"
         @click="startGame"
       >
-        准备好了吗？ 点我Bắt đầu
-      </button>
+         准备好了吗？ 点我Bắt đầu </button
+      >
       <p v-else>准备好了吗？(按任意键开启游戏)</p>
+
     </div>
+
     <div v-else>
-      <ModeDictationToolbar />
-      <template v-if="isQuestion()">
-        <ModeDictationQuestion />
-        <MainAnswerTip v-show="isAnswerTip()" />
-      </template>
-      <template v-else-if="isAnswer()">
-        <MainAnswer />
-      </template>
+       <ModeDictationToolbar /> <template v-if="isQuestion()"
+        > <ModeDictationQuestion /> <MainAnswerTip v-show="isAnswerTip()" /> </template
+      > <template v-else-if="isAnswer()"> <MainAnswer /> </template>
     </div>
+
   </div>
+
 </template>
 
 <script setup lang="ts">
@@ -61,3 +62,4 @@ function useStartGame() {
 </script>
 
 <style scoped></style>
+

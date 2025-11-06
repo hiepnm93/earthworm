@@ -36,30 +36,32 @@ function handleConfirm() {
 </script>
 
 <template>
-  <CommonModal
+   <CommonModal
     :show-modal="isShowModal"
     :modal="modal"
     :close-on-click-modal="true"
     @close="handleCancel"
-  >
+    >
     <h3 class="text-lg font-bold">{{ title }}</h3>
+
     <p class="py-4">{{ content }}</p>
+
     <div class="modal-action">
-      <button
+       <button
         v-if="cancelBtnText"
         class="btn mr-2"
         @click="handleCancel"
       >
-        {{ cancelBtnText }}
-      </button>
-      <!-- TODO: 后续看看有没有更好的方案 -->
-      <button
+         {{ cancelBtnText }} </button
+      > <!-- TODO: 后续看看有没有更好的方案 --> <button
         v-if="confirmBtnText"
         class="btn"
         @click="handleConfirm"
       >
-        {{ confirmBtnText }}
-      </button>
+         {{ confirmBtnText }} </button
+      >
     </div>
-  </CommonModal>
+     </CommonModal
+  >
 </template>
+

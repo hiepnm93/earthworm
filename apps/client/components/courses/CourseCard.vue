@@ -1,4 +1,5 @@
 <template>
+
   <div
     :ref="isActiveCourse ? 'activeCourseRef' : undefined"
     :class="[
@@ -12,15 +13,16 @@
       },
     ]"
   >
-    <h3 class="text-base font-bold">
-      {{ title }}
-    </h3>
+
+    <h3 class="text-base font-bold"> {{ title }} </h3>
+
     <p
       class="mt-4 line-clamp-3 text-sm text-gray-500 dark:text-gray-400"
       :title="description"
     >
-      {{ description }}
+       {{ description }}
     </p>
+
     <div
       v-if="hasFinished"
       :class="[
@@ -33,9 +35,11 @@
       :data-tippy-content="dataTip"
       @mouseenter="$lazyTippy"
     >
-      {{ count }}
+       {{ count }}
     </div>
+
   </div>
+
 </template>
 
 <script setup lang="ts">
@@ -66,3 +70,4 @@ onMounted(() => {
 </script>
 
 <style scoped></style>
+

@@ -1,13 +1,6 @@
 import { computed, ref } from "vue";
 
-export enum SHORTCUT_KEY_TYPES {
-  SOUND = "sound",
-  ANSWER = "answer",
-  SKIP = "skip",
-  PREVIOUS = "previous",
-  MASTERED = "mastered",
-  PAUSE = "pause",
-}
+export enum SHORTCUT_KEY_TYPES
 export const SHORTCUT_KEYS = "shortcutKeys";
 export const DEFAULT_SHORTCUT_KEYS = {
   sound: "Ctrl+'",

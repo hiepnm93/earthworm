@@ -1,7 +1,7 @@
 <template>
-  <div>
-    <MainQuestionInput />
-  </div>
+
+  <div> <MainQuestionInput /> </div>
+
 </template>
 
 <script setup lang="ts">
@@ -31,3 +31,4 @@ function usePlayEnglishSound() {
   });
 }
 </script>
+

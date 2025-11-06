@@ -1,6 +1,4 @@
-<template>
-  <slot></slot>
-</template>
+<template> <slot></slot> </template>
 
 <script setup lang="ts">
 import { injectHttpStatusErrorHandler } from "~/api/http.js";
@@ -28,4 +26,4 @@ function useHttpStatusError() {
 </script>
 
 <style scoped></style>
-~/store/user
+ ~/store/user

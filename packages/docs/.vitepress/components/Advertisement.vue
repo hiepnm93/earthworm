@@ -5,19 +5,22 @@ const { Layout } = DefaultTheme;
 </script>
 
 <template>
-  <Layout>
-    <template #aside-ads-before>
+   <Layout
+    > <template #aside-ads-before
+      >
       <div class="advertising">
+
         <div>
-          <a
+           <a
             href="https://learn.cuixueshe.com/p/t_pc/goods_pc_detail/goods_detail/p_63f3795ee4b06159f73e6452?product_id=p_63f3795ee4b06159f73e6452"
+            > 广告位 </a
           >
-            广告位
-          </a>
         </div>
+
       </div>
-    </template>
-  </Layout>
+       </template
+    > </Layout
+  >
 </template>
 
 <style>
@@ -35,3 +38,4 @@ const { Layout } = DefaultTheme;
   background-color: var(--vp-c-bg-alt);
 }
 </style>
+

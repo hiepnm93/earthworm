@@ -1,40 +1,44 @@
 <template>
+
   <div
     class="w-full flex-col pt-24"
     id="features"
   >
-    <CommonTitle
+     <CommonTitle
       title="了解有关 Earthworm ThêmThông tin"
       :description="['通过这些强大的功能将 Earthworm 提升到mộtcái新的水平！']"
     />
     <section class="py-16">
+
       <div class="grid grid-cols-1 gap-8 md:mt-8 md:grid-cols-2 md:gap-12 lg:grid-cols-3">
-        <template
+         <template
           v-for="(feItem, feIndex) in FEATURES"
           :key="feIndex"
-        >
+          >
           <div class="flex items-start gap-4">
-            <span
+             <span
               class="shrink-0 rounded-lg border border-gray-300 bg-white p-2 text-purple-400 dark:border-gray-800 dark:bg-[#121229] dark:text-[#bea6ff]"
+              > <span v-html="feItem.icon"></span> </span
             >
-              <span v-html="feItem.icon"></span>
-            </span>
-
             <div>
-              <h2 class="text-lg font-bold dark:text-white">
-                {{ feItem.title }}
-              </h2>
+
+              <h2 class="text-lg font-bold dark:text-white"> {{ feItem.title }} </h2>
 
               <p class="mt-1 text-sm leading-6 text-gray-500 opacity-90 dark:text-white">
-                {{ feItem.desc }}
+                 {{ feItem.desc }}
               </p>
+
             </div>
+
           </div>
-        </template>
+           </template
+        >
       </div>
+
     </section>
+
   </div>
-  <CommonDivider />
+   <CommonDivider />
 </template>
 
 <script setup lang="ts">
@@ -88,3 +92,4 @@ const FEATURES = [
 </script>
 
 <style scoped></style>
+

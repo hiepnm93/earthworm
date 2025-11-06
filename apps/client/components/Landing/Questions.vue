@@ -1,45 +1,52 @@
 <template>
+
   <section
     class="body-font overflow-hidden pt-24 text-gray-600"
     id="faq"
   >
-    <CommonTitle
+     <CommonTitle
       title="常见问题解答"
       :description="[`如果您找不到所需的内容，请加入 Telegram 群组`, `我们会尽快Trả lời您！`]"
     />
     <div class="divide-y divide-gray-100 py-16 dark:divide-gray-800">
-      <template
+       <template
         v-for="(qsItem, qsIndex) in QUESTIONS"
         :key="qsIndex"
-      >
+        >
         <details
           class="group"
           :open="qsIndex === 0"
         >
+
           <summary class="flex cursor-pointer items-center justify-between py-5">
+
             <h2 class="text-base font-medium text-black dark:text-gray-300 lg:text-lg">
-              {{ qsItem.title }}
+               {{ qsItem.title }}
             </h2>
-            <span class="icon i-ph-caret-right-bold h-6 w-6"></span>
+             <span class="icon i-ph-caret-right-bold h-6 w-6"></span>
           </summary>
+
           <div
             class="transition-max-height mb-4 overflow-hidden duration-500 ease-in-out dark:text-gray-500"
           >
-            <template
+             <template
               v-for="(asItem, asIndex) in qsItem.content"
               :key="`content-${asIndex}`"
-            >
+              >
               <p class="py-2 text-sm lg:text-base">
-                <span v-if="qsItem.content.length > 1">{{ asIndex + 1 }}. </span>
-                {{ asItem }}
+                 <span v-if="qsItem.content.length > 1">{{ asIndex + 1 }}. </span> {{ asItem }}
               </p>
-            </template>
+               </template
+            >
           </div>
+
         </details>
-      </template>
+         </template
+      >
     </div>
+
   </section>
-  <CommonDivider />
+   <CommonDivider />
 </template>
 
 <script setup lang="ts">
@@ -91,3 +98,4 @@ details[open] .transition-max-height {
   max-height: 500px;
 }
 </style>
+

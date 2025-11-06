@@ -6,11 +6,7 @@ import { UserEntity } from "../user/user.decorators";
 import { UserService } from "../user/user.service";
 
 // 定义周期枚举
-export enum RankPeriod {
-  WEEKLY = "weekly",
-  MONTHLY = "monthly",
-  YEARLY = "yearly",
-}
+export enum RankPeriod
 
 export type RankPeriodAlias = "weekly" | "monthly" | "yearly";
 

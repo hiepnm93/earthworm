@@ -256,12 +256,10 @@ docker images
 ## 🤝 Hướng dẫn phát triển Frontend
 
 1. Không Destructure Pinia store.
-
    - Tính dễ đọc sẽ tốt hơn khi sử dụng `store`
    - Destructuring có thể dẫn đến mất reactivity và sử dụng `storeToRefs` cũng khá rườm rà
 
 2. Tránh bao gồm UI logic trong composables.
-
    - Chẳng hạn như `useMessage`
    - Chúng tôi phân loại router là UI logic, và để dễ dàng test, tránh bao gồm logic liên quan đến router ở đó
 

@@ -1,16 +1,22 @@
 <template>
+
   <div class="flex items-center font-sans text-gray-300 dark:text-gray-500">
+
     <div
       ref="clockIcon"
       class="mr-1 flex items-center justify-center"
     >
-      <span
+       <span
         class="i-ph-alarm-bold"
         style="width: 30px; height: 30px"
-      ></span>
+      ></span
+      >
     </div>
+
     <p class="text-lg font-bold">{{ formattedTime }}</p>
+
   </div>
+
 </template>
 
 <script setup>
@@ -98,3 +104,4 @@ onUnmounted(() => {
   disableAutoPauseCheck();
 });
 </script>
+

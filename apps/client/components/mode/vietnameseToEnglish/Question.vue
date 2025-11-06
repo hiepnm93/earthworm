@@ -1,10 +1,13 @@
 <template>
+
   <div class="text-center">
+
     <div class="mb-4 mt-10 text-2xl dark:text-gray-50">
-      {{ courseStore.currentStatement?.vietnamese || "Sinh tồn hay hủy diệt, đó là một câu hỏi" }}
+       {{ courseStore.currentStatement?.vietnamese || "Sinh tồn hay hủy diệt, đó là một câu hỏi" }}
     </div>
-    <MainQuestionInput />
+     <MainQuestionInput />
   </div>
+
 </template>
 
 <script setup lang="ts">
@@ -35,3 +38,4 @@ function handleAutoPlayEnglish() {
   }
 }
 </script>
+

@@ -1,25 +1,31 @@
 <template>
+
   <div class="relative flex h-32 items-center justify-center">
+
     <div class="z-10 hidden items-center justify-center min-[780px]:flex">
-      <button
+       <button
         v-for="keybinding in keybindings"
         @click="keybinding.eventFn"
         class="btn btn-ghost"
       >
+
         <div class="flex items-center justify-center gap-2 text-center">
+
           <div
             v-for="keyStr in parseShortcutKeys(keybinding.keys)"
             class="kbd"
           >
-            {{ keyStr }}
+             {{ keyStr }}
           </div>
-        </div>
-        <span>{{ keybinding.text }}</span>
-      </button>
-    </div>
 
-    <MainPrevAndNextBtn />
+        </div>
+         <span>{{ keybinding.text }}</span
+        > </button
+      >
+    </div>
+     <MainPrevAndNextBtn />
   </div>
+
 </template>
 
 <script setup lang="ts">
@@ -205,3 +211,4 @@ function useShowAnswer(key: string) {
   }
 }
 </script>
+

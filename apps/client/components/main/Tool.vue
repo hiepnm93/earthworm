@@ -1,73 +1,70 @@
 <template>
+
   <div
     class="relative flex items-center justify-between border-t border-solid border-gray-300 pb-3 pt-4 text-base dark:border-gray-600"
   >
-    <!-- 左侧 -->
+     <!-- 左侧 -->
     <div class="flex items-center">
-      <NuxtLink
+       <NuxtLink
         class="clickable-item"
         data-tippy-content="Khóa họcDanh sách"
         :href="`/course-pack/${courseStore.currentCourse?.coursePackId}`"
         @mouseenter="$lazyTippy"
+        > <IconsExpand class="h-7 w-7" /> </NuxtLink
       >
-        <IconsExpand class="h-7 w-7" />
-      </NuxtLink>
       <div
         class="clickable-item ml-4"
         data-tippy-content="Khóa học题目Danh sách"
         @click="toggleContents"
         @mouseenter="$lazyTippy"
       >
-        {{ currentCourseInfo }}
+         {{ currentCourseInfo }}
       </div>
-      <MainStudyVideoLink
+       <MainStudyVideoLink
         class="icon-item ml-1"
         :video="courseStore.currentCourse?.video"
       />
     </div>
-
-    <!-- 右侧 -->
+     <!-- 右侧 -->
     <div class="flex items-center gap-4">
+
       <div
         v-if="isAuthenticated()"
         :data-tippy-content="`Tạm dừng游戏 (${shortcutKeys.pause})`"
         @click="pauseGame"
         @mouseenter="$lazyTippy"
       >
-        <span class="clickable-item icon-item i-ph-pause-bold"></span>
+         <span class="clickable-item icon-item i-ph-pause-bold"></span>
       </div>
+
       <div
         data-tippy-content="Đặt lại当前Khóa họcTiến độ"
         @click="handleDoAgain"
         @mouseenter="$lazyTippy"
       >
-        <span class="clickable-item icon-item i-ph-arrow-counter-clockwise"></span>
+         <span class="clickable-item icon-item i-ph-arrow-counter-clockwise"></span>
       </div>
+
       <div
         data-tippy-content="Bảng xếp hạng"
         @click="rankingStore.showRankModal"
         @mouseenter="$lazyTippy"
       >
-        <span class="clickable-item icon-item i-ph-ranking"></span>
+         <span class="clickable-item icon-item i-ph-ranking"></span>
       </div>
+
     </div>
-
-    <MainContents />
+     <MainContents />
   </div>
-
-  <CommonProgressBar
+   <CommonProgressBar
     class="h-6 p-[2px]"
     :percentage="currentPercentage"
-  />
-  <RankRankingList />
-  <MainMessageBox
+  /> <RankRankingList /> <MainMessageBox
     v-model:show-modal="showTipModal"
     content="Có xác nhận khôngĐặt lại当前Khóa họcTiến độ？"
     confirm-btn-text="确认"
     @confirm="handleTipConfirm"
-  />
-
-  <MainMessageBox
+  /> <MainMessageBox
     v-model:show-modal="showGamePauseModal"
     content="游戏Tạm dừng 快点回来！"
     cancelBtnText=""
@@ -176,3 +173,4 @@ function useDoAgain() {
   @apply h-6 w-6;
 }
 </style>
+

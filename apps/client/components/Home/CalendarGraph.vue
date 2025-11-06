@@ -1,84 +1,111 @@
 <template>
+
   <div class="flex justify-between">
-    <!-- 左侧Điểm danh图 -->
+     <!-- 左侧Điểm danh图 -->
     <div
       class="min-w-0 flex-1 rounded-md border border-gray-300 px-2 py-4 text-xs dark:border-gray-700"
     >
+
       <div
         class="w-full overflow-x-auto"
         ref="tableContainer"
       >
+
         <table
           class="mx-auto mb-2"
           ref="calendarTable"
         >
+
           <thead>
+
             <th></th>
+
             <th
               v-for="{ colSpan, month } in thead"
               class="text-left font-normal"
               :colspan="colSpan"
               :key="month"
             >
-              {{ month }}
+               {{ month }}
             </th>
+
           </thead>
+
           <tbody>
+
             <tr
               v-for="(row, i) in tbody"
               :key="weeksZh[i]"
             >
+
               <td class="relative hidden w-8 md:block">
-                <span class="absolute">{{ i % 2 !== 0 ? weeksZh[i] : "" }}</span>
+                 <span class="absolute">{{ i % 2 !== 0 ? weeksZh[i] : "" }}</span
+                >
               </td>
+
               <td
                 v-for="(cell, j) in row"
                 class="m-0"
                 :key="j"
               >
+
                 <div
                   class="cell block"
                   :class="[cell?.bg]"
                   :data-tippy-content="cell?.tips"
                   @mouseenter="(e) => $calendarTippy(e, calendarTable)"
                 />
+
               </td>
+
             </tr>
+
           </tbody>
+
         </table>
+
       </div>
 
       <div class="mt-2 flex justify-between px-1">
-        <span class="justify-self-end text-sm dark:text-gray-400">
-          {{ totalLearningTime > 0 ? "một共Học tập" : "还没有Bắt đầuHọc tập" }}
-          <span
+         <span class="justify-self-end text-sm dark:text-gray-400"
+          > {{ totalLearningTime > 0 ? "một共Học tập" : "还没有Bắt đầuHọc tập" }} <span
             v-if="totalLearningTime > 0"
             class="font-semibold text-purple-500"
             >{{ formatLearningTime(totalLearningTime) }}</span
-          >
-        </span>
+          > </span
+        >
         <div class="flex items-center gap-1 text-xs">
-          <div class="text-gray-500">更少</div>
-          <div class="cell"></div>
-          <div class="cell low"></div>
-          <div class="cell moderate"></div>
-          <div class="cell high"></div>
-          <div class="cell higher"></div>
-          <div class="text-gray-500">Thêm</div>
-        </div>
-      </div>
-    </div>
 
-    <!-- 右侧年份选项 -->
-    <!-- TODO: 多年份选择还没做，目前只有 2024，先写死了 -->
+          <div class="text-gray-500">更少</div>
+
+          <div class="cell"></div>
+
+          <div class="cell low"></div>
+
+          <div class="cell moderate"></div>
+
+          <div class="cell high"></div>
+
+          <div class="cell higher"></div>
+
+          <div class="text-gray-500">Thêm</div>
+
+        </div>
+
+      </div>
+
+    </div>
+     <!-- 右侧年份选项 --> <!-- TODO: 多年份选择还没做，目前只有 2024，先写死了 -->
     <div
       v-for="year in yearOptions"
       class="btn btn-sm tw-btn-blue ml-6 hidden pr-7 xl:flex"
       :key="year.value"
     >
-      {{ year.label }}
+       {{ year.label }}
     </div>
+
   </div>
+
 </template>
 
 <script setup lang="ts">
@@ -87,12 +114,7 @@ import { nextTick, onMounted, ref, watchEffect } from "vue";
 import type { CalendarDataItem, EmitsType } from "~/composables/user/calendarGraph";
 import { useCalendarGraph } from "~/composables/user/calendarGraph";
 
-enum ActivityLevel {
-  Low = "low",
-  Moderate = "moderate",
-  High = "high",
-  Higher = "higher",
-}
+enum ActivityLevel
 
 const props = defineProps<{
   data: CalendarDataItem[];
@@ -185,3 +207,4 @@ watchEffect(() => {
   @apply bg-[#216e39] dark:bg-[#39d353];
 }
 </style>
+

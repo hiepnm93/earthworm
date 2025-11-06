@@ -1,26 +1,22 @@
 <template>
-  <CommonModal
+   <CommonModal
     :show-modal="rankingStore.rankModal"
     :close-on-click-modal="true"
     tw-class="flex h-[570px] w-[450px] flex-col overflow-hidden px-4 pb-12"
     @close="rankingStore.hideRankModal"
-  >
-    <button
+    > <button
       class="btn btn-circle btn-ghost btn-sm absolute right-2 top-2"
       @click="rankingStore.hideRankModal"
     >
-      ✕
-    </button>
-
-    <!-- title -->
+       ✕ </button
+    > <!-- title -->
     <h2 class="mb-4 text-center text-xl font-bold">Bảng xếp hạng</h2>
-
-    <!-- tab -->
+     <!-- tab -->
     <div
       role="tablist"
       class="tabs tabs-lifted tabs-md"
     >
-      <a
+       <a
         v-for="period in rankingStore.rankingPeriodList"
         role="tab"
         class="tab dark:[--tab-bg:gray-800] dark:[--tab-border-color:gray]"
@@ -32,36 +28,32 @@
         >{{ period.label }}</a
       >
     </div>
-
-    <Loading v-if="rankingStore.isLoading" />
-    <template v-else>
-      <!-- list -->
+     <Loading v-if="rankingStore.isLoading" /> <template v-else
+      > <!-- list -->
       <div
         v-if="rankingStore.rankingList.length > 0"
         class="my-1 flex-1 overflow-y-auto px-4 py-2"
       >
-        <RankRankingItem
+         <RankRankingItem
           v-for="({ username, count }, index) in rankingStore.rankingList"
           :username="username"
           :rank="index + 1"
           :count="count"
         />
       </div>
-      <!-- empty -->
+       <!-- empty -->
       <div
         v-else
         class="flex flex-1 items-center justify-center text-gray-500"
       >
-        还没有小伙伴上榜哦，快来霸榜吧！🏆
+         还没有小伙伴上榜哦，快来霸榜吧！🏆
       </div>
-    </template>
-
-    <!-- tip -->
-    <RankRankingTip
+       </template
+    > <!-- tip --> <RankRankingTip
       :isLoading="rankingStore.isLoading"
       :rankingSelf="rankingStore.rankingSelf"
-    />
-  </CommonModal>
+    /> </CommonModal
+  >
 </template>
 
 <script setup lang="ts">
@@ -81,3 +73,4 @@ onUnmounted(() => {
   cancelShortcut("Escape", rankingStore.hideRankModal);
 });
 </script>
+

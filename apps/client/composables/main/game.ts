@@ -1,10 +1,7 @@
 import { useDevice, useIsLandscape } from "#imports";
 import { ref, watchEffect } from "vue";
 
-export enum GameMode {
-  Question = "question",
-  Answer = "answer",
-}
+export enum GameMode
 
 const gameMode = ref<GameMode>(GameMode.Question);
 

@@ -82,14 +82,14 @@ function useUsername() {
 </script>
 
 <template>
+
   <div class="flex w-full flex-col pt-2">
-    <template v-if="isLoading && !isShowSettingUsernameModal">
-      <Loading></Loading>
-    </template>
-    <template v-else-if="isShowSettingUsernameModal">
-      <CommonModal :show-modal="true">
+     <template v-if="isLoading && !isShowSettingUsernameModal"> <Loading></Loading> </template>
+    <template v-else-if="isShowSettingUsernameModal"
+      > <CommonModal :show-modal="true"
+        >
         <h3 class="mb-4 text-lg font-bold">Cài đặtNgười dùng名</h3>
-        <input
+         <input
           v-model="username"
           type="text"
           placeholder="Vui lòng nhậpNgười dùng名"
@@ -98,19 +98,22 @@ function useUsername() {
           @keydown.enter="handleChangeUsername"
         />
         <div class="modal-action">
-          <button
+           <button
             class="btn btn-primary"
             type="submit"
             @click="handleChangeUsername"
           >
-            Xác nhận
-            <span
+             Xác nhận <span
               v-if="isLoadingFetchUserSetup"
               class="loading loading-spinner loading-lg"
-            ></span>
-          </button>
+            ></span
+            > </button
+          >
         </div>
-      </CommonModal>
-    </template>
+         </CommonModal
+      > </template
+    >
   </div>
+
 </template>
+

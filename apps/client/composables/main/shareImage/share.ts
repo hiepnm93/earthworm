@@ -8,10 +8,7 @@ import { convertSVGtoImg, copyImage, fontEn, fontZh, initCanvas } from "./helper
 import { tpl_1 } from "./imageTemplates/tpl_1";
 import { tpl_2 } from "./imageTemplates/tpl_2";
 
-export enum ShareImageTemplate {
-  TPL_1 = "tpl_1",
-  TPL_2 = "tpl_2",
-}
+export enum ShareImageTemplate
 
 export interface ShareImageTemplateData {
   coursePackTitle: string;

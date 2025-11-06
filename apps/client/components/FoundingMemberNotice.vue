@@ -1,42 +1,48 @@
 <template>
+
   <div
     class="w-full rounded-lg bg-purple-600 px-4 py-1 text-white"
     v-if="showNotice"
   >
+
     <div class="flex items-center justify-between">
+
       <div class="font-bold">
-        【邀请函】加入 Earthworm 创始Thành viên 与我们một起成就更好的英语Học tập平台
+         【邀请函】加入 Earthworm 创始Thành viên 与我们một起成就更好的英语Học tập平台
       </div>
+
       <div class="hidden sm:flex sm:space-x-4">
-        <button
+         <button
           class="text-black"
           @click="dismissNotice"
         >
-          不感兴趣
-        </button>
-        <button
+           不感兴趣 </button
+        > <button
           class="rounded-lg bg-white px-4 font-bold text-purple-600"
           @click="handleShowDetails"
         >
-          XemChi tiết
-        </button>
+           XemChi tiết </button
+        >
       </div>
+
     </div>
+
     <div class="flex items-center justify-center gap-8 sm:hidden">
-      <button
+       <button
         class="text-black"
         @click="dismissNotice"
       >
-        不感兴趣
-      </button>
-      <button
+         不感兴趣 </button
+      > <button
         class="rounded-lg bg-white px-4 font-bold text-purple-600"
         @click="handleShowDetails"
       >
-        XemChi tiết
-      </button>
+         XemChi tiết </button
+      >
     </div>
+
   </div>
+
 </template>
 
 <script setup lang="ts">
@@ -81,3 +87,4 @@ function shouldShowNotice(): boolean {
 </script>
 
 <style scoped></style>
+

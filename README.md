@@ -256,12 +256,10 @@ docker images
 ## 🤝 Frontend Development Guideline
 
 1. Do not Destructure Pinia store.
-
    - The readability will be better when using `store`
    - Destructuring can lead to reactivity loss and using `storeToRefs` is also quite cumbersome
 
 2. Avoid including UI logic in composables.
-
    - Such as `useMessage`
    - We categorize the router as UI logic, and for ease of testing, avoid including routerrelated logic in there
 

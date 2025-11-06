@@ -1,9 +1,6 @@
 import { ref } from "vue";
 
-export enum Theme {
-  DARK = "dark",
-  LIGHT = "light",
-}
+export enum Theme
 
 const DARK_MODE = "DARK_MODE";
 
