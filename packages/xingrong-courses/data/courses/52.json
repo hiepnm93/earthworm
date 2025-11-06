@@ -1,722 +1,722 @@
 [
 	{
-		"chinese": "聪明的",
 		"english": "smart",
-		"soundmark": "/smɑrt/"
+		"soundmark": "/smɑrt/",
+		"vietnamese": "[VI:聪明的]"
 	},
 	{
-		"chinese": "人",
 		"english": "person",
-		"soundmark": "/'pɝsn/"
+		"soundmark": "/'pɝsn/",
+		"vietnamese": "[VI:人]"
 	},
 	{
-		"chinese": "聪明的人",
 		"english": "smart person",
-		"soundmark": "/smɑrt/ /'pɝsn/"
+		"soundmark": "/smɑrt/ /'pɝsn/",
+		"vietnamese": "[VI:聪明的人]"
 	},
 	{
-		"chinese": "最聪明的",
 		"english": "the smartest",
-		"soundmark": "/ðə/ /'smɑrtɪst/"
+		"soundmark": "/ðə/ /'smɑrtɪst/",
+		"vietnamese": "[VI:最聪明的]"
 	},
 	{
-		"chinese": "最聪明的人",
 		"english": "the smartest person",
-		"soundmark": "/ðə/ /'smɑrtɪst/ /'pɝsn/"
+		"soundmark": "/ðə/ /'smɑrtɪst/ /'pɝsn/",
+		"vietnamese": "[VI:最聪明的人]"
 	},
 	{
-		"chinese": "认识",
 		"english": "to know",
-		"soundmark": "/tə/ /no/"
+		"soundmark": "/tə/ /no/",
+		"vietnamese": "quen biết"
 	},
 	{
-		"chinese": "认识(ed形式)",
 		"english": "known",
-		"soundmark": "/non/"
+		"soundmark": "/non/",
+		"vietnamese": "quen biết(ed形式)"
 	},
 	{
-		"chinese": "我曾经...",
 		"english": "I have ever",
-		"soundmark": "/aɪ/ /hæv/ /'ɛvɚ/"
+		"soundmark": "/aɪ/ /hæv/ /'ɛvɚ/",
+		"vietnamese": "Tôi曾经..."
 	},
 	{
-		"chinese": "我曾经认识",
 		"english": "I have ever known",
-		"soundmark": "/aɪ/ /hæv/ /'ɛvɚ/ /non/"
+		"soundmark": "/aɪ/ /hæv/ /'ɛvɚ/ /non/",
+		"vietnamese": "Tôi曾经quen biết"
 	},
 	{
-		"chinese": "最聪明的人",
 		"english": "the smartest person",
-		"soundmark": "/ðə/ /'smɑrtɪst/ /'pɝsn/"
+		"soundmark": "/ðə/ /'smɑrtɪst/ /'pɝsn/",
+		"vietnamese": "[VI:最聪明的人]"
 	},
 	{
-		"chinese": "我曾经认识的最聪明的人",
 		"english": "the smartest person I have ever known",
-		"soundmark": "/ðə/ /'smɑrtɪst/ /'pɝsn/ /aɪ/ /hæv/ /'ɛvɚ/ /non/"
+		"soundmark": "/ðə/ /'smɑrtɪst/ /'pɝsn/ /aɪ/ /hæv/ /'ɛvɚ/ /non/",
+		"vietnamese": "Tôi曾经quen biết的最聪明的人"
 	},
 	{
-		"chinese": "她是",
 		"english": "she is",
-		"soundmark": "/ʃi/ /ɪz/"
+		"soundmark": "/ʃi/ /ɪz/",
+		"vietnamese": "Cô ấy là"
 	},
 	{
-		"chinese": "她是我曾经认识的最聪明的人",
 		"english": "she is the smartest person I have ever known",
-		"soundmark": "/ʃi/ /ɪz/ /ðə/ /'smɑrtɪst/ /'pɝsn/ /aɪ/ /hæv/ /'ɛvɚ/ /non/"
+		"soundmark": "/ʃi/ /ɪz/ /ðə/ /'smɑrtɪst/ /'pɝsn/ /aɪ/ /hæv/ /'ɛvɚ/ /non/",
+		"vietnamese": "Cô ấy làTôi曾经quen biết的最聪明的人"
 	},
 	{
-		"chinese": "我曾经知道",
 		"english": "I have ever known",
-		"soundmark": "/aɪ/ /hæv/ /'ɛvɚ/ /non/"
+		"soundmark": "/aɪ/ /hæv/ /'ɛvɚ/ /non/",
+		"vietnamese": "Tôi曾经biết"
 	},
 	{
-		"chinese": "他曾经知道",
 		"english": "he has ever known",
-		"soundmark": "/hi/ /hæz/ /'ɛvɚ/ /non/"
+		"soundmark": "/hi/ /hæz/ /'ɛvɚ/ /non/",
+		"vietnamese": "Anh ấy曾经biết"
 	},
 	{
-		"chinese": "动物",
 		"english": "animal",
-		"soundmark": "/'ænɪml/"
+		"soundmark": "/'ænɪml/",
+		"vietnamese": "[VI:动物]"
 	},
 	{
-		"chinese": "危险的",
 		"english": "dangerous",
-		"soundmark": "/ˈdendʒərəs/"
+		"soundmark": "/ˈdendʒərəs/",
+		"vietnamese": "[VI:危险的]"
 	},
 	{
-		"chinese": "危险的动物",
 		"english": "dangerous animal",
-		"soundmark": "/ˈdendʒərəs/ /'ænɪml/"
+		"soundmark": "/ˈdendʒərəs/ /'ænɪml/",
+		"vietnamese": "[VI:危险的动物]"
 	},
 	{
-		"chinese": "最",
 		"english": "the most",
-		"soundmark": "/ðə/ /most/"
+		"soundmark": "/ðə/ /most/",
+		"vietnamese": "[VI:最]"
 	},
 	{
-		"chinese": "最危险的",
 		"english": "the most dangerous",
-		"soundmark": "/ðə/ /most/ /ˈdendʒərəs/"
+		"soundmark": "/ðə/ /most/ /ˈdendʒərəs/",
+		"vietnamese": "[VI:最危险的]"
 	},
 	{
-		"chinese": "最危险的动物",
 		"english": "the most dangerous animal",
-		"soundmark": "/ðə/ /most/ /ˈdendʒərəs/ /'ænɪml/"
+		"soundmark": "/ðə/ /most/ /ˈdendʒərəs/ /'ænɪml/",
+		"vietnamese": "[VI:最危险的动物]"
 	},
 	{
-		"chinese": "他曾经知道",
 		"english": "he has ever known",
-		"soundmark": "/hi/ /hæz/ /'ɛvɚ/ /non/"
+		"soundmark": "/hi/ /hæz/ /'ɛvɚ/ /non/",
+		"vietnamese": "Anh ấy曾经biết"
 	},
 	{
-		"chinese": "他曾经知道的最危险的动物",
 		"english": "the most dangerous animal he has ever known",
-		"soundmark": "/ðə/ /most/ /ˈdendʒərəs/ /'ænɪml/ /hi/ /hæz/ /'ɛvɚ/ /non/"
+		"soundmark": "/ðə/ /most/ /ˈdendʒərəs/ /'ænɪml/ /hi/ /hæz/ /'ɛvɚ/ /non/",
+		"vietnamese": "Anh ấy曾经biết的最危险的动物"
 	},
 	{
-		"chinese": "这是",
 		"english": "this is",
-		"soundmark": "/ðɪs/ /ɪz/"
+		"soundmark": "/ðɪs/ /ɪz/",
+		"vietnamese": "这là"
 	},
 	{
-		"chinese": "这是他曾经知道的最危险的动物",
 		"english": "this is the most dangerous animal he has ever known",
-		"soundmark": "/ðɪs/ /ɪz/ /ðə/ /most/ /ˈdendʒərəs/ /'ænɪml/ /hi/ /hæz/ /'ɛvɚ/ /non/"
+		"soundmark": "/ðɪs/ /ɪz/ /ðə/ /most/ /ˈdendʒərəs/ /'ænɪml/ /hi/ /hæz/ /'ɛvɚ/ /non/",
+		"vietnamese": "这làAnh ấy曾经biết的最危险的动物"
 	},
 	{
-		"chinese": "他曾经...",
 		"english": "he has ever",
-		"soundmark": "/hi/ /hæz/ /'ɛvɚ/"
+		"soundmark": "/hi/ /hæz/ /'ɛvɚ/",
+		"vietnamese": "Anh ấy曾经..."
 	},
 	{
-		"chinese": "她曾经...",
 		"english": "she has ever",
-		"soundmark": "/ʃi/ /hæz/ /'ɛvɚ/"
+		"soundmark": "/ʃi/ /hæz/ /'ɛvɚ/",
+		"vietnamese": "Cô ấy曾经..."
 	},
 	{
-		"chinese": "建议",
 		"english": "advice",
-		"soundmark": "/əd'vaɪs/"
+		"soundmark": "/əd'vaɪs/",
+		"vietnamese": "[VI:建议]"
 	},
 	{
-		"chinese": "好的",
 		"english": "good",
-		"soundmark": "/ɡʊd/"
+		"soundmark": "/ɡʊd/",
+		"vietnamese": "tốt"
 	},
 	{
-		"chinese": "好的建议",
 		"english": "good advice",
-		"soundmark": "/ɡʊd/ /əd'vaɪs/"
+		"soundmark": "/ɡʊd/ /əd'vaɪs/",
+		"vietnamese": "tốt建议"
 	},
 	{
-		"chinese": "最好的",
 		"english": "the best",
-		"soundmark": "/ðə/ /bɛst/"
+		"soundmark": "/ðə/ /bɛst/",
+		"vietnamese": "最tốt"
 	},
 	{
-		"chinese": "最好的建议",
 		"english": "the best advice",
-		"soundmark": "/ðə/ /bɛst/ /əd'vaɪs/"
+		"soundmark": "/ðə/ /bɛst/ /əd'vaɪs/",
+		"vietnamese": "最tốt建议"
 	},
 	{
-		"chinese": "给",
 		"english": "to give",
-		"soundmark": "/tə/ /ɡɪv/"
+		"soundmark": "/tə/ /ɡɪv/",
+		"vietnamese": "[VI:给]"
 	},
 	{
-		"chinese": "给(ed形式)",
 		"english": "given",
-		"soundmark": "/ˈɡɪvn/"
+		"soundmark": "/ˈɡɪvn/",
+		"vietnamese": "[VI:给(ed形式)]"
 	},
 	{
-		"chinese": "她曾经...",
 		"english": "she has ever",
-		"soundmark": "/ʃi/ /hæz/ /'ɛvɚ/"
+		"soundmark": "/ʃi/ /hæz/ /'ɛvɚ/",
+		"vietnamese": "Cô ấy曾经..."
 	},
 	{
-		"chinese": "她曾经给",
 		"english": "she has ever given",
-		"soundmark": "/ʃi/ /hæz/ /'ɛvɚ/ /ˈɡɪvn/"
+		"soundmark": "/ʃi/ /hæz/ /'ɛvɚ/ /ˈɡɪvn/",
+		"vietnamese": "Cô ấy曾经给"
 	},
 	{
-		"chinese": "我",
 		"english": "me",
-		"soundmark": "/mi/"
+		"soundmark": "/mi/",
+		"vietnamese": "Tôi"
 	},
 	{
-		"chinese": "她曾经给我",
 		"english": "she has ever given me",
-		"soundmark": "/ʃi/ /hæz/ /'ɛvɚ/ /ˈɡɪvn/ /mi/"
+		"soundmark": "/ʃi/ /hæz/ /'ɛvɚ/ /ˈɡɪvn/ /mi/",
+		"vietnamese": "Cô ấy曾经给Tôi"
 	},
 	{
-		"chinese": "最好的建议",
 		"english": "the best advice",
-		"soundmark": "/ðə/ /bɛst/ /əd'vaɪs/"
+		"soundmark": "/ðə/ /bɛst/ /əd'vaɪs/",
+		"vietnamese": "最tốt建议"
 	},
 	{
-		"chinese": "她曾经给我的最好的建议",
 		"english": "the best advice she has ever given me",
-		"soundmark": "/ðə/ /bɛst/ /əd'vaɪs/ /ʃi/ /hæz/ /'ɛvɚ/ /ˈɡɪvn/ /mi/"
+		"soundmark": "/ðə/ /bɛst/ /əd'vaɪs/ /ʃi/ /hæz/ /'ɛvɚ/ /ˈɡɪvn/ /mi/",
+		"vietnamese": "Cô ấy曾经给Tôi的最tốt建议"
 	},
 	{
-		"chinese": "这是",
 		"english": "this is",
-		"soundmark": "/ðɪs/ /ɪz/"
+		"soundmark": "/ðɪs/ /ɪz/",
+		"vietnamese": "这là"
 	},
 	{
-		"chinese": "这是她曾经给我的最好的建议",
 		"english": "this is the best advice she has ever given me",
-		"soundmark": "/ðɪs/ /ɪz/ /ðə/ /bɛst/ /əd'vaɪs/ /ʃi/ /hæz/ /'ɛvɚ/ /ˈɡɪvn/ /mi/"
+		"soundmark": "/ðɪs/ /ɪz/ /ðə/ /bɛst/ /əd'vaɪs/ /ʃi/ /hæz/ /'ɛvɚ/ /ˈɡɪvn/ /mi/",
+		"vietnamese": "这làCô ấy曾经给Tôi的最tốt建议"
 	},
 	{
-		"chinese": "她曾经...",
 		"english": "she has ever",
-		"soundmark": "/ʃi/ /hæz/ /'ɛvɚ/"
+		"soundmark": "/ʃi/ /hæz/ /'ɛvɚ/",
+		"vietnamese": "Cô ấy曾经..."
 	},
 	{
-		"chinese": "星荣曾经...",
 		"english": "Xingrong has ever",
-		"soundmark": "/hæz/ /'ɛvɚ/"
+		"soundmark": "/hæz/ /'ɛvɚ/",
+		"vietnamese": "Xingrong曾经..."
 	},
 	{
-		"chinese": "设计",
 		"english": "to design",
-		"soundmark": "/tə/ /dɪˈzaɪn/"
+		"soundmark": "/tə/ /dɪˈzaɪn/",
+		"vietnamese": "[VI:设计]"
 	},
 	{
-		"chinese": "设计(ed形式)",
 		"english": "designed",
-		"soundmark": "/dɪˈzaɪnd/"
+		"soundmark": "/dɪˈzaɪnd/",
+		"vietnamese": "[VI:设计(ed形式)]"
 	},
 	{
-		"chinese": "星荣曾经设计",
 		"english": "Xingrong has ever designed",
-		"soundmark": "/hæz/ /'ɛvɚ/ /dɪˈzaɪnd/"
+		"soundmark": "/hæz/ /'ɛvɚ/ /dɪˈzaɪnd/",
+		"vietnamese": "Xingrong曾经设计"
 	},
 	{
-		"chinese": "挑战",
 		"english": "to challenge",
-		"soundmark": "/tə/ /'tʃælɪndʒ/"
+		"soundmark": "/tə/ /'tʃælɪndʒ/",
+		"vietnamese": "[VI:挑战]"
 	},
 	{
-		"chinese": "有挑战性的",
 		"english": "challenging",
-		"soundmark": "/ˈtʃælɪndʒɪŋ/"
+		"soundmark": "/ˈtʃælɪndʒɪŋ/",
+		"vietnamese": "[VI:有挑战性的]"
 	},
 	{
-		"chinese": "最",
 		"english": "the most",
-		"soundmark": "/ðə/ /most/"
+		"soundmark": "/ðə/ /most/",
+		"vietnamese": "[VI:最]"
 	},
 	{
-		"chinese": "最有挑战性的",
 		"english": "the most challenging",
-		"soundmark": "/ðə/ /most/ /ˈtʃælɪndʒɪŋ/"
+		"soundmark": "/ðə/ /most/ /ˈtʃælɪndʒɪŋ/",
+		"vietnamese": "[VI:最有挑战性的]"
 	},
 	{
-		"chinese": "课程",
 		"english": "course",
-		"soundmark": "/kɔrs/"
+		"soundmark": "/kɔrs/",
+		"vietnamese": "[VI:课程]"
 	},
 	{
-		"chinese": "最有挑战性的课程",
 		"english": "the most challenging course",
-		"soundmark": "/ðə/ /most/ /ˈtʃælɪndʒɪŋ/ /kɔrs/"
+		"soundmark": "/ðə/ /most/ /ˈtʃælɪndʒɪŋ/ /kɔrs/",
+		"vietnamese": "[VI:最有挑战性的课程]"
 	},
 	{
-		"chinese": "星荣曾经设计",
 		"english": "Xingrong has ever designed",
-		"soundmark": "/hæz/ /'ɛvɚ/ /dɪˈzaɪnd/"
+		"soundmark": "/hæz/ /'ɛvɚ/ /dɪˈzaɪnd/",
+		"vietnamese": "Xingrong曾经设计"
 	},
 	{
-		"chinese": "星荣曾经设计的最有挑战性的课程",
 		"english": "the most challenging course Xingrong has ever designed",
-		"soundmark": "/ðə/ /most/ /ˈtʃælɪndʒɪŋ/ /kɔrs/ /hæz/ /'ɛvɚ/ /dɪˈzaɪnd/"
+		"soundmark": "/ðə/ /most/ /ˈtʃælɪndʒɪŋ/ /kɔrs/ /hæz/ /'ɛvɚ/ /dɪˈzaɪnd/",
+		"vietnamese": "Xingrong曾经设计的最有挑战性的课程"
 	},
 	{
-		"chinese": "这是",
 		"english": "this is",
-		"soundmark": "/ðɪs/ /ɪz/"
+		"soundmark": "/ðɪs/ /ɪz/",
+		"vietnamese": "这là"
 	},
 	{
-		"chinese": "这是星荣曾经设计的最有挑战性的课程",
 		"english": "this is the most challenging course Xingrong has ever designed",
-		"soundmark": "/ðɪs/ /ɪz/ /ðə/ /most/ /ˈtʃælɪndʒɪŋ/ /kɔrs/ /hæz/ /'ɛvɚ/ /dɪˈzaɪnd/"
+		"soundmark": "/ðɪs/ /ɪz/ /ðə/ /most/ /ˈtʃælɪndʒɪŋ/ /kɔrs/ /hæz/ /'ɛvɚ/ /dɪˈzaɪnd/",
+		"vietnamese": "这làXingrong曾经设计的最有挑战性的课程"
 	},
 	{
-		"chinese": "星荣(已经)设计",
 		"english": "Xingrong has designed",
-		"soundmark": "/hæz/ /dɪˈzaɪnd/"
+		"soundmark": "/hæz/ /dɪˈzaɪnd/",
+		"vietnamese": "Xingrong(已经)设计"
 	},
 	{
-		"chinese": "课程",
 		"english": "course",
-		"soundmark": "/kɔrs/"
+		"soundmark": "/kɔrs/",
+		"vietnamese": "[VI:课程]"
 	},
 	{
-		"chinese": "英文",
 		"english": "English",
-		"soundmark": "/ˈɪŋɡlɪʃ/"
+		"soundmark": "/ˈɪŋɡlɪʃ/",
+		"vietnamese": "[VI:英文]"
 	},
 	{
-		"chinese": "英文课程",
 		"english": "English course",
-		"soundmark": "/ˈɪŋɡlɪʃ/ /kɔrs/"
+		"soundmark": "/ˈɪŋɡlɪʃ/ /kɔrs/",
+		"vietnamese": "[VI:英文课程]"
 	},
 	{
-		"chinese": "多个",
 		"english": "several",
-		"soundmark": "/'sɛvrəl/"
+		"soundmark": "/'sɛvrəl/",
+		"vietnamese": "[VI:多个]"
 	},
 	{
-		"chinese": "多个英文课程",
 		"english": "several English courses",
-		"soundmark": "/'sɛvrəl/ /ˈɪŋɡlɪʃ/ /kɔrsɪz/"
+		"soundmark": "/'sɛvrəl/ /ˈɪŋɡlɪʃ/ /kɔrsɪz/",
+		"vietnamese": "[VI:多个英文课程]"
 	},
 	{
-		"chinese": "星荣(已经)设计了多个英文课程",
 		"english": "Xingrong has designed several English courses",
-		"soundmark": "/hæz/ /dɪˈzaɪnd/ /'sɛvrəl/ /ˈɪŋɡlɪʃ/ /kɔrsɪz/"
+		"soundmark": "/hæz/ /dɪˈzaɪnd/ /'sɛvrəl/ /ˈɪŋɡlɪʃ/ /kɔrsɪz/",
+		"vietnamese": "Xingrong(已经)设计了多个英文课程"
 	},
 	{
-		"chinese": "访问",
 		"english": "to visit",
-		"soundmark": "/tə/ /'vɪzɪt/"
+		"soundmark": "/tə/ /'vɪzɪt/",
+		"vietnamese": "[VI:访问]"
 	},
 	{
-		"chinese": "访问(ed形式)",
 		"english": "visited",
-		"soundmark": "/'vɪzɪtɪd/"
+		"soundmark": "/'vɪzɪtɪd/",
+		"vietnamese": "[VI:访问(ed形式)]"
 	},
 	{
-		"chinese": "她(已经)访问",
 		"english": "she has visited",
-		"soundmark": "/ʃi/ /hæz/ /'vɪzɪtɪd/"
+		"soundmark": "/ʃi/ /hæz/ /'vɪzɪtɪd/",
+		"vietnamese": "Cô ấy(已经)访问"
 	},
 	{
-		"chinese": "法国",
 		"english": "France",
-		"soundmark": "/fræns/"
+		"soundmark": "/fræns/",
+		"vietnamese": "[VI:法国]"
 	},
 	{
-		"chinese": "她(已经)访问过法国",
 		"english": "she has visited France",
-		"soundmark": "/ʃi/ /hæz/ /'vɪzɪtɪd/ /fræns/"
+		"soundmark": "/ʃi/ /hæz/ /'vɪzɪtɪd/ /fræns/",
+		"vietnamese": "Cô ấy(已经)访问过法国"
 	},
 	{
-		"chinese": "次",
 		"english": "time",
-		"soundmark": "/taɪm/"
+		"soundmark": "/taɪm/",
+		"vietnamese": "[VI:次]"
 	},
 	{
-		"chinese": "三次",
 		"english": "three times",
-		"soundmark": "/θri/ /taɪmz/"
+		"soundmark": "/θri/ /taɪmz/",
+		"vietnamese": "[VI:三次]"
 	},
 	{
-		"chinese": "她(已经)访问过法国三次",
 		"english": "she has visited France three times",
-		"soundmark": "/ʃi/ /hæz/ /'vɪzɪtɪd/ /fræns/ /θri/ /taɪmz/"
+		"soundmark": "/ʃi/ /hæz/ /'vɪzɪtɪd/ /fræns/ /θri/ /taɪmz/",
+		"vietnamese": "Cô ấy(已经)访问过法国三次"
 	},
 	{
-		"chinese": "完成",
 		"english": "to finish",
-		"soundmark": "/tə/ /'fɪnɪʃ/"
+		"soundmark": "/tə/ /'fɪnɪʃ/",
+		"vietnamese": "[VI:完成]"
 	},
 	{
-		"chinese": "完成(ed形式)",
 		"english": "finished",
-		"soundmark": "/'fɪnɪʃt/"
+		"soundmark": "/'fɪnɪʃt/",
+		"vietnamese": "[VI:完成(ed形式)]"
 	},
 	{
-		"chinese": "他们(已经)完成",
 		"english": "they have finished",
-		"soundmark": "/ðe/ /hæv/ /'fɪnɪʃt/"
+		"soundmark": "/ðe/ /hæv/ /'fɪnɪʃt/",
+		"vietnamese": "Họ(已经)完成"
 	},
 	{
-		"chinese": "项目",
 		"english": "project",
-		"soundmark": "/ˈprɑdʒɛkt/"
+		"soundmark": "/ˈprɑdʒɛkt/",
+		"vietnamese": "[VI:项目]"
 	},
 	{
-		"chinese": "他们的",
 		"english": "their",
-		"soundmark": "/ðɛr/"
+		"soundmark": "/ðɛr/",
+		"vietnamese": "Họ的"
 	},
 	{
-		"chinese": "他们的项目",
 		"english": "their project",
-		"soundmark": "/ðɛr/ /ˈprɑdʒɛkt/"
+		"soundmark": "/ðɛr/ /ˈprɑdʒɛkt/",
+		"vietnamese": "Họ的项目"
 	},
 	{
-		"chinese": "他们(已经)完成了他们的项目",
 		"english": "they have finished their project",
-		"soundmark": "/ðe/ /hæv/ /'fɪnɪʃt/ /ðɛr/ /ˈprɑdʒɛkt/"
+		"soundmark": "/ðe/ /hæv/ /'fɪnɪʃt/ /ðɛr/ /ˈprɑdʒɛkt/",
+		"vietnamese": "Họ(已经)完成了Anh ấy们的项目"
 	},
 	{
-		"chinese": "我们(已经)完成了我们的项目",
 		"english": "we have finished our project",
-		"soundmark": "/wi/ /hæv/ /'fɪnɪʃt/ /'aʊɚ/ /ˈprɑdʒɛkt/"
+		"soundmark": "/wi/ /hæv/ /'fɪnɪʃt/ /'aʊɚ/ /ˈprɑdʒɛkt/",
+		"vietnamese": "Chúng tôi(已经)完成了Tôi们的项目"
 	},
 	{
-		"chinese": "我(已经)完成了我的项目",
 		"english": "I have finished my project",
-		"soundmark": "/aɪ/ /hæv/ /'fɪnɪʃt/ /maɪ/ /ˈprɑdʒɛkt/"
+		"soundmark": "/aɪ/ /hæv/ /'fɪnɪʃt/ /maɪ/ /ˈprɑdʒɛkt/",
+		"vietnamese": "Tôi(已经)完成了我的项目"
 	},
 	{
-		"chinese": "你(已经)完成了你的项目",
 		"english": "you have finished your project",
-		"soundmark": "/ju/ /hæv/ /'fɪnɪʃt/ /jʊr/ /ˈprɑdʒɛkt/"
+		"soundmark": "/ju/ /hæv/ /'fɪnɪʃt/ /jʊr/ /ˈprɑdʒɛkt/",
+		"vietnamese": "Bạn(已经)完成了你的项目"
 	},
 	{
-		"chinese": "他(已经)完成了他的项目",
 		"english": "he has finished his project",
-		"soundmark": "/hi/ /hæz/ /'fɪnɪʃt/ /hɪz/ /ˈprɑdʒɛkt/"
+		"soundmark": "/hi/ /hæz/ /'fɪnɪʃt/ /hɪz/ /ˈprɑdʒɛkt/",
+		"vietnamese": "Anh ấy(已经)完成了他的项目"
 	},
 	{
-		"chinese": "她(已经)完成了她的项目",
 		"english": "she has finished her project",
-		"soundmark": "/ʃi/ /hæz/ /'fɪnɪʃt/ /hɚ/ /ˈprɑdʒɛkt/"
+		"soundmark": "/ʃi/ /hæz/ /'fɪnɪʃt/ /hɚ/ /ˈprɑdʒɛkt/",
+		"vietnamese": "Cô ấy(已经)完成了她的项目"
 	},
 	{
-		"chinese": "星荣(已经)完成了他的项目",
 		"english": "Xingrong has finished his project",
-		"soundmark": "/hæz/ /'fɪnɪʃt/ /hɪz/ /ˈprɑdʒɛkt/"
+		"soundmark": "/hæz/ /'fɪnɪʃt/ /hɪz/ /ˈprɑdʒɛkt/",
+		"vietnamese": "Xingrong(已经)完成了Anh ấy的项目"
 	},
 	{
-		"chinese": "它(已经)完成了它的项目",
 		"english": "it has finished its project",
-		"soundmark": "/ɪt/ /hæz/ /'fɪnɪʃt/ /ɪts/ /ˈprɑdʒɛkt/"
+		"soundmark": "/ɪt/ /hæz/ /'fɪnɪʃt/ /ɪts/ /ˈprɑdʒɛkt/",
+		"vietnamese": "Nó(已经)完成了它的项目"
 	},
 	{
-		"chinese": "她(已经)完成了她的项目",
 		"english": "she has finished her project",
-		"soundmark": "/ʃi/ /hæz/ /'fɪnɪʃt/ /hɚ/ /ˈprɑdʒɛkt/"
+		"soundmark": "/ʃi/ /hæz/ /'fɪnɪʃt/ /hɚ/ /ˈprɑdʒɛkt/",
+		"vietnamese": "Cô ấy(已经)完成了她的项目"
 	},
 	{
-		"chinese": "家庭作业",
 		"english": "homework",
-		"soundmark": "/'homwɝk/"
+		"soundmark": "/'homwɝk/",
+		"vietnamese": "[VI:家庭作业]"
 	},
 	{
-		"chinese": "她(已经)完成了她的家庭作业",
 		"english": "she has finished her homework",
-		"soundmark": "/ʃi/ /hæz/ /'fɪnɪʃt/ /hɚ/ /'homwɝk/"
+		"soundmark": "/ʃi/ /hæz/ /'fɪnɪʃt/ /hɚ/ /'homwɝk/",
+		"vietnamese": "Cô ấy(已经)完成了她的家庭作业"
 	},
 	{
-		"chinese": "她(过去已经)完成了她的家庭作业",
 		"english": "she had finished her homework",
-		"soundmark": "/ʃi/ /hæd/ /'fɪnɪʃt/ /hɚ/ /'homwɝk/"
+		"soundmark": "/ʃi/ /hæd/ /'fɪnɪʃt/ /hɚ/ /'homwɝk/",
+		"vietnamese": "Cô ấy(过去已经)完成了她的家庭作业"
 	},
 	{
-		"chinese": "去",
 		"english": "to go",
-		"soundmark": "/tə/ /ɡo/"
+		"soundmark": "/tə/ /ɡo/",
+		"vietnamese": "[VI:去]"
 	},
 	{
-		"chinese": "外面",
 		"english": "out",
-		"soundmark": "/aʊt/"
+		"soundmark": "/aʊt/",
+		"vietnamese": "[VI:外面]"
 	},
 	{
-		"chinese": "去外面",
 		"english": "to go out",
-		"soundmark": "/tə/ /ɡo/ /aʊt/"
+		"soundmark": "/tə/ /ɡo/ /aʊt/",
+		"vietnamese": "[VI:去外面]"
 	},
 	{
-		"chinese": "玩",
 		"english": "to play",
-		"soundmark": "/tə/ /ple/"
+		"soundmark": "/tə/ /ple/",
+		"vietnamese": "[VI:玩]"
 	},
 	{
-		"chinese": "去外面玩",
 		"english": "to go out to play",
-		"soundmark": "/tə/ /ɡo/ /aʊt/ /tə/ /ple/"
+		"soundmark": "/tə/ /ɡo/ /aʊt/ /tə/ /ple/",
+		"vietnamese": "[VI:去外面玩]"
 	},
 	{
-		"chinese": "她去外面玩",
 		"english": "she goes out to play",
-		"soundmark": "/ʃi/ /ɡoz/ /aʊt/ /tə/ /ple/ /(过去)去 went/ /wɛnt/"
+		"soundmark": "/ʃi/ /ɡoz/ /aʊt/ /tə/ /ple/ /(过去)去 went/ /wɛnt/",
+		"vietnamese": "Cô ấy去外面玩"
 	},
 	{
-		"chinese": "她(过去)去外面玩",
 		"english": "she went out to play",
-		"soundmark": "/ʃi/ /wɛnt/ /aʊt/ /tə/ /ple/"
+		"soundmark": "/ʃi/ /wɛnt/ /aʊt/ /tə/ /ple/",
+		"vietnamese": "Cô ấy(过去)去外面玩"
 	},
 	{
-		"chinese": "在...之前",
 		"english": "before",
-		"soundmark": "/bɪ'fɔr/"
+		"soundmark": "/bɪ'fɔr/",
+		"vietnamese": "[VI:在...之前]"
 	},
 	{
-		"chinese": "在她(过去)去外面玩之前",
 		"english": "before she went out to play",
-		"soundmark": "/bɪ'fɔr/ /ʃi/ /wɛnt/ /aʊt/ /tə/ /ple/"
+		"soundmark": "/bɪ'fɔr/ /ʃi/ /wɛnt/ /aʊt/ /tə/ /ple/",
+		"vietnamese": "在Cô ấy(过去)去外面玩之前"
 	},
 	{
-		"chinese": "她(过去已经)完成了她的家庭作业",
 		"english": "she had finished her homework",
-		"soundmark": "/ʃi/ /hæd/ /'fɪnɪʃt/ /hɚ/ /'homwɝk/"
+		"soundmark": "/ʃi/ /hæd/ /'fɪnɪʃt/ /hɚ/ /'homwɝk/",
+		"vietnamese": "Cô ấy(过去已经)完成了她的家庭作业"
 	},
 	{
-		"chinese": "在她(过去)去外面玩之前，她(过去已经)完成了她的家庭作业",
 		"english": "she had finished her homework before she went out to play",
-		"soundmark": "/ʃi/ /hæd/ /'fɪnɪʃt/ /hɚ/ /'homwɝk/ /bɪ'fɔr/ /ʃi/ /wɛnt/ /aʊt/ /tə/ /ple/"
+		"soundmark": "/ʃi/ /hæd/ /'fɪnɪʃt/ /hɚ/ /'homwɝk/ /bɪ'fɔr/ /ʃi/ /wɛnt/ /aʊt/ /tə/ /ple/",
+		"vietnamese": "在Cô ấy(过去)去外面玩之前，她(过去已经)完成了她的家庭作业"
 	},
 	{
-		"chinese": "离开",
 		"english": "to leave",
-		"soundmark": "/tə/ /liv/"
+		"soundmark": "/tə/ /liv/",
+		"vietnamese": "[VI:离开]"
 	},
 	{
-		"chinese": "离开(ed形式)",
 		"english": "left",
-		"soundmark": "/lɛft/"
+		"soundmark": "/lɛft/",
+		"vietnamese": "[VI:离开(ed形式)]"
 	},
 	{
-		"chinese": "他们(过去已经)离开",
 		"english": "they had left",
-		"soundmark": "/ðe/ /hæd/ /lɛft/"
+		"soundmark": "/ðe/ /hæd/ /lɛft/",
+		"vietnamese": "Họ(过去已经)离开"
 	},
 	{
-		"chinese": "派对",
 		"english": "party",
-		"soundmark": "/'pɑrti/"
+		"soundmark": "/'pɑrti/",
+		"vietnamese": "[VI:派对]"
 	},
 	{
-		"chinese": "他们(过去已经)离开了那个派对",
 		"english": "they had left the party",
-		"soundmark": "/ðe/ /hæd/ /lɛft/ /ðə/ /'pɑrti/"
+		"soundmark": "/ðe/ /hæd/ /lɛft/ /ðə/ /'pɑrti/",
+		"vietnamese": "Họ(过去已经)离开了那个派对"
 	},
 	{
-		"chinese": "到达",
 		"english": "to arrive",
-		"soundmark": "/tə/ /ə'raɪv/ /(过去)到达 arrived/ /ə'raɪvd/"
+		"soundmark": "/tə/ /ə'raɪv/ /(过去)到达 arrived/ /ə'raɪvd/",
+		"vietnamese": "[VI:到达]"
 	},
 	{
-		"chinese": "我(过去)到达",
 		"english": "I arrived",
-		"soundmark": "/aɪ/ /ə'raɪvd/"
+		"soundmark": "/aɪ/ /ə'raɪvd/",
+		"vietnamese": "Tôi(过去)到达"
 	},
 	{
-		"chinese": "在...之前",
 		"english": "before",
-		"soundmark": "/bɪ'fɔr/"
+		"soundmark": "/bɪ'fɔr/",
+		"vietnamese": "[VI:在...之前]"
 	},
 	{
-		"chinese": "在我(过去)到达之前",
 		"english": "before I arrived",
-		"soundmark": "/bɪ'fɔr/ /aɪ/ /ə'raɪvd/"
+		"soundmark": "/bɪ'fɔr/ /aɪ/ /ə'raɪvd/",
+		"vietnamese": "在Tôi(过去)到达之前"
 	},
 	{
-		"chinese": "他们(过去已经)离开了那个派对",
 		"english": "they had left the party",
-		"soundmark": "/ðe/ /hæd/ /lɛft/ /ðə/ /'pɑrti/"
+		"soundmark": "/ðe/ /hæd/ /lɛft/ /ðə/ /'pɑrti/",
+		"vietnamese": "Họ(过去已经)离开了那个派对"
 	},
 	{
-		"chinese": "在我(过去)到达之前他们(过去已经)离开了那个派对",
 		"english": "they had left the party before I arrived",
-		"soundmark": "/ðe/ /hæd/ /lɛft/ /ðə/ /'pɑrti/ /bɪ'fɔr/ /aɪ/ /ə'raɪvd/"
+		"soundmark": "/ðe/ /hæd/ /lɛft/ /ðə/ /'pɑrti/ /bɪ'fɔr/ /aɪ/ /ə'raɪvd/",
+		"vietnamese": "在Tôi(过去)到达之前Họ(过去已经)离开了那个派对"
 	},
 	{
-		"chinese": "吃",
 		"english": "to eat",
-		"soundmark": "/tə/ /it/"
+		"soundmark": "/tə/ /it/",
+		"vietnamese": "ăn"
 	},
 	{
-		"chinese": "吃(ed形式)",
 		"english": "eaten",
-		"soundmark": "/'itn/"
+		"soundmark": "/'itn/",
+		"vietnamese": "ăn(ed形式)"
 	},
 	{
-		"chinese": "她(过去已经)吃",
 		"english": "she had eaten",
-		"soundmark": "/ʃi/ /hæd/ /'itn/"
+		"soundmark": "/ʃi/ /hæd/ /'itn/",
+		"vietnamese": "Cô ấy(过去已经)ăn"
 	},
 	{
-		"chinese": "晚饭",
 		"english": "dinner",
-		"soundmark": "/'dɪnɚ/"
+		"soundmark": "/'dɪnɚ/",
+		"vietnamese": "[VI:晚饭]"
 	},
 	{
-		"chinese": "她(过去已经)吃了晚饭",
 		"english": "she had eaten dinner",
-		"soundmark": "/ʃi/ /hæd/ /'itn/ /'dɪnɚ/"
+		"soundmark": "/ʃi/ /hæd/ /'itn/ /'dɪnɚ/",
+		"vietnamese": "Cô ấy(过去已经)ăn了晚饭"
 	},
 	{
-		"chinese": "已经",
 		"english": "already",
-		"soundmark": "/ɔl'rɛdi/"
+		"soundmark": "/ɔl'rɛdi/",
+		"vietnamese": "[VI:已经]"
 	},
 	{
-		"chinese": "她(过去)已经吃了晚饭",
 		"english": "she had already eaten dinner",
-		"soundmark": "/ʃi/ /hæd/ /ɔl'rɛdi/ /'itn/ /'dɪnɚ/"
+		"soundmark": "/ʃi/ /hæd/ /ɔl'rɛdi/ /'itn/ /'dɪnɚ/",
+		"vietnamese": "Cô ấy(过去)已经ăn了晚饭"
 	},
 	{
-		"chinese": "到达",
 		"english": "to arrive",
-		"soundmark": "/tə/ /ə'raɪv/ /(过去)到达 arrived/ /ə'raɪvd/"
+		"soundmark": "/tə/ /ə'raɪv/ /(过去)到达 arrived/ /ə'raɪvd/",
+		"vietnamese": "[VI:到达]"
 	},
 	{
-		"chinese": "我(过去)到达",
 		"english": "I arrived",
-		"soundmark": "/aɪ/ /ə'raɪvd/"
+		"soundmark": "/aɪ/ /ə'raɪvd/",
+		"vietnamese": "Tôi(过去)到达"
 	},
 	{
-		"chinese": "家",
 		"english": "home",
-		"soundmark": "/hom/"
+		"soundmark": "/hom/",
+		"vietnamese": "[VI:家]"
 	},
 	{
-		"chinese": "我(过去)到达家",
 		"english": "I arrived home",
-		"soundmark": "/aɪ/ /ə'raɪvd/ /hom/"
+		"soundmark": "/aɪ/ /ə'raɪvd/ /hom/",
+		"vietnamese": "Tôi(过去)到达家"
 	},
 	{
-		"chinese": "当...的时候",
 		"english": "when",
-		"soundmark": "/wɛn/"
+		"soundmark": "/wɛn/",
+		"vietnamese": "[VI:当...的时候]"
 	},
 	{
-		"chinese": "当我(过去)到达家的时候",
 		"english": "when I arrived home",
-		"soundmark": "/wɛn/ /aɪ/ /ə'raɪvd/ /hom/"
+		"soundmark": "/wɛn/ /aɪ/ /ə'raɪvd/ /hom/",
+		"vietnamese": "当Tôi(过去)到达家的时候"
 	},
 	{
-		"chinese": "她(过去)已经吃了晚饭",
 		"english": "she had already eaten dinner",
-		"soundmark": "/ʃi/ /hæd/ /ɔl'rɛdi/ /'itn/ /'dɪnɚ/"
+		"soundmark": "/ʃi/ /hæd/ /ɔl'rɛdi/ /'itn/ /'dɪnɚ/",
+		"vietnamese": "Cô ấy(过去)已经ăn了晚饭"
 	},
 	{
-		"chinese": "当我(过去)到达家的时候她(过去)已经吃了晚饭",
 		"english": "she had already eaten dinner when I arrived home",
-		"soundmark": "/ʃi/ /hæd/ /ɔl'rɛdi/ /'itn/ /'dɪnɚ/ /wɛn/ /aɪ/ /ə'raɪvd/ /hom/"
+		"soundmark": "/ʃi/ /hæd/ /ɔl'rɛdi/ /'itn/ /'dɪnɚ/ /wɛn/ /aɪ/ /ə'raɪvd/ /hom/",
+		"vietnamese": "当Tôi(过去)到达家的时候Cô ấy(过去)已经ăn了晚饭"
 	},
 	{
-		"chinese": "阅读",
 		"english": "to read",
-		"soundmark": "/tə/ /rid/"
+		"soundmark": "/tə/ /rid/",
+		"vietnamese": "[VI:阅读]"
 	},
 	{
-		"chinese": "阅读(ed形式)",
 		"english": "read",
-		"soundmark": "/rɛd/"
+		"soundmark": "/rɛd/",
+		"vietnamese": "[VI:阅读(ed形式)]"
 	},
 	{
-		"chinese": "我(过去已经)阅读",
 		"english": "I had read",
-		"soundmark": "/aɪ/ /hæd/ /rɛd/"
+		"soundmark": "/aɪ/ /hæd/ /rɛd/",
+		"vietnamese": "Tôi(过去已经)阅读"
 	},
 	{
-		"chinese": "那本书",
 		"english": "the book",
-		"soundmark": "/ðə/ /bʊk/"
+		"soundmark": "/ðə/ /bʊk/",
+		"vietnamese": "[VI:那本书]"
 	},
 	{
-		"chinese": "我(过去已经)阅读过那本书",
 		"english": "I had read the book",
-		"soundmark": "/aɪ/ /hæd/ /rɛd/ /ðə/ /bʊk/"
+		"soundmark": "/aɪ/ /hæd/ /rɛd/ /ðə/ /bʊk/",
+		"vietnamese": "Tôi(过去已经)阅读过那本书"
 	},
 	{
-		"chinese": "改编",
 		"english": "to adapt",
-		"soundmark": "/tə/ /əˈdæpt/"
+		"soundmark": "/tə/ /əˈdæpt/",
+		"vietnamese": "[VI:改编]"
 	},
 	{
-		"chinese": "改编",
 		"english": "adaptation",
-		"soundmark": "/ˌædæpˈteʃn/"
+		"soundmark": "/ˌædæpˈteʃn/",
+		"vietnamese": "[VI:改编]"
 	},
 	{
-		"chinese": "那个电影",
 		"english": "the movie",
-		"soundmark": "/ðə/ /'muvi/"
+		"soundmark": "/ðə/ /'muvi/",
+		"vietnamese": "[VI:那个电影]"
 	},
 	{
-		"chinese": "那个电影改编",
 		"english": "the movie adaptation",
-		"soundmark": "/ðə/ /'muvi/ /ˌædæpˈteʃn/"
+		"soundmark": "/ðə/ /'muvi/ /ˌædæpˈteʃn/",
+		"vietnamese": "[VI:那个电影改编]"
 	},
 	{
-		"chinese": "看",
 		"english": "to watch",
-		"soundmark": "/tə/ /wɑtʃ/"
+		"soundmark": "/tə/ /wɑtʃ/",
+		"vietnamese": "[VI:看]"
 	},
 	{
-		"chinese": "(过去)看 ",
 		"english": "watched",
-		"soundmark": "/wɑtʃt/"
+		"soundmark": "/wɑtʃt/",
+		"vietnamese": "[VI:(过去)看 ]"
 	},
 	{
-		"chinese": "(过去)看那个电影改编",
 		"english": "watched the movie adaptation",
-		"soundmark": "/wɑtʃt/ /ðə/ /'muvi/ /ˌædæpˈteʃn/"
+		"soundmark": "/wɑtʃt/ /ðə/ /'muvi/ /ˌædæpˈteʃn/",
+		"vietnamese": "[VI:(过去)看那个电影改编]"
 	},
 	{
-		"chinese": "我(过去)看那个电影改编",
 		"english": "I watched the movie adaptation",
-		"soundmark": "/aɪ/ /wɑtʃt/ /ðə/ /'muvi/ /ˌædæpˈteʃn/"
+		"soundmark": "/aɪ/ /wɑtʃt/ /ðə/ /'muvi/ /ˌædæpˈteʃn/",
+		"vietnamese": "Tôi(过去)看那个电影改编"
 	},
 	{
-		"chinese": "在...之前",
 		"english": "before",
-		"soundmark": "/bɪ'fɔr/"
+		"soundmark": "/bɪ'fɔr/",
+		"vietnamese": "[VI:在...之前]"
 	},
 	{
-		"chinese": "在我(过去)看那个电影改编之前",
 		"english": "before I watched the movie adaptation",
-		"soundmark": "/bɪ'fɔr/ /aɪ/ /wɑtʃt/ /ðə/ /'muvi/ /ˌædæpˈteʃn/"
+		"soundmark": "/bɪ'fɔr/ /aɪ/ /wɑtʃt/ /ðə/ /'muvi/ /ˌædæpˈteʃn/",
+		"vietnamese": "在Tôi(过去)看那个电影改编之前"
 	},
 	{
-		"chinese": "我(过去已经)阅读过那本书",
 		"english": "I had read the book",
-		"soundmark": "/aɪ/ /hæd/ /rɛd/ /ðə/ /bʊk/"
+		"soundmark": "/aɪ/ /hæd/ /rɛd/ /ðə/ /bʊk/",
+		"vietnamese": "Tôi(过去已经)阅读过那本书"
 	},
 	{
-		"chinese": "在我(过去)看那个电影改编之前我(过去已经)阅读过那本书",
 		"english": "I had read the book before I watched the movie adaptation",
-		"soundmark": "/aɪ/ /hæd/ /rɛd/ /ðə/ /bʊk/ /bɪ'fɔr/ /aɪ/ /wɑtʃt/ /ðə/ /'muvi/ /ˌædæpˈteʃn/"
+		"soundmark": "/aɪ/ /hæd/ /rɛd/ /ðə/ /bʊk/ /bɪ'fɔr/ /aɪ/ /wɑtʃt/ /ðə/ /'muvi/ /ˌædæpˈteʃn/",
+		"vietnamese": "在Tôi(过去)看那个电影改编之前我(过去已经)阅读过那本书"
 	}
 ]

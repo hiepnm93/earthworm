@@ -13,15 +13,15 @@ const props = withDefaults(
   {
     showModal: false,
     modal: true,
-    title: "提示",
-    content: "你确定吗?",
-    cancelBtnText: "取消",
+    title: "Gợi ý",
+    content: "你Xác nhận吗?",
+    cancelBtnText: "Hủy",
     confirmBtnText: "",
   },
 );
 const emits = defineEmits(["confirm", "update:showModal", "close"]);
 
-// 可以在这个地方直接更新外层 showModal
+// 可以在这cái地方直接更新外层 showModal
 const isShowModal = useVModel(props, "showModal", emits);
 
 function handleCancel() {

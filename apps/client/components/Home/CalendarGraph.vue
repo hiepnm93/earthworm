@@ -1,6 +1,6 @@
 <template>
   <div class="flex justify-between">
-    <!-- 左侧打卡图 -->
+    <!-- 左侧Điểm danh图 -->
     <div
       class="min-w-0 flex-1 rounded-md border border-gray-300 px-2 py-4 text-xs dark:border-gray-700"
     >
@@ -50,7 +50,7 @@
 
       <div class="mt-2 flex justify-between px-1">
         <span class="justify-self-end text-sm dark:text-gray-400">
-          {{ totalLearningTime > 0 ? "一共学习" : "还没有开始学习" }}
+          {{ totalLearningTime > 0 ? "một共Học tập" : "还没有Bắt đầuHọc tập" }}
           <span
             v-if="totalLearningTime > 0"
             class="font-semibold text-purple-500"
@@ -64,7 +64,7 @@
           <div class="cell moderate"></div>
           <div class="cell high"></div>
           <div class="cell higher"></div>
-          <div class="text-gray-500">更多</div>
+          <div class="text-gray-500">Thêm</div>
         </div>
       </div>
     </div>
@@ -114,16 +114,16 @@ const { initTable, renderBody, thead, tbody, weeksZh, yearOptions } = useCalenda
     return ActivityLevel.Higher;
   },
   tipFormatter(current) {
-    if (current.duration === 0) return `${current?.date} 没有学习`;
+    if (current.duration === 0) return `${current?.date} 没有Học tập`;
 
     let tip = "";
     const minutes = secondToMinutes(current.duration);
     if (minutes < 1) {
-      tip = "不足 1 分钟";
+      tip = "不足 1 phút";
     } else {
-      tip = ` ${secondToMinutes(current.duration)} 分钟`;
+      tip = ` ${secondToMinutes(current.duration)} phút`;
     }
-    return `${current.date} 学习${tip}`;
+    return `${current.date} Học tập${tip}`;
   },
 });
 
@@ -136,12 +136,12 @@ function formatLearningTime(totalSeconds: number) {
   const minutes = Math.floor((totalSeconds % 3600) / 60);
 
   if (hours > 0) {
-    return `${hours}小时${minutes}分钟`;
+    return `${hours}giờ${minutes}phút`;
   } else {
     if (minutes === 0) {
-      return `不足 1 分钟`;
+      return `不足 1 phút`;
     } else {
-      return `${minutes}分钟`;
+      return `${minutes}phút`;
     }
   }
 }

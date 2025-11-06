@@ -1,6 +1,6 @@
 <template>
   <div class="flex w-full flex-col">
-    <h2 class="mb-4 text-center text-3xl dark:border-gray-600">课程包列表</h2>
+    <h2 class="mb-4 text-center text-3xl dark:border-gray-600">Gói khóa họcDanh sách</h2>
     <template v-if="isLoading">
       <Loading></Loading>
     </template>
@@ -42,7 +42,7 @@ const isLoading = ref(false);
 setup();
 
 async function setup() {
-  // 课程包不会更新 所以初始化的时候只拉取一次数据就好了
+  // Gói khóa học不会更新 所以初始化的时候只拉取mộtlần数据就好了
   if (coursePackStore.coursePacks.length === 0) {
     isLoading.value = true;
     await coursePackStore.setupCoursePacks();
@@ -54,9 +54,9 @@ function handleGoToCoursePack(coursePack: CoursePack) {
   if (coursePack.isFree) {
     gotoCourseList(coursePack.id);
   } else {
-    // 看看是不是会员 不是的话 直接弹出消息告知 需要是会员
-    // TODO 还没有检测是不是会员的功能函数
-    console.log("需要是会员");
+    // 看看是不是Thành viên 不是的话 直接弹出Tin nhắn告知 需要是Thành viên
+    // TODO 还没有检测是不是Thành viên的功能函数
+    console.log("需要是Thành viên");
   }
 }
 </script>

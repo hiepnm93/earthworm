@@ -1,1027 +1,1027 @@
 [
 	{
-		"chinese": "可以",
 		"english": "can",
-		"soundmark": "/kæn/"
+		"soundmark": "/kæn/",
+		"vietnamese": "[VI:可以]"
 	},
 	{
-		"chinese": "我可以",
 		"english": "I can",
-		"soundmark": "/aɪ/ /kæn/"
+		"soundmark": "/aɪ/ /kæn/",
+		"vietnamese": "Tôi可以"
 	},
 	{
-		"chinese": "做这件事",
 		"english": "to do it",
-		"soundmark": "/tə/ /du/ /ɪt/"
+		"soundmark": "/tə/ /du/ /ɪt/",
+		"vietnamese": "làm điều này"
 	},
 	{
-		"chinese": "我可以做这件事",
 		"english": "I can do it",
-		"soundmark": "/aɪ/ /kæn/ /du/ /ɪt/"
+		"soundmark": "/aɪ/ /kæn/ /du/ /ɪt/",
+		"vietnamese": "Tôi可以làm điều này"
 	},
 	{
-		"chinese": "单独",
 		"english": "alone",
-		"soundmark": "/ə'lon/"
+		"soundmark": "/ə'lon/",
+		"vietnamese": "[VI:单独]"
 	},
 	{
-		"chinese": "我可以单独做这件事",
 		"english": "I can do it alone",
-		"soundmark": "/aɪ/ /kæn/ /du/ /ɪt/ /ə'lon/"
+		"soundmark": "/aɪ/ /kæn/ /du/ /ɪt/ /ə'lon/",
+		"vietnamese": "Tôi可以单独làm điều này"
 	},
 	{
-		"chinese": "我不可以单独做这件事",
 		"english": "I can not do it alone",
-		"soundmark": "/aɪ/ /kæn/ /nɑt/ /du/ /ɪt/ /ə'lon/"
+		"soundmark": "/aɪ/ /kæn/ /nɑt/ /du/ /ɪt/ /ə'lon/",
+		"vietnamese": "Tôikhông可以单独làm điều này"
 	},
 	{
-		"chinese": "你必须帮助我",
 		"english": "you have to help me",
-		"soundmark": "/ju/ /hæv/ /tə/ /hɛlp/ /mi/"
+		"soundmark": "/ju/ /hæv/ /tə/ /hɛlp/ /mi/",
+		"vietnamese": "Bạn phải giúp đỡ tôi"
 	},
 	{
-		"chinese": "因为",
 		"english": "because",
-		"soundmark": "/bɪ'kɔz/"
+		"soundmark": "/bɪ'kɔz/",
+		"vietnamese": "bởi vì"
 	},
 	{
-		"chinese": "你必须帮助我因为我不可以单独做这件事",
 		"english": "you have to help me because I can not do it alone",
-		"soundmark": "/ju/ /hæv/ /tə/ /hɛlp/ /mi/ /bɪ'kɔz/ /aɪ/ /kæn/ /nɑt/ /du/ /ɪt/ /ə'lon/"
+		"soundmark": "/ju/ /hæv/ /tə/ /hɛlp/ /mi/ /bɪ'kɔz/ /aɪ/ /kæn/ /nɑt/ /du/ /ɪt/ /ə'lon/",
+		"vietnamese": "Bạn phải giúp đỡ tôibởi vìTôikhông可以单独làm điều này"
 	},
 	{
-		"chinese": "在这里",
 		"english": "be here",
-		"soundmark": "/bi/ /hɪr/"
+		"soundmark": "/bi/ /hɪr/",
+		"vietnamese": "ở đây"
 	},
 	{
-		"chinese": "我可以在这里",
 		"english": "I can be here",
-		"soundmark": "/aɪ/ /kæn/ /bi/ /hɪr/"
+		"soundmark": "/aɪ/ /kæn/ /bi/ /hɪr/",
+		"vietnamese": "Tôi可以ở đây"
 	},
 	{
-		"chinese": "明天",
 		"english": "tomorrow",
-		"soundmark": "/tə'mɔro/"
+		"soundmark": "/tə'mɔro/",
+		"vietnamese": "ngày mai"
 	},
 	{
-		"chinese": "我可以明天在这里",
 		"english": "I can be here tomorrow",
-		"soundmark": "/aɪ/ /kæn/ /bi/ /hɪr/ /tə'mɔro/"
+		"soundmark": "/aɪ/ /kæn/ /bi/ /hɪr/ /tə'mɔro/",
+		"vietnamese": "Tôi可以ngày maiở đây"
 	},
 	{
-		"chinese": "我不可以明天在这里",
 		"english": "I can not be here tomorrow",
-		"soundmark": "/aɪ/ /kæn/ /nɑt/ /bi/ /hɪr/ /tə'mɔro/"
+		"soundmark": "/aɪ/ /kæn/ /nɑt/ /bi/ /hɪr/ /tə'mɔro/",
+		"vietnamese": "Tôikhông可以ngày maiở đây"
 	},
 	{
-		"chinese": "他需要知道",
 		"english": "he needs to know",
-		"soundmark": "/hi/ /nidz/ /tə/ /no/"
+		"soundmark": "/hi/ /nidz/ /tə/ /no/",
+		"vietnamese": "Anh ấycần biết"
 	},
 	{
-		"chinese": "是否",
 		"english": "if",
-		"soundmark": "/ɪf/"
+		"soundmark": "/ɪf/",
+		"vietnamese": "có hay không"
 	},
 	{
-		"chinese": "他需要知道是否我可以明天在这里",
 		"english": "he needs to know if I can be here tomorrow",
-		"soundmark": "/hi/ /nidz/ /tə/ /no/ /ɪf/ /aɪ/ /kæn/ /bi/ /hɪr/ /tə'mɔro/"
+		"soundmark": "/hi/ /nidz/ /tə/ /no/ /ɪf/ /aɪ/ /kæn/ /bi/ /hɪr/ /tə'mɔro/",
+		"vietnamese": "Anh ấycần biếtcó hay khôngTôi可以ngày maiở đây"
 	},
 	{
-		"chinese": "吃这个食物",
 		"english": "eat the food",
-		"soundmark": "/it/ /ðə/ /fud/"
+		"soundmark": "/it/ /ðə/ /fud/",
+		"vietnamese": "ăn thức ăn này"
 	},
 	{
-		"chinese": "我可以吃这个食物",
 		"english": "I can eat the food",
-		"soundmark": "/aɪ/ /kæn/ /it/ /ðə/ /fud/"
+		"soundmark": "/aɪ/ /kæn/ /it/ /ðə/ /fud/",
+		"vietnamese": "Tôi可以ăn thức ăn này"
 	},
 	{
-		"chinese": "现在",
 		"english": "now",
-		"soundmark": "/naʊ/"
+		"soundmark": "/naʊ/",
+		"vietnamese": "bây giờ"
 	},
 	{
-		"chinese": "我可以现在吃这个食物",
 		"english": "I can eat the food now",
-		"soundmark": "/aɪ/ /kæn/ /it/ /ðə/ /fud/ /naʊ/"
+		"soundmark": "/aɪ/ /kæn/ /it/ /ðə/ /fud/ /naʊ/",
+		"vietnamese": "Tôi可以bây giờăn thức ăn này"
 	},
 	{
-		"chinese": "我不可以现在吃这个食物",
 		"english": "I can not eat the food now",
-		"soundmark": "/aɪ/ /kæn/ /nɑt/ /it/ /ðə/ /fud/ /naʊ/"
+		"soundmark": "/aɪ/ /kæn/ /nɑt/ /it/ /ðə/ /fud/ /naʊ/",
+		"vietnamese": "Tôikhông可以bây giờăn thức ăn này"
 	},
 	{
-		"chinese": "我想要知道",
 		"english": "I want to know",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /no/"
+		"soundmark": "/aɪ/ /wɑnt/ /tə/ /no/",
+		"vietnamese": "Tôimuốn biết"
 	},
 	{
-		"chinese": "是否",
 		"english": "if",
-		"soundmark": "/ɪf/"
+		"soundmark": "/ɪf/",
+		"vietnamese": "có hay không"
 	},
 	{
-		"chinese": "我想要知道是否我可以现在吃这个食物",
 		"english": "I want to know if I can eat the food now",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /no/ /ɪf/ /aɪ/ /kæn/ /it/ /ðə/ /fud/ /naʊ/"
+		"soundmark": "/aɪ/ /wɑnt/ /tə/ /no/ /ɪf/ /aɪ/ /kæn/ /it/ /ðə/ /fud/ /naʊ/",
+		"vietnamese": "Tôimuốn biếtcó hay không我可以bây giờăn thức ăn này"
 	},
 	{
-		"chinese": "你可以",
 		"english": "you can",
-		"soundmark": "/ju/ /kæn/"
+		"soundmark": "/ju/ /kæn/",
+		"vietnamese": "Bạn可以"
 	},
 	{
-		"chinese": "告诉我",
 		"english": "tell me",
-		"soundmark": "/tɛl/ /mi/"
+		"soundmark": "/tɛl/ /mi/",
+		"vietnamese": "nói với tôi"
 	},
 	{
-		"chinese": "事实",
 		"english": "the truth",
-		"soundmark": "/ðə/ /trʊθ/"
+		"soundmark": "/ðə/ /trʊθ/",
+		"vietnamese": "sự thật"
 	},
 	{
-		"chinese": "告诉我事实",
 		"english": "tell me the truth",
-		"soundmark": "/tɛl/ /mi/ /ðə/ /trʊθ/"
+		"soundmark": "/tɛl/ /mi/ /ðə/ /trʊθ/",
+		"vietnamese": "nói sự thật với tôi"
 	},
 	{
-		"chinese": "你可以告诉我事实",
 		"english": "you can tell me the truth",
-		"soundmark": "/ju/ /kæn/ /tɛl/ /mi/ /ðə/ /trʊθ/"
+		"soundmark": "/ju/ /kæn/ /tɛl/ /mi/ /ðə/ /trʊθ/",
+		"vietnamese": "Bạn可以nói sự thật với tôi"
 	},
 	{
-		"chinese": "你不可以告诉我事实",
 		"english": "you can not tell me the truth",
-		"soundmark": "/ju/ /kæn/ /nɑt/ /tɛl/ /mi/ /ðə/ /trʊθ/"
+		"soundmark": "/ju/ /kæn/ /nɑt/ /tɛl/ /mi/ /ðə/ /trʊθ/",
+		"vietnamese": "Bạnkhông可以nói sự thật với tôi"
 	},
 	{
-		"chinese": "我需要知道",
 		"english": "I need to know",
-		"soundmark": "/aɪ/ /nid/ /tə/ /no/"
+		"soundmark": "/aɪ/ /nid/ /tə/ /no/",
+		"vietnamese": "Tôicần biết"
 	},
 	{
-		"chinese": "是否",
 		"english": "if",
-		"soundmark": "/ɪf/"
+		"soundmark": "/ɪf/",
+		"vietnamese": "có hay không"
 	},
 	{
-		"chinese": "我需要知道是否你可以告诉我事实",
 		"english": "I need to know if you can tell me the truth",
-		"soundmark": "/aɪ/ /nid/ /tə/ /no/ /ɪf/ /ju/ /kæn/ /tɛl/ /mi/ /ðə/ /trʊθ/"
+		"soundmark": "/aɪ/ /nid/ /tə/ /no/ /ɪf/ /ju/ /kæn/ /tɛl/ /mi/ /ðə/ /trʊθ/",
+		"vietnamese": "Tôicần biếtcó hay khôngBạn可以nói sự thật với tôi"
 	},
 	{
-		"chinese": "帮助我",
 		"english": "help me",
-		"soundmark": "/hɛlp/ /mi/"
+		"soundmark": "/hɛlp/ /mi/",
+		"vietnamese": "giúp đỡ tôi"
 	},
 	{
-		"chinese": "你可以帮助我",
 		"english": "you can help me",
-		"soundmark": "/ju/ /kæn/ /hɛlp/ /mi/"
+		"soundmark": "/ju/ /kæn/ /hɛlp/ /mi/",
+		"vietnamese": "Bạn可以giúp đỡ tôi"
 	},
 	{
-		"chinese": "你不可以帮助我",
 		"english": "you can not help me",
-		"soundmark": "/ju/ /kæn/ /nɑt/ /hɛlp/ /mi/"
+		"soundmark": "/ju/ /kæn/ /nɑt/ /hɛlp/ /mi/",
+		"vietnamese": "Bạnkhông可以giúp đỡ tôi"
 	},
 	{
-		"chinese": "我需要知道是否你可以帮助我",
 		"english": "I need to know if you can help me",
-		"soundmark": "/aɪ/ /nid/ /tə/ /no/ /ɪf/ /ju/ /kæn/ /hɛlp/ /mi/"
+		"soundmark": "/aɪ/ /nid/ /tə/ /no/ /ɪf/ /ju/ /kæn/ /hɛlp/ /mi/",
+		"vietnamese": "Tôicần biếtcó hay khôngBạn可以giúp đỡ tôi"
 	},
 	{
-		"chinese": "在家里",
 		"english": "at home",
-		"soundmark": "/ət/ /hom/"
+		"soundmark": "/ət/ /hom/",
+		"vietnamese": "[VI:在家里]"
 	},
 	{
-		"chinese": "在家里阅读",
 		"english": "read at home",
-		"soundmark": "/rid/ /ət/ /hom/"
+		"soundmark": "/rid/ /ət/ /hom/",
+		"vietnamese": "[VI:在家里阅读]"
 	},
 	{
-		"chinese": "你可以在家里阅读",
 		"english": "you can read at home",
-		"soundmark": "/ju/ /kæn/ /rid/ /ət/ /hom/"
+		"soundmark": "/ju/ /kæn/ /rid/ /ət/ /hom/",
+		"vietnamese": "Bạn可以在家里阅读"
 	},
 	{
-		"chinese": "你不可以在家里阅读",
 		"english": "you can not read at home",
-		"soundmark": "/ju/ /kæn/ /nɑt/ /rid/ /ət/ /hom/"
+		"soundmark": "/ju/ /kæn/ /nɑt/ /rid/ /ət/ /hom/",
+		"vietnamese": "Bạnkhông可以在家里阅读"
 	},
 	{
-		"chinese": "你需要告诉我",
 		"english": "you need to tell me",
-		"soundmark": "/ju/ /nid/ /tə/ /tɛl/ /mi/"
+		"soundmark": "/ju/ /nid/ /tə/ /tɛl/ /mi/",
+		"vietnamese": "Bạncầnnói với tôi"
 	},
 	{
-		"chinese": "原因",
 		"english": "the reason",
-		"soundmark": "/ðə/ /ˈrizən/"
+		"soundmark": "/ðə/ /ˈrizən/",
+		"vietnamese": "[VI:原因]"
 	},
 	{
-		"chinese": "你需要告诉我原因",
 		"english": "you need to tell me the reason",
-		"soundmark": "/ju/ /nid/ /tə/ /tɛl/ /mi/ /ðə/ /ˈrizən/"
+		"soundmark": "/ju/ /nid/ /tə/ /tɛl/ /mi/ /ðə/ /ˈrizən/",
+		"vietnamese": "Bạncầnnói với tôi原因"
 	},
 	{
-		"chinese": "为什么",
 		"english": "why",
-		"soundmark": "/waɪ/"
+		"soundmark": "/waɪ/",
+		"vietnamese": "[VI:为什么]"
 	},
 	{
-		"chinese": "你需要告诉我原因为什么你不可以在家里阅读",
 		"english": "you need to tell me the reason why you can not read at home",
-		"soundmark": "/ju/ /nid/ /tə/ /tɛl/ /mi/ /ðə/ /ˈrizən/ /waɪ/ /ju/ /kæn/ /nɑt/ /rid/ /ət/ /hom/"
+		"soundmark": "/ju/ /nid/ /tə/ /tɛl/ /mi/ /ðə/ /ˈrizən/ /waɪ/ /ju/ /kæn/ /nɑt/ /rid/ /ət/ /hom/",
+		"vietnamese": "Bạncầnnói với tôi原bởi vì什么你không可以在家里阅读"
 	},
 	{
-		"chinese": "他可以",
 		"english": "he can",
-		"soundmark": "/hi/ /kæn/"
+		"soundmark": "/hi/ /kæn/",
+		"vietnamese": "Anh ấy可以"
 	},
 	{
-		"chinese": "他可以做这件事",
 		"english": "he can do it",
-		"soundmark": "/hi/ /kæn/ /du/ /ɪt/"
+		"soundmark": "/hi/ /kæn/ /du/ /ɪt/",
+		"vietnamese": "Anh ấy可以làm điều này"
 	},
 	{
-		"chinese": "以后",
 		"english": "later",
-		"soundmark": "/'letɚ/"
+		"soundmark": "/'letɚ/",
+		"vietnamese": "[VI:以后]"
 	},
 	{
-		"chinese": "他可以以后做这件事",
 		"english": "he can do it later",
-		"soundmark": "/hi/ /kæn/ /du/ /ɪt/ /'letɚ/"
+		"soundmark": "/hi/ /kæn/ /du/ /ɪt/ /'letɚ/",
+		"vietnamese": "Anh ấy可以以后làm điều này"
 	},
 	{
-		"chinese": "他不可以以后做这件事",
 		"english": "he can not do it later",
-		"soundmark": "/hi/ /kæn/ /nɑt/ /du/ /ɪt/ /'letɚ/"
+		"soundmark": "/hi/ /kæn/ /nɑt/ /du/ /ɪt/ /'letɚ/",
+		"vietnamese": "Anh ấykhông可以以后làm điều này"
 	},
 	{
-		"chinese": "和我说话",
 		"english": "talk with me",
-		"soundmark": "/tɔk/ /wɪð/ /mi/"
+		"soundmark": "/tɔk/ /wɪð/ /mi/",
+		"vietnamese": "nói chuyện với tôi"
 	},
 	{
-		"chinese": "他可以和我说话",
 		"english": "he can talk with me",
-		"soundmark": "/hi/ /kæn/ /tɔk/ /wɪð/ /mi/"
+		"soundmark": "/hi/ /kæn/ /tɔk/ /wɪð/ /mi/",
+		"vietnamese": "Anh ấy可以nói chuyện với tôi"
 	},
 	{
-		"chinese": "今晚",
 		"english": "tonight",
-		"soundmark": "/tə'naɪt/"
+		"soundmark": "/tə'naɪt/",
+		"vietnamese": "tối nay"
 	},
 	{
-		"chinese": "他今晚可以和我说话",
 		"english": "he can talk with me tonight",
-		"soundmark": "/hi/ /kæn/ /tɔk/ /wɪð/ /mi/ /tə'naɪt/"
+		"soundmark": "/hi/ /kæn/ /tɔk/ /wɪð/ /mi/ /tə'naɪt/",
+		"vietnamese": "Anh ấytối nay可以nói chuyện với tôi"
 	},
 	{
-		"chinese": "他今晚不可以和我说话",
 		"english": "he can not talk with me tonight",
-		"soundmark": "/hi/ /kæn/ /nɑt/ /tɔk/ /wɪð/ /mi/ /tə'naɪt/"
+		"soundmark": "/hi/ /kæn/ /nɑt/ /tɔk/ /wɪð/ /mi/ /tə'naɪt/",
+		"vietnamese": "Anh ấytối naykhông可以nói chuyện với tôi"
 	},
 	{
-		"chinese": "我想要知道",
 		"english": "I want to know",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /no/"
+		"soundmark": "/aɪ/ /wɑnt/ /tə/ /no/",
+		"vietnamese": "Tôimuốn biết"
 	},
 	{
-		"chinese": "是否",
 		"english": "if",
-		"soundmark": "/ɪf/"
+		"soundmark": "/ɪf/",
+		"vietnamese": "có hay không"
 	},
 	{
-		"chinese": "我想要知道是否他今晚可以和我说话",
 		"english": "I want to know if he can talk with me tonight",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /no/ /ɪf/ /hi/ /kæn/ /tɔk/ /wɪð/ /mi/ /tə'naɪt/"
+		"soundmark": "/aɪ/ /wɑnt/ /tə/ /no/ /ɪf/ /hi/ /kæn/ /tɔk/ /wɪð/ /mi/ /tə'naɪt/",
+		"vietnamese": "Tôimuốn biếtcó hay khôngAnh ấytối nay可以nói chuyện với tôi"
 	},
 	{
-		"chinese": "她可以",
 		"english": "she can",
-		"soundmark": "/ʃi/ /kæn/"
+		"soundmark": "/ʃi/ /kæn/",
+		"vietnamese": "Cô ấy可以"
 	},
 	{
-		"chinese": "解释",
 		"english": "explain",
-		"soundmark": "/ɪk'splen/"
+		"soundmark": "/ɪk'splen/",
+		"vietnamese": "[VI:解释]"
 	},
 	{
-		"chinese": "原因",
 		"english": "the reason",
-		"soundmark": "/ðə/ /ˈrizən/"
+		"soundmark": "/ðə/ /ˈrizən/",
+		"vietnamese": "[VI:原因]"
 	},
 	{
-		"chinese": "解释原因",
 		"english": "explain the reason",
-		"soundmark": "/ɪk'splen/ /ðə/ /ˈrizən/"
+		"soundmark": "/ɪk'splen/ /ðə/ /ˈrizən/",
+		"vietnamese": "[VI:解释原因]"
 	},
 	{
-		"chinese": "她可以解释原因",
 		"english": "she can explain the reason",
-		"soundmark": "/ʃi/ /kæn/ /ɪk'splen/ /ðə/ /ˈrizən/"
+		"soundmark": "/ʃi/ /kæn/ /ɪk'splen/ /ðə/ /ˈrizən/",
+		"vietnamese": "Cô ấy可以解释原因"
 	},
 	{
-		"chinese": "她不可以解释原因",
 		"english": "she can not explain the reason",
-		"soundmark": "/ʃi/ /kæn/ /nɑt/ /ɪk'splen/ /ðə/ /ˈrizən/"
+		"soundmark": "/ʃi/ /kæn/ /nɑt/ /ɪk'splen/ /ðə/ /ˈrizən/",
+		"vietnamese": "Cô ấykhông可以解释原因"
 	},
 	{
-		"chinese": "为什么",
 		"english": "why",
-		"soundmark": "/waɪ/"
+		"soundmark": "/waɪ/",
+		"vietnamese": "[VI:为什么]"
 	},
 	{
-		"chinese": "他今晚不可以和我说话",
 		"english": "he can not talk with me tonight",
-		"soundmark": "/hi/ /kæn/ /nɑt/ /tɔk/ /wɪð/ /mi/ /tə'naɪt/"
+		"soundmark": "/hi/ /kæn/ /nɑt/ /tɔk/ /wɪð/ /mi/ /tə'naɪt/",
+		"vietnamese": "Anh ấytối naykhông可以nói chuyện với tôi"
 	},
 	{
-		"chinese": "她可以解释原因为什么他今晚不可以和我说话",
 		"english": "she can explain the reason why he can not talk with me tonight",
-		"soundmark": "/ʃi/ /kæn/ /nɑt/ /ɪk'splen/ /ðə/ /ˈrizən/ /waɪ/ /hi/ /kæn/ /nɑt/ /tɔk/ /wɪð/ /mi/ /tə'naɪt/"
+		"soundmark": "/ʃi/ /kæn/ /nɑt/ /ɪk'splen/ /ðə/ /ˈrizən/ /waɪ/ /hi/ /kæn/ /nɑt/ /tɔk/ /wɪð/ /mi/ /tə'naɪt/",
+		"vietnamese": "Cô ấy可以解释原bởi vì什么Anh ấytối naykhông可以nói chuyện với tôi"
 	},
 	{
-		"chinese": "问我",
 		"english": "ask me",
-		"soundmark": "/æsk/ /mi/"
+		"soundmark": "/æsk/ /mi/",
+		"vietnamese": "问Tôi"
 	},
 	{
-		"chinese": "一个问题",
 		"english": "a question",
-		"soundmark": "/ə/ /'kwɛstʃən/"
+		"soundmark": "/ə/ /'kwɛstʃən/",
+		"vietnamese": "[VI:一个问题]"
 	},
 	{
-		"chinese": "问我一个问题",
 		"english": "ask me a question",
-		"soundmark": "/æsk/ /mi/ /ə/ /'kwɛstʃən/"
+		"soundmark": "/æsk/ /mi/ /ə/ /'kwɛstʃən/",
+		"vietnamese": "问Tôi一个问题"
 	},
 	{
-		"chinese": "她可以问我一个问题",
 		"english": "she can ask me a question",
-		"soundmark": "/ʃi/ /kæn/ /æsk/ /mi/ /ə/ /'kwɛstʃən/"
+		"soundmark": "/ʃi/ /kæn/ /æsk/ /mi/ /ə/ /'kwɛstʃən/",
+		"vietnamese": "Cô ấy可以问Tôi一个问题"
 	},
 	{
-		"chinese": "它可以",
 		"english": "it can",
-		"soundmark": "/ɪt/ /kæn/"
+		"soundmark": "/ɪt/ /kæn/",
+		"vietnamese": "Nó可以"
 	},
 	{
-		"chinese": "飞翔",
 		"english": "fly",
-		"soundmark": "/flaɪ/"
+		"soundmark": "/flaɪ/",
+		"vietnamese": "[VI:飞翔]"
 	},
 	{
-		"chinese": "它可以飞翔",
 		"english": "it can fly",
-		"soundmark": "/ɪt/ /kæn/ /flaɪ/"
+		"soundmark": "/ɪt/ /kæn/ /flaɪ/",
+		"vietnamese": "Nó可以飞翔"
 	},
 	{
-		"chinese": "在天空中",
 		"english": "in the sky",
-		"soundmark": "/ɪn/ /ðə/ /skaɪ/"
+		"soundmark": "/ɪn/ /ðə/ /skaɪ/",
+		"vietnamese": "[VI:在天空中]"
 	},
 	{
-		"chinese": "它可以在天空中飞翔",
 		"english": "it can fly in the sky",
-		"soundmark": "/ɪt/ /kæn/ /flaɪ/ /ɪn/ /ðə/ /skaɪ/"
+		"soundmark": "/ɪt/ /kæn/ /flaɪ/ /ɪn/ /ðə/ /skaɪ/",
+		"vietnamese": "Nó可以在天空中飞翔"
 	},
 	{
-		"chinese": "它不可以在天空中飞翔",
 		"english": "it can not fly in the sky",
-		"soundmark": "/ɪt/ /kæn/ /nɑt/ /flaɪ/ /ɪn/ /ðə/ /skaɪ/"
+		"soundmark": "/ɪt/ /kæn/ /nɑt/ /flaɪ/ /ɪn/ /ðə/ /skaɪ/",
+		"vietnamese": "Nókhông可以在天空中飞翔"
 	},
 	{
-		"chinese": "解释",
 		"english": "explain",
-		"soundmark": "/ɪk'splen/"
+		"soundmark": "/ɪk'splen/",
+		"vietnamese": "[VI:解释]"
 	},
 	{
-		"chinese": "它可以解释",
 		"english": "it can explain",
-		"soundmark": "/ɪt/ /kæn/ /ɪk'splen/"
+		"soundmark": "/ɪt/ /kæn/ /ɪk'splen/",
+		"vietnamese": "Nó可以解释"
 	},
 	{
-		"chinese": "原因",
 		"english": "the reason",
-		"soundmark": "/ðə/ /ˈrizən/"
+		"soundmark": "/ðə/ /ˈrizən/",
+		"vietnamese": "[VI:原因]"
 	},
 	{
-		"chinese": "它可以解释原因",
 		"english": "it can explain the reason",
-		"soundmark": "/ɪt/ /kæn/ /ɪk'splen/ /ðə/ /ˈrizən/"
+		"soundmark": "/ɪt/ /kæn/ /ɪk'splen/ /ðə/ /ˈrizən/",
+		"vietnamese": "Nó可以解释原因"
 	},
 	{
-		"chinese": "它不可以解释原因",
 		"english": "it can not explain the reason",
-		"soundmark": "/ɪt/ /kæn/ /nɑt/ /ɪk'splen/ /ðə/ /ˈrizən/"
+		"soundmark": "/ɪt/ /kæn/ /nɑt/ /ɪk'splen/ /ðə/ /ˈrizən/",
+		"vietnamese": "Nókhông可以解释原因"
 	},
 	{
-		"chinese": "星荣可以",
 		"english": "Xingrong can",
-		"soundmark": "/kæn/"
+		"soundmark": "/kæn/",
+		"vietnamese": "Xingrong可以"
 	},
 	{
-		"chinese": "散步",
 		"english": "walk",
-		"soundmark": "/wɔk/"
+		"soundmark": "/wɔk/",
+		"vietnamese": "[VI:散步]"
 	},
 	{
-		"chinese": "在公园里",
 		"english": "in the park",
-		"soundmark": "/ɪn/ /ðə/ /pɑrk/"
+		"soundmark": "/ɪn/ /ðə/ /pɑrk/",
+		"vietnamese": "[VI:在公园里]"
 	},
 	{
-		"chinese": "在公园里散步",
 		"english": "walk in the park",
-		"soundmark": "/wɔk/ /ɪn/ /ðə/ /pɑrk/"
+		"soundmark": "/wɔk/ /ɪn/ /ðə/ /pɑrk/",
+		"vietnamese": "[VI:在公园里散步]"
 	},
 	{
-		"chinese": "星荣可以在公园里散步",
 		"english": "Xingrong can walk in the park",
-		"soundmark": "/kæn/ /wɔk/ /ɪn/ /ðə/ /pɑrk/"
+		"soundmark": "/kæn/ /wɔk/ /ɪn/ /ðə/ /pɑrk/",
+		"vietnamese": "Xingrong可以在公园里散步"
 	},
 	{
-		"chinese": "星荣不可以在公园里散步",
 		"english": "Xingrong can not walk in the park",
-		"soundmark": "/kæn/ /nɑt/ /wɔk/ /ɪn/ /ðə/ /pɑrk/"
+		"soundmark": "/kæn/ /nɑt/ /wɔk/ /ɪn/ /ðə/ /pɑrk/",
+		"vietnamese": "Xingrongkhông可以在公园里散步"
 	},
 	{
-		"chinese": "应该",
 		"english": "should",
-		"soundmark": "/ʃʊd/"
+		"soundmark": "/ʃʊd/",
+		"vietnamese": "[VI:应该]"
 	},
 	{
-		"chinese": "我应该",
 		"english": "I should",
-		"soundmark": "/aɪ/ /ʃʊd/"
+		"soundmark": "/aɪ/ /ʃʊd/",
+		"vietnamese": "Tôi应该"
 	},
 	{
-		"chinese": "吃这个食物",
 		"english": "eat the food",
-		"soundmark": "/it/ /ðə/ /fud/"
+		"soundmark": "/it/ /ðə/ /fud/",
+		"vietnamese": "ăn thức ăn này"
 	},
 	{
-		"chinese": "我应该吃这个食物",
 		"english": "I should eat the food",
-		"soundmark": "/aɪ/ /ʃʊd/ /it/ /ðə/ /fud/"
+		"soundmark": "/aɪ/ /ʃʊd/ /it/ /ðə/ /fud/",
+		"vietnamese": "Tôi应该ăn thức ăn này"
 	},
 	{
-		"chinese": "我不应该吃这个食物",
 		"english": "I should not eat the food",
-		"soundmark": "/aɪ/ /ʃʊd/ /nɑt/ /it/ /ðə/ /fud/"
+		"soundmark": "/aɪ/ /ʃʊd/ /nɑt/ /it/ /ðə/ /fud/",
+		"vietnamese": "Tôikhông应该ăn thức ăn này"
 	},
 	{
-		"chinese": "和你说话",
 		"english": "talk with you",
-		"soundmark": "/tɔk/ /wɪð/ /ju/"
+		"soundmark": "/tɔk/ /wɪð/ /ju/",
+		"vietnamese": "vàBạnnói chuyện"
 	},
 	{
-		"chinese": "我应该和你说话",
 		"english": "I should talk with you",
-		"soundmark": "/aɪ/ /ʃʊd/ /tɔk/ /wɪð/ /ju/"
+		"soundmark": "/aɪ/ /ʃʊd/ /tɔk/ /wɪð/ /ju/",
+		"vietnamese": "Tôi应该vàBạnnói chuyện"
 	},
 	{
-		"chinese": "我不应该和你说话",
 		"english": "I should not talk with you",
-		"soundmark": "/aɪ/ /ʃʊd/ /nɑt/ /tɔk/ /wɪð/ /ju/"
+		"soundmark": "/aɪ/ /ʃʊd/ /nɑt/ /tɔk/ /wɪð/ /ju/",
+		"vietnamese": "Tôikhông应该vàBạnnói chuyện"
 	},
 	{
-		"chinese": "相信你",
 		"english": "believe you",
-		"soundmark": "/bɪ'liv/ /ju/"
+		"soundmark": "/bɪ'liv/ /ju/",
+		"vietnamese": "tinBạn"
 	},
 	{
-		"chinese": "我应该相信你",
 		"english": "I should believe you",
-		"soundmark": "/aɪ/ /ʃʊd/ /bɪ'liv/ /ju/"
+		"soundmark": "/aɪ/ /ʃʊd/ /bɪ'liv/ /ju/",
+		"vietnamese": "Tôi应该tinBạn"
 	},
 	{
-		"chinese": "我不应该相信你",
 		"english": "I should not believe you",
-		"soundmark": "/aɪ/ /ʃʊd/ /nɑt/ /bɪ'liv/ /ju/"
+		"soundmark": "/aɪ/ /ʃʊd/ /nɑt/ /bɪ'liv/ /ju/",
+		"vietnamese": "Tôikhông应该tinBạn"
 	},
 	{
-		"chinese": "你应该",
 		"english": "you should",
-		"soundmark": "/ju/ /ʃʊd/"
+		"soundmark": "/ju/ /ʃʊd/",
+		"vietnamese": "Bạn应该"
 	},
 	{
-		"chinese": "帮助我",
 		"english": "help me",
-		"soundmark": "/hɛlp/ /mi/"
+		"soundmark": "/hɛlp/ /mi/",
+		"vietnamese": "giúp đỡ tôi"
 	},
 	{
-		"chinese": "你应该帮助我",
 		"english": "you should help me",
-		"soundmark": "/ju/ /ʃʊd/ /hɛlp/ /mi/"
+		"soundmark": "/ju/ /ʃʊd/ /hɛlp/ /mi/",
+		"vietnamese": "Bạn应该giúp đỡ tôi"
 	},
 	{
-		"chinese": "现在",
 		"english": "now",
-		"soundmark": "/naʊ/"
+		"soundmark": "/naʊ/",
+		"vietnamese": "bây giờ"
 	},
 	{
-		"chinese": "你应该现在帮助我",
 		"english": "you should help me now",
-		"soundmark": "/ju/ /ʃʊd/ /hɛlp/ /mi/ /naʊ/"
+		"soundmark": "/ju/ /ʃʊd/ /hɛlp/ /mi/ /naʊ/",
+		"vietnamese": "Bạn应该bây giờgiúp đỡ tôi"
 	},
 	{
-		"chinese": "你不应该现在帮助我",
 		"english": "you should not help me now",
-		"soundmark": "/ju/ /ʃʊd/ /nɑt/ /hɛlp/ /mi/ /naʊ/"
+		"soundmark": "/ju/ /ʃʊd/ /nɑt/ /hɛlp/ /mi/ /naʊ/",
+		"vietnamese": "Bạnkhông应该bây giờgiúp đỡ tôi"
 	},
 	{
-		"chinese": "在这里",
 		"english": "be here",
-		"soundmark": "/bi/ /hɪr/"
+		"soundmark": "/bi/ /hɪr/",
+		"vietnamese": "ở đây"
 	},
 	{
-		"chinese": "你应该在这里",
 		"english": "you should be here",
-		"soundmark": "/ju/ /ʃʊd/ /bi/ /hɪr/"
+		"soundmark": "/ju/ /ʃʊd/ /bi/ /hɪr/",
+		"vietnamese": "Bạn应该ở đây"
 	},
 	{
-		"chinese": "每天",
 		"english": "every day",
-		"soundmark": "/'ɛvri/ /de/"
+		"soundmark": "/'ɛvri/ /de/",
+		"vietnamese": "mỗi ngày"
 	},
 	{
-		"chinese": "你应该每天在这里",
 		"english": "you should be here every day",
-		"soundmark": "/ju/ /ʃʊd/ /bi/ /hɪr/ /'ɛvri/ /de/"
+		"soundmark": "/ju/ /ʃʊd/ /bi/ /hɪr/ /'ɛvri/ /de/",
+		"vietnamese": "Bạn应该mỗi ngàyở đây"
 	},
 	{
-		"chinese": "你不应该每天在这里",
 		"english": "you should not be here every day",
-		"soundmark": "/ju/ /ʃʊd/ /nɑt/ /bi/ /hɪr/ /'ɛvri/ /de/"
+		"soundmark": "/ju/ /ʃʊd/ /nɑt/ /bi/ /hɪr/ /'ɛvri/ /de/",
+		"vietnamese": "Bạnkhông应该mỗi ngàyở đây"
 	},
 	{
-		"chinese": "阅读",
 		"english": "read",
-		"soundmark": "/rid/"
+		"soundmark": "/rid/",
+		"vietnamese": "[VI:阅读]"
 	},
 	{
-		"chinese": "你应该阅读",
 		"english": "you should read",
-		"soundmark": "/ju/ /ʃʊd/ /rid/"
+		"soundmark": "/ju/ /ʃʊd/ /rid/",
+		"vietnamese": "Bạn应该阅读"
 	},
 	{
-		"chinese": "在家里",
 		"english": "at home",
-		"soundmark": "/ət/ /hom/"
+		"soundmark": "/ət/ /hom/",
+		"vietnamese": "[VI:在家里]"
 	},
 	{
-		"chinese": "你应该在家里阅读",
 		"english": "you should read at home",
-		"soundmark": "/ju/ /ʃʊd/ /rid/ /ət/ /hom/"
+		"soundmark": "/ju/ /ʃʊd/ /rid/ /ət/ /hom/",
+		"vietnamese": "Bạn应该在家里阅读"
 	},
 	{
-		"chinese": "你不应该在家里阅读",
 		"english": "you should not read at home",
-		"soundmark": "/ju/ /ʃʊd/ /nɑt/ /rid/ /ət/ /hom/"
+		"soundmark": "/ju/ /ʃʊd/ /nɑt/ /rid/ /ət/ /hom/",
+		"vietnamese": "Bạnkhông应该在家里阅读"
 	},
 	{
-		"chinese": "他应该",
 		"english": "he should",
-		"soundmark": "/hi/ /ʃʊd/"
+		"soundmark": "/hi/ /ʃʊd/",
+		"vietnamese": "Anh ấy应该"
 	},
 	{
-		"chinese": "和我说话",
 		"english": "talk with me",
-		"soundmark": "/tɔk/ /wɪð/ /mi/"
+		"soundmark": "/tɔk/ /wɪð/ /mi/",
+		"vietnamese": "nói chuyện với tôi"
 	},
 	{
-		"chinese": "他应该和我说话",
 		"english": "he should talk with me",
-		"soundmark": "/hi/ /ʃʊd/ /tɔk/ /wɪð/ /mi/"
+		"soundmark": "/hi/ /ʃʊd/ /tɔk/ /wɪð/ /mi/",
+		"vietnamese": "Anh ấy应该nói chuyện với tôi"
 	},
 	{
-		"chinese": "他不应该和我说话",
 		"english": "he should not talk with me",
-		"soundmark": "/hi/ /ʃʊd/ /nɑt/ /tɔk/ /wɪð/ /mi/"
+		"soundmark": "/hi/ /ʃʊd/ /nɑt/ /tɔk/ /wɪð/ /mi/",
+		"vietnamese": "Anh ấykhông应该nói chuyện với tôi"
 	},
 	{
-		"chinese": "在家里阅读",
 		"english": "read at home",
-		"soundmark": "/rid/ /ət/ /hom/"
+		"soundmark": "/rid/ /ət/ /hom/",
+		"vietnamese": "[VI:在家里阅读]"
 	},
 	{
-		"chinese": "他应该在家里阅读",
 		"english": "he should read at home",
-		"soundmark": "/hi/ /ʃʊd/ /rid/ /ət/ /hom/"
+		"soundmark": "/hi/ /ʃʊd/ /rid/ /ət/ /hom/",
+		"vietnamese": "Anh ấy应该在家里阅读"
 	},
 	{
-		"chinese": "他不应该在家里阅读",
 		"english": "he should not read at home",
-		"soundmark": "/hi/ /ʃʊd/ /nɑt/ /rid/ /ət/ /hom/"
+		"soundmark": "/hi/ /ʃʊd/ /nɑt/ /rid/ /ət/ /hom/",
+		"vietnamese": "Anh ấykhông应该在家里阅读"
 	},
 	{
-		"chinese": "她应该",
 		"english": "she should",
-		"soundmark": "/ʃi/ /ʃʊd/"
+		"soundmark": "/ʃi/ /ʃʊd/",
+		"vietnamese": "Cô ấy应该"
 	},
 	{
-		"chinese": "在公园里散步",
 		"english": "walk in the park",
-		"soundmark": "/wɔk/ /ɪn/ /ðə/ /pɑrk/"
+		"soundmark": "/wɔk/ /ɪn/ /ðə/ /pɑrk/",
+		"vietnamese": "[VI:在公园里散步]"
 	},
 	{
-		"chinese": "她应该在公园里散步",
 		"english": "she should walk in the park",
-		"soundmark": "/ʃi/ /ʃʊd/ /wɔk/ /ɪn/ /ðə/ /pɑrk/"
+		"soundmark": "/ʃi/ /ʃʊd/ /wɔk/ /ɪn/ /ðə/ /pɑrk/",
+		"vietnamese": "Cô ấy应该在公园里散步"
 	},
 	{
-		"chinese": "她不应该在公园里散步",
 		"english": "she should not walk in the park",
-		"soundmark": "/ʃi/ /ʃʊd/ /nɑt/ /wɔk/ /ɪn/ /ðə/ /pɑrk/"
+		"soundmark": "/ʃi/ /ʃʊd/ /nɑt/ /wɔk/ /ɪn/ /ðə/ /pɑrk/",
+		"vietnamese": "Cô ấykhông应该在公园里散步"
 	},
 	{
-		"chinese": "睡觉",
 		"english": "sleep",
-		"soundmark": "/slip/"
+		"soundmark": "/slip/",
+		"vietnamese": "[VI:睡觉]"
 	},
 	{
-		"chinese": "在床上",
 		"english": "on the bed",
-		"soundmark": "/ɑn/ /ðə/ /bɛd/"
+		"soundmark": "/ɑn/ /ðə/ /bɛd/",
+		"vietnamese": "[VI:在床上]"
 	},
 	{
-		"chinese": "在床上睡觉",
 		"english": "sleep on the bed",
-		"soundmark": "/slip/ /ɑn/ /ðə/ /bɛd/"
+		"soundmark": "/slip/ /ɑn/ /ðə/ /bɛd/",
+		"vietnamese": "[VI:在床上睡觉]"
 	},
 	{
-		"chinese": "她应该在床上睡觉",
 		"english": "she should sleep on the bed",
-		"soundmark": "/ʃi/ /ʃʊd/ /slip/ /ɑn/ /ðə/ /bɛd/"
+		"soundmark": "/ʃi/ /ʃʊd/ /slip/ /ɑn/ /ðə/ /bɛd/",
+		"vietnamese": "Cô ấy应该在床上睡觉"
 	},
 	{
-		"chinese": "她不应该在床上睡觉",
 		"english": "she should not sleep on the bed",
-		"soundmark": "/ʃi/ /ʃʊd/ /nɑt/ /slip/ /ɑn/ /ðə/ /bɛd/"
+		"soundmark": "/ʃi/ /ʃʊd/ /nɑt/ /slip/ /ɑn/ /ðə/ /bɛd/",
+		"vietnamese": "Cô ấykhông应该在床上睡觉"
 	},
 	{
-		"chinese": "它应该",
 		"english": "it should",
-		"soundmark": "/ɪt/ /ʃʊd/"
+		"soundmark": "/ɪt/ /ʃʊd/",
+		"vietnamese": "Nó应该"
 	},
 	{
-		"chinese": "在这里",
 		"english": "be here",
-		"soundmark": "/bi/ /hɪr/"
+		"soundmark": "/bi/ /hɪr/",
+		"vietnamese": "ở đây"
 	},
 	{
-		"chinese": "它应该在这里",
 		"english": "it should be here",
-		"soundmark": "/ɪt/ /ʃʊd/ /bi/ /hɪr/"
+		"soundmark": "/ɪt/ /ʃʊd/ /bi/ /hɪr/",
+		"vietnamese": "Nó应该ở đây"
 	},
 	{
-		"chinese": "它不应该在这里",
 		"english": "it should not be here",
-		"soundmark": "/ɪt/ /ʃʊd/ /nɑt/ /bi/ /hɪr/"
+		"soundmark": "/ɪt/ /ʃʊd/ /nɑt/ /bi/ /hɪr/",
+		"vietnamese": "Nókhông应该ở đây"
 	},
 	{
-		"chinese": "星荣应该在这里",
 		"english": "Xingrong should be here",
-		"soundmark": "/ʃʊd/ /bi/ /hɪr/"
+		"soundmark": "/ʃʊd/ /bi/ /hɪr/",
+		"vietnamese": "Xingrong应该ở đây"
 	},
 	{
-		"chinese": "星荣不应该在这里",
 		"english": "Xingrong should not be here",
-		"soundmark": "/ʃʊd/ /nɑt/ /bi/ /hɪr/"
+		"soundmark": "/ʃʊd/ /nɑt/ /bi/ /hɪr/",
+		"vietnamese": "Xingrongkhông应该ở đây"
 	},
 	{
-		"chinese": "将会",
 		"english": "will",
-		"soundmark": "/wɪl/"
+		"soundmark": "/wɪl/",
+		"vietnamese": "[VI:将会]"
 	},
 	{
-		"chinese": "我将会",
 		"english": "I will",
-		"soundmark": "/aɪ/ /wɪl/"
+		"soundmark": "/aɪ/ /wɪl/",
+		"vietnamese": "Tôi将会"
 	},
 	{
-		"chinese": "见到你",
 		"english": "see you",
-		"soundmark": "/si/ /ju/"
+		"soundmark": "/si/ /ju/",
+		"vietnamese": "gặp bạn"
 	},
 	{
-		"chinese": "我将会见到你",
 		"english": "I will see you",
-		"soundmark": "/aɪ/ /wɪl/ /si/ /ju/"
+		"soundmark": "/aɪ/ /wɪl/ /si/ /ju/",
+		"vietnamese": "Tôi将会gặp bạn"
 	},
 	{
-		"chinese": "明天",
 		"english": "tomorrow",
-		"soundmark": "/tə'mɔro/"
+		"soundmark": "/tə'mɔro/",
+		"vietnamese": "ngày mai"
 	},
 	{
-		"chinese": "我明天将会见到你",
 		"english": "I will see you tomorrow",
-		"soundmark": "/aɪ/ /wɪl/ /si/ /ju/ /tə'mɔro/"
+		"soundmark": "/aɪ/ /wɪl/ /si/ /ju/ /tə'mɔro/",
+		"vietnamese": "Tôingày mai将会gặp bạn"
 	},
 	{
-		"chinese": "我明天将不会见到你",
 		"english": "I will not see you tomorrow",
-		"soundmark": "/aɪ/ /wɪl/ /nɑt/ /si/ /ju/ /tə'mɔro/"
+		"soundmark": "/aɪ/ /wɪl/ /nɑt/ /si/ /ju/ /tə'mɔro/",
+		"vietnamese": "Tôingày mai将không会gặp bạn"
 	},
 	{
-		"chinese": "告诉你",
 		"english": "tell you",
-		"soundmark": "/tɛl/ /ju/"
+		"soundmark": "/tɛl/ /ju/",
+		"vietnamese": "nói với bạn"
 	},
 	{
-		"chinese": "事实",
 		"english": "the truth",
-		"soundmark": "/ðə/ /trʊθ/"
+		"soundmark": "/ðə/ /trʊθ/",
+		"vietnamese": "sự thật"
 	},
 	{
-		"chinese": "告诉你事实",
 		"english": "tell you the truth",
-		"soundmark": "/tɛl/ /ju/ /ðə/ /trʊθ/"
+		"soundmark": "/tɛl/ /ju/ /ðə/ /trʊθ/",
+		"vietnamese": "nói với bạnsự thật"
 	},
 	{
-		"chinese": "我将会告诉你事实",
 		"english": "I will tell you the truth",
-		"soundmark": "/aɪ/ /wɪl/ /tɛl/ /ju/ /ðə/ /trʊθ/"
+		"soundmark": "/aɪ/ /wɪl/ /tɛl/ /ju/ /ðə/ /trʊθ/",
+		"vietnamese": "Tôi将会nói với bạnsự thật"
 	},
 	{
-		"chinese": "我将不会告诉你事实",
 		"english": "I will not tell you the truth",
-		"soundmark": "/aɪ/ /wɪl/ /nɑt/ /tɛl/ /ju/ /ðə/ /trʊθ/"
+		"soundmark": "/aɪ/ /wɪl/ /nɑt/ /tɛl/ /ju/ /ðə/ /trʊθ/",
+		"vietnamese": "Tôi将không会nói với bạnsự thật"
 	},
 	{
-		"chinese": "未来",
 		"english": "the future",
-		"soundmark": "/ðə/ /'fjʊtʃɚ/"
+		"soundmark": "/ðə/ /'fjʊtʃɚ/",
+		"vietnamese": "[VI:未来]"
 	},
 	{
-		"chinese": "在未来",
 		"english": "in the future",
-		"soundmark": "/ɪn/ /ðə/ /'fjʊtʃɚ/"
+		"soundmark": "/ɪn/ /ðə/ /'fjʊtʃɚ/",
+		"vietnamese": "[VI:在未来]"
 	},
 	{
-		"chinese": "我将会在未来告诉你事实",
 		"english": "I will tell you the truth in the future",
-		"soundmark": "/aɪ/ /wɪl/ /tɛl/ /ju/ /ðə/ /trʊθ/ /ɪn/ /ðə/ /'fjʊtʃɚ/"
+		"soundmark": "/aɪ/ /wɪl/ /tɛl/ /ju/ /ðə/ /trʊθ/ /ɪn/ /ðə/ /'fjʊtʃɚ/",
+		"vietnamese": "Tôi将会在未来nói với bạnsự thật"
 	},
 	{
-		"chinese": "我将不会在未来告诉你事实",
 		"english": "I will not tell you the truth in the future",
-		"soundmark": "/aɪ/ /wɪl/ /nɑt/ /tɛl/ /ju/ /ðə/ /trʊθ/ /ɪn/ /ðə/ /'fjʊtʃɚ/"
+		"soundmark": "/aɪ/ /wɪl/ /nɑt/ /tɛl/ /ju/ /ðə/ /trʊθ/ /ɪn/ /ðə/ /'fjʊtʃɚ/",
+		"vietnamese": "Tôi将không会在未来nói với bạnsự thật"
 	},
 	{
-		"chinese": "重要的",
 		"english": "important",
-		"soundmark": "/ɪm'pɔrtnt/"
+		"soundmark": "/ɪm'pɔrtnt/",
+		"vietnamese": "quan trọng"
 	},
 	{
-		"chinese": "它是不重要的",
 		"english": "it is not important",
-		"soundmark": "/ɪt/ /ɪz/ /nɑt/ /ɪm'pɔrtnt/"
+		"soundmark": "/ɪt/ /ɪz/ /nɑt/ /ɪm'pɔrtnt/",
+		"vietnamese": "Nó làkhông quan trọng"
 	},
 	{
-		"chinese": "所以",
 		"english": "so",
-		"soundmark": "/so/"
+		"soundmark": "/so/",
+		"vietnamese": "vì vậy"
 	},
 	{
-		"chinese": "它是不重要的所以我将会在未来告诉你事实",
 		"english": "it is not important so I will tell you the truth in the future",
-		"soundmark": "/ɪt/ /ɪz/ /nɑt/ /ɪm'pɔrtnt/ /so/ /aɪ/ /wɪl/ /tɛl/ /ju/ /ðə/ /trʊθ/ /ɪn/ /ðə/ /'fjʊtʃɚ/"
+		"soundmark": "/ɪt/ /ɪz/ /nɑt/ /ɪm'pɔrtnt/ /so/ /aɪ/ /wɪl/ /tɛl/ /ju/ /ðə/ /trʊθ/ /ɪn/ /ðə/ /'fjʊtʃɚ/",
+		"vietnamese": "Nó làkhông quan trọngvì vậyTôi将会在未来nói với bạnsự thật"
 	},
 	{
-		"chinese": "解释",
 		"english": "explain",
-		"soundmark": "/ɪk'splen/"
+		"soundmark": "/ɪk'splen/",
+		"vietnamese": "[VI:解释]"
 	},
 	{
-		"chinese": "原因",
 		"english": "the reason",
-		"soundmark": "/ðə/ /ˈrizən/"
+		"soundmark": "/ðə/ /ˈrizən/",
+		"vietnamese": "[VI:原因]"
 	},
 	{
-		"chinese": "解释原因",
 		"english": "explain the reason",
-		"soundmark": "/ɪk'splen/ /ðə/ /ˈrizən/"
+		"soundmark": "/ɪk'splen/ /ðə/ /ˈrizən/",
+		"vietnamese": "[VI:解释原因]"
 	},
 	{
-		"chinese": "我将会解释原因",
 		"english": "I will explain the reason",
-		"soundmark": "/aɪ/ /wɪl/ /ɪk'splen/ /ðə/ /ˈrizən/"
+		"soundmark": "/aɪ/ /wɪl/ /ɪk'splen/ /ðə/ /ˈrizən/",
+		"vietnamese": "Tôi将会解释原因"
 	},
 	{
-		"chinese": "星期",
 		"english": "week",
-		"soundmark": "/wik/"
+		"soundmark": "/wik/",
+		"vietnamese": "[VI:星期]"
 	},
 	{
-		"chinese": "下周",
 		"english": "next week",
-		"soundmark": "/nekst/ /wik/"
+		"soundmark": "/nekst/ /wik/",
+		"vietnamese": "[VI:下周]"
 	},
 	{
-		"chinese": "我将会在下周解释原因",
 		"english": "I will explain the reason next week",
-		"soundmark": "/aɪ/ /wɪl/ /ɪk'splen/ /ðə/ /ˈrizən/ /nekst/ /wik/"
+		"soundmark": "/aɪ/ /wɪl/ /ɪk'splen/ /ðə/ /ˈrizən/ /nekst/ /wik/",
+		"vietnamese": "Tôi将会在下周解释原因"
 	},
 	{
-		"chinese": "我将不会在下周解释原因",
 		"english": "I will not explain the reason next week",
-		"soundmark": "/aɪ/ /wɪl/ /nɑt/ /ɪk'splen/ /ðə/ /ˈrizən/ /nekst/ /wik/"
+		"soundmark": "/aɪ/ /wɪl/ /nɑt/ /ɪk'splen/ /ðə/ /ˈrizən/ /nekst/ /wik/",
+		"vietnamese": "Tôi将không会在下周解释原因"
 	},
 	{
-		"chinese": "紧急的",
 		"english": "urgent",
-		"soundmark": "/'ɝdʒənt/"
+		"soundmark": "/'ɝdʒənt/",
+		"vietnamese": "[VI:紧急的]"
 	},
 	{
-		"chinese": "它是不紧急的",
 		"english": "it is not urgent",
-		"soundmark": "/ɪt/ /ɪz/ /nɑt/ /'ɝdʒənt/"
+		"soundmark": "/ɪt/ /ɪz/ /nɑt/ /'ɝdʒənt/",
+		"vietnamese": "Nó làkhông紧急的"
 	},
 	{
-		"chinese": "所以",
 		"english": "so",
-		"soundmark": "/so/"
+		"soundmark": "/so/",
+		"vietnamese": "vì vậy"
 	},
 	{
-		"chinese": "它是不紧急的所以我将会在下周解释原因",
 		"english": "it is not urgent so I will explain the reason next week",
-		"soundmark": "/ɪt/ /ɪz/ /nɑt/ /'ɝdʒənt/ /so/ /aɪ/ /wɪl/ /ɪk'splen/ /ðə/ /ˈrizən/ /nekst/ /wik/"
+		"soundmark": "/ɪt/ /ɪz/ /nɑt/ /'ɝdʒənt/ /so/ /aɪ/ /wɪl/ /ɪk'splen/ /ðə/ /ˈrizən/ /nekst/ /wik/",
+		"vietnamese": "Nó làkhông紧急的vì vậyTôi将会在下周解释原因"
 	},
 	{
-		"chinese": "你将会",
 		"english": "you will",
-		"soundmark": "/ju/ /wɪl/"
+		"soundmark": "/ju/ /wɪl/",
+		"vietnamese": "Bạn将会"
 	},
 	{
-		"chinese": "在家里阅读",
 		"english": "read at home",
-		"soundmark": "/rid/ /ət/ /hom/"
+		"soundmark": "/rid/ /ət/ /hom/",
+		"vietnamese": "[VI:在家里阅读]"
 	},
 	{
-		"chinese": "你将会在家里阅读",
 		"english": "you will read at home",
-		"soundmark": "/ju/ /wɪl/ /rid/ /ət/ /hom/"
+		"soundmark": "/ju/ /wɪl/ /rid/ /ət/ /hom/",
+		"vietnamese": "Bạn将会在家里阅读"
 	},
 	{
-		"chinese": "今晚",
 		"english": "tonight",
-		"soundmark": "/tə'naɪt/"
+		"soundmark": "/tə'naɪt/",
+		"vietnamese": "tối nay"
 	},
 	{
-		"chinese": "你今晚将会在家里阅读",
 		"english": "you will read at home tonight",
-		"soundmark": "/ju/ /wɪl/ /rid/ /ət/ /hom/ /tə'naɪt/"
+		"soundmark": "/ju/ /wɪl/ /rid/ /ət/ /hom/ /tə'naɪt/",
+		"vietnamese": "Bạntối nay将会在家里阅读"
 	},
 	{
-		"chinese": "你今晚将不会在家里阅读",
 		"english": "you will not read at home tonight",
-		"soundmark": "/ju/ /wɪl/ /nɑt/ /rid/ /ət/ /hom/ /tə'naɪt/"
+		"soundmark": "/ju/ /wɪl/ /nɑt/ /rid/ /ət/ /hom/ /tə'naɪt/",
+		"vietnamese": "Bạntối nay将không会在家里阅读"
 	},
 	{
-		"chinese": "在床上睡觉",
 		"english": "sleep on the bed",
-		"soundmark": "/slip/ /ɑn/ /ðə/ /bɛd/"
+		"soundmark": "/slip/ /ɑn/ /ðə/ /bɛd/",
+		"vietnamese": "[VI:在床上睡觉]"
 	},
 	{
-		"chinese": "你今晚将会在床上睡觉",
 		"english": "you will sleep on the bed tonight",
-		"soundmark": "/ju/ /wɪl/ /slip/ /ɑn/ /ðə/ /bɛd/ /tə'naɪt/"
+		"soundmark": "/ju/ /wɪl/ /slip/ /ɑn/ /ðə/ /bɛd/ /tə'naɪt/",
+		"vietnamese": "Bạntối nay将会在床上睡觉"
 	},
 	{
-		"chinese": "你今晚将不会在床上睡觉",
 		"english": "you will not sleep on the bed tonight",
-		"soundmark": "/ju/ /wɪl/ /nɑt/ /slip/ /ɑn/ /ðə/ /bɛd/ /tə'naɪt/"
+		"soundmark": "/ju/ /wɪl/ /nɑt/ /slip/ /ɑn/ /ðə/ /bɛd/ /tə'naɪt/",
+		"vietnamese": "Bạntối nay将không会在床上睡觉"
 	},
 	{
-		"chinese": "他将会",
 		"english": "he will",
-		"soundmark": "/hi/ /wɪl/"
+		"soundmark": "/hi/ /wɪl/",
+		"vietnamese": "Anh ấy将会"
 	},
 	{
-		"chinese": "告诉我",
 		"english": "tell me",
-		"soundmark": "/tɛl/ /mi/"
+		"soundmark": "/tɛl/ /mi/",
+		"vietnamese": "nói với tôi"
 	},
 	{
-		"chinese": "他将会告诉我",
 		"english": "he will tell me",
-		"soundmark": "/hi/ /wɪl/ /tɛl/ /mi/"
+		"soundmark": "/hi/ /wɪl/ /tɛl/ /mi/",
+		"vietnamese": "Anh ấy将会nói với tôi"
 	},
 	{
-		"chinese": "事实",
 		"english": "the truth",
-		"soundmark": "/ðə/ /trʊθ/"
+		"soundmark": "/ðə/ /trʊθ/",
+		"vietnamese": "sự thật"
 	},
 	{
-		"chinese": "他将会告诉我事实",
 		"english": "he will tell me the truth",
-		"soundmark": "/hi/ /wɪl/ /tɛl/ /mi/ /ðə/ /trʊθ/"
+		"soundmark": "/hi/ /wɪl/ /tɛl/ /mi/ /ðə/ /trʊθ/",
+		"vietnamese": "Anh ấy将会nói sự thật với tôi"
 	},
 	{
-		"chinese": "他将不会告诉我事实",
 		"english": "he will not tell me the truth",
-		"soundmark": "/hi/ /wɪl/ /nɑt/ /tɛl/ /mi/ /ðə/ /trʊθ/"
+		"soundmark": "/hi/ /wɪl/ /nɑt/ /tɛl/ /mi/ /ðə/ /trʊθ/",
+		"vietnamese": "Anh ấy将không会nói sự thật với tôi"
 	},
 	{
-		"chinese": "相信我",
 		"english": "believe me",
-		"soundmark": "/bɪ'liv/ /mi/"
+		"soundmark": "/bɪ'liv/ /mi/",
+		"vietnamese": "tin tôi"
 	},
 	{
-		"chinese": "他将会相信我",
 		"english": "he will believe me",
-		"soundmark": "/hi/ /wɪl/ /bɪ'liv/ /mi/"
+		"soundmark": "/hi/ /wɪl/ /bɪ'liv/ /mi/",
+		"vietnamese": "Anh ấy将会tin tôi"
 	},
 	{
-		"chinese": "他将不会相信我",
 		"english": "he will not believe me",
-		"soundmark": "/hi/ /wɪl/ /nɑt/ /bɪ'liv/ /mi/"
+		"soundmark": "/hi/ /wɪl/ /nɑt/ /bɪ'liv/ /mi/",
+		"vietnamese": "Anh ấy将không会tin tôi"
 	},
 	{
-		"chinese": "她将会",
 		"english": "she will",
-		"soundmark": "/ʃi/ /wɪl/"
+		"soundmark": "/ʃi/ /wɪl/",
+		"vietnamese": "Cô ấy将会"
 	},
 	{
-		"chinese": "告诉我",
 		"english": "tell me",
-		"soundmark": "/tɛl/ /mi/"
+		"soundmark": "/tɛl/ /mi/",
+		"vietnamese": "nói với tôi"
 	},
 	{
-		"chinese": "她将会告诉我",
 		"english": "she will tell me",
-		"soundmark": "/ʃi/ /wɪl/ /tɛl/ /mi/"
+		"soundmark": "/ʃi/ /wɪl/ /tɛl/ /mi/",
+		"vietnamese": "Cô ấy将会nói với tôi"
 	},
 	{
-		"chinese": "一个故事",
 		"english": "a story",
-		"soundmark": "/ə/ /'stɔri/"
+		"soundmark": "/ə/ /'stɔri/",
+		"vietnamese": "[VI:一个故事]"
 	},
 	{
-		"chinese": "她将会告诉我一个故事",
 		"english": "she will tell me a story",
-		"soundmark": "/ʃi/ /wɪl/ /tɛl/ /mi/ /ə/ /'stɔri/"
+		"soundmark": "/ʃi/ /wɪl/ /tɛl/ /mi/ /ə/ /'stɔri/",
+		"vietnamese": "Cô ấy将会nói với tôi一个故事"
 	},
 	{
-		"chinese": "今晚",
 		"english": "tonight",
-		"soundmark": "/tə'naɪt/"
+		"soundmark": "/tə'naɪt/",
+		"vietnamese": "tối nay"
 	},
 	{
-		"chinese": "她今晚将会告诉我一个故事",
 		"english": "she will tell me a story tonight",
-		"soundmark": "/ʃi/ /wɪl/ /tɛl/ /mi/ /ə/ /'stɔri/ /tə'naɪt/"
+		"soundmark": "/ʃi/ /wɪl/ /tɛl/ /mi/ /ə/ /'stɔri/ /tə'naɪt/",
+		"vietnamese": "Cô ấytối nay将会nói với tôi一个故事"
 	},
 	{
-		"chinese": "她今晚将不会告诉我一个故事",
 		"english": "she will not tell me a story tonight",
-		"soundmark": "/ʃi/ /wɪl/ /nɑt/ /tɛl/ /mi/ /ə/ /'stɔri/ /tə'naɪt/"
+		"soundmark": "/ʃi/ /wɪl/ /nɑt/ /tɛl/ /mi/ /ə/ /'stɔri/ /tə'naɪt/",
+		"vietnamese": "Cô ấytối nay将không会nói với tôi一个故事"
 	},
 	{
-		"chinese": "帮助我",
 		"english": "help me",
-		"soundmark": "/hɛlp/ /mi/"
+		"soundmark": "/hɛlp/ /mi/",
+		"vietnamese": "giúp đỡ tôi"
 	},
 	{
-		"chinese": "她将会帮助我",
 		"english": "she will help me",
-		"soundmark": "/ʃi/ /wɪl/ /hɛlp/ /mi/"
+		"soundmark": "/ʃi/ /wɪl/ /hɛlp/ /mi/",
+		"vietnamese": "Cô ấy将会giúp đỡ tôi"
 	},
 	{
-		"chinese": "她将不会帮助我",
 		"english": "she will not help me",
-		"soundmark": "/ʃi/ /wɪl/ /nɑt/ /hɛlp/ /mi/"
+		"soundmark": "/ʃi/ /wɪl/ /nɑt/ /hɛlp/ /mi/",
+		"vietnamese": "Cô ấy将không会giúp đỡ tôi"
 	},
 	{
-		"chinese": "它将会",
 		"english": "it will",
-		"soundmark": "/ɪt/ /wɪl/"
+		"soundmark": "/ɪt/ /wɪl/",
+		"vietnamese": "Nó将会"
 	},
 	{
-		"chinese": "在天空中飞翔",
 		"english": "fly in the sky",
-		"soundmark": "/flaɪ/ /ɪn/ /ðə/ /skaɪ/"
+		"soundmark": "/flaɪ/ /ɪn/ /ðə/ /skaɪ/",
+		"vietnamese": "[VI:在天空中飞翔]"
 	},
 	{
-		"chinese": "它将会在天空中飞翔",
 		"english": "it will fly in the sky",
-		"soundmark": "/ɪt/ /wɪl/ /flaɪ/ /ɪn/ /ðə/ /skaɪ/"
+		"soundmark": "/ɪt/ /wɪl/ /flaɪ/ /ɪn/ /ðə/ /skaɪ/",
+		"vietnamese": "Nó将会在天空中飞翔"
 	},
 	{
-		"chinese": "它将不会在天空中飞翔",
 		"english": "it will not fly in the sky",
-		"soundmark": "/ɪt/ /wɪl/ /nɑt/ /flaɪ/ /ɪn/ /ðə/ /skaɪ/"
+		"soundmark": "/ɪt/ /wɪl/ /nɑt/ /flaɪ/ /ɪn/ /ðə/ /skaɪ/",
+		"vietnamese": "Nó将không会在天空中飞翔"
 	}
 ]

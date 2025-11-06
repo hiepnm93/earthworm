@@ -23,13 +23,13 @@
       class="btn btn-outline btn-sm"
       @click="showQuestion"
     >
-      再来一次
+      Làm lại
     </button>
     <button
       class="btn btn-outline btn-sm ml-6"
       @click="goToNextQuestion"
     >
-      下一题
+      Câu tiếp theo
     </button>
   </div>
 </template>
@@ -76,7 +76,7 @@ function usePlayEnglishSound() {
 
 function registerShortcutKeyForNextQuestion() {
   function handleKeydown(e: KeyboardEvent) {
-    e.preventDefault(); // 阻止到下一个页面的默认按键动作
+    e.preventDefault(); // 阻止到下mộtcáitrang面的默认按键动作
     goToNextQuestion();
   }
   onMounted(() => {

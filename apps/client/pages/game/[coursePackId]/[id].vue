@@ -42,7 +42,7 @@ onMounted(async () => {
   await coursePackStore.setupCoursePack(coursePackId as string);
 
   if (courseStore.isAllMastered()) {
-    Message.warning("你已经全部都掌握 自动帮你跳转到课程列表啦");
+    Message.warning("你Đã经Tất cả都掌握 自动帮你跳转到Khóa họcDanh sách啦");
     await delay(() => gotoCourseList(coursePackId as string), 1500);
     return;
   }

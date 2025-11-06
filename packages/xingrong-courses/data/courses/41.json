@@ -1,777 +1,777 @@
 [
 	{
-		"chinese": "保持",
 		"english": "to keep",
-		"soundmark": "/tə/ /kip/"
+		"soundmark": "/tə/ /kip/",
+		"vietnamese": "[VI:保持]"
 	},
 	{
-		"chinese": "他需要",
 		"english": "he needs",
-		"soundmark": "/hi/ /nidz/"
+		"soundmark": "/hi/ /nidz/",
+		"vietnamese": "Anh ấycần"
 	},
 	{
-		"chinese": "他需要保持",
 		"english": "he needs to keep",
-		"soundmark": "/hi/ /nidz/ /tə/ /kip/"
+		"soundmark": "/hi/ /nidz/ /tə/ /kip/",
+		"vietnamese": "Anh ấycần保持"
 	},
 	{
-		"chinese": "练习",
 		"english": "to practice",
-		"soundmark": "/tə/ /ˈpræktɪs/"
+		"soundmark": "/tə/ /ˈpræktɪs/",
+		"vietnamese": "[VI:练习]"
 	},
 	{
-		"chinese": "练习(ing形式)",
 		"english": "practicing",
-		"soundmark": "/ˈpræktɪsɪŋ/"
+		"soundmark": "/ˈpræktɪsɪŋ/",
+		"vietnamese": "[VI:练习(ing形式)]"
 	},
 	{
-		"chinese": "他需要保持练习",
 		"english": "he needs to keep practicing",
-		"soundmark": "/hi/ /nidz/ /tə/ /kip/ /ˈpræktɪsɪŋ/"
+		"soundmark": "/hi/ /nidz/ /tə/ /kip/ /ˈpræktɪsɪŋ/",
+		"vietnamese": "Anh ấycần保持练习"
 	},
 	{
-		"chinese": "技术",
 		"english": "skills",
-		"soundmark": "/'skɪlz/"
+		"soundmark": "/'skɪlz/",
+		"vietnamese": "[VI:技术]"
 	},
 	{
-		"chinese": "他的技术",
 		"english": "his skills",
-		"soundmark": "/hɪz/ /'skɪlz/"
+		"soundmark": "/hɪz/ /'skɪlz/",
+		"vietnamese": "Anh ấy的技术"
 	},
 	{
-		"chinese": "提升",
 		"english": "to improve",
-		"soundmark": "/tə/ /ɪmˈpruv/"
+		"soundmark": "/tə/ /ɪmˈpruv/",
+		"vietnamese": "[VI:提升]"
 	},
 	{
-		"chinese": "提升他的技术",
 		"english": "to improve his skills",
-		"soundmark": "/tə/ /ɪmˈpruv/ /hɪz/ /'skɪlz/"
+		"soundmark": "/tə/ /ɪmˈpruv/ /hɪz/ /'skɪlz/",
+		"vietnamese": "提升Anh ấy的技术"
 	},
 	{
-		"chinese": "他需要保持练习",
 		"english": "he needs to keep practicing",
-		"soundmark": "/hi/ /nidz/ /tə/ /kip/ /ˈpræktɪsɪŋ/"
+		"soundmark": "/hi/ /nidz/ /tə/ /kip/ /ˈpræktɪsɪŋ/",
+		"vietnamese": "Anh ấycần保持练习"
 	},
 	{
-		"chinese": "他需要保持练习来提升他的技术",
 		"english": "he needs to keep practicing to improve his skills",
-		"soundmark": "/hi/ /nidz/ /tə/ /kip/ /ˈpræktɪsɪŋ/ /tə/ /ɪmˈpruv/ /hɪz/ /'skɪlz/"
+		"soundmark": "/hi/ /nidz/ /tə/ /kip/ /ˈpræktɪsɪŋ/ /tə/ /ɪmˈpruv/ /hɪz/ /'skɪlz/",
+		"vietnamese": "Anh ấycần保持练习来提升他的技术"
 	},
 	{
-		"chinese": "掌握",
 		"english": "to master",
-		"soundmark": "/'mæstɚ/"
+		"soundmark": "/'mæstɚ/",
+		"vietnamese": "[VI:掌握]"
 	},
 	{
-		"chinese": "你将会",
 		"english": "you will",
-		"soundmark": "/ju/ /wɪl/"
+		"soundmark": "/ju/ /wɪl/",
+		"vietnamese": "Bạn将会"
 	},
 	{
-		"chinese": "你将会掌握",
 		"english": "you will master",
-		"soundmark": "/ju/ /wɪl/ /'mæstɚ/"
+		"soundmark": "/ju/ /wɪl/ /'mæstɚ/",
+		"vietnamese": "Bạn将会掌握"
 	},
 	{
-		"chinese": "那个技术",
 		"english": "the skill",
-		"soundmark": "/ðə/ /'skɪl/"
+		"soundmark": "/ðə/ /'skɪl/",
+		"vietnamese": "[VI:那个技术]"
 	},
 	{
-		"chinese": "你将会掌握那个技术",
 		"english": "you will master the skill",
-		"soundmark": "/ju/ /wɪl/ /'mæstɚ/ /ðə/ /'skɪl/"
+		"soundmark": "/ju/ /wɪl/ /'mæstɚ/ /ðə/ /'skɪl/",
+		"vietnamese": "Bạn将会掌握那个技术"
 	},
 	{
-		"chinese": "你保持",
 		"english": "you keep",
-		"soundmark": "/ju/ /kip/"
+		"soundmark": "/ju/ /kip/",
+		"vietnamese": "Bạn保持"
 	},
 	{
-		"chinese": "练习",
 		"english": "to practice",
-		"soundmark": "/tə/ /ˈpræktɪs/"
+		"soundmark": "/tə/ /ˈpræktɪs/",
+		"vietnamese": "[VI:练习]"
 	},
 	{
-		"chinese": "练习(ing形式)",
 		"english": "practicing",
-		"soundmark": "/ˈpræktɪsɪŋ/"
+		"soundmark": "/ˈpræktɪsɪŋ/",
+		"vietnamese": "[VI:练习(ing形式)]"
 	},
 	{
-		"chinese": "你保持练习",
 		"english": "you keep practicing",
-		"soundmark": "/ju/ /kip/ /ˈpræktɪsɪŋ/"
+		"soundmark": "/ju/ /kip/ /ˈpræktɪsɪŋ/",
+		"vietnamese": "Bạn保持练习"
 	},
 	{
-		"chinese": "你保持练习那么你将会掌握那个技术",
 		"english": "you keep practicing and you will master the skill",
-		"soundmark": "/ju/ /kip/ /ˈpræktɪsɪŋ/ /ənd/ /ju/ /wɪl/ /'mæstɚ/ /ðə/ /'skɪl/"
+		"soundmark": "/ju/ /kip/ /ˈpræktɪsɪŋ/ /ənd/ /ju/ /wɪl/ /'mæstɚ/ /ðə/ /'skɪl/",
+		"vietnamese": "Bạn保持练习那么你将会掌握那个技术"
 	},
 	{
-		"chinese": "保持练习那么你将会掌握那个技术",
 		"english": "keep practicing and you will master the skill",
-		"soundmark": "/kip/ /ˈpræktɪsɪŋ/ /ənd/ /ju/ /wɪl/ /'mæstɚ/ /ðə/ /'skɪl/"
+		"soundmark": "/kip/ /ˈpræktɪsɪŋ/ /ənd/ /ju/ /wɪl/ /'mæstɚ/ /ðə/ /'skɪl/",
+		"vietnamese": "保持练习那么Bạn将会掌握那个技术"
 	},
 	{
-		"chinese": "新的",
 		"english": "new",
-		"soundmark": "/nu/"
+		"soundmark": "/nu/",
+		"vietnamese": "[VI:新的]"
 	},
 	{
-		"chinese": "新的技术",
 		"english": "new skills",
-		"soundmark": "/nu/ /'skɪlz/"
+		"soundmark": "/nu/ /'skɪlz/",
+		"vietnamese": "[VI:新的技术]"
 	},
 	{
-		"chinese": "学习",
 		"english": "to learn",
-		"soundmark": "/tə/ /lɝn/"
+		"soundmark": "/tə/ /lɝn/",
+		"vietnamese": "học"
 	},
 	{
-		"chinese": "学习新的技术",
 		"english": "to learn new skills",
-		"soundmark": "/tə/ /lɝn/ /nu/ /'skɪlz/"
+		"soundmark": "/tə/ /lɝn/ /nu/ /'skɪlz/",
+		"vietnamese": "học新的技术"
 	},
 	{
-		"chinese": "学习新的技术(ing形式)",
 		"english": "learning new skills",
-		"soundmark": "/'lɝnɪŋ/ /nu/ /'skɪlz/"
+		"soundmark": "/'lɝnɪŋ/ /nu/ /'skɪlz/",
+		"vietnamese": "học新的技术(ing形式)"
 	},
 	{
-		"chinese": "保持",
 		"english": "to keep",
-		"soundmark": "/tə/ /kip/"
+		"soundmark": "/tə/ /kip/",
+		"vietnamese": "[VI:保持]"
 	},
 	{
-		"chinese": "她保持",
 		"english": "she keeps",
-		"soundmark": "/ʃi/ /kips/"
+		"soundmark": "/ʃi/ /kips/",
+		"vietnamese": "Cô ấy保持"
 	},
 	{
-		"chinese": "她一直学习新的技术",
 		"english": "she keeps learning new skills",
-		"soundmark": "/ʃi/ /kips/ /'lɝnɪŋ/ /nu/ /'skɪlz/"
+		"soundmark": "/ʃi/ /kips/ /'lɝnɪŋ/ /nu/ /'skɪlz/",
+		"vietnamese": "Cô ấy一直học新的技术"
 	},
 	{
-		"chinese": "提升",
 		"english": "to improve",
-		"soundmark": "/tə/ /ɪmˈpruv/"
+		"soundmark": "/tə/ /ɪmˈpruv/",
+		"vietnamese": "[VI:提升]"
 	},
 	{
-		"chinese": "她自己",
 		"english": "herself",
-		"soundmark": "/hɝ'sɛlf/"
+		"soundmark": "/hɝ'sɛlf/",
+		"vietnamese": "Cô ấy自己"
 	},
 	{
-		"chinese": "提升她自己",
 		"english": "to improve herself",
-		"soundmark": "/tə/ /ɪmˈpruv/ /hɝ'sɛlf/"
+		"soundmark": "/tə/ /ɪmˈpruv/ /hɝ'sɛlf/",
+		"vietnamese": "提升Cô ấy自己"
 	},
 	{
-		"chinese": "她一直学习新的技术来提升她自己",
 		"english": "she keeps learning new skills to improve herself",
-		"soundmark": "/ʃi/ /kips/ /'lɝnɪŋ/ /nu/ /'skɪlz/ /tə/ /ɪmˈpruv/ /hɝ'sɛlf/"
+		"soundmark": "/ʃi/ /kips/ /'lɝnɪŋ/ /nu/ /'skɪlz/ /tə/ /ɪmˈpruv/ /hɝ'sɛlf/",
+		"vietnamese": "Cô ấy一直học新的技术来提升她自己"
 	},
 	{
-		"chinese": "锁",
 		"english": "to lock",
-		"soundmark": "/tə/ /lɑk/"
+		"soundmark": "/tə/ /lɑk/",
+		"vietnamese": "[VI:锁]"
 	},
 	{
-		"chinese": "门",
 		"english": "the door",
-		"soundmark": "/ðə/ /dɔr/"
+		"soundmark": "/ðə/ /dɔr/",
+		"vietnamese": "[VI:门]"
 	},
 	{
-		"chinese": "锁门",
 		"english": "to lock the door",
-		"soundmark": "/tə/ /lɑk/ /ðə/ /dɔr/"
+		"soundmark": "/tə/ /lɑk/ /ðə/ /dɔr/",
+		"vietnamese": "[VI:锁门]"
 	},
 	{
-		"chinese": "忘记",
 		"english": "to forget",
-		"soundmark": "/tə/ /fɚ'ɡɛt/"
+		"soundmark": "/tə/ /fɚ'ɡɛt/",
+		"vietnamese": "[VI:忘记]"
 	},
 	{
-		"chinese": "忘记锁门",
 		"english": "to forget to lock the door",
-		"soundmark": "/tə/ /fɚ'ɡɛt/ /tə/ /lɑk/ /ðə/ /dɔr/"
+		"soundmark": "/tə/ /fɚ'ɡɛt/ /tə/ /lɑk/ /ðə/ /dɔr/",
+		"vietnamese": "[VI:忘记锁门]"
 	},
 	{
-		"chinese": "忘记锁门(ing形式)",
 		"english": "forgetting to lock the door",
-		"soundmark": "/fɚ'ɡɛtɪŋ/ /tə/ /lɑk/ /ðə/ /dɔr/"
+		"soundmark": "/fɚ'ɡɛtɪŋ/ /tə/ /lɑk/ /ðə/ /dɔr/",
+		"vietnamese": "[VI:忘记锁门(ing形式)]"
 	},
 	{
-		"chinese": "保持",
 		"english": "to keep",
-		"soundmark": "/tə/ /kip/"
+		"soundmark": "/tə/ /kip/",
+		"vietnamese": "[VI:保持]"
 	},
 	{
-		"chinese": "她保持",
 		"english": "she keeps",
-		"soundmark": "/ʃi/ /kips/"
+		"soundmark": "/ʃi/ /kips/",
+		"vietnamese": "Cô ấy保持"
 	},
 	{
-		"chinese": "她总是忘记锁门",
 		"english": "she keeps forgetting to lock the door",
-		"soundmark": "/ʃi/ /kips/ /fɚ'ɡɛtɪŋ/ /tə/ /lɑk/ /ðə/ /dɔr/"
+		"soundmark": "/ʃi/ /kips/ /fɚ'ɡɛtɪŋ/ /tə/ /lɑk/ /ðə/ /dɔr/",
+		"vietnamese": "Cô ấy总là忘记锁门"
 	},
 	{
-		"chinese": "离开",
 		"english": "to leave",
-		"soundmark": "/tə/ /liv/"
+		"soundmark": "/tə/ /liv/",
+		"vietnamese": "[VI:离开]"
 	},
 	{
-		"chinese": "她离开",
 		"english": "she leaves",
-		"soundmark": "/ʃi/ /livz/"
+		"soundmark": "/ʃi/ /livz/",
+		"vietnamese": "Cô ấy离开"
 	},
 	{
-		"chinese": "当......的时候",
 		"english": "when",
-		"soundmark": "/wɛn/"
+		"soundmark": "/wɛn/",
+		"vietnamese": "[VI:当......的时候]"
 	},
 	{
-		"chinese": "当她离开的时候",
 		"english": "when she leaves",
-		"soundmark": "/wɛn/ /ʃi/ /livz/"
+		"soundmark": "/wɛn/ /ʃi/ /livz/",
+		"vietnamese": "当Cô ấy离开的时候"
 	},
 	{
-		"chinese": "她总是忘记锁门",
 		"english": "she keeps forgetting to lock the door",
-		"soundmark": "/ʃi/ /kips/ /fɚ'ɡɛtɪŋ/ /tə/ /lɑk/ /ðə/ /dɔr/"
+		"soundmark": "/ʃi/ /kips/ /fɚ'ɡɛtɪŋ/ /tə/ /lɑk/ /ðə/ /dɔr/",
+		"vietnamese": "Cô ấy总là忘记锁门"
 	},
 	{
-		"chinese": "她总是忘记锁门当她离开的时候",
 		"english": "she keeps forgetting to lock the door when she leaves",
-		"soundmark": "/ʃi/ /kips/ /fɚ'ɡɛtɪŋ/ /tə/ /lɑk/ /ðə/ /dɔr/ /wɛn/ /ʃi/ /livz/"
+		"soundmark": "/ʃi/ /kips/ /fɚ'ɡɛtɪŋ/ /tə/ /lɑk/ /ðə/ /dɔr/ /wɛn/ /ʃi/ /livz/",
+		"vietnamese": "Cô ấy总là忘记锁门当她离开的时候"
 	},
 	{
-		"chinese": "钥匙",
 		"english": "keys",
-		"soundmark": "/kiz/"
+		"soundmark": "/kiz/",
+		"vietnamese": "[VI:钥匙]"
 	},
 	{
-		"chinese": "他的钥匙",
 		"english": "his keys",
-		"soundmark": "/hɪz/ /kiz/"
+		"soundmark": "/hɪz/ /kiz/",
+		"vietnamese": "Anh ấy的钥匙"
 	},
 	{
-		"chinese": "忘记",
 		"english": "to forget",
-		"soundmark": "/tə/ /fɚ'ɡɛt/"
+		"soundmark": "/tə/ /fɚ'ɡɛt/",
+		"vietnamese": "[VI:忘记]"
 	},
 	{
-		"chinese": "忘记他的钥匙",
 		"english": "to forget his keys",
-		"soundmark": "/tə/ /fɚ'ɡɛt/ /hɪz/ /kiz/"
+		"soundmark": "/tə/ /fɚ'ɡɛt/ /hɪz/ /kiz/",
+		"vietnamese": "忘记Anh ấy的钥匙"
 	},
 	{
-		"chinese": "家",
 		"english": "home",
-		"soundmark": "/hom/"
+		"soundmark": "/hom/",
+		"vietnamese": "[VI:家]"
 	},
 	{
-		"chinese": "在家",
 		"english": "at home",
-		"soundmark": "/ət/ /hom/"
+		"soundmark": "/ət/ /hom/",
+		"vietnamese": "[VI:在家]"
 	},
 	{
-		"chinese": "忘记他的钥匙在家里",
 		"english": "to forget his keys at home",
-		"soundmark": "/tə/ /fɚ'ɡɛt/ /hɪz/ /kiz/ /ət/ /hom/"
+		"soundmark": "/tə/ /fɚ'ɡɛt/ /hɪz/ /kiz/ /ət/ /hom/",
+		"vietnamese": "忘记Anh ấy的钥匙在家里"
 	},
 	{
-		"chinese": "忘记他的钥匙在家里(ing形式)",
 		"english": "forgetting his keys at home",
-		"soundmark": "/fɚ'ɡɛtɪŋ/ /hɪz/ /kiz/ /ət/ /hom/"
+		"soundmark": "/fɚ'ɡɛtɪŋ/ /hɪz/ /kiz/ /ət/ /hom/",
+		"vietnamese": "忘记Anh ấy的钥匙在家里(ing形式)"
 	},
 	{
-		"chinese": "保持",
 		"english": "to keep",
-		"soundmark": "/tə/ /kip/"
+		"soundmark": "/tə/ /kip/",
+		"vietnamese": "[VI:保持]"
 	},
 	{
-		"chinese": "他保持",
 		"english": "he keeps",
-		"soundmark": "/hi/ /kips/"
+		"soundmark": "/hi/ /kips/",
+		"vietnamese": "Anh ấy保持"
 	},
 	{
-		"chinese": "他总是忘记他的钥匙在家里",
 		"english": "he keeps forgetting his keys at home",
-		"soundmark": "/hi/ /kips/ /fɚ'ɡɛtɪŋ/ /hɪz/ /kiz/ /ət/ /hom/"
+		"soundmark": "/hi/ /kips/ /fɚ'ɡɛtɪŋ/ /hɪz/ /kiz/ /ət/ /hom/",
+		"vietnamese": "Anh ấy总là忘记他的钥匙在家里"
 	},
 	{
-		"chinese": "想法",
 		"english": "mind",
-		"soundmark": "/maɪnd/"
+		"soundmark": "/maɪnd/",
+		"vietnamese": "[VI:想法]"
 	},
 	{
-		"chinese": "他的想法",
 		"english": "his mind",
-		"soundmark": "/hɪz/ /maɪnd/"
+		"soundmark": "/hɪz/ /maɪnd/",
+		"vietnamese": "Anh ấy的想法"
 	},
 	{
-		"chinese": "改变",
 		"english": "to change",
-		"soundmark": "/tə/ /tʃendʒ/"
+		"soundmark": "/tə/ /tʃendʒ/",
+		"vietnamese": "[VI:改变]"
 	},
 	{
-		"chinese": "改变他的想法",
 		"english": "to change his mind",
-		"soundmark": "/tə/ /tʃendʒ/ /hɪz/ /maɪnd/"
+		"soundmark": "/tə/ /tʃendʒ/ /hɪz/ /maɪnd/",
+		"vietnamese": "改变Anh ấy的想法"
 	},
 	{
-		"chinese": "改变他的想法(ing形式)",
 		"english": "changing his mind",
-		"soundmark": "/'tʃendʒɪŋ/ /hɪz/ /maɪnd/"
+		"soundmark": "/'tʃendʒɪŋ/ /hɪz/ /maɪnd/",
+		"vietnamese": "改变Anh ấy的想法(ing形式)"
 	},
 	{
-		"chinese": "保持",
 		"english": "to keep",
-		"soundmark": "/tə/ /kip/"
+		"soundmark": "/tə/ /kip/",
+		"vietnamese": "[VI:保持]"
 	},
 	{
-		"chinese": "他保持",
 		"english": "he keeps",
-		"soundmark": "/hi/ /kips/"
+		"soundmark": "/hi/ /kips/",
+		"vietnamese": "Anh ấy保持"
 	},
 	{
-		"chinese": "他总是改变他的想法",
 		"english": "he keeps changing his mind",
-		"soundmark": "/hi/ /kips/ /'tʃendʒɪŋ/ /hɪz/ /maɪnd/"
+		"soundmark": "/hi/ /kips/ /'tʃendʒɪŋ/ /hɪz/ /maɪnd/",
+		"vietnamese": "Anh ấy总là改变他的想法"
 	},
 	{
-		"chinese": "时间",
 		"english": "time",
-		"soundmark": "/taɪm/"
+		"soundmark": "/taɪm/",
+		"vietnamese": "[VI:时间]"
 	},
 	{
-		"chinese": "所有的时间",
 		"english": "all the time",
-		"soundmark": "/ɔl/ /ðə/ /taɪm/"
+		"soundmark": "/ɔl/ /ðə/ /taɪm/",
+		"vietnamese": "[VI:所有的时间]"
 	},
 	{
-		"chinese": "他(一直)总是改变他的想法",
 		"english": "he keeps changing his mind all the time",
-		"soundmark": "/hi/ /kips/ /'tʃendʒɪŋ/ /hɪz/ /maɪnd/ /ɔl/ /ðə/ /taɪm/"
+		"soundmark": "/hi/ /kips/ /'tʃendʒɪŋ/ /hɪz/ /maɪnd/ /ɔl/ /ðə/ /taɪm/",
+		"vietnamese": "Anh ấy(一直)总là改变他的想法"
 	},
 	{
-		"chinese": "想法",
 		"english": "mind",
-		"soundmark": "/maɪnd/"
+		"soundmark": "/maɪnd/",
+		"vietnamese": "[VI:想法]"
 	},
 	{
-		"chinese": "介意",
 		"english": "to mind",
-		"soundmark": "/tə/ /maɪnd/"
+		"soundmark": "/tə/ /maɪnd/",
+		"vietnamese": "[VI:介意]"
 	},
 	{
-		"chinese": "我介意",
 		"english": "I mind",
-		"soundmark": "/aɪ/ /maɪnd/"
+		"soundmark": "/aɪ/ /maɪnd/",
+		"vietnamese": "Tôi介意"
 	},
 	{
-		"chinese": "打开",
 		"english": "to open",
-		"soundmark": "/tə/ /'opən/"
+		"soundmark": "/tə/ /'opən/",
+		"vietnamese": "[VI:打开]"
 	},
 	{
-		"chinese": "这个窗户",
 		"english": "the window",
-		"soundmark": "/ðə/ /'wɪndo/"
+		"soundmark": "/ðə/ /'wɪndo/",
+		"vietnamese": "[VI:这个窗户]"
 	},
 	{
-		"chinese": "打开这个窗户",
 		"english": "to open the window",
-		"soundmark": "/tə/ /'opən/ /ðə/ /'wɪndo/"
+		"soundmark": "/tə/ /'opən/ /ðə/ /'wɪndo/",
+		"vietnamese": "[VI:打开这个窗户]"
 	},
 	{
-		"chinese": "打开这个窗户(ing形式)",
 		"english": "opening the window",
-		"soundmark": "/'opənɪŋ/ /ðə/ /'wɪndo/"
+		"soundmark": "/'opənɪŋ/ /ðə/ /'wɪndo/",
+		"vietnamese": "[VI:打开这个窗户(ing形式)]"
 	},
 	{
-		"chinese": "我介意打开这个窗户",
 		"english": "I mind opening the window",
-		"soundmark": "/aɪ/ /maɪnd/ /'opənɪŋ/ /ðə/ /'wɪndo/"
+		"soundmark": "/aɪ/ /maɪnd/ /'opənɪŋ/ /ðə/ /'wɪndo/",
+		"vietnamese": "Tôi介意打开这个窗户"
 	},
 	{
-		"chinese": "我不介意打开这个窗户",
 		"english": "I don't mind opening the window",
-		"soundmark": "/aɪ/ /dont/ /maɪnd/ /'opənɪŋ/ /ðə/ /'wɪndo/"
+		"soundmark": "/aɪ/ /dont/ /maɪnd/ /'opənɪŋ/ /ðə/ /'wɪndo/",
+		"vietnamese": "Tôikhông介意打开这个窗户"
 	},
 	{
-		"chinese": "支付",
 		"english": "to pay",
-		"soundmark": "/tə/ /pe/"
+		"soundmark": "/tə/ /pe/",
+		"vietnamese": "[VI:支付]"
 	},
 	{
-		"chinese": "账单",
 		"english": "the bill",
-		"soundmark": "/ðə/ /bɪl/"
+		"soundmark": "/ðə/ /bɪl/",
+		"vietnamese": "[VI:账单]"
 	},
 	{
-		"chinese": "支付账单",
 		"english": "to pay the bill",
-		"soundmark": "/tə/ /pe/ /ðə/ /bɪl/"
+		"soundmark": "/tə/ /pe/ /ðə/ /bɪl/",
+		"vietnamese": "[VI:支付账单]"
 	},
 	{
-		"chinese": "支付账单(ing形式)",
 		"english": "paying the bill",
-		"soundmark": "/'peɪŋ/ /ðə/ /bɪl/"
+		"soundmark": "/'peɪŋ/ /ðə/ /bɪl/",
+		"vietnamese": "[VI:支付账单(ing形式)]"
 	},
 	{
-		"chinese": "介意",
 		"english": "to mind",
-		"soundmark": "/tə/ /maɪnd/"
+		"soundmark": "/tə/ /maɪnd/",
+		"vietnamese": "[VI:介意]"
 	},
 	{
-		"chinese": "他介意",
 		"english": "he minds",
-		"soundmark": "/hi/ /maɪndz/"
+		"soundmark": "/hi/ /maɪndz/",
+		"vietnamese": "Anh ấy介意"
 	},
 	{
-		"chinese": "他介意支付账单",
 		"english": "he minds paying the bill",
-		"soundmark": "/hi/ /maɪndz/ /'peɪŋ/ /ðə/ /bɪl/"
+		"soundmark": "/hi/ /maɪndz/ /'peɪŋ/ /ðə/ /bɪl/",
+		"vietnamese": "Anh ấy介意支付账单"
 	},
 	{
-		"chinese": "他不介意支付账单",
 		"english": "he doesn't mind paying the bill",
-		"soundmark": "/hi/ /ˈdʌznt/ /maɪnd/ /'peɪŋ/ /ðə/ /bɪl/"
+		"soundmark": "/hi/ /ˈdʌznt/ /maɪnd/ /'peɪŋ/ /ðə/ /bɪl/",
+		"vietnamese": "Anh ấykhông介意支付账单"
 	},
 	{
-		"chinese": "玩具",
 		"english": "toy",
-		"soundmark": "/tɔɪ/"
+		"soundmark": "/tɔɪ/",
+		"vietnamese": "[VI:玩具]"
 	},
 	{
-		"chinese": "他的玩具",
 		"english": "his toys",
-		"soundmark": "/hɪz/ /tɔɪz/"
+		"soundmark": "/hɪz/ /tɔɪz/",
+		"vietnamese": "Anh ấy的玩具"
 	},
 	{
-		"chinese": "分享",
 		"english": "to share",
-		"soundmark": "/tə/ /ʃɛr/"
+		"soundmark": "/tə/ /ʃɛr/",
+		"vietnamese": "[VI:分享]"
 	},
 	{
-		"chinese": "分享他的玩具",
 		"english": "to share his toys",
-		"soundmark": "/tə/ /ʃɛr/ /hɪz/ /tɔɪz/"
+		"soundmark": "/tə/ /ʃɛr/ /hɪz/ /tɔɪz/",
+		"vietnamese": "分享Anh ấy的玩具"
 	},
 	{
-		"chinese": "朋友",
 		"english": "friend",
-		"soundmark": "/frɛnd/"
+		"soundmark": "/frɛnd/",
+		"vietnamese": "[VI:朋友]"
 	},
 	{
-		"chinese": "他的朋友们",
 		"english": "his friends",
-		"soundmark": "/hɪz/ /frɛndz/"
+		"soundmark": "/hɪz/ /frɛndz/",
+		"vietnamese": "Anh ấy的朋友们"
 	},
 	{
-		"chinese": "和",
 		"english": "with",
-		"soundmark": "/wɪð/"
+		"soundmark": "/wɪð/",
+		"vietnamese": "và"
 	},
 	{
-		"chinese": "和他的朋友们",
 		"english": "with his friends",
-		"soundmark": "/wɪð/ /hɪz/ /frɛndz/"
+		"soundmark": "/wɪð/ /hɪz/ /frɛndz/",
+		"vietnamese": "vàAnh ấy的朋友们"
 	},
 	{
-		"chinese": "和他的朋友们分享他的玩具",
 		"english": "to share his toys with his friends",
-		"soundmark": "/tə/ /ʃɛr/ /hɪz/ /tɔɪz/ /wɪð/ /hɪz/ /frɛndz/"
+		"soundmark": "/tə/ /ʃɛr/ /hɪz/ /tɔɪz/ /wɪð/ /hɪz/ /frɛndz/",
+		"vietnamese": "vàAnh ấy的朋友们分享他的玩具"
 	},
 	{
-		"chinese": "和他的朋友们分享他的玩具（ing 形式）",
 		"english": "sharing his toys with his friends",
-		"soundmark": "/'ʃɛriŋ/ /hɪz/ /tɔɪz/ /wɪð/ /hɪz/ /frɛndz/"
+		"soundmark": "/'ʃɛriŋ/ /hɪz/ /tɔɪz/ /wɪð/ /hɪz/ /frɛndz/",
+		"vietnamese": "vàAnh ấy的朋友们分享他的玩具（ing 形式）"
 	},
 	{
-		"chinese": "他介意",
 		"english": "he minds",
-		"soundmark": "/hi/ /maɪndz/"
+		"soundmark": "/hi/ /maɪndz/",
+		"vietnamese": "Anh ấy介意"
 	},
 	{
-		"chinese": "他介意和他的朋友们分享他的玩具",
 		"english": "he minds sharing his toys with his friends",
-		"soundmark": "/hi/ /maɪndz/ /'ʃɛəriŋ/ /hɪz/ /tɔɪz/ /wɪð/ /hɪz/ /frɛndz/"
+		"soundmark": "/hi/ /maɪndz/ /'ʃɛəriŋ/ /hɪz/ /tɔɪz/ /wɪð/ /hɪz/ /frɛndz/",
+		"vietnamese": "Anh ấy介意và他的朋友们分享他的玩具"
 	},
 	{
-		"chinese": "他不介意和他的朋友们分享他的玩具",
 		"english": "he doesn't mind sharing his toys with his friends",
-		"soundmark": "/hi/ /ˈdʌznt/ /maɪnd/ /'ʃɛəriŋ/ /hɪz/ /tɔɪz/ /wɪð/ /hɪz/ /frɛndz/"
+		"soundmark": "/hi/ /ˈdʌznt/ /maɪnd/ /'ʃɛəriŋ/ /hɪz/ /tɔɪz/ /wɪð/ /hɪz/ /frɛndz/",
+		"vietnamese": "Anh ấykhông介意và他的朋友们分享他的玩具"
 	},
 	{
-		"chinese": "他不介意",
 		"english": "he doesn't mind",
-		"soundmark": "/hi/ /ˈdʌznt/ /maɪnd/"
+		"soundmark": "/hi/ /ˈdʌznt/ /maɪnd/",
+		"vietnamese": "Anh ấykhông介意"
 	},
 	{
-		"chinese": "他的食物",
 		"english": "his food",
-		"soundmark": "/hɪz/ /fud/"
+		"soundmark": "/hɪz/ /fud/",
+		"vietnamese": "Anh ấy的thức ăn"
 	},
 	{
-		"chinese": "分享",
 		"english": "to share",
-		"soundmark": "/tə/ /ʃɛr/"
+		"soundmark": "/tə/ /ʃɛr/",
+		"vietnamese": "[VI:分享]"
 	},
 	{
-		"chinese": "分享他的食物",
 		"english": "to share his food",
-		"soundmark": "/tə/ /ʃɛr/ /hɪz/ /fud/"
+		"soundmark": "/tə/ /ʃɛr/ /hɪz/ /fud/",
+		"vietnamese": "分享Anh ấy的thức ăn"
 	},
 	{
-		"chinese": "别人",
 		"english": "others",
-		"soundmark": "/'ʌðɚz/"
+		"soundmark": "/'ʌðɚz/",
+		"vietnamese": "[VI:别人]"
 	},
 	{
-		"chinese": "和",
 		"english": "with",
-		"soundmark": "/wɪð/"
+		"soundmark": "/wɪð/",
+		"vietnamese": "và"
 	},
 	{
-		"chinese": "和别人",
 		"english": "with others",
-		"soundmark": "/wɪð/ /'ʌðɚz/"
+		"soundmark": "/wɪð/ /'ʌðɚz/",
+		"vietnamese": "và别人"
 	},
 	{
-		"chinese": "和别人分享他的食物",
 		"english": "to share his food with others",
-		"soundmark": "/tə/ /ʃɛr/ /hɪz/ /fud/ /wɪð/ /'ʌðɚz/"
+		"soundmark": "/tə/ /ʃɛr/ /hɪz/ /fud/ /wɪð/ /'ʌðɚz/",
+		"vietnamese": "và别人分享Anh ấy的thức ăn"
 	},
 	{
-		"chinese": "和别人分享他的食物(ing形式)",
 		"english": "sharing his food with others",
-		"soundmark": "/'ʃɛriŋ/ /hɪz/ /fud/ /wɪð/ /'ʌðɚz/"
+		"soundmark": "/'ʃɛriŋ/ /hɪz/ /fud/ /wɪð/ /'ʌðɚz/",
+		"vietnamese": "và别人分享Anh ấy的thức ăn(ing形式)"
 	},
 	{
-		"chinese": "介意",
 		"english": "to mind",
-		"soundmark": "/tə/ /maɪnd/"
+		"soundmark": "/tə/ /maɪnd/",
+		"vietnamese": "[VI:介意]"
 	},
 	{
-		"chinese": "他介意",
 		"english": "he minds",
-		"soundmark": "/hi/ /maɪndz/"
+		"soundmark": "/hi/ /maɪndz/",
+		"vietnamese": "Anh ấy介意"
 	},
 	{
-		"chinese": "他不介意",
 		"english": "he doesn't mind",
-		"soundmark": "/hi/ /ˈdʌznt/ /maɪnd/"
+		"soundmark": "/hi/ /ˈdʌznt/ /maɪnd/",
+		"vietnamese": "Anh ấykhông介意"
 	},
 	{
-		"chinese": "他不介意和别人分享他的食物",
 		"english": "he doesn't mind sharing his food with others",
-		"soundmark": "/hi/ /ˈdʌznt/ /maɪnd/ /'ʃɛriŋ/ /hɪz/ /fud/ /wɪð/ /'ʌðɚz/"
+		"soundmark": "/hi/ /ˈdʌznt/ /maɪnd/ /'ʃɛriŋ/ /hɪz/ /fud/ /wɪð/ /'ʌðɚz/",
+		"vietnamese": "Anh ấykhông介意và别人分享他的thức ăn"
 	},
 	{
-		"chinese": "等",
 		"english": "to wait",
-		"soundmark": "/tə/ /wet/"
+		"soundmark": "/tə/ /wet/",
+		"vietnamese": "[VI:等]"
 	},
 	{
-		"chinese": "她",
 		"english": "her",
-		"soundmark": "/hɚ/"
+		"soundmark": "/hɚ/",
+		"vietnamese": "Cô ấy"
 	},
 	{
-		"chinese": "等她",
 		"english": "to wait for her",
-		"soundmark": "/tə/ /wet/ /fɚ/ /hɚ/"
+		"soundmark": "/tə/ /wet/ /fɚ/ /hɚ/",
+		"vietnamese": "等Cô ấy"
 	},
 	{
-		"chinese": "机场",
 		"english": "airport",
-		"soundmark": "/'ɛrpɔrt/"
+		"soundmark": "/'ɛrpɔrt/",
+		"vietnamese": "[VI:机场]"
 	},
 	{
-		"chinese": "在机场",
 		"english": "at the airport",
-		"soundmark": "/ət/ /ði/ /'ɛrpɔrt/"
+		"soundmark": "/ət/ /ði/ /'ɛrpɔrt/",
+		"vietnamese": "[VI:在机场]"
 	},
 	{
-		"chinese": "在机场等她",
 		"english": "to wait for her at the airport",
-		"soundmark": "/tə/ /wet/ /fɚ/ /hɚ/ /ət/ /ði/ /'ɛrpɔrt/"
+		"soundmark": "/tə/ /wet/ /fɚ/ /hɚ/ /ət/ /ði/ /'ɛrpɔrt/",
+		"vietnamese": "在机场等Cô ấy"
 	},
 	{
-		"chinese": "在机场等她(ing形式)",
 		"english": "waiting for her at the airport",
-		"soundmark": "/'wetɪŋ/ /fɚ/ /hɚ/ /ət/ /ði/ /'ɛrpɔrt/"
+		"soundmark": "/'wetɪŋ/ /fɚ/ /hɚ/ /ət/ /ði/ /'ɛrpɔrt/",
+		"vietnamese": "在机场等Cô ấy(ing形式)"
 	},
 	{
-		"chinese": "他不介意",
 		"english": "he doesn't mind",
-		"soundmark": "/hi/ /ˈdʌznt/ /maɪnd/"
+		"soundmark": "/hi/ /ˈdʌznt/ /maɪnd/",
+		"vietnamese": "Anh ấykhông介意"
 	},
 	{
-		"chinese": "他不介意在机场等她",
 		"english": "he doesn't mind waiting for her at the airport",
-		"soundmark": "/hi/ /ˈdʌznt/ /maɪnd/ /'wetɪŋ/ /fɚ/ /hɚ/ /ət/ /ði/ /'ɛrpɔrt/"
+		"soundmark": "/hi/ /ˈdʌznt/ /maɪnd/ /'wetɪŋ/ /fɚ/ /hɚ/ /ət/ /ði/ /'ɛrpɔrt/",
+		"vietnamese": "Anh ấykhông介意在机场等Cô ấy"
 	},
 	{
-		"chinese": "介意",
 		"english": "to mind",
-		"soundmark": "/tə/ /maɪnd/"
+		"soundmark": "/tə/ /maɪnd/",
+		"vietnamese": "[VI:介意]"
 	},
 	{
-		"chinese": "他们介意",
 		"english": "they mind",
-		"soundmark": "/ðe/ /maɪnd/"
+		"soundmark": "/ðe/ /maɪnd/",
+		"vietnamese": "Họ介意"
 	},
 	{
-		"chinese": "秘密",
 		"english": "secret",
-		"soundmark": "/'sikrət/"
+		"soundmark": "/'sikrət/",
+		"vietnamese": "[VI:秘密]"
 	},
 	{
-		"chinese": "他们的秘密",
 		"english": "their secrets",
-		"soundmark": "/ðɛr/ /'sikrəts/"
+		"soundmark": "/ðɛr/ /'sikrəts/",
+		"vietnamese": "Họ的秘密"
 	},
 	{
-		"chinese": "分享",
 		"english": "to share",
-		"soundmark": "/tə/ /ʃɛr/"
+		"soundmark": "/tə/ /ʃɛr/",
+		"vietnamese": "[VI:分享]"
 	},
 	{
-		"chinese": "分享他们的秘密",
 		"english": "to share their secrets",
-		"soundmark": "/tə/ /ʃɛr/ /ðɛr/ /'sikrəts/"
+		"soundmark": "/tə/ /ʃɛr/ /ðɛr/ /'sikrəts/",
+		"vietnamese": "分享Họ的秘密"
 	},
 	{
-		"chinese": "任何人",
 		"english": "anyone",
-		"soundmark": "/'ɛnɪwʌn/"
+		"soundmark": "/'ɛnɪwʌn/",
+		"vietnamese": "[VI:任何人]"
 	},
 	{
-		"chinese": "和",
 		"english": "with",
-		"soundmark": "/wɪð/"
+		"soundmark": "/wɪð/",
+		"vietnamese": "và"
 	},
 	{
-		"chinese": "和任何人",
 		"english": "with anyone",
-		"soundmark": "/wɪð/ /'ɛnɪwʌn/"
+		"soundmark": "/wɪð/ /'ɛnɪwʌn/",
+		"vietnamese": "và任何人"
 	},
 	{
-		"chinese": "和任何人分享他们的秘密",
 		"english": "to share their secrets with anyone",
-		"soundmark": "/tə/ /ʃɛr/ /ðɛr/ /'sikrəts/ /wɪð/ /'ɛnɪwʌn/"
+		"soundmark": "/tə/ /ʃɛr/ /ðɛr/ /'sikrəts/ /wɪð/ /'ɛnɪwʌn/",
+		"vietnamese": "và任何人分享Họ的秘密"
 	},
 	{
-		"chinese": "和任何人分享他们的秘密(ing形式)",
 		"english": "sharing their secrets with anyone",
-		"soundmark": "/'ʃɛriŋ/ /ðɛr/ /'sikrəts/ /wɪð/ /'ɛnɪwʌn/"
+		"soundmark": "/'ʃɛriŋ/ /ðɛr/ /'sikrəts/ /wɪð/ /'ɛnɪwʌn/",
+		"vietnamese": "và任何人分享Họ的秘密(ing形式)"
 	},
 	{
-		"chinese": "他们介意",
 		"english": "they mind",
-		"soundmark": "/ðe/ /maɪnd/"
+		"soundmark": "/ðe/ /maɪnd/",
+		"vietnamese": "Họ介意"
 	},
 	{
-		"chinese": "他们不介意",
 		"english": "they don't mind",
-		"soundmark": "/ðe/ /dont/ /maɪnd/"
+		"soundmark": "/ðe/ /dont/ /maɪnd/",
+		"vietnamese": "Họkhông介意"
 	},
 	{
-		"chinese": "他们不介意和任何人分享他们的秘密",
 		"english": "they don't mind sharing their secrets with anyone",
-		"soundmark": "/ðe/ /dont/ /maɪnd/ /'ʃɛriŋ/ /ðɛr/ /'sikrəts/ /wɪð/ /'ɛnɪwʌn/"
+		"soundmark": "/ðe/ /dont/ /maɪnd/ /'ʃɛriŋ/ /ðɛr/ /'sikrəts/ /wɪð/ /'ɛnɪwʌn/",
+		"vietnamese": "Họkhông介意và任何人分享Anh ấy们的秘密"
 	},
 	{
-		"chinese": "他介意",
 		"english": "he minds",
-		"soundmark": "/hi/ /maɪndz/"
+		"soundmark": "/hi/ /maɪndz/",
+		"vietnamese": "Anh ấy介意"
 	},
 	{
-		"chinese": "建议",
 		"english": "advice",
-		"soundmark": "/əd'vaɪs/"
+		"soundmark": "/əd'vaɪs/",
+		"vietnamese": "[VI:建议]"
 	},
 	{
-		"chinese": "一些",
 		"english": "some",
-		"soundmark": "/səm/"
+		"soundmark": "/səm/",
+		"vietnamese": "[VI:一些]"
 	},
 	{
-		"chinese": "一些建议",
 		"english": "some advice",
-		"soundmark": "/səm/ /əd'vaɪs/"
+		"soundmark": "/səm/ /əd'vaɪs/",
+		"vietnamese": "[VI:一些建议]"
 	},
 	{
-		"chinese": "问题",
 		"english": "problem",
-		"soundmark": "/'prɑbləm/"
+		"soundmark": "/'prɑbləm/",
+		"vietnamese": "[VI:问题]"
 	},
 	{
-		"chinese": "这个问题",
 		"english": "this problem",
-		"soundmark": "/ðɪs/ /'prɑbləm/"
+		"soundmark": "/ðɪs/ /'prɑbləm/",
+		"vietnamese": "[VI:这个问题]"
 	},
 	{
-		"chinese": "关于",
 		"english": "about",
-		"soundmark": "/ə'baʊt/"
+		"soundmark": "/ə'baʊt/",
+		"vietnamese": "[VI:关于]"
 	},
 	{
-		"chinese": "关于这个问题",
 		"english": "about this problem",
-		"soundmark": "/ə'baʊt/ /ðɪs/ /'prɑbləm/"
+		"soundmark": "/ə'baʊt/ /ðɪs/ /'prɑbləm/",
+		"vietnamese": "[VI:关于这个问题]"
 	},
 	{
-		"chinese": "关于这个问题的一些建议",
 		"english": "some advice about this problem",
-		"soundmark": "/səm/ /əd'vaɪs/ /ə'baʊt/ /ðɪs/ /'prɑbləm/"
+		"soundmark": "/səm/ /əd'vaɪs/ /ə'baʊt/ /ðɪs/ /'prɑbləm/",
+		"vietnamese": "[VI:关于这个问题的一些建议]"
 	},
 	{
-		"chinese": "给",
 		"english": "to give",
-		"soundmark": "/tə/ /ɡɪv/"
+		"soundmark": "/tə/ /ɡɪv/",
+		"vietnamese": "[VI:给]"
 	},
 	{
-		"chinese": "给我",
 		"english": "to give me",
-		"soundmark": "/tə/ /ɡɪv/ /mi/"
+		"soundmark": "/tə/ /ɡɪv/ /mi/",
+		"vietnamese": "给Tôi"
 	},
 	{
-		"chinese": "给我一些建议",
 		"english": "to give me some advice",
-		"soundmark": "/tə/ /ɡɪv/ /mi/ /səm/ /əd'vaɪs/"
+		"soundmark": "/tə/ /ɡɪv/ /mi/ /səm/ /əd'vaɪs/",
+		"vietnamese": "给Tôi一些建议"
 	},
 	{
-		"chinese": "给我关于这个问题的一些建议",
 		"english": "to give me some advice about this problem",
-		"soundmark": "/tə/ /ɡɪv/ /mi/ /səm/ /əd'vaɪs/ /ə'baʊt/ /ðɪs/ /'prɑbləm/"
+		"soundmark": "/tə/ /ɡɪv/ /mi/ /səm/ /əd'vaɪs/ /ə'baʊt/ /ðɪs/ /'prɑbləm/",
+		"vietnamese": "给Tôi关于这个问题的一些建议"
 	},
 	{
-		"chinese": "给我关于这个问题的一些建议（ing 形式）",
 		"english": "giving me some advice about this problem",
-		"soundmark": "/ɡɪviŋ/ /mi/ /səm/ /əd'vaɪs/ /ə'baʊt/ /ðɪs/ /'prɑbləm/"
+		"soundmark": "/ɡɪviŋ/ /mi/ /səm/ /əd'vaɪs/ /ə'baʊt/ /ðɪs/ /'prɑbləm/",
+		"vietnamese": "给Tôi关于这个问题的一些建议（ing 形式）"
 	},
 	{
-		"chinese": "他介意",
 		"english": "he minds",
-		"soundmark": "/hi/ /maɪndz/"
+		"soundmark": "/hi/ /maɪndz/",
+		"vietnamese": "Anh ấy介意"
 	},
 	{
-		"chinese": "他不介意",
 		"english": "he doesn't mind",
-		"soundmark": "/hi/ /ˈdʌznt/ /maɪnd/"
+		"soundmark": "/hi/ /ˈdʌznt/ /maɪnd/",
+		"vietnamese": "Anh ấykhông介意"
 	},
 	{
-		"chinese": "他不介意给我关于这个问题的一些建议",
 		"english": "he doesn't mind giving me some advice about this problem",
-		"soundmark": "/hi/ /ˈdʌznt/ /maɪnd/ /ɡɪviŋ/ /mi/ /səm/ /əd'vaɪs/ /ə'baʊt/ /ðɪs/ /'prɑbləm/"
+		"soundmark": "/hi/ /ˈdʌznt/ /maɪnd/ /ɡɪviŋ/ /mi/ /səm/ /əd'vaɪs/ /ə'baʊt/ /ðɪs/ /'prɑbləm/",
+		"vietnamese": "Anh ấykhông介意给Tôi关于这个问题的一些建议"
 	}
 ]

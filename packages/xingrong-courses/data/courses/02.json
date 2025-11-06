@@ -1,827 +1,827 @@
 [
 	{
-		"chinese": "好的；棒的",
 		"english": "good",
-		"soundmark": "/ɡʊd/"
+		"soundmark": "/ɡʊd/",
+		"vietnamese": "tốt"
 	},
 	{
-		"chinese": "它；这件事情",
 		"english": "It",
-		"soundmark": "/ɪt/"
+		"soundmark": "/ɪt/",
+		"vietnamese": "Nó"
 	},
 	{
-		"chinese": "它是",
 		"english": "It is",
-		"soundmark": "/ɪt/ /ɪz/"
+		"soundmark": "/ɪt/ /ɪz/",
+		"vietnamese": "Nó là"
 	},
 	{
-		"chinese": "它是好的",
 		"english": "It is good",
-		"soundmark": "/ɪt/ /ɪz/ /ɡʊd/"
+		"soundmark": "/ɪt/ /ɪz/ /ɡʊd/",
+		"vietnamese": "Nó tốt"
 	},
 	{
-		"chinese": "重要的",
 		"english": "important",
-		"soundmark": "/ɪm'pɔrtnt/"
+		"soundmark": "/ɪm'pɔrtnt/",
+		"vietnamese": "quan trọng"
 	},
 	{
-		"chinese": "它是重要的",
 		"english": "It is important",
-		"soundmark": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/"
+		"soundmark": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/",
+		"vietnamese": "Nó quan trọng"
 	},
 	{
-		"chinese": "我",
 		"english": "I",
-		"soundmark": "/aɪ/"
+		"soundmark": "/aɪ/",
+		"vietnamese": "Tôi"
 	},
 	{
-		"chinese": "我是",
 		"english": "I am",
-		"soundmark": "/aɪ/ /æm/"
+		"soundmark": "/aɪ/ /æm/",
+		"vietnamese": "Tôi là"
 	},
 	{
-		"chinese": "我是重要的",
 		"english": "I am important",
-		"soundmark": "/aɪ/ /æm/ /ɪm'pɔrtnt/"
+		"soundmark": "/aɪ/ /æm/ /ɪm'pɔrtnt/",
+		"vietnamese": "Tôi quan trọng"
 	},
 	{
-		"chinese": "想要",
 		"english": "want",
-		"soundmark": "/wɑnt/"
+		"soundmark": "/wɑnt/",
+		"vietnamese": "muốn"
 	},
 	{
-		"chinese": "知道",
 		"english": "to know",
-		"soundmark": "/tə/ /no/"
+		"soundmark": "/tə/ /no/",
+		"vietnamese": "biết"
 	},
 	{
-		"chinese": "我想要知道",
 		"english": "I want to know",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /no/"
+		"soundmark": "/aɪ/ /wɑnt/ /tə/ /no/",
+		"vietnamese": "Tôimuốn biết"
 	},
 	{
-		"chinese": "是否",
 		"english": "if",
-		"soundmark": "/ɪf/"
+		"soundmark": "/ɪf/",
+		"vietnamese": "có hay không"
 	},
 	{
-		"chinese": "我想要知道是否我是重要的",
 		"english": "I want to know if I am important",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /no/ /ɪf/ /aɪ/ /æm/ /ɪm'pɔrtnt/"
+		"soundmark": "/aɪ/ /wɑnt/ /tə/ /no/ /ɪf/ /aɪ/ /æm/ /ɪm'pɔrtnt/",
+		"vietnamese": "Tôi muốn biết có hay không tôi quan trọng"
 	},
 	{
-		"chinese": "需要知道",
 		"english": "need to know",
-		"soundmark": "/nid/ /tə/ /no/"
+		"soundmark": "/nid/ /tə/ /no/",
+		"vietnamese": "cần biết"
 	},
 	{
-		"chinese": "我需要知道是否我是重要的",
 		"english": "I need to know if I am important",
-		"soundmark": "/aɪ/ /nid/ /tə/ /no/ /ɪf/ /aɪ/ /æm/ /ɪm'pɔrtnt/"
+		"soundmark": "/aɪ/ /nid/ /tə/ /no/ /ɪf/ /aɪ/ /æm/ /ɪm'pɔrtnt/",
+		"vietnamese": "Tôi cần biết có hay không tôi quan trọng"
 	},
 	{
-		"chinese": "完美的",
 		"english": "perfect",
-		"soundmark": "/'pɝfɪkt/"
+		"soundmark": "/'pɝfɪkt/",
+		"vietnamese": "hoàn hảo"
 	},
 	{
-		"chinese": "我是完美的",
 		"english": "I am perfect",
-		"soundmark": "/aɪ/ /æm/ /'pɝfɪkt/"
+		"soundmark": "/aɪ/ /æm/ /'pɝfɪkt/",
+		"vietnamese": "Tôi hoàn hảo"
 	},
 	{
-		"chinese": "我需要知道是否我是完美的",
 		"english": "I need to know if I am perfect",
-		"soundmark": "/aɪ/ /nid/ /tə/ /no/ /ɪf/ /aɪ/ /æm/ /'pɝfɪkt/"
+		"soundmark": "/aɪ/ /nid/ /tə/ /no/ /ɪf/ /aɪ/ /æm/ /'pɝfɪkt/",
+		"vietnamese": "Tôi cần biết có hay không tôi hoàn hảo"
 	},
 	{
-		"chinese": "必须知道",
 		"english": "have to know",
-		"soundmark": "/hæv/ /tə/ /no/"
+		"soundmark": "/hæv/ /tə/ /no/",
+		"vietnamese": "phải biết"
 	},
 	{
-		"chinese": "我必须知道是否我是完美的",
 		"english": "I have to know if I am perfect",
-		"soundmark": "/aɪ/ /hæv/ /tə/ /no/ /ɪf/ /aɪ/ /æm/ /'pɝfɪkt/"
+		"soundmark": "/aɪ/ /hæv/ /tə/ /no/ /ɪf/ /aɪ/ /æm/ /'pɝfɪkt/",
+		"vietnamese": "Tôi phải biết có hay không tôi hoàn hảo"
 	},
 	{
-		"chinese": "健康的",
 		"english": "healthy",
-		"soundmark": "/'hɛlθi/"
+		"soundmark": "/'hɛlθi/",
+		"vietnamese": "khỏe mạnh"
 	},
 	{
-		"chinese": "我是健康的",
 		"english": "I am healthy",
-		"soundmark": "/aɪ/ /æm/ /'hɛlθi/"
+		"soundmark": "/aɪ/ /æm/ /'hɛlθi/",
+		"vietnamese": "Tôi khỏe mạnh"
 	},
 	{
-		"chinese": "我必须知道是否我是健康的",
 		"english": "I have to know if I am healthy",
-		"soundmark": "/aɪ/ /hæv/ /tə/ /no/ /ɪf/ /aɪ/ /æm/ /'hɛlθi/"
+		"soundmark": "/aɪ/ /hæv/ /tə/ /no/ /ɪf/ /aɪ/ /æm/ /'hɛlθi/",
+		"vietnamese": "Tôi phải biết có hay không tôi khỏe mạnh"
 	},
 	{
-		"chinese": "我是",
 		"english": "I am",
-		"soundmark": "/aɪ/ /æm/"
+		"soundmark": "/aɪ/ /æm/",
+		"vietnamese": "Tôi là"
 	},
 	{
-		"chinese": "星荣",
 		"english": "Xingrong",
-		"soundmark": "/Xingrong/"
+		"soundmark": "/Xingrong/",
+		"vietnamese": "Xingrong"
 	},
 	{
-		"chinese": "我是星荣",
 		"english": "I am Xingrong",
-		"soundmark": "/aɪ/ /æm/"
+		"soundmark": "/aɪ/ /æm/",
+		"vietnamese": "Tôi là Xingrong"
 	},
 	{
-		"chinese": "这里",
 		"english": "here",
-		"soundmark": "/hɪr/"
+		"soundmark": "/hɪr/",
+		"vietnamese": "ở đây"
 	},
 	{
-		"chinese": "我在这里",
 		"english": "I am here",
-		"soundmark": "/aɪ/ /æm/ /hɪr/"
+		"soundmark": "/aɪ/ /æm/ /hɪr/",
+		"vietnamese": "Tôi ở đây"
 	},
 	{
-		"chinese": "我18岁",
 		"english": "I am eighteen",
-		"soundmark": "/aɪ/ /æm/ /e'tin/"
+		"soundmark": "/aɪ/ /æm/ /e'tin/",
+		"vietnamese": "Tôi 18 tuổi"
 	},
 	{
-		"chinese": "你",
 		"english": "you",
-		"soundmark": "/ju/"
+		"soundmark": "/ju/",
+		"vietnamese": "Bạn"
 	},
 	{
-		"chinese": "你是",
 		"english": "you are",
-		"soundmark": "/ju/ /ɚ/"
+		"soundmark": "/ju/ /ɚ/",
+		"vietnamese": "Bạn là"
 	},
 	{
-		"chinese": "重要的",
 		"english": "important",
-		"soundmark": "/ɪm'pɔrtnt/"
+		"soundmark": "/ɪm'pɔrtnt/",
+		"vietnamese": "quan trọng"
 	},
 	{
-		"chinese": "你是重要的",
 		"english": "You are important",
-		"soundmark": "/ju/ /ɚ/ /ɪm'pɔrtnt/"
+		"soundmark": "/ju/ /ɚ/ /ɪm'pɔrtnt/",
+		"vietnamese": "Bạn quan trọng"
 	},
 	{
-		"chinese": "非常",
 		"english": "very",
-		"soundmark": "/ˈvɛri/"
+		"soundmark": "/ˈvɛri/",
+		"vietnamese": "rất"
 	},
 	{
-		"chinese": "你是非常重要的",
 		"english": "You are very important",
-		"soundmark": "/ju/ /ɚ/ /ˈvɛri/ /ɪm'pɔrtnt/"
+		"soundmark": "/ju/ /ɚ/ /ˈvɛri/ /ɪm'pɔrtnt/",
+		"vietnamese": "Bạn rất quan trọng"
 	},
 	{
-		"chinese": "完美的",
 		"english": "perfect",
-		"soundmark": "/'pɝfɪkt/"
+		"soundmark": "/'pɝfɪkt/",
+		"vietnamese": "hoàn hảo"
 	},
 	{
-		"chinese": "你是完美的",
 		"english": "You are perfect",
-		"soundmark": "/ju/ /ɚ/ /'pɝfɪkt/"
+		"soundmark": "/ju/ /ɚ/ /'pɝfɪkt/",
+		"vietnamese": "Bạn hoàn hảo"
 	},
 	{
-		"chinese": "健康的",
 		"english": "healthy",
-		"soundmark": "/'hɛlθi/"
+		"soundmark": "/'hɛlθi/",
+		"vietnamese": "khỏe mạnh"
 	},
 	{
-		"chinese": "你是健康的",
 		"english": "You are healthy",
-		"soundmark": "/ju/ /ɚ/ /'hɛlθi/"
+		"soundmark": "/ju/ /ɚ/ /'hɛlθi/",
+		"vietnamese": "Bạn khỏe mạnh"
 	},
 	{
-		"chinese": "周杰伦",
 		"english": "Jay Chou",
-		"soundmark": "/dʒe/ /tʃo/"
+		"soundmark": "/dʒe/ /tʃo/",
+		"vietnamese": "Chu Kiệt Luân"
 	},
 	{
-		"chinese": "你是周杰伦",
 		"english": "You are Jay Chou",
-		"soundmark": "/ju/ /ɚ/ /dʒe/ /tʃo/"
+		"soundmark": "/ju/ /ɚ/ /dʒe/ /tʃo/",
+		"vietnamese": "Bạn là Chu Kiệt Luân"
 	},
 	{
-		"chinese": "想要知道",
 		"english": "want to know",
-		"soundmark": "/wɑnt/ /tə/ /no/"
+		"soundmark": "/wɑnt/ /tə/ /no/",
+		"vietnamese": "muốn biết"
 	},
 	{
-		"chinese": "是否",
 		"english": "if",
-		"soundmark": "/ɪf/"
+		"soundmark": "/ɪf/",
+		"vietnamese": "có hay không"
 	},
 	{
-		"chinese": "我想要知道是否你是周杰伦",
 		"english": "I want to know if you are Jay Chou",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /no/ /ɪf/ /ju/ /ɚ/ /dʒe/ /tʃo/"
+		"soundmark": "/aɪ/ /wɑnt/ /tə/ /no/ /ɪf/ /ju/ /ɚ/ /dʒe/ /tʃo/",
+		"vietnamese": "Tôi muốn biết có hay không bạn là Chu Kiệt Luân"
 	},
 	{
-		"chinese": "需要知道",
 		"english": "need to know",
-		"soundmark": "/nid/ /tə/ /no/"
+		"soundmark": "/nid/ /tə/ /no/",
+		"vietnamese": "cần biết"
 	},
 	{
-		"chinese": "你是健康的",
 		"english": "You are healthy",
-		"soundmark": "/ju/ /ɚ/ /'hɛlθi/"
+		"soundmark": "/ju/ /ɚ/ /'hɛlθi/",
+		"vietnamese": "Bạn khỏe mạnh"
 	},
 	{
-		"chinese": "我需要知道是否你是健康的",
 		"english": "I need to know if you are healthy",
-		"soundmark": "/aɪ/ /nid/ /tə/ /no/ /ɪf/ /ju/ /ɚ/ /'hɛlθi/"
+		"soundmark": "/aɪ/ /nid/ /tə/ /no/ /ɪf/ /ju/ /ɚ/ /'hɛlθi/",
+		"vietnamese": "Tôi cần biết có hay không bạn khỏe mạnh"
 	},
 	{
-		"chinese": "必须知道",
 		"english": "have to know",
-		"soundmark": "/hæv/ /tə/ /no/"
+		"soundmark": "/hæv/ /tə/ /no/",
+		"vietnamese": "phải biết"
 	},
 	{
-		"chinese": "你是完美的",
 		"english": "You are perfect",
-		"soundmark": "/ju/ /ɚ/ /'pɝfɪkt/"
+		"soundmark": "/ju/ /ɚ/ /'pɝfɪkt/",
+		"vietnamese": "Bạn hoàn hảo"
 	},
 	{
-		"chinese": "我必须知道是否你是完美的",
 		"english": "I have to know if you are perfect",
-		"soundmark": "/aɪ/ /hæv/ /tə/ /no/ /ɪf/ /ju/ /ɚ/ /'pɝfɪkt/"
+		"soundmark": "/aɪ/ /hæv/ /tə/ /no/ /ɪf/ /ju/ /ɚ/ /'pɝfɪkt/",
+		"vietnamese": "Tôi phải biết có hay không bạn hoàn hảo"
 	},
 	{
-		"chinese": "富有的",
 		"english": "rich",
-		"soundmark": "/rɪtʃ/"
+		"soundmark": "/rɪtʃ/",
+		"vietnamese": "giàu có"
 	},
 	{
-		"chinese": "他是",
 		"english": "he is",
-		"soundmark": "/hi/ /ɪz/"
+		"soundmark": "/hi/ /ɪz/",
+		"vietnamese": "Anh ấy là"
 	},
 	{
-		"chinese": "他是富有的",
 		"english": "He is rich",
-		"soundmark": "/hi/ /ɪz/ /rɪtʃ/"
+		"soundmark": "/hi/ /ɪz/ /rɪtʃ/",
+		"vietnamese": "Anh ấy giàu có"
 	},
 	{
-		"chinese": "她是",
 		"english": "she is",
-		"soundmark": "/ʃi/ /ɪz/"
+		"soundmark": "/ʃi/ /ɪz/",
+		"vietnamese": "Cô ấy là"
 	},
 	{
-		"chinese": "她是富有的",
 		"english": "She is rich",
-		"soundmark": "/ʃi/ /ɪz/ /rɪtʃ/"
+		"soundmark": "/ʃi/ /ɪz/ /rɪtʃ/",
+		"vietnamese": "Cô ấy giàu có"
 	},
 	{
-		"chinese": "完美的",
 		"english": "perfect",
-		"soundmark": "/'pɝfɪkt/"
+		"soundmark": "/'pɝfɪkt/",
+		"vietnamese": "hoàn hảo"
 	},
 	{
-		"chinese": "她是完美的",
 		"english": "She is perfect",
-		"soundmark": "/ʃi/ /ɪz/ /'pɝfɪkt/"
+		"soundmark": "/ʃi/ /ɪz/ /'pɝfɪkt/",
+		"vietnamese": "Cô ấy hoàn hảo"
 	},
 	{
-		"chinese": "它是",
 		"english": "it is",
-		"soundmark": "/ɪt/ /ɪz/"
+		"soundmark": "/ɪt/ /ɪz/",
+		"vietnamese": "Nó là"
 	},
 	{
-		"chinese": "重要的",
 		"english": "important",
-		"soundmark": "/ɪm'pɔrtnt/"
+		"soundmark": "/ɪm'pɔrtnt/",
+		"vietnamese": "quan trọng"
 	},
 	{
-		"chinese": "它是重要的",
 		"english": "It is important",
-		"soundmark": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/"
+		"soundmark": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/",
+		"vietnamese": "Nó quan trọng"
 	},
 	{
-		"chinese": "富有的",
 		"english": "rich",
-		"soundmark": "/rɪtʃ/"
+		"soundmark": "/rɪtʃ/",
+		"vietnamese": "giàu có"
 	},
 	{
-		"chinese": "我是",
 		"english": "I am",
-		"soundmark": "/aɪ/ /æm/"
+		"soundmark": "/aɪ/ /æm/",
+		"vietnamese": "Tôi là"
 	},
 	{
-		"chinese": "我是富有的",
 		"english": "I am rich",
-		"soundmark": "/aɪ/ /æm/ /rɪtʃ/"
+		"soundmark": "/aɪ/ /æm/ /rɪtʃ/",
+		"vietnamese": "Tôi giàu có"
 	},
 	{
-		"chinese": "非常",
 		"english": "very",
-		"soundmark": "/ˈvɛri/"
+		"soundmark": "/ˈvɛri/",
+		"vietnamese": "rất"
 	},
 	{
-		"chinese": "我是非常富有的",
 		"english": "I am very rich",
-		"soundmark": "/aɪ/ /æm/ /ˈvɛri/ /rɪtʃ/"
+		"soundmark": "/aɪ/ /æm/ /ˈvɛri/ /rɪtʃ/",
+		"vietnamese": "Tôi rất giàu có"
 	},
 	{
-		"chinese": "完美的",
 		"english": "perfect",
-		"soundmark": "/'pɝfɪkt/"
+		"soundmark": "/'pɝfɪkt/",
+		"vietnamese": "hoàn hảo"
 	},
 	{
-		"chinese": "你是",
 		"english": "you are",
-		"soundmark": "/ju/ /ɚ/"
+		"soundmark": "/ju/ /ɚ/",
+		"vietnamese": "Bạn là"
 	},
 	{
-		"chinese": "你是完美的",
 		"english": "You are perfect",
-		"soundmark": "/ju/ /ɚ/ /'pɝfɪkt/"
+		"soundmark": "/ju/ /ɚ/ /'pɝfɪkt/",
+		"vietnamese": "Bạn hoàn hảo"
 	},
 	{
-		"chinese": "漂亮的",
 		"english": "pretty",
-		"soundmark": "/'prɪti/"
+		"soundmark": "/'prɪti/",
+		"vietnamese": "đẹp"
 	},
 	{
-		"chinese": "你是漂亮的",
 		"english": "You are pretty",
-		"soundmark": "/ju/ /ɚ/ /'prɪti/"
+		"soundmark": "/ju/ /ɚ/ /'prɪti/",
+		"vietnamese": "Bạn đẹp"
 	},
 	{
-		"chinese": "他是漂亮的",
 		"english": "He is pretty",
-		"soundmark": "/hi/ /ɪz/ /'prɪti/"
+		"soundmark": "/hi/ /ɪz/ /'prɪti/",
+		"vietnamese": "Anh ấy đẹp"
 	},
 	{
-		"chinese": "她是漂亮的",
 		"english": "She is pretty",
-		"soundmark": "/ʃi/ /ɪz/ /'prɪti/"
+		"soundmark": "/ʃi/ /ɪz/ /'prɪti/",
+		"vietnamese": "Cô ấy đẹp"
 	},
 	{
-		"chinese": "它是漂亮的",
 		"english": "It is pretty",
-		"soundmark": "/ɪt/ /ɪz/ /'prɪti/"
+		"soundmark": "/ɪt/ /ɪz/ /'prɪti/",
+		"vietnamese": "Nó đẹp"
 	},
 	{
-		"chinese": "我是漂亮的",
 		"english": "I am pretty",
-		"soundmark": "/aɪ/ /æm/ /'prɪti/"
+		"soundmark": "/aɪ/ /æm/ /'prɪti/",
+		"vietnamese": "Tôi đẹp"
 	},
 	{
-		"chinese": "这里",
 		"english": "here",
-		"soundmark": "/hɪr/"
+		"soundmark": "/hɪr/",
+		"vietnamese": "ở đây"
 	},
 	{
-		"chinese": "在这里",
 		"english": "to be here",
-		"soundmark": "/tə/ /bi/ /hɪr/"
+		"soundmark": "/tə/ /bi/ /hɪr/",
+		"vietnamese": "ở đây"
 	},
 	{
-		"chinese": "你想要在这里",
 		"english": "You want to be here",
-		"soundmark": "/ju/ /wɑnt/ /tə/ /bi/ /hɪr/"
+		"soundmark": "/ju/ /wɑnt/ /tə/ /bi/ /hɪr/",
+		"vietnamese": "Bạn muốn ở đây"
 	},
 	{
-		"chinese": "明天",
 		"english": "tomorrow",
-		"soundmark": "/tə'mɔro/"
+		"soundmark": "/tə'mɔro/",
+		"vietnamese": "ngày mai"
 	},
 	{
-		"chinese": "你明天想要在这里",
 		"english": "You want to be here tomorrow",
-		"soundmark": "/ju/ /wɑnt/ /tə/ /bi/ /hɪr/ /tə'mɔro/"
+		"soundmark": "/ju/ /wɑnt/ /tə/ /bi/ /hɪr/ /tə'mɔro/",
+		"vietnamese": "Bạn muốn ở đây ngày mai"
 	},
 	{
-		"chinese": "见到",
 		"english": "to see",
-		"soundmark": "/tə/ /si/"
+		"soundmark": "/tə/ /si/",
+		"vietnamese": "gặp"
 	},
 	{
-		"chinese": "见到我",
 		"english": "to see me",
-		"soundmark": "/tə/ /si/ /mi/"
+		"soundmark": "/tə/ /si/ /mi/",
+		"vietnamese": "gặp tôi"
 	},
 	{
-		"chinese": "你想要见到我",
 		"english": "You want to see me",
-		"soundmark": "/ju/ /wɑnt/ /tə/ /si/ /mi/"
+		"soundmark": "/ju/ /wɑnt/ /tə/ /si/ /mi/",
+		"vietnamese": "Bạn muốn gặp tôi"
 	},
 	{
-		"chinese": "今天",
 		"english": "today",
-		"soundmark": "/tə'de/"
+		"soundmark": "/tə'de/",
+		"vietnamese": "hôm nay"
 	},
 	{
-		"chinese": "你想要今天见到我",
 		"english": "You want to see me today",
-		"soundmark": "/ju/ /wɑnt/ /tə/ /si/ /mi/ /tə'de/"
+		"soundmark": "/ju/ /wɑnt/ /tə/ /si/ /mi/ /tə'de/",
+		"vietnamese": "Bạn muốn gặp tôi hôm nay"
 	},
 	{
-		"chinese": "说话",
 		"english": "to talk",
-		"soundmark": "/tə/ /tɔk/"
+		"soundmark": "/tə/ /tɔk/",
+		"vietnamese": "nói chuyện"
 	},
 	{
-		"chinese": "和",
 		"english": "with",
-		"soundmark": "/wɪð/"
+		"soundmark": "/wɪð/",
+		"vietnamese": "và"
 	},
 	{
-		"chinese": "和我",
 		"english": "with me",
-		"soundmark": "/wɪð/ /mi/"
+		"soundmark": "/wɪð/ /mi/",
+		"vietnamese": "với tôi"
 	},
 	{
-		"chinese": "和我说话",
 		"english": "to talk with me",
-		"soundmark": "/tə/ /tɔk/ /wɪð/ /mi/"
+		"soundmark": "/tə/ /tɔk/ /wɪð/ /mi/",
+		"vietnamese": "nói chuyện với tôi"
 	},
 	{
-		"chinese": "你想要和我说话",
 		"english": "You want to talk with me",
-		"soundmark": "/ju/ /wɑnt/ /tə/ /tɔk/ /wɪð/ /mi/"
+		"soundmark": "/ju/ /wɑnt/ /tə/ /tɔk/ /wɪð/ /mi/",
+		"vietnamese": "Bạn muốn nói chuyện với tôi"
 	},
 	{
-		"chinese": "现在",
 		"english": "now",
-		"soundmark": "/naʊ/"
+		"soundmark": "/naʊ/",
+		"vietnamese": "bây giờ"
 	},
 	{
-		"chinese": "你想要现在和我说话",
 		"english": "You want to talk with me now",
-		"soundmark": "/ju/ /wɑnt/ /tə/ /tɔk/ /wɪð/ /mi/ /naʊ/"
+		"soundmark": "/ju/ /wɑnt/ /tə/ /tɔk/ /wɪð/ /mi/ /naʊ/",
+		"vietnamese": "Bạn muốn nói chuyện với tôi bây giờ"
 	},
 	{
-		"chinese": "必须做",
 		"english": "have to do",
-		"soundmark": "/hæv/ /tə/ /du/"
+		"soundmark": "/hæv/ /tə/ /du/",
+		"vietnamese": "phải làm"
 	},
 	{
-		"chinese": "你必须做这件事情",
 		"english": "You have to do it",
-		"soundmark": "/ju/ /hæv/ /tə/ /du/ /ɪt/"
+		"soundmark": "/ju/ /hæv/ /tə/ /du/ /ɪt/",
+		"vietnamese": "Bạn phải làm điều này"
 	},
 	{
-		"chinese": "每天",
 		"english": "every day",
-		"soundmark": "/'ɛvri/ /de/"
+		"soundmark": "/'ɛvri/ /de/",
+		"vietnamese": "mỗi ngày"
 	},
 	{
-		"chinese": "你必须每天做这件事情",
 		"english": "You have to do it every day",
-		"soundmark": "/ju/ /hæv/ /tə/ /du/ /ɪt/ /'ɛvri/ /de/"
+		"soundmark": "/ju/ /hæv/ /tə/ /du/ /ɪt/ /'ɛvri/ /de/",
+		"vietnamese": "Bạn phải làm điều này mỗi ngày"
 	},
 	{
-		"chinese": "帮助",
 		"english": "to help",
-		"soundmark": "/tə/ /hɛlp/"
+		"soundmark": "/tə/ /hɛlp/",
+		"vietnamese": "giúp đỡ"
 	},
 	{
-		"chinese": "我",
 		"english": "me",
-		"soundmark": "/mi/"
+		"soundmark": "/mi/",
+		"vietnamese": "Tôi"
 	},
 	{
-		"chinese": "帮助我",
 		"english": "to help me",
-		"soundmark": "/tə/ /hɛlp/ /mi/"
+		"soundmark": "/tə/ /hɛlp/ /mi/",
+		"vietnamese": "giúp đỡ tôi"
 	},
 	{
-		"chinese": "你必须帮助我",
 		"english": "You have to help me",
-		"soundmark": "/ju/ /hæv/ /tə/ /hɛlp/ /mi/"
+		"soundmark": "/ju/ /hæv/ /tə/ /hɛlp/ /mi/",
+		"vietnamese": "Bạn phải giúp đỡ tôi"
 	},
 	{
-		"chinese": "你必须现在帮助我",
 		"english": "You have to help me now",
-		"soundmark": "/ju/ /hæv/ /tə/ /hɛlp/ /mi/ /naʊ/"
+		"soundmark": "/ju/ /hæv/ /tə/ /hɛlp/ /mi/ /naʊ/",
+		"vietnamese": "Bạn phải giúp đỡ tôi bây giờ"
 	},
 	{
-		"chinese": "相信",
 		"english": "to believe",
-		"soundmark": "/tə/ /bɪ'liv/"
+		"soundmark": "/tə/ /bɪ'liv/",
+		"vietnamese": "tin"
 	},
 	{
-		"chinese": "我",
 		"english": "me",
-		"soundmark": "/mi/"
+		"soundmark": "/mi/",
+		"vietnamese": "Tôi"
 	},
 	{
-		"chinese": "相信我",
 		"english": "to believe me",
-		"soundmark": "/tə/ /bɪ'liv/ /mi/"
+		"soundmark": "/tə/ /bɪ'liv/ /mi/",
+		"vietnamese": "tin tôi"
 	},
 	{
-		"chinese": "你必须相信我",
 		"english": "You have to believe me",
-		"soundmark": "/ju/ /hæv/ /tə/ /bɪ'liv/ /mi/"
+		"soundmark": "/ju/ /hæv/ /tə/ /bɪ'liv/ /mi/",
+		"vietnamese": "Bạn phải tin tôi"
 	},
 	{
-		"chinese": "这个食物",
 		"english": "the food",
-		"soundmark": "/ðə/ /fud/"
+		"soundmark": "/ðə/ /fud/",
+		"vietnamese": "thức ăn này"
 	},
 	{
-		"chinese": "吃",
 		"english": "to eat",
-		"soundmark": "/tə/ /it/"
+		"soundmark": "/tə/ /it/",
+		"vietnamese": "ăn"
 	},
 	{
-		"chinese": "吃这个食物",
 		"english": "to eat the food",
-		"soundmark": "/tə/ /it/ /ðə/ /fud/"
+		"soundmark": "/tə/ /it/ /ðə/ /fud/",
+		"vietnamese": "ăn thức ăn này"
 	},
 	{
-		"chinese": "你需要吃这个食物",
 		"english": "You need to eat the food",
-		"soundmark": "/ju/ /nid/ /tə/ /it/ /ðə/ /fud/"
+		"soundmark": "/ju/ /nid/ /tə/ /it/ /ðə/ /fud/",
+		"vietnamese": "Bạn cần ăn thức ăn này"
 	},
 	{
-		"chinese": "你需要现在吃这个食物",
 		"english": "You need to eat the food now",
-		"soundmark": "/ju/ /nid/ /tə/ /it/ /ðə/ /fud/ /naʊ/"
+		"soundmark": "/ju/ /nid/ /tə/ /it/ /ðə/ /fud/ /naʊ/",
+		"vietnamese": "Bạn cần ăn thức ăn này bây giờ"
 	},
 	{
-		"chinese": "告诉",
 		"english": "to tell",
-		"soundmark": "/tə/ /tɛl/"
+		"soundmark": "/tə/ /tɛl/",
+		"vietnamese": "nói"
 	},
 	{
-		"chinese": "告诉我",
 		"english": "to tell me",
-		"soundmark": "/tə/ /tɛl/ /mi/"
+		"soundmark": "/tə/ /tɛl/ /mi/",
+		"vietnamese": "nói với tôi"
 	},
 	{
-		"chinese": "事实",
 		"english": "the truth",
-		"soundmark": "/ðə/ /trʊθ/"
+		"soundmark": "/ðə/ /trʊθ/",
+		"vietnamese": "sự thật"
 	},
 	{
-		"chinese": "告诉我事实",
 		"english": "to tell me the truth",
-		"soundmark": "/tə/ /tɛl/ /mi/ /ðə/ /trʊθ/"
+		"soundmark": "/tə/ /tɛl/ /mi/ /ðə/ /trʊθ/",
+		"vietnamese": "nói sự thật với tôi"
 	},
 	{
-		"chinese": "你需要告诉我事实",
 		"english": "You need to tell me the truth",
-		"soundmark": "/ju/ /nid/ /tə/ /tɛl/ /mi/ /ðə/ /trʊθ/"
+		"soundmark": "/ju/ /nid/ /tə/ /tɛl/ /mi/ /ðə/ /trʊθ/",
+		"vietnamese": "Bạn cần nói sự thật với tôi"
 	},
 	{
-		"chinese": "知道；认识",
 		"english": "to know",
-		"soundmark": "/tə/ /no/"
+		"soundmark": "/tə/ /no/",
+		"vietnamese": "biết"
 	},
 	{
-		"chinese": "事实",
 		"english": "the truth",
-		"soundmark": "/ðə/ /trʊθ/"
+		"soundmark": "/ðə/ /trʊθ/",
+		"vietnamese": "sự thật"
 	},
 	{
-		"chinese": "知道事实",
 		"english": "to know the truth",
-		"soundmark": "/tə/ /no/ /ðə/ /trʊθ/"
+		"soundmark": "/tə/ /no/ /ðə/ /trʊθ/",
+		"vietnamese": "biết sự thật"
 	},
 	{
-		"chinese": "你需要知道事实",
 		"english": "You need to know the truth",
-		"soundmark": "/ju/ /nid/ /tə/ /no/ /ðə/ /trʊθ/"
+		"soundmark": "/ju/ /nid/ /tə/ /no/ /ðə/ /trʊθ/",
+		"vietnamese": "Bạn cần biết sự thật"
 	},
 	{
-		"chinese": "和我说话",
 		"english": "to talk with me",
-		"soundmark": "/tə/ /tɔk/ /wɪð/ /mi/"
+		"soundmark": "/tə/ /tɔk/ /wɪð/ /mi/",
+		"vietnamese": "nói chuyện với tôi"
 	},
 	{
-		"chinese": "你喜欢和我说话",
 		"english": "You like to talk with me",
-		"soundmark": "/ju/ /laɪk/ /tə/ /tɔk/ /wɪð/ /mi/"
+		"soundmark": "/ju/ /laɪk/ /tə/ /tɔk/ /wɪð/ /mi/",
+		"vietnamese": "Bạn thích nói chuyện với tôi"
 	},
 	{
-		"chinese": "每天",
 		"english": "every day",
-		"soundmark": "/'ɛvri/ /de/"
+		"soundmark": "/'ɛvri/ /de/",
+		"vietnamese": "mỗi ngày"
 	},
 	{
-		"chinese": "你喜欢每天和我说话",
 		"english": "You like to talk with me every day",
-		"soundmark": "/ju/ /laɪk/ /tə/ /tɔk/ /wɪð/ /mi/ /'ɛvri/ /de/"
+		"soundmark": "/ju/ /laɪk/ /tə/ /tɔk/ /wɪð/ /mi/ /'ɛvri/ /de/",
+		"vietnamese": "Bạn thích nói chuyện với tôi mỗi ngày"
 	},
 	{
-		"chinese": "在这里",
 		"english": "to be here",
-		"soundmark": "/tə/ /bi/ /hɪr/"
+		"soundmark": "/tə/ /bi/ /hɪr/",
+		"vietnamese": "ở đây"
 	},
 	{
-		"chinese": "你喜欢在这里",
 		"english": "You like to be here",
-		"soundmark": "/ju/ /laɪk/ /tə/ /bi/ /hɪr/"
+		"soundmark": "/ju/ /laɪk/ /tə/ /bi/ /hɪr/",
+		"vietnamese": "Bạn thích ở đây"
 	},
 	{
-		"chinese": "每天",
 		"english": "every day",
-		"soundmark": "/'ɛvri/ /de/"
+		"soundmark": "/'ɛvri/ /de/",
+		"vietnamese": "mỗi ngày"
 	},
 	{
-		"chinese": "你喜欢每天在这里",
 		"english": "You like to be here every day",
-		"soundmark": "/ju/ /laɪk/ /tə/ /bi/ /hɪr/ /'ɛvri/ /de/"
+		"soundmark": "/ju/ /laɪk/ /tə/ /bi/ /hɪr/ /'ɛvri/ /de/",
+		"vietnamese": "Bạn thích ở đây mỗi ngày"
 	},
 	{
-		"chinese": "学习",
 		"english": "to study",
-		"soundmark": "/tə/ /'stʌdi/"
+		"soundmark": "/tə/ /'stʌdi/",
+		"vietnamese": "học"
 	},
 	{
-		"chinese": "你喜欢学习",
 		"english": "You like to study",
-		"soundmark": "/ju/ /laɪk/ /tə/ /'stʌdi/"
+		"soundmark": "/ju/ /laɪk/ /tə/ /'stʌdi/",
+		"vietnamese": "Bạn thích học"
 	},
 	{
-		"chinese": "你喜欢每天学习",
 		"english": "You like to study every day",
-		"soundmark": "/ju/ /laɪk/ /tə/ /'stʌdi/ /'ɛvri/ /de/"
+		"soundmark": "/ju/ /laɪk/ /tə/ /'stʌdi/ /'ɛvri/ /de/",
+		"vietnamese": "Bạn thích học mỗi ngày"
 	},
 	{
-		"chinese": "告诉",
 		"english": "to tell",
-		"soundmark": "/tə/ /tɛl/"
+		"soundmark": "/tə/ /tɛl/",
+		"vietnamese": "nói"
 	},
 	{
-		"chinese": "告诉我",
 		"english": "to tell me",
-		"soundmark": "/tə/ /tɛl/ /mi/"
+		"soundmark": "/tə/ /tɛl/ /mi/",
+		"vietnamese": "nói với tôi"
 	},
 	{
-		"chinese": "事实",
 		"english": "the truth",
-		"soundmark": "/ðə/ /trʊθ/"
+		"soundmark": "/ðə/ /trʊθ/",
+		"vietnamese": "sự thật"
 	},
 	{
-		"chinese": "告诉我事实",
 		"english": "to tell me the truth",
-		"soundmark": "/tə/ /tɛl/ /mi/ /ðə/ /trʊθ/"
+		"soundmark": "/tə/ /tɛl/ /mi/ /ðə/ /trʊθ/",
+		"vietnamese": "nói sự thật với tôi"
 	},
 	{
-		"chinese": "你想要告诉我事实",
 		"english": "You want to tell me the truth",
-		"soundmark": "/ju/ /wɑnt/ /tə/ /tɛl/ /mi/ /ðə/ /trʊθ/"
+		"soundmark": "/ju/ /wɑnt/ /tə/ /tɛl/ /mi/ /ðə/ /trʊθ/",
+		"vietnamese": "Bạn muốn nói sự thật với tôi"
 	},
 	{
-		"chinese": "你必须告诉我事实",
 		"english": "You have to tell me the truth",
-		"soundmark": "/ju/ /hæv/ /tə/ /tɛl/ /mi/ /ðə/ /trʊθ/"
+		"soundmark": "/ju/ /hæv/ /tə/ /tɛl/ /mi/ /ðə/ /trʊθ/",
+		"vietnamese": "Bạn phải nói sự thật với tôi"
 	},
 	{
-		"chinese": "重要的",
 		"english": "important",
-		"soundmark": "/ɪm'pɔrtnt/"
+		"soundmark": "/ɪm'pɔrtnt/",
+		"vietnamese": "quan trọng"
 	},
 	{
-		"chinese": "它是重要的",
 		"english": "It is important",
-		"soundmark": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/"
+		"soundmark": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/",
+		"vietnamese": "Nó quan trọng"
 	},
 	{
-		"chinese": "因为",
 		"english": "because",
-		"soundmark": "/bɪ'kɔz/"
+		"soundmark": "/bɪ'kɔz/",
+		"vietnamese": "bởi vì"
 	},
 	{
-		"chinese": "你必须告诉我事实因为它是重要的",
 		"english": "You have to tell me the truth because it is important",
-		"soundmark": "/ju/ /hæv/ /tə/ /tɛl/ /mi/ /ðə/ /trʊθ/ /bɪ'kɔz/ /ɪt/ /ɪz/ /ɪm'pɔrtnt/"
+		"soundmark": "/ju/ /hæv/ /tə/ /tɛl/ /mi/ /ðə/ /trʊθ/ /bɪ'kɔz/ /ɪt/ /ɪz/ /ɪm'pɔrtnt/",
+		"vietnamese": "Bạn phải nói sự thật với tôi bởi vì nó quan trọng"
 	},
 	{
-		"chinese": "知道；认识",
 		"english": "to know",
-		"soundmark": "/tə/ /no/"
+		"soundmark": "/tə/ /no/",
+		"vietnamese": "biết"
 	},
 	{
-		"chinese": "你想要知道",
 		"english": "You want to know",
-		"soundmark": "/ju/ /wɑnt/ /tə/ /no/"
+		"soundmark": "/ju/ /wɑnt/ /tə/ /no/",
+		"vietnamese": "Bạn muốn biết"
 	},
 	{
-		"chinese": "是否",
 		"english": "if",
-		"soundmark": "/ɪf/"
+		"soundmark": "/ɪf/",
+		"vietnamese": "có hay không"
 	},
 	{
-		"chinese": "它是重要的",
 		"english": "It is important",
-		"soundmark": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/"
+		"soundmark": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/",
+		"vietnamese": "Nó quan trọng"
 	},
 	{
-		"chinese": "你想要知道是否它是重要的",
 		"english": "You want to know if it is important",
-		"soundmark": "/ju/ /wɑnt/ /tə/ /no/ /ɪf/ /ɪt/ /ɪz/ /ɪm'pɔrtnt/"
+		"soundmark": "/ju/ /wɑnt/ /tə/ /no/ /ɪf/ /ɪt/ /ɪz/ /ɪm'pɔrtnt/",
+		"vietnamese": "Bạn muốn biết có hay không nó quan trọng"
 	},
 	{
-		"chinese": "它是可能的",
 		"english": "it is possible",
-		"soundmark": "/ɪt/ /ɪz/ /'pɑsəbl/"
+		"soundmark": "/ɪt/ /ɪz/ /'pɑsəbl/",
+		"vietnamese": "Nó có thể"
 	},
 	{
-		"chinese": "你想要知道是否它是可能的",
 		"english": "You want to know if it is possible",
-		"soundmark": "/ju/ /wɑnt/ /tə/ /no/ /ɪf/ /ɪt/ /ɪz/ /'pɑsəbl/"
+		"soundmark": "/ju/ /wɑnt/ /tə/ /no/ /ɪf/ /ɪt/ /ɪz/ /'pɑsəbl/",
+		"vietnamese": "Bạn muốn biết có hay không nó có thể"
 	},
 	{
-		"chinese": "好的",
 		"english": "good",
-		"soundmark": "/ɡʊd/"
+		"soundmark": "/ɡʊd/",
+		"vietnamese": "tốt"
 	},
 	{
-		"chinese": "重要的",
 		"english": "important",
-		"soundmark": "/ɪm'pɔrtnt/"
+		"soundmark": "/ɪm'pɔrtnt/",
+		"vietnamese": "quan trọng"
 	},
 	{
-		"chinese": "完美的",
 		"english": "perfect",
-		"soundmark": "/'pɝfɪkt/"
+		"soundmark": "/'pɝfɪkt/",
+		"vietnamese": "hoàn hảo"
 	},
 	{
-		"chinese": "富有的",
 		"english": "rich",
-		"soundmark": "/rɪtʃ/"
+		"soundmark": "/rɪtʃ/",
+		"vietnamese": "giàu có"
 	},
 	{
-		"chinese": "我是",
 		"english": "I am",
-		"soundmark": "/aɪ/ /æm/"
+		"soundmark": "/aɪ/ /æm/",
+		"vietnamese": "Tôi là"
 	},
 	{
-		"chinese": "你是",
 		"english": "you are",
-		"soundmark": "/ju/ /ɚ/"
+		"soundmark": "/ju/ /ɚ/",
+		"vietnamese": "Bạn là"
 	},
 	{
-		"chinese": "它是",
 		"english": "it is",
-		"soundmark": "/ɪt/ /ɪz/"
+		"soundmark": "/ɪt/ /ɪz/",
+		"vietnamese": "Nó là"
 	},
 	{
-		"chinese": "他是",
 		"english": "he is",
-		"soundmark": "/hi/ /ɪz/"
+		"soundmark": "/hi/ /ɪz/",
+		"vietnamese": "Anh ấy là"
 	},
 	{
-		"chinese": "她是",
 		"english": "she is",
-		"soundmark": "/ʃi/ /ɪz/"
+		"soundmark": "/ʃi/ /ɪz/",
+		"vietnamese": "Cô ấy là"
 	},
 	{
-		"chinese": "你喜欢做这件事",
 		"english": "you like to do it",
-		"soundmark": "/ju/ /laɪk/ /tə/ /du/ /ɪt/"
+		"soundmark": "/ju/ /laɪk/ /tə/ /du/ /ɪt/",
+		"vietnamese": "Bạn thích làm điều này"
 	},
 	{
-		"chinese": "你需要做这件事",
 		"english": "you need to do it",
-		"soundmark": "/ju/ /nid/ /tə/ /du/ /ɪt/"
+		"soundmark": "/ju/ /nid/ /tə/ /du/ /ɪt/",
+		"vietnamese": "Bạn cần làm điều này"
 	},
 	{
-		"chinese": "你必须做这件事情",
 		"english": "you have to do it",
-		"soundmark": "/ju/ /hæv/ /tə/ /du/ /ɪt/"
+		"soundmark": "/ju/ /hæv/ /tə/ /du/ /ɪt/",
+		"vietnamese": "Bạn phải làm điều này"
 	},
 	{
-		"chinese": "你想要做这件事",
 		"english": "you want to do it",
-		"soundmark": "/ju/ /wɑnt/ /tə/ /du/ /ɪt/"
+		"soundmark": "/ju/ /wɑnt/ /tə/ /du/ /ɪt/",
+		"vietnamese": "Bạn muốn làm điều này"
 	},
 	{
-		"chinese": "帮助",
 		"english": "to help",
-		"soundmark": "/tə/ /hɛlp/"
+		"soundmark": "/tə/ /hɛlp/",
+		"vietnamese": "giúp đỡ"
 	},
 	{
-		"chinese": "相信",
 		"english": "to believe",
-		"soundmark": "/tə/ /bɪ'liv/"
+		"soundmark": "/tə/ /bɪ'liv/",
+		"vietnamese": "tin"
 	},
 	{
-		"chinese": "说话",
 		"english": "to talk",
-		"soundmark": "/tə/ /tɔk/"
+		"soundmark": "/tə/ /tɔk/",
+		"vietnamese": "nói chuyện"
 	},
 	{
-		"chinese": "学习",
 		"english": "to study",
-		"soundmark": "/tə/ /'stʌdi/"
+		"soundmark": "/tə/ /'stʌdi/",
+		"vietnamese": "học"
 	},
 	{
-		"chinese": "告诉",
 		"english": "to tell",
-		"soundmark": "/tə/ /tɛl/"
+		"soundmark": "/tə/ /tɛl/",
+		"vietnamese": "nói"
 	}
 ]

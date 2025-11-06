@@ -1,752 +1,752 @@
 [
 	{
-		"chinese": "手",
 		"english": "hand",
-		"soundmark": "/hænd/"
+		"soundmark": "/hænd/",
+		"vietnamese": "[VI:手]"
 	},
 	{
-		"chinese": "递给",
 		"english": "to hand",
-		"soundmark": "/tə/ /hænd/"
+		"soundmark": "/tə/ /hænd/",
+		"vietnamese": "[VI:递给]"
 	},
 	{
-		"chinese": "握；牵",
 		"english": "to hold",
-		"soundmark": "/tə/ /hold/"
+		"soundmark": "/tə/ /hold/",
+		"vietnamese": "[VI:握；牵]"
 	},
 	{
-		"chinese": "手",
 		"english": "hand",
-		"soundmark": "/hænd/"
+		"soundmark": "/hænd/",
+		"vietnamese": "[VI:手]"
 	},
 	{
-		"chinese": "我的",
 		"english": "my",
-		"soundmark": "/maɪ/"
+		"soundmark": "/maɪ/",
+		"vietnamese": "Tôi的"
 	},
 	{
-		"chinese": "我的手",
 		"english": "my hand",
-		"soundmark": "/maɪ/ /hænd/"
+		"soundmark": "/maɪ/ /hænd/",
+		"vietnamese": "Tôi的手"
 	},
 	{
-		"chinese": "牵我的手",
 		"english": "to hold my hand",
-		"soundmark": "/tə/ /hold/ /maɪ/ /hænd/"
+		"soundmark": "/tə/ /hold/ /maɪ/ /hænd/",
+		"vietnamese": "牵Tôi的手"
 	},
 	{
-		"chinese": "想要",
 		"english": "want",
-		"soundmark": "/wɑnt/"
+		"soundmark": "/wɑnt/",
+		"vietnamese": "muốn"
 	},
 	{
-		"chinese": "我想要你",
 		"english": "I want you",
-		"soundmark": "/aɪ/ /wɑnt/ /ju/"
+		"soundmark": "/aɪ/ /wɑnt/ /ju/",
+		"vietnamese": "Tôi muốnBạn"
 	},
 	{
-		"chinese": "牵我的手",
 		"english": "to hold my hand",
-		"soundmark": "/tə/ /hold/ /maɪ/ /hænd/"
+		"soundmark": "/tə/ /hold/ /maɪ/ /hænd/",
+		"vietnamese": "牵Tôi的手"
 	},
 	{
-		"chinese": "我想要你牵我的手",
 		"english": "I want you to hold my hand",
-		"soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /hold/ /maɪ/ /hænd/"
+		"soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /hold/ /maɪ/ /hænd/",
+		"vietnamese": "Tôi muốnBạn牵Tôi的手"
 	},
 	{
-		"chinese": "握；牵",
 		"english": "to hold",
-		"soundmark": "/tə/ /hold/"
+		"soundmark": "/tə/ /hold/",
+		"vietnamese": "[VI:握；牵]"
 	},
 	{
-		"chinese": "牵（ing形式）",
 		"english": "holding",
-		"soundmark": "/'holdɪŋ/"
+		"soundmark": "/'holdɪŋ/",
+		"vietnamese": "[VI:牵（ing形式）]"
 	},
 	{
-		"chinese": "是；赋值(原型)",
 		"english": "be",
-		"soundmark": "/bi/"
+		"soundmark": "/bi/",
+		"vietnamese": "là；赋值(原型)"
 	},
 	{
-		"chinese": "正在牵着",
 		"english": "be holding",
-		"soundmark": "/bi/ /'holdɪŋ/"
+		"soundmark": "/bi/ /'holdɪŋ/",
+		"vietnamese": "[VI:正在牵着]"
 	},
 	{
-		"chinese": "我",
 		"english": "I",
-		"soundmark": "/aɪ/"
+		"soundmark": "/aɪ/",
+		"vietnamese": "Tôi"
 	},
 	{
-		"chinese": "我（现在）正在牵着",
 		"english": "I am holding",
-		"soundmark": "/aɪ/ /æm/ /'holdɪŋ/"
+		"soundmark": "/aɪ/ /æm/ /'holdɪŋ/",
+		"vietnamese": "Tôi（bây giờ）正在牵着"
 	},
 	{
-		"chinese": "你的",
 		"english": "your",
-		"soundmark": "/jʊr/"
+		"soundmark": "/jʊr/",
+		"vietnamese": "Bạn的"
 	},
 	{
-		"chinese": "你的手",
 		"english": "your hand",
-		"soundmark": "/jʊr/ /hænd/"
+		"soundmark": "/jʊr/ /hænd/",
+		"vietnamese": "Bạn的手"
 	},
 	{
-		"chinese": "我（现在）正在牵着你的手",
 		"english": "I am holding your hand",
-		"soundmark": "/aɪ/ /æm/ /'holdɪŋ/ /jʊr/ /hænd/"
+		"soundmark": "/aɪ/ /æm/ /'holdɪŋ/ /jʊr/ /hænd/",
+		"vietnamese": "Tôi（bây giờ）正在牵着Bạn的手"
 	},
 	{
-		"chinese": "刀",
 		"english": "knife",
-		"soundmark": "/naɪf/"
+		"soundmark": "/naɪf/",
+		"vietnamese": "[VI:刀]"
 	},
 	{
-		"chinese": "我（现在）正在握着",
 		"english": "I am holding",
-		"soundmark": "/aɪ/ /æm/ /'holdɪŋ/"
+		"soundmark": "/aɪ/ /æm/ /'holdɪŋ/",
+		"vietnamese": "Tôi（bây giờ）正在握着"
 	},
 	{
-		"chinese": "我（现在）正在握着一把刀",
 		"english": "I am holding a knife",
-		"soundmark": "/aɪ/ /æm/ /'holdɪŋ/ /ə/ /naɪf/"
+		"soundmark": "/aɪ/ /æm/ /'holdɪŋ/ /ə/ /naɪf/",
+		"vietnamese": "Tôi（bây giờ）正在握着一把刀"
 	},
 	{
-		"chinese": "我的手",
 		"english": "my hand",
-		"soundmark": "/maɪ/ /hænd/"
+		"soundmark": "/maɪ/ /hænd/",
+		"vietnamese": "Tôi的手"
 	},
 	{
-		"chinese": "在......里",
 		"english": "in",
-		"soundmark": "/ɪn/"
+		"soundmark": "/ɪn/",
+		"vietnamese": "[VI:在......里]"
 	},
 	{
-		"chinese": "在我的手里",
 		"english": "in my hand",
-		"soundmark": "/ɪn/ /maɪ/ /hænd/"
+		"soundmark": "/ɪn/ /maɪ/ /hænd/",
+		"vietnamese": "在Tôi的手里"
 	},
 	{
-		"chinese": "我（现在）正在在我的手里握着一把刀",
 		"english": "I am holding a knife in my hand",
-		"soundmark": "/aɪ/ /æm/ /'holdɪŋ/ /ə/ /naɪf/ /ɪn/ /maɪ/ /hænd/"
+		"soundmark": "/aɪ/ /æm/ /'holdɪŋ/ /ə/ /naɪf/ /ɪn/ /maɪ/ /hænd/",
+		"vietnamese": "Tôi（bây giờ）正在在我的手里握着一把刀"
 	},
 	{
-		"chinese": "右",
 		"english": "right",
-		"soundmark": "/raɪt/"
+		"soundmark": "/raɪt/",
+		"vietnamese": "[VI:右]"
 	},
 	{
-		"chinese": "右手",
 		"english": "right hand",
-		"soundmark": "/raɪt/ /hænd/"
+		"soundmark": "/raɪt/ /hænd/",
+		"vietnamese": "[VI:右手]"
 	},
 	{
-		"chinese": "在我的右手里",
 		"english": "in my right hand",
-		"soundmark": "/ɪn/ /maɪ/ /raɪt/ /hænd/"
+		"soundmark": "/ɪn/ /maɪ/ /raɪt/ /hænd/",
+		"vietnamese": "在Tôi的右手里"
 	},
 	{
-		"chinese": "我（现在）正在握着一把刀",
 		"english": "I am holding a knife",
-		"soundmark": "/aɪ/ /æm/ /'holdɪŋ/ /ə/ /naɪf/"
+		"soundmark": "/aɪ/ /æm/ /'holdɪŋ/ /ə/ /naɪf/",
+		"vietnamese": "Tôi（bây giờ）正在握着一把刀"
 	},
 	{
-		"chinese": "我（现在）正在在我的右手里握着一把刀",
 		"english": "I am holding a knife in my right hand",
-		"soundmark": "/aɪ/ /æm/ /'holdɪŋ/ /ə/ /naɪf/ /ɪn/ /maɪ/ /raɪt/ /hænd/"
+		"soundmark": "/aɪ/ /æm/ /'holdɪŋ/ /ə/ /naɪf/ /ɪn/ /maɪ/ /raɪt/ /hænd/",
+		"vietnamese": "Tôi（bây giờ）正在在我的右手里握着一把刀"
 	},
 	{
-		"chinese": "叉子",
 		"english": "fork",
-		"soundmark": "/fɔrk/"
+		"soundmark": "/fɔrk/",
+		"vietnamese": "[VI:叉子]"
 	},
 	{
-		"chinese": "我（现在）正在握着",
 		"english": "I am holding",
-		"soundmark": "/aɪ/ /æm/ /'holdɪŋ/"
+		"soundmark": "/aɪ/ /æm/ /'holdɪŋ/",
+		"vietnamese": "Tôi（bây giờ）正在握着"
 	},
 	{
-		"chinese": "我（现在）正在握着一把叉子",
 		"english": "I am holding a fork",
-		"soundmark": "/aɪ/ /æm/ /'holdɪŋ/ /ə/ /fɔrk/"
+		"soundmark": "/aɪ/ /æm/ /'holdɪŋ/ /ə/ /fɔrk/",
+		"vietnamese": "Tôi（bây giờ）正在握着一把叉子"
 	},
 	{
-		"chinese": "在我的手里",
 		"english": "in my hand",
-		"soundmark": "/ɪn/ /maɪ/ /hænd/"
+		"soundmark": "/ɪn/ /maɪ/ /hænd/",
+		"vietnamese": "在Tôi的手里"
 	},
 	{
-		"chinese": "左",
 		"english": "left",
-		"soundmark": "/lɛft/"
+		"soundmark": "/lɛft/",
+		"vietnamese": "[VI:左]"
 	},
 	{
-		"chinese": "在我的左手里",
 		"english": "in my left hand",
-		"soundmark": "/ɪn/ /maɪ/ /lɛft/ /hænd/"
+		"soundmark": "/ɪn/ /maɪ/ /lɛft/ /hænd/",
+		"vietnamese": "在Tôi的左手里"
 	},
 	{
-		"chinese": "我（现在）正在握着一把叉子",
 		"english": "I am holding a fork",
-		"soundmark": "/aɪ/ /æm/ /'holdɪŋ/ /ə/ /fɔrk/"
+		"soundmark": "/aɪ/ /æm/ /'holdɪŋ/ /ə/ /fɔrk/",
+		"vietnamese": "Tôi（bây giờ）正在握着一把叉子"
 	},
 	{
-		"chinese": "我（现在）正在在我的左手里握着一把叉子",
 		"english": "I am holding a fork in my left hand",
-		"soundmark": "/aɪ/ /æm/ /'holdɪŋ/ /ə/ /fɔrk/ /ɪn/ /maɪ/ /lɛft/ /hænd/"
+		"soundmark": "/aɪ/ /æm/ /'holdɪŋ/ /ə/ /fɔrk/ /ɪn/ /maɪ/ /lɛft/ /hænd/",
+		"vietnamese": "Tôi（bây giờ）正在在我的左手里握着一把叉子"
 	},
 	{
-		"chinese": "人",
 		"english": "people",
-		"soundmark": "/'pipl/"
+		"soundmark": "/'pipl/",
+		"vietnamese": "[VI:人]"
 	},
 	{
-		"chinese": "四个",
 		"english": "four",
-		"soundmark": "/fɔr/"
+		"soundmark": "/fɔr/",
+		"vietnamese": "[VI:四个]"
 	},
 	{
-		"chinese": "四个人",
 		"english": "four people",
-		"soundmark": "/fɔr/ /'pipl/"
+		"soundmark": "/fɔr/ /'pipl/",
+		"vietnamese": "[VI:四个人]"
 	},
 	{
-		"chinese": "汽车",
 		"english": "car",
-		"soundmark": "/kɑr/"
+		"soundmark": "/kɑr/",
+		"vietnamese": "[VI:汽车]"
 	},
 	{
-		"chinese": "这辆车",
 		"english": "this car",
-		"soundmark": "/ðɪs/ /kɑr/"
+		"soundmark": "/ðɪs/ /kɑr/",
+		"vietnamese": "[VI:这辆车]"
 	},
 	{
-		"chinese": "握；容纳",
 		"english": "to hold",
-		"soundmark": "/tə/ /hold/"
+		"soundmark": "/tə/ /hold/",
+		"vietnamese": "[VI:握；容纳]"
 	},
 	{
-		"chinese": "容纳四个人",
 		"english": "to hold four people",
-		"soundmark": "/tə/ /hold/ /fɔr/ /'pipl/"
+		"soundmark": "/tə/ /hold/ /fɔr/ /'pipl/",
+		"vietnamese": "[VI:容纳四个人]"
 	},
 	{
-		"chinese": "可以",
 		"english": "can",
-		"soundmark": "/kæn/"
+		"soundmark": "/kæn/",
+		"vietnamese": "[VI:可以]"
 	},
 	{
-		"chinese": "这辆汽车可以容纳四个人",
 		"english": "this car can hold four people",
-		"soundmark": "/ðɪs/ /kɑr/ /kæn/ /hold/ /fɔr/ /'pipl/"
+		"soundmark": "/ðɪs/ /kɑr/ /kæn/ /hold/ /fɔr/ /'pipl/",
+		"vietnamese": "[VI:这辆汽车可以容纳四个人]"
 	},
 	{
-		"chinese": "不可以",
 		"english": "can't",
-		"soundmark": "/kænt/"
+		"soundmark": "/kænt/",
+		"vietnamese": "không可以"
 	},
 	{
-		"chinese": "这辆汽车不可以容纳四个人",
 		"english": "this car can't hold four people",
-		"soundmark": "/ðɪs/ /kɑr/ /kænt/ /hold/ /fɔr/ /'pipl/"
+		"soundmark": "/ðɪs/ /kɑr/ /kænt/ /hold/ /fɔr/ /'pipl/",
+		"vietnamese": "这辆汽车không可以容纳四个人"
 	},
 	{
-		"chinese": "人",
 		"english": "people",
-		"soundmark": "/'pipl/"
+		"soundmark": "/'pipl/",
+		"vietnamese": "[VI:人]"
 	},
 	{
-		"chinese": "十个",
 		"english": "ten",
-		"soundmark": "/tɛn/"
+		"soundmark": "/tɛn/",
+		"vietnamese": "[VI:十个]"
 	},
 	{
-		"chinese": "十个人",
 		"english": "ten people",
-		"soundmark": "/tɛn/ /'pipl/"
+		"soundmark": "/tɛn/ /'pipl/",
+		"vietnamese": "[VI:十个人]"
 	},
 	{
-		"chinese": "握；容纳",
 		"english": "to hold",
-		"soundmark": "/tə/ /hold/"
+		"soundmark": "/tə/ /hold/",
+		"vietnamese": "[VI:握；容纳]"
 	},
 	{
-		"chinese": "容纳十个人",
 		"english": "to hold ten people",
-		"soundmark": "/tə/ /hold/ /tɛn/ /'pipl/"
+		"soundmark": "/tə/ /hold/ /tɛn/ /'pipl/",
+		"vietnamese": "[VI:容纳十个人]"
 	},
 	{
-		"chinese": "房间",
 		"english": "room",
-		"soundmark": "/rum/"
+		"soundmark": "/rum/",
+		"vietnamese": "[VI:房间]"
 	},
 	{
-		"chinese": "这个房间",
 		"english": "this room",
-		"soundmark": "/ðɪs/ /rum/"
+		"soundmark": "/ðɪs/ /rum/",
+		"vietnamese": "[VI:这个房间]"
 	},
 	{
-		"chinese": "可以",
 		"english": "can",
-		"soundmark": "/kæn/"
+		"soundmark": "/kæn/",
+		"vietnamese": "[VI:可以]"
 	},
 	{
-		"chinese": "这个房间可以容纳十个人",
 		"english": "this room can hold ten people",
-		"soundmark": "/ðɪs/ /rum/ /kæn/ /hold/ /tɛn/ /'pipl/"
+		"soundmark": "/ðɪs/ /rum/ /kæn/ /hold/ /tɛn/ /'pipl/",
+		"vietnamese": "[VI:这个房间可以容纳十个人]"
 	},
 	{
-		"chinese": "不可以",
 		"english": "can't",
-		"soundmark": "/kænt/"
+		"soundmark": "/kænt/",
+		"vietnamese": "không可以"
 	},
 	{
-		"chinese": "这个房间不可以容纳十个人",
 		"english": "this room can't hold ten people",
-		"soundmark": "/ðɪs/ /rum/ /kænt/ /hold/ /tɛn/ /'pipl/"
+		"soundmark": "/ðɪs/ /rum/ /kænt/ /hold/ /tɛn/ /'pipl/",
+		"vietnamese": "这个房间không可以容纳十个人"
 	},
 	{
-		"chinese": "这个房间",
 		"english": "this room",
-		"soundmark": "/ðɪs/ /rum/"
+		"soundmark": "/ðɪs/ /rum/",
+		"vietnamese": "[VI:这个房间]"
 	},
 	{
-		"chinese": "大的",
 		"english": "big",
-		"soundmark": "/bɪɡ/"
+		"soundmark": "/bɪɡ/",
+		"vietnamese": "[VI:大的]"
 	},
 	{
-		"chinese": "是",
 		"english": "is",
-		"soundmark": "/ɪz/"
+		"soundmark": "/ɪz/",
+		"vietnamese": "là"
 	},
 	{
-		"chinese": "这个房间是大的",
 		"english": "this room is big",
-		"soundmark": "/ðɪs/ /rum/ /ɪz/ /bɪɡ/"
+		"soundmark": "/ðɪs/ /rum/ /ɪz/ /bɪɡ/",
+		"vietnamese": "这个房间là大的"
 	},
 	{
-		"chinese": "容纳十个人",
 		"english": "to hold ten people",
-		"soundmark": "/tə/ /hold/ /tɛn/ /'pipl/"
+		"soundmark": "/tə/ /hold/ /tɛn/ /'pipl/",
+		"vietnamese": "[VI:容纳十个人]"
 	},
 	{
-		"chinese": "足够",
 		"english": "enough",
-		"soundmark": "/ɪ'nʌf/"
+		"soundmark": "/ɪ'nʌf/",
+		"vietnamese": "[VI:足够]"
 	},
 	{
-		"chinese": "足够容纳十个人",
 		"english": "enough to hold ten people",
-		"soundmark": "/ɪ'nʌf/ /tə/ /hold/ /tɛn/ /'pipl/"
+		"soundmark": "/ɪ'nʌf/ /tə/ /hold/ /tɛn/ /'pipl/",
+		"vietnamese": "[VI:足够容纳十个人]"
 	},
 	{
-		"chinese": "这个房间是大的",
 		"english": "this room is big",
-		"soundmark": "/ðɪs/ /rum/ /ɪz/ /bɪɡ/"
+		"soundmark": "/ðɪs/ /rum/ /ɪz/ /bɪɡ/",
+		"vietnamese": "这个房间là大的"
 	},
 	{
-		"chinese": "这个房间是大的（大到）足够容纳十个人",
 		"english": "this room is big enough to hold ten people",
-		"soundmark": "/ðɪs/ /rum/ /ɪz/ /bɪɡ/ /ɪ'nʌf/ /tə/ /hold/ /tɛn/ /'pipl/"
+		"soundmark": "/ðɪs/ /rum/ /ɪz/ /bɪɡ/ /ɪ'nʌf/ /tə/ /hold/ /tɛn/ /'pipl/",
+		"vietnamese": "这个房间là大的（大到）足够容纳十个人"
 	},
 	{
-		"chinese": "这个房间是足够大的",
 		"english": "this room is big enough",
-		"soundmark": "/ðɪs/ /rum/ /ɪz/ /bɪɡ/ /ɪ'nʌf/"
+		"soundmark": "/ðɪs/ /rum/ /ɪz/ /bɪɡ/ /ɪ'nʌf/",
+		"vietnamese": "这个房间là足够大的"
 	},
 	{
-		"chinese": "我们",
 		"english": "us",
-		"soundmark": "/ʌs/"
+		"soundmark": "/ʌs/",
+		"vietnamese": "Chúng tôi"
 	},
 	{
-		"chinese": "对......来说",
 		"english": "for",
-		"soundmark": "/fɝ/"
+		"soundmark": "/fɝ/",
+		"vietnamese": "[VI:对......来说]"
 	},
 	{
-		"chinese": "对我们来说",
 		"english": "for us",
-		"soundmark": "/fɝ/ /ʌs/"
+		"soundmark": "/fɝ/ /ʌs/",
+		"vietnamese": "对Chúng tôi来说"
 	},
 	{
-		"chinese": "这个房间是足够大的对我们来说",
 		"english": "this room is big enough for us",
-		"soundmark": "/ðɪs/ /rum/ /ɪz/ /bɪɡ/ /ɪ'nʌf/ /fɝ/ /ʌs/"
+		"soundmark": "/ðɪs/ /rum/ /ɪz/ /bɪɡ/ /ɪ'nʌf/ /fɝ/ /ʌs/",
+		"vietnamese": "这个房间là足够大的对Chúng tôi来说"
 	},
 	{
-		"chinese": "遇见；碰面",
 		"english": "to meet",
-		"soundmark": "/tə/ /mit/"
+		"soundmark": "/tə/ /mit/",
+		"vietnamese": "[VI:遇见；碰面]"
 	},
 	{
-		"chinese": "碰面（ing形式）",
 		"english": "meeting",
-		"soundmark": "/'mitɪŋ/"
+		"soundmark": "/'mitɪŋ/",
+		"vietnamese": "[VI:碰面（ing形式）]"
 	},
 	{
-		"chinese": "会议",
 		"english": "meeting",
-		"soundmark": "/'mitɪŋ/"
+		"soundmark": "/'mitɪŋ/",
+		"vietnamese": "[VI:会议]"
 	},
 	{
-		"chinese": "握；容纳；举行",
 		"english": "to hold",
-		"soundmark": "/tə/ /hold/"
+		"soundmark": "/tə/ /hold/",
+		"vietnamese": "[VI:握；容纳；举行]"
 	},
 	{
-		"chinese": "举行一次会议",
 		"english": "to hold a meeting",
-		"soundmark": "/tə/ /hold/ /ə/ /'mitɪŋ/"
+		"soundmark": "/tə/ /hold/ /ə/ /'mitɪŋ/",
+		"vietnamese": "[VI:举行一次会议]"
 	},
 	{
-		"chinese": "决定",
 		"english": "to decide",
-		"soundmark": "/tə/ /dɪ'saɪd/"
+		"soundmark": "/tə/ /dɪ'saɪd/",
+		"vietnamese": "[VI:决定]"
 	},
 	{
-		"chinese": "我们",
 		"english": "we",
-		"soundmark": "/wi/"
+		"soundmark": "/wi/",
+		"vietnamese": "Chúng tôi"
 	},
 	{
-		"chinese": "我们决定",
 		"english": "we decide",
-		"soundmark": "/wi/ /dɪ'saɪd/"
+		"soundmark": "/wi/ /dɪ'saɪd/",
+		"vietnamese": "Chúng tôi决定"
 	},
 	{
-		"chinese": "我们决定举行一次会议",
 		"english": "we decide to hold a meeting",
-		"soundmark": "/wi/ /dɪ'saɪd/ /tə/ /hold/ /ə/ /'mitɪŋ/"
+		"soundmark": "/wi/ /dɪ'saɪd/ /tə/ /hold/ /ə/ /'mitɪŋ/",
+		"vietnamese": "Chúng tôi决定举行一次会议"
 	},
 	{
-		"chinese": "在......里",
 		"english": "in",
-		"soundmark": "/ɪn/"
+		"soundmark": "/ɪn/",
+		"vietnamese": "[VI:在......里]"
 	},
 	{
-		"chinese": "这个房间",
 		"english": "this room",
-		"soundmark": "/ðɪs/ /rum/"
+		"soundmark": "/ðɪs/ /rum/",
+		"vietnamese": "[VI:这个房间]"
 	},
 	{
-		"chinese": "在这个房间里",
 		"english": "in this room",
-		"soundmark": "/ɪn/ /ðɪs/ /rum/"
+		"soundmark": "/ɪn/ /ðɪs/ /rum/",
+		"vietnamese": "[VI:在这个房间里]"
 	},
 	{
-		"chinese": "我们决定在这个房间里举行一次会议",
 		"english": "we decide to hold a meeting in this room",
-		"soundmark": "/wi/ /dɪ'saɪd/ /tə/ /hold/ /ə/ /'mitɪŋ/ /ɪn/ /ðɪs/ /rum/"
+		"soundmark": "/wi/ /dɪ'saɪd/ /tə/ /hold/ /ə/ /'mitɪŋ/ /ɪn/ /ðɪs/ /rum/",
+		"vietnamese": "Chúng tôi决定在这个房间里举行一次会议"
 	},
 	{
-		"chinese": "明天",
 		"english": "tomorrow",
-		"soundmark": "/tə'mɔro/"
+		"soundmark": "/tə'mɔro/",
+		"vietnamese": "ngày mai"
 	},
 	{
-		"chinese": "早上",
 		"english": "morning",
-		"soundmark": "/'mɔrnɪŋ/"
+		"soundmark": "/'mɔrnɪŋ/",
+		"vietnamese": "[VI:早上]"
 	},
 	{
-		"chinese": "明天早上",
 		"english": "tomorrow morning",
-		"soundmark": "/tə'mɔro/ /'mɔrnɪŋ/"
+		"soundmark": "/tə'mɔro/ /'mɔrnɪŋ/",
+		"vietnamese": "ngày mai早上"
 	},
 	{
-		"chinese": "我们决定明天早上在这个房间里举行一次会议",
 		"english": "we decide to hold a meeting in this room tomorrow morning",
-		"soundmark": "/wi/ /dɪ'saɪd/ /tə/ /hold/ /ə/ /'mitɪŋ/ /ɪn/ /ðɪs/ /rum/ /tə'mɔro/ /'mɔrnɪŋ/"
+		"soundmark": "/wi/ /dɪ'saɪd/ /tə/ /hold/ /ə/ /'mitɪŋ/ /ɪn/ /ðɪs/ /rum/ /tə'mɔro/ /'mɔrnɪŋ/",
+		"vietnamese": "Chúng tôi决定ngày mai早上在这个房间里举行一次会议"
 	},
 	{
-		"chinese": "将会",
 		"english": "will",
-		"soundmark": "/wɪl/"
+		"soundmark": "/wɪl/",
+		"vietnamese": "[VI:将会]"
 	},
 	{
-		"chinese": "我们将会举行一次会议",
 		"english": "we will hold a meeting",
-		"soundmark": "/wi/ /wɪl/ /hold/ /ə/ /'mitɪŋ/"
+		"soundmark": "/wi/ /wɪl/ /hold/ /ə/ /'mitɪŋ/",
+		"vietnamese": "Chúng tôi将会举行一次会议"
 	},
 	{
-		"chinese": "明天早上我们将会在这个房间里举行一次会议",
 		"english": "we will hold a meeting in this room tomorrow morning",
-		"soundmark": "/wi/ /wɪl/ /hold/ /ə/ /'mitɪŋ/ /ɪn/ /ðɪs/ /rum/ /tə'mɔro/ /'mɔrnɪŋ/"
+		"soundmark": "/wi/ /wɪl/ /hold/ /ə/ /'mitɪŋ/ /ɪn/ /ðɪs/ /rum/ /tə'mɔro/ /'mɔrnɪŋ/",
+		"vietnamese": "ngày mai早上Chúng tôi将会在这个房间里举行一次会议"
 	},
 	{
-		"chinese": "大的",
 		"english": "big",
-		"soundmark": "/bɪɡ/"
+		"soundmark": "/bɪɡ/",
+		"vietnamese": "[VI:大的]"
 	},
 	{
-		"chinese": "这个房间",
 		"english": "this room",
-		"soundmark": "/ðɪs/ /rum/"
+		"soundmark": "/ðɪs/ /rum/",
+		"vietnamese": "[VI:这个房间]"
 	},
 	{
-		"chinese": "这个房间是大的",
 		"english": "this room is big",
-		"soundmark": "/ðɪs/ /rum/ /ɪz/ /bɪɡ/"
+		"soundmark": "/ðɪs/ /rum/ /ɪz/ /bɪɡ/",
+		"vietnamese": "这个房间là大的"
 	},
 	{
-		"chinese": "足够",
 		"english": "enough",
-		"soundmark": "/ɪ'nʌf/"
+		"soundmark": "/ɪ'nʌf/",
+		"vietnamese": "[VI:足够]"
 	},
 	{
-		"chinese": "举行一次会议",
 		"english": "to hold a meeting",
-		"soundmark": "/tə/ /hold/ /ə/ /'mitɪŋ/"
+		"soundmark": "/tə/ /hold/ /ə/ /'mitɪŋ/",
+		"vietnamese": "[VI:举行一次会议]"
 	},
 	{
-		"chinese": "足够举行一次会议",
 		"english": "enough to hold a meeting",
-		"soundmark": "/ɪ'nʌf/ /tə/ /hold/ /ə/ /'mitɪŋ/"
+		"soundmark": "/ɪ'nʌf/ /tə/ /hold/ /ə/ /'mitɪŋ/",
+		"vietnamese": "[VI:足够举行一次会议]"
 	},
 	{
-		"chinese": "这个房间是大的（大到）足够举行一次会议",
 		"english": "this room is big enough to hold a meeting",
-		"soundmark": "/ðɪs/ /rum/ /ɪz/ /bɪɡ/ /ɪ'nʌf/ /tə/ /hold/ /ə/ /'mitɪŋ/"
+		"soundmark": "/ðɪs/ /rum/ /ɪz/ /bɪɡ/ /ɪ'nʌf/ /tə/ /hold/ /ə/ /'mitɪŋ/",
+		"vietnamese": "这个房间là大的（大到）足够举行一次会议"
 	},
 	{
-		"chinese": "这个房间是足够大的",
 		"english": "this room is big enough",
-		"soundmark": "/ðɪs/ /rum/ /ɪz/ /bɪɡ/ /ɪ'nʌf/"
+		"soundmark": "/ðɪs/ /rum/ /ɪz/ /bɪɡ/ /ɪ'nʌf/",
+		"vietnamese": "这个房间là足够大的"
 	},
 	{
-		"chinese": "小的",
 		"english": "small",
-		"soundmark": "/smɔl/"
+		"soundmark": "/smɔl/",
+		"vietnamese": "[VI:小的]"
 	},
 	{
-		"chinese": "这个房间是小的",
 		"english": "this room is small",
-		"soundmark": "/ðɪs/ /rum/ /ɪz/ /smɔl/"
+		"soundmark": "/ðɪs/ /rum/ /ɪz/ /smɔl/",
+		"vietnamese": "这个房间là小的"
 	},
 	{
-		"chinese": "非常",
 		"english": "very",
-		"soundmark": "/ˈvɛri/"
+		"soundmark": "/ˈvɛri/",
+		"vietnamese": "rất"
 	},
 	{
-		"chinese": "这个房间是非常小的",
 		"english": "this room is very small",
-		"soundmark": "/ðɪs/ /rum/ /ɪz/ /ˈvɛri/ /smɔl/"
+		"soundmark": "/ðɪs/ /rum/ /ɪz/ /ˈvɛri/ /smɔl/",
+		"vietnamese": "这个房间làrất小的"
 	},
 	{
-		"chinese": "因为",
 		"english": "because",
-		"soundmark": "/bɪ'kɔz/"
+		"soundmark": "/bɪ'kɔz/",
+		"vietnamese": "bởi vì"
 	},
 	{
-		"chinese": "因为这个房间是非常小的",
 		"english": "because this room is very small",
-		"soundmark": "/bɪ'kɔz/ /ðɪs/ /rum/ /ɪz/ /ˈvɛri/ /smɔl/"
+		"soundmark": "/bɪ'kɔz/ /ðɪs/ /rum/ /ɪz/ /ˈvɛri/ /smɔl/",
+		"vietnamese": "bởi vì这个房间làrất小的"
 	},
 	{
-		"chinese": "会议",
 		"english": "meeting",
-		"soundmark": "/'mitɪŋ/"
+		"soundmark": "/'mitɪŋ/",
+		"vietnamese": "[VI:会议]"
 	},
 	{
-		"chinese": "握；容纳；举行",
 		"english": "to hold",
-		"soundmark": "/tə/ /hold/"
+		"soundmark": "/tə/ /hold/",
+		"vietnamese": "[VI:握；容纳；举行]"
 	},
 	{
-		"chinese": "举行一次会议",
 		"english": "to hold a meeting",
-		"soundmark": "/tə/ /hold/ /ə/ /'mitɪŋ/"
+		"soundmark": "/tə/ /hold/ /ə/ /'mitɪŋ/",
+		"vietnamese": "[VI:举行一次会议]"
 	},
 	{
-		"chinese": "在......里",
 		"english": "in",
-		"soundmark": "/ɪn/"
+		"soundmark": "/ɪn/",
+		"vietnamese": "[VI:在......里]"
 	},
 	{
-		"chinese": "这个房间",
 		"english": "this room",
-		"soundmark": "/ðɪs/ /rum/"
+		"soundmark": "/ðɪs/ /rum/",
+		"vietnamese": "[VI:这个房间]"
 	},
 	{
-		"chinese": "在这个房间里",
 		"english": "in this room",
-		"soundmark": "/ɪn/ /ðɪs/ /rum/"
+		"soundmark": "/ɪn/ /ðɪs/ /rum/",
+		"vietnamese": "[VI:在这个房间里]"
 	},
 	{
-		"chinese": "在这个房间里举行一次会议",
 		"english": "to hold a meeting in this room",
-		"soundmark": "/tə/ /hold/ /ə/ /'mitɪŋ/ /ɪn/ /ðɪs/ /rum/"
+		"soundmark": "/tə/ /hold/ /ə/ /'mitɪŋ/ /ɪn/ /ðɪs/ /rum/",
+		"vietnamese": "[VI:在这个房间里举行一次会议]"
 	},
 	{
-		"chinese": "不可能的",
 		"english": "impossible",
-		"soundmark": "/ɪm'pɑsəbl/"
+		"soundmark": "/ɪm'pɑsəbl/",
+		"vietnamese": "không thể"
 	},
 	{
-		"chinese": "它；这件事情",
 		"english": "it",
-		"soundmark": "/ɪt/"
+		"soundmark": "/ɪt/",
+		"vietnamese": "Nó"
 	},
 	{
-		"chinese": "它是不可能的",
 		"english": "it is impossible",
-		"soundmark": "/ɪt/ /ɪz/ /ɪm'pɑsəbl/"
+		"soundmark": "/ɪt/ /ɪz/ /ɪm'pɑsəbl/",
+		"vietnamese": "Nó không thể"
 	},
 	{
-		"chinese": "在这个房间里举行一次会议是不可能的",
 		"english": "it is impossible to hold a meeting in this room",
-		"soundmark": "/ɪt/ /ɪz/ /ɪm'pɑsəbl/ /tə/ /hold/ /ə/ /'mitɪŋ/ /ɪn/ /ðɪs/ /rum/"
+		"soundmark": "/ɪt/ /ɪz/ /ɪm'pɑsəbl/ /tə/ /hold/ /ə/ /'mitɪŋ/ /ɪn/ /ðɪs/ /rum/",
+		"vietnamese": "在这个房间里举行一次会议làkhông thể"
 	},
 	{
-		"chinese": "因为这个房间是非常小的",
 		"english": "because this room is very small",
-		"soundmark": "/bɪ'kɔz/ /ðɪs/ /rum/ /ɪz/ /ˈvɛri/ /smɔl/"
+		"soundmark": "/bɪ'kɔz/ /ðɪs/ /rum/ /ɪz/ /ˈvɛri/ /smɔl/",
+		"vietnamese": "bởi vì这个房间làrất小的"
 	},
 	{
-		"chinese": "在这个房间里举行一次会议是不可能的因为这个房间是非常小的",
 		"english": "it is impossible to hold a meeting in this room because this room is very small",
-		"soundmark": "/ɪt/ /ɪz/ /ɪm'pɑsəbl/ /tə/ /hold/ /ə/ /'mitɪŋ/ /ɪn/ /ðɪs/ /rum/ /bɪ'kɔz/ /ðɪs/ /rum/ /ɪz/ /ˈvɛri/ /smɔl/"
+		"soundmark": "/ɪt/ /ɪz/ /ɪm'pɑsəbl/ /tə/ /hold/ /ə/ /'mitɪŋ/ /ɪn/ /ðɪs/ /rum/ /bɪ'kɔz/ /ðɪs/ /rum/ /ɪz/ /ˈvɛri/ /smɔl/",
+		"vietnamese": "在这个房间里举行一次会议làkhông thểbởi vì这个房间是rất小的"
 	},
 	{
-		"chinese": "握；容纳；举行",
 		"english": "to hold",
-		"soundmark": "/tə/ /hold/"
+		"soundmark": "/tə/ /hold/",
+		"vietnamese": "[VI:握；容纳；举行]"
 	},
 	{
-		"chinese": "举行一次会议",
 		"english": "to hold a meeting",
-		"soundmark": "/tə/ /hold/ /ə/ /'mitɪŋ/"
+		"soundmark": "/tə/ /hold/ /ə/ /'mitɪŋ/",
+		"vietnamese": "[VI:举行一次会议]"
 	},
 	{
-		"chinese": "决定",
 		"english": "to decide",
-		"soundmark": "/tə/ /dɪ'saɪd/"
+		"soundmark": "/tə/ /dɪ'saɪd/",
+		"vietnamese": "[VI:决定]"
 	},
 	{
-		"chinese": "他们",
 		"english": "they",
-		"soundmark": "/ðe/"
+		"soundmark": "/ðe/",
+		"vietnamese": "Họ"
 	},
 	{
-		"chinese": "他们（过去）决定",
 		"english": "they decided",
-		"soundmark": "/ðe/ /dɪ'saɪdɪd/"
+		"soundmark": "/ðe/ /dɪ'saɪdɪd/",
+		"vietnamese": "Họ（过去）决定"
 	},
 	{
-		"chinese": "他们（过去）决定举行一次会议",
 		"english": "they decided to hold a meeting",
-		"soundmark": "/ðe/ /dɪ'saɪdɪd/ /tə/ /hold/ /ə/ /'mitɪŋ/"
+		"soundmark": "/ðe/ /dɪ'saɪdɪd/ /tə/ /hold/ /ə/ /'mitɪŋ/",
+		"vietnamese": "Họ（过去）决定举行一次会议"
 	},
 	{
-		"chinese": "脸",
 		"english": "face",
-		"soundmark": "/fes/"
+		"soundmark": "/fes/",
+		"vietnamese": "[VI:脸]"
 	},
 	{
-		"chinese": "面对",
 		"english": "to face",
-		"soundmark": "/tə/ /fes/"
+		"soundmark": "/tə/ /fes/",
+		"vietnamese": "[VI:面对]"
 	},
 	{
-		"chinese": "面对(ing形式)",
 		"english": "facing",
-		"soundmark": "/'fesɪŋ/"
+		"soundmark": "/'fesɪŋ/",
+		"vietnamese": "[VI:面对(ing形式)]"
 	},
 	{
-		"chinese": "是；赋值(原型)",
 		"english": "be",
-		"soundmark": "/bi/"
+		"soundmark": "/bi/",
+		"vietnamese": "là；赋值(原型)"
 	},
 	{
-		"chinese": "正在面对",
 		"english": "be facing",
-		"soundmark": "/bi/ /'fesɪŋ/"
+		"soundmark": "/bi/ /'fesɪŋ/",
+		"vietnamese": "[VI:正在面对]"
 	},
 	{
-		"chinese": "他们",
 		"english": "they",
-		"soundmark": "/ðe/"
+		"soundmark": "/ðe/",
+		"vietnamese": "Họ"
 	},
 	{
-		"chinese": "他们(现在)正在面对",
 		"english": "they are facing",
-		"soundmark": "/ðe/ /ɚ/ /'fesɪŋ/"
+		"soundmark": "/ðe/ /ɚ/ /'fesɪŋ/",
+		"vietnamese": "Họ(bây giờ)正在面对"
 	},
 	{
-		"chinese": "那个问题",
 		"english": "the problem",
-		"soundmark": "/ðə/ /'prɑbləm/"
+		"soundmark": "/ðə/ /'prɑbləm/",
+		"vietnamese": "[VI:那个问题]"
 	},
 	{
-		"chinese": "他们(现在)正在面对的那个问题",
 		"english": "the problem they are facing",
-		"soundmark": "/ðə/ /'prɑbləm/ /ðe/ /ɚ/ /'fesɪŋ/"
+		"soundmark": "/ðə/ /'prɑbləm/ /ðe/ /ɚ/ /'fesɪŋ/",
+		"vietnamese": "Họ(bây giờ)正在面对的那个问题"
 	},
 	{
-		"chinese": "解决",
 		"english": "to solve",
-		"soundmark": "/tə/ /sɔlv/"
+		"soundmark": "/tə/ /sɔlv/",
+		"vietnamese": "[VI:解决]"
 	},
 	{
-		"chinese": "那个问题",
 		"english": "the problem",
-		"soundmark": "/ðə/ /'prɑbləm/"
+		"soundmark": "/ðə/ /'prɑbləm/",
+		"vietnamese": "[VI:那个问题]"
 	},
 	{
-		"chinese": "解决那个问题",
 		"english": "to solve the problem",
-		"soundmark": "/tə/ /sɔlv/ /ðə/ /'prɑbləm/"
+		"soundmark": "/tə/ /sɔlv/ /ðə/ /'prɑbləm/",
+		"vietnamese": "[VI:解决那个问题]"
 	},
 	{
-		"chinese": "解决他们（现在）正在面对的那个问题",
 		"english": "to solve the problem they are facing",
-		"soundmark": "/tə/ /sɔlv/ /ðə/ /'prɑbləm/ /ðe/ /ɚ/ /'fesɪŋ/"
+		"soundmark": "/tə/ /sɔlv/ /ðə/ /'prɑbləm/ /ðe/ /ɚ/ /'fesɪŋ/",
+		"vietnamese": "解决Họ（bây giờ）正在面对的那个问题"
 	},
 	{
-		"chinese": "如何",
 		"english": "how",
-		"soundmark": "/haʊ/"
+		"soundmark": "/haʊ/",
+		"vietnamese": "[VI:如何]"
 	},
 	{
-		"chinese": "如何解决他们（现在）正在面对的那个问题",
 		"english": "how to solve the problem they are facing",
-		"soundmark": "/haʊ/ /tə/ /sɔlv/ /ðə/ /'prɑbləm/ /ðe/ /ɚ/ /'fesɪŋ/"
+		"soundmark": "/haʊ/ /tə/ /sɔlv/ /ðə/ /'prɑbləm/ /ðe/ /ɚ/ /'fesɪŋ/",
+		"vietnamese": "如何解决Họ（bây giờ）正在面对的那个问题"
 	},
 	{
-		"chinese": "讨论",
 		"english": "to discuss",
-		"soundmark": "/tə/ /dɪ'skʌs/"
+		"soundmark": "/tə/ /dɪ'skʌs/",
+		"vietnamese": "[VI:讨论]"
 	},
 	{
-		"chinese": "讨论如何解决他们（现在）正在面对的那个问题",
 		"english": "to discuss how to solve the problem they are facing",
-		"soundmark": "/tə/ /dɪ'skʌs/ /haʊ/ /tə/ /sɔlv/ /ðə/ /'prɑbləm/ /ðe/ /ɚ/ /'fesɪŋ/"
+		"soundmark": "/tə/ /dɪ'skʌs/ /haʊ/ /tə/ /sɔlv/ /ðə/ /'prɑbləm/ /ðe/ /ɚ/ /'fesɪŋ/",
+		"vietnamese": "讨论如何解决Họ（bây giờ）正在面对的那个问题"
 	},
 	{
-		"chinese": "举行一次会议",
 		"english": "to hold a meeting",
-		"soundmark": "/tə/ /hold/ /ə/ /'mitɪŋ/"
+		"soundmark": "/tə/ /hold/ /ə/ /'mitɪŋ/",
+		"vietnamese": "[VI:举行一次会议]"
 	},
 	{
-		"chinese": "他们（过去）决定",
 		"english": "they decided",
-		"soundmark": "/ðe/ /dɪ'saɪdɪd/"
+		"soundmark": "/ðe/ /dɪ'saɪdɪd/",
+		"vietnamese": "Họ（过去）决定"
 	},
 	{
-		"chinese": "他们（过去）决定举行一次会议",
 		"english": "they decided to hold a meeting",
-		"soundmark": "/ðe/ /dɪ'saɪdɪd/ /tə/ /hold/ /ə/ /'mitɪŋ/"
+		"soundmark": "/ðe/ /dɪ'saɪdɪd/ /tə/ /hold/ /ə/ /'mitɪŋ/",
+		"vietnamese": "Họ（过去）决定举行一次会议"
 	},
 	{
-		"chinese": "他们（过去）决定举行一次会议讨论如何解决他们（现在）正在面对的那个问题",
 		"english": "they decided to hold a meeting to discuss how to solve the problem they are facing",
-		"soundmark": "/ðe/ /dɪ'saɪdɪd/ /tə/ /hold/ /ə/ /'mitɪŋ/ /tə/ /dɪ'skʌs/ /haʊ/ /tə/ /sɔlv/ /ðə/ /'prɑbləm/ /ðe/ /ɚ/ /'fesɪŋ/"
+		"soundmark": "/ðe/ /dɪ'saɪdɪd/ /tə/ /hold/ /ə/ /'mitɪŋ/ /tə/ /dɪ'skʌs/ /haʊ/ /tə/ /sɔlv/ /ðə/ /'prɑbləm/ /ðe/ /ɚ/ /'fesɪŋ/",
+		"vietnamese": "Họ（过去）决定举行一次会议讨论如何解决Anh ấy们（bây giờ）正在面对的那个问题"
 	}
 ]

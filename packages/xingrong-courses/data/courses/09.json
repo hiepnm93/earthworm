@@ -1,1087 +1,1087 @@
 [
 	{
-		"chinese": "某件事；某个东西",
 		"english": "something",
-		"soundmark": "/'sʌmθɪŋ/"
+		"soundmark": "/'sʌmθɪŋ/",
+		"vietnamese": "[VI:某件事；某个东西]"
 	},
 	{
-		"chinese": "重要的",
 		"english": "important",
-		"soundmark": "/ɪm'pɔrtnt/"
+		"soundmark": "/ɪm'pɔrtnt/",
+		"vietnamese": "quan trọng"
 	},
 	{
-		"chinese": "重要的某件事",
 		"english": "something important",
-		"soundmark": "/'sʌmθɪŋ/ /ɪm'pɔrtnt/"
+		"soundmark": "/'sʌmθɪŋ/ /ɪm'pɔrtnt/",
+		"vietnamese": "quan trọng某件事"
 	},
 	{
-		"chinese": "告诉",
 		"english": "to tell",
-		"soundmark": "/tə/ /tɛl/"
+		"soundmark": "/tə/ /tɛl/",
+		"vietnamese": "nói"
 	},
 	{
-		"chinese": "告诉你",
 		"english": "to tell you",
-		"soundmark": "/tə/ /tɛl/ /ju/"
+		"soundmark": "/tə/ /tɛl/ /ju/",
+		"vietnamese": "nói với bạn"
 	},
 	{
-		"chinese": "告诉你重要的某件事",
 		"english": "to tell you something important",
-		"soundmark": "/tə/ /tɛl/ /ju/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/"
+		"soundmark": "/tə/ /tɛl/ /ju/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/",
+		"vietnamese": "nói với bạnquan trọng某件事"
 	},
 	{
-		"chinese": "我需要",
 		"english": "I need",
-		"soundmark": "/aɪ/ /nid/"
+		"soundmark": "/aɪ/ /nid/",
+		"vietnamese": "Tôi cần"
 	},
 	{
-		"chinese": "我需要告诉你重要的某件事",
 		"english": "I need to tell you something important",
-		"soundmark": "/aɪ/ /nid/ /tə/ /tɛl/ /ju/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/"
+		"soundmark": "/aɪ/ /nid/ /tə/ /tɛl/ /ju/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/",
+		"vietnamese": "Tôi cần nói với bạnquan trọng某件事"
 	},
 	{
-		"chinese": "给",
 		"english": "to give",
-		"soundmark": "/tə/ /ɡɪv/"
+		"soundmark": "/tə/ /ɡɪv/",
+		"vietnamese": "[VI:给]"
 	},
 	{
-		"chinese": "某个东西",
 		"english": "something",
-		"soundmark": "/'sʌmθɪŋ/"
+		"soundmark": "/'sʌmθɪŋ/",
+		"vietnamese": "[VI:某个东西]"
 	},
 	{
-		"chinese": "重要的某个东西",
 		"english": "something important",
-		"soundmark": "/'sʌmθɪŋ/ /ɪm'pɔrtnt/"
+		"soundmark": "/'sʌmθɪŋ/ /ɪm'pɔrtnt/",
+		"vietnamese": "quan trọng某个东西"
 	},
 	{
-		"chinese": "我需要给你重要的某个东西",
 		"english": "I need to give you something important",
-		"soundmark": "/aɪ/ /nid/ /tə/ /ɡɪv/ /ju/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/"
+		"soundmark": "/aɪ/ /nid/ /tə/ /ɡɪv/ /ju/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/",
+		"vietnamese": "Tôi cần给Bạnquan trọng某个东西"
 	},
 	{
-		"chinese": "答案",
 		"english": "the answer",
-		"soundmark": "/ði/ /'ænsɚ/"
+		"soundmark": "/ði/ /'ænsɚ/",
+		"vietnamese": "[VI:答案]"
 	},
 	{
-		"chinese": "我需要给你答案",
 		"english": "I need to give you the answer",
-		"soundmark": "/aɪ/ /nid/ /tə/ /ɡɪv/ /ju/ /ði/ /'ænsɚ/"
+		"soundmark": "/aɪ/ /nid/ /tə/ /ɡɪv/ /ju/ /ði/ /'ænsɚ/",
+		"vietnamese": "Tôi cần给Bạn答案"
 	},
 	{
-		"chinese": "问题",
 		"english": "the question",
-		"soundmark": "/ðə/ /'kwɛstʃən/"
+		"soundmark": "/ðə/ /'kwɛstʃən/",
+		"vietnamese": "[VI:问题]"
 	},
 	{
-		"chinese": "问题的答案",
 		"english": "the answer to the question",
-		"soundmark": "/ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+		"soundmark": "/ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+		"vietnamese": "[VI:问题的答案]"
 	},
 	{
-		"chinese": "我需要给你问题的答案",
 		"english": "I need to give you the answer to the question",
-		"soundmark": "/aɪ/ /nid/ /tə/ /ɡɪv/ /ju/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+		"soundmark": "/aɪ/ /nid/ /tə/ /ɡɪv/ /ju/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+		"vietnamese": "Tôi cần给Bạn问题的答案"
 	},
 	{
-		"chinese": "我不需要给你问题的答案",
 		"english": "I don't need to give you the answer to the question",
-		"soundmark": "/aɪ/ /dont/ /nid/ /tə/ /ɡɪv/ /ju/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+		"soundmark": "/aɪ/ /dont/ /nid/ /tə/ /ɡɪv/ /ju/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+		"vietnamese": "Tôi không cần给Bạn问题的答案"
 	},
 	{
-		"chinese": "她",
 		"english": "she",
-		"soundmark": "/ʃi/"
+		"soundmark": "/ʃi/",
+		"vietnamese": "Cô ấy"
 	},
 	{
-		"chinese": "给",
 		"english": "to give",
-		"soundmark": "/tə/ /ɡɪv/"
+		"soundmark": "/tə/ /ɡɪv/",
+		"vietnamese": "[VI:给]"
 	},
 	{
-		"chinese": "给我们",
 		"english": "to give us",
-		"soundmark": "/tə/ /ɡɪv/ /ʌs/"
+		"soundmark": "/tə/ /ɡɪv/ /ʌs/",
+		"vietnamese": "给Chúng tôi"
 	},
 	{
-		"chinese": "她需要给我们",
 		"english": "she needs to give us",
-		"soundmark": "/ʃi/ /nidz/ /tə/ /ɡɪv/ /ʌs/"
+		"soundmark": "/ʃi/ /nidz/ /tə/ /ɡɪv/ /ʌs/",
+		"vietnamese": "Cô ấycần给Chúng tôi"
 	},
 	{
-		"chinese": "问题的答案",
 		"english": "the answer to the question",
-		"soundmark": "/ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+		"soundmark": "/ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+		"vietnamese": "[VI:问题的答案]"
 	},
 	{
-		"chinese": "她需要给我们问题的答案",
 		"english": "she needs to give us the answer to the question",
-		"soundmark": "/ʃi/ /nidz/ /tə/ /ɡɪv/ /ʌs/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+		"soundmark": "/ʃi/ /nidz/ /tə/ /ɡɪv/ /ʌs/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+		"vietnamese": "Cô ấycần给Chúng tôi问题的答案"
 	},
 	{
-		"chinese": "她不需要给我们问题的答案",
 		"english": "she doesn't need to give us the answer to the question",
-		"soundmark": "/ʃi/ /ˈdʌznt/ /nid/ /tə/ /ɡɪv/ /ʌs/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+		"soundmark": "/ʃi/ /ˈdʌznt/ /nid/ /tə/ /ɡɪv/ /ʌs/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+		"vietnamese": "Cô ấykhôngcần给Chúng tôi问题的答案"
 	},
 	{
-		"chinese": "想要",
 		"english": "want",
-		"soundmark": "/wɑnt/"
+		"soundmark": "/wɑnt/",
+		"vietnamese": "muốn"
 	},
 	{
-		"chinese": "我想要给你问题的答案",
 		"english": "I want to give you the answer to the question",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /ɡɪv/ /ju/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+		"soundmark": "/aɪ/ /wɑnt/ /tə/ /ɡɪv/ /ju/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+		"vietnamese": "Tôi muốn给Bạn问题的答案"
 	},
 	{
-		"chinese": "我不想给你问题的答案",
 		"english": "I don't want to give you the answer to the question",
-		"soundmark": "/aɪ/ /dont/ /wɑnt/ /tə/ /ɡɪv/ /ju/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+		"soundmark": "/aɪ/ /dont/ /wɑnt/ /tə/ /ɡɪv/ /ju/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+		"vietnamese": "Tôi không muốn给Bạn问题的答案"
 	},
 	{
-		"chinese": "我想要你给我问题的答案",
 		"english": "I want you to give me the answer to the question",
-		"soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /ɡɪv/ /mi/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+		"soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /ɡɪv/ /mi/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+		"vietnamese": "Tôi muốnBạn给Tôi问题的答案"
 	},
 	{
-		"chinese": "我不想要你给我问题的答案",
 		"english": "I don't want you to give me the answer to the question",
-		"soundmark": "/aɪ/ /dont/ /wɑnt/ /ju/ /tə/ /ɡɪv/ /mi/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+		"soundmark": "/aɪ/ /dont/ /wɑnt/ /ju/ /tə/ /ɡɪv/ /mi/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+		"vietnamese": "Tôi không muốn要Bạn给Tôi问题的答案"
 	},
 	{
-		"chinese": "一个理由；一个原因",
 		"english": "a reason",
-		"soundmark": "/ə/ /ˈrizən/"
+		"soundmark": "/ə/ /ˈrizən/",
+		"vietnamese": "[VI:一个理由；一个原因]"
 	},
 	{
-		"chinese": "给我一个理由",
 		"english": "to give me a reason",
-		"soundmark": "/tə/ /ɡɪv/ /mi/ /ə/ /ˈrizən/"
+		"soundmark": "/tə/ /ɡɪv/ /mi/ /ə/ /ˈrizən/",
+		"vietnamese": "给Tôi一个理由"
 	},
 	{
-		"chinese": "我需要你给我一个理由",
 		"english": "I need you to give me a reason",
-		"soundmark": "/aɪ/ /nid/ /ju/ /tə/ /ɡɪv/ /mi/ /ə/ /ˈrizən/"
+		"soundmark": "/aɪ/ /nid/ /ju/ /tə/ /ɡɪv/ /mi/ /ə/ /ˈrizən/",
+		"vietnamese": "Tôi cầnBạn给Tôi一个理由"
 	},
 	{
-		"chinese": "我不需要你给我一个理由",
 		"english": "I don't need you to give me a reason",
-		"soundmark": "/aɪ/ /dont/ /nid/ /ju/ /tə/ /ɡɪv/ /mi/ /ə/ /ˈrizən/"
+		"soundmark": "/aɪ/ /dont/ /nid/ /ju/ /tə/ /ɡɪv/ /mi/ /ə/ /ˈrizən/",
+		"vietnamese": "Tôi không cầnBạn给Tôi一个理由"
 	},
 	{
-		"chinese": "知道",
 		"english": "to know",
-		"soundmark": "/tə/ /no/"
+		"soundmark": "/tə/ /no/",
+		"vietnamese": "biết"
 	},
 	{
-		"chinese": "我们应该知道",
 		"english": "we should know",
-		"soundmark": "/wi/ /ʃʊd/ /no/"
+		"soundmark": "/wi/ /ʃʊd/ /no/",
+		"vietnamese": "Chúng tôi应该biết"
 	},
 	{
-		"chinese": "问题的答案",
 		"english": "the answer to the question",
-		"soundmark": "/ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+		"soundmark": "/ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+		"vietnamese": "[VI:问题的答案]"
 	},
 	{
-		"chinese": "我们应该知道问题的答案",
 		"english": "we should know the answer to the question",
-		"soundmark": "/wi/ /ʃʊd/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+		"soundmark": "/wi/ /ʃʊd/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+		"vietnamese": "Chúng tôi应该biết问题的答案"
 	},
 	{
-		"chinese": "我们不应该知道问题的答案",
 		"english": "we should not know the answer to the question",
-		"soundmark": "/wi/ /ʃʊd/ /nɑt/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+		"soundmark": "/wi/ /ʃʊd/ /nɑt/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+		"vietnamese": "Chúng tôikhông应该biết问题的答案"
 	},
 	{
-		"chinese": "为什么",
 		"english": "why",
-		"soundmark": "/waɪ/"
+		"soundmark": "/waɪ/",
+		"vietnamese": "[VI:为什么]"
 	},
 	{
-		"chinese": "我需要你给我一个理由为什么我们应该知道问题的答案",
 		"english": "I need you to give me a reason why we should know the answer to the question",
-		"soundmark": "/aɪ/ /nid/ /ju/ /tə/ /ɡɪv/ /mi/ /ə/ /ˈrizən/ /waɪ/ /wi/ /ʃʊd/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+		"soundmark": "/aɪ/ /nid/ /ju/ /tə/ /ɡɪv/ /mi/ /ə/ /ˈrizən/ /waɪ/ /wi/ /ʃʊd/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+		"vietnamese": "Tôi cầnBạn给Tôi一个理由为什么Chúng tôi应该biết问题的答案"
 	},
 	{
-		"chinese": "电话",
 		"english": "phone",
-		"soundmark": "/fon/"
+		"soundmark": "/fon/",
+		"vietnamese": "[VI:电话]"
 	},
 	{
-		"chinese": "号码",
 		"english": "number",
-		"soundmark": "/'nʌmbɚ/"
+		"soundmark": "/'nʌmbɚ/",
+		"vietnamese": "[VI:号码]"
 	},
 	{
-		"chinese": "电话号码",
 		"english": "phone number",
-		"soundmark": "/fon/ /'nʌmbɚ/"
+		"soundmark": "/fon/ /'nʌmbɚ/",
+		"vietnamese": "[VI:电话号码]"
 	},
 	{
-		"chinese": "我的",
 		"english": "my",
-		"soundmark": "/maɪ/"
+		"soundmark": "/maɪ/",
+		"vietnamese": "Tôi的"
 	},
 	{
-		"chinese": "我的电话号码",
 		"english": "my phone number",
-		"soundmark": "/maɪ/ /fon/ /'nʌmbɚ/"
+		"soundmark": "/maɪ/ /fon/ /'nʌmbɚ/",
+		"vietnamese": "Tôi的电话号码"
 	},
 	{
-		"chinese": "可以",
 		"english": "can",
-		"soundmark": "/kæn/"
+		"soundmark": "/kæn/",
+		"vietnamese": "[VI:可以]"
 	},
 	{
-		"chinese": "我可以给你",
 		"english": "I can give you",
-		"soundmark": "/aɪ/ /kæn/ /ɡɪv/ /ju/"
+		"soundmark": "/aɪ/ /kæn/ /ɡɪv/ /ju/",
+		"vietnamese": "Tôi可以给Bạn"
 	},
 	{
-		"chinese": "我可以给你我的电话号码",
 		"english": "I can give you my phone number",
-		"soundmark": "/aɪ/ /kæn/ /ɡɪv/ /ju/ /maɪ/ /fon/ /'nʌmbɚ/"
+		"soundmark": "/aɪ/ /kæn/ /ɡɪv/ /ju/ /maɪ/ /fon/ /'nʌmbɚ/",
+		"vietnamese": "Tôi可以给Bạn我的电话号码"
 	},
 	{
-		"chinese": "我不可以给你我的电话号码",
 		"english": "I can not give you my phone number",
-		"soundmark": "/aɪ/ /kæn/ /nɑt/ /ɡɪv/ /ju/ /maɪ/ /fon/ /'nʌmbɚ/"
+		"soundmark": "/aɪ/ /kæn/ /nɑt/ /ɡɪv/ /ju/ /maɪ/ /fon/ /'nʌmbɚ/",
+		"vietnamese": "Tôikhông可以给Bạn我的电话号码"
 	},
 	{
-		"chinese": "你想要",
 		"english": "you want",
-		"soundmark": "/ju/ /wɑnt/"
+		"soundmark": "/ju/ /wɑnt/",
+		"vietnamese": "Bạnmuốn"
 	},
 	{
-		"chinese": "知道",
 		"english": "to know",
-		"soundmark": "/tə/ /no/"
+		"soundmark": "/tə/ /no/",
+		"vietnamese": "biết"
 	},
 	{
-		"chinese": "它",
 		"english": "it",
-		"soundmark": "/ɪt/"
+		"soundmark": "/ɪt/",
+		"vietnamese": "Nó"
 	},
 	{
-		"chinese": "你想要知道它",
 		"english": "you want to know it",
-		"soundmark": "/ju/ /wɑnt/ /tə/ /no/ /ɪt/"
+		"soundmark": "/ju/ /wɑnt/ /tə/ /no/ /ɪt/",
+		"vietnamese": "Bạn muốn biếtNó"
 	},
 	{
-		"chinese": "如果",
 		"english": "if",
-		"soundmark": "/ɪf/"
+		"soundmark": "/ɪf/",
+		"vietnamese": "[VI:如果]"
 	},
 	{
-		"chinese": "我可以给你我的电话号码如果你想要知道它",
 		"english": "I can give you my phone number if you want to know it",
-		"soundmark": "/aɪ/ /kæn/ /ɡɪv/ /ju/ /maɪ/ /fon/ /'nʌmbɚ/ /ɪf/ /ju/ /wɑnt/ /tə/ /no/ /ɪt/"
+		"soundmark": "/aɪ/ /kæn/ /ɡɪv/ /ju/ /maɪ/ /fon/ /'nʌmbɚ/ /ɪf/ /ju/ /wɑnt/ /tə/ /no/ /ɪt/",
+		"vietnamese": "Tôi可以给Bạn我的电话号码如果Bạn muốn biếtNó"
 	},
 	{
-		"chinese": "我将会",
 		"english": "I will",
-		"soundmark": "/aɪ/ /wɪl/"
+		"soundmark": "/aɪ/ /wɪl/",
+		"vietnamese": "Tôi将会"
 	},
 	{
-		"chinese": "我将会给你我的电话号码",
 		"english": "I will give you my phone number",
-		"soundmark": "/aɪ/ /wɪl/ /ɡɪv/ /ju/ /maɪ/ /fon/ /'nʌmbɚ/"
+		"soundmark": "/aɪ/ /wɪl/ /ɡɪv/ /ju/ /maɪ/ /fon/ /'nʌmbɚ/",
+		"vietnamese": "Tôi将会给Bạn我的电话号码"
 	},
 	{
-		"chinese": "我将不会给你我的电话号码",
 		"english": "I will not give you my phone number",
-		"soundmark": "/aɪ/ /wɪl/ /nɑt/ /ɡɪv/ /ju/ /maɪ/ /fon/ /'nʌmbɚ/"
+		"soundmark": "/aɪ/ /wɪl/ /nɑt/ /ɡɪv/ /ju/ /maɪ/ /fon/ /'nʌmbɚ/",
+		"vietnamese": "Tôi将không会给Bạn我的电话号码"
 	},
 	{
-		"chinese": "你不想要",
 		"english": "you don't want",
-		"soundmark": "/ju/ /dont/ /wɑnt/"
+		"soundmark": "/ju/ /dont/ /wɑnt/",
+		"vietnamese": "Bạnkhôngmuốn"
 	},
 	{
-		"chinese": "知道",
 		"english": "to know",
-		"soundmark": "/tə/ /no/"
+		"soundmark": "/tə/ /no/",
+		"vietnamese": "biết"
 	},
 	{
-		"chinese": "你不想知道它",
 		"english": "you don't want to know it",
-		"soundmark": "/ju/ /dont/ /wɑnt/ /tə/ /no/ /ɪt/"
+		"soundmark": "/ju/ /dont/ /wɑnt/ /tə/ /no/ /ɪt/",
+		"vietnamese": "Bạnkhông muốnbiếtNó"
 	},
 	{
-		"chinese": "我将不会给你我的电话号码如果你不想知道它",
 		"english": "I will not give you my phone number if you don't want to know it",
-		"soundmark": "/aɪ/ /wɪl/ /nɑt/ /ɡɪv/ /ju/ /maɪ/ /fon/ /'nʌmbɚ/ /ɪf/ /ju/ /dont/ /wɑnt/ /tə/ /no/ /ɪt/"
+		"soundmark": "/aɪ/ /wɪl/ /nɑt/ /ɡɪv/ /ju/ /maɪ/ /fon/ /'nʌmbɚ/ /ɪf/ /ju/ /dont/ /wɑnt/ /tə/ /no/ /ɪt/",
+		"vietnamese": "Tôi将không会给Bạn我的电话号码如果你không muốnbiếtNó"
 	},
 	{
-		"chinese": "你的",
 		"english": "your",
-		"soundmark": "/jʊr/"
+		"soundmark": "/jʊr/",
+		"vietnamese": "Bạn的"
 	},
 	{
-		"chinese": "电话号码",
 		"english": "phone number",
-		"soundmark": "/fon/ /'nʌmbɚ/"
+		"soundmark": "/fon/ /'nʌmbɚ/",
+		"vietnamese": "[VI:电话号码]"
 	},
 	{
-		"chinese": "你的电话号码",
 		"english": "your phone number",
-		"soundmark": "/jʊr/ /fon/ /'nʌmbɚ/"
+		"soundmark": "/jʊr/ /fon/ /'nʌmbɚ/",
+		"vietnamese": "Bạn的电话号码"
 	},
 	{
-		"chinese": "你应该",
 		"english": "you should",
-		"soundmark": "/ju/ /ʃʊd/"
+		"soundmark": "/ju/ /ʃʊd/",
+		"vietnamese": "Bạn应该"
 	},
 	{
-		"chinese": "你应该给我你的电话号码",
 		"english": "you should give me your phone number",
-		"soundmark": "/ju/ /ʃʊd/ /ɡɪv/ /mi/ /jʊr/ /fon/ /'nʌmbɚ/"
+		"soundmark": "/ju/ /ʃʊd/ /ɡɪv/ /mi/ /jʊr/ /fon/ /'nʌmbɚ/",
+		"vietnamese": "Bạn应该给Tôi你的电话号码"
 	},
 	{
-		"chinese": "你不应该给我你的电话号码",
 		"english": "you should not give me your phone number",
-		"soundmark": "/ju/ /ʃʊd/ /nɑt/ /ɡɪv/ /mi/ /jʊr/ /fon/ /'nʌmbɚ/"
+		"soundmark": "/ju/ /ʃʊd/ /nɑt/ /ɡɪv/ /mi/ /jʊr/ /fon/ /'nʌmbɚ/",
+		"vietnamese": "Bạnkhông应该给Tôi你的电话号码"
 	},
 	{
-		"chinese": "因为",
 		"english": "because",
-		"soundmark": "/bɪ'kɔz/"
+		"soundmark": "/bɪ'kɔz/",
+		"vietnamese": "bởi vì"
 	},
 	{
-		"chinese": "我需要",
 		"english": "I need",
-		"soundmark": "/aɪ/ /nid/"
+		"soundmark": "/aɪ/ /nid/",
+		"vietnamese": "Tôi cần"
 	},
 	{
-		"chinese": "我需要知道它",
 		"english": "I need to know it",
-		"soundmark": "/aɪ/ /nid/ /tə/ /no/ /ɪt/"
+		"soundmark": "/aɪ/ /nid/ /tə/ /no/ /ɪt/",
+		"vietnamese": "Tôicần biếtNó"
 	},
 	{
-		"chinese": "你应该给我你的电话号码因为我需要知道它",
 		"english": "you should give me your phone number because I need to know it",
-		"soundmark": "/ju/ /ʃʊd/ /nɑt/ /ɡɪv/ /mi/ /jʊr/ /fon/ /'nʌmbɚ/ /bɪ'kɔz/ /aɪ/ /nid/ /tə/ /no/ /ɪt/"
+		"soundmark": "/ju/ /ʃʊd/ /nɑt/ /ɡɪv/ /mi/ /jʊr/ /fon/ /'nʌmbɚ/ /bɪ'kɔz/ /aɪ/ /nid/ /tə/ /no/ /ɪt/",
+		"vietnamese": "Bạn应该给Tôi你的电话号码bởi vì我cần biếtNó"
 	},
 	{
-		"chinese": "他的",
 		"english": "his",
-		"soundmark": "/hɪz/"
+		"soundmark": "/hɪz/",
+		"vietnamese": "Anh ấy的"
 	},
 	{
-		"chinese": "电话号码",
 		"english": "phone number",
-		"soundmark": "/fon/ /'nʌmbɚ/"
+		"soundmark": "/fon/ /'nʌmbɚ/",
+		"vietnamese": "[VI:电话号码]"
 	},
 	{
-		"chinese": "他的电话号码",
 		"english": "his phone number",
-		"soundmark": "/hɪz/ /fon/ /'nʌmbɚ/"
+		"soundmark": "/hɪz/ /fon/ /'nʌmbɚ/",
+		"vietnamese": "Anh ấy的电话号码"
 	},
 	{
-		"chinese": "你应该给我他的电话号码",
 		"english": "you should give me his phone number",
-		"soundmark": "/ju/ /ʃʊd/ /ɡɪv/ /mi/ /hɪz/ /fon/ /'nʌmbɚ/"
+		"soundmark": "/ju/ /ʃʊd/ /ɡɪv/ /mi/ /hɪz/ /fon/ /'nʌmbɚ/",
+		"vietnamese": "Bạn应该给TôiAnh ấy的电话号码"
 	},
 	{
-		"chinese": "你不应该给我他的电话号码",
 		"english": "you should not give me his phone number",
-		"soundmark": "/ju/ /ʃʊd/ /nɑt/ /ɡɪv/ /mi/ /hɪz/ /fon/ /'nʌmbɚ/"
+		"soundmark": "/ju/ /ʃʊd/ /nɑt/ /ɡɪv/ /mi/ /hɪz/ /fon/ /'nʌmbɚ/",
+		"vietnamese": "Bạnkhông应该给TôiAnh ấy的电话号码"
 	},
 	{
-		"chinese": "你可以给我他的电话号码",
 		"english": "you can give me his phone number",
-		"soundmark": "/ju/ /kæn/ /ɡɪv/ /mi/ /hɪz/ /fon/ /'nʌmbɚ/"
+		"soundmark": "/ju/ /kæn/ /ɡɪv/ /mi/ /hɪz/ /fon/ /'nʌmbɚ/",
+		"vietnamese": "Bạn可以给TôiAnh ấy的电话号码"
 	},
 	{
-		"chinese": "希望",
 		"english": "hope",
-		"soundmark": "/hop/"
+		"soundmark": "/hop/",
+		"vietnamese": "[VI:希望]"
 	},
 	{
-		"chinese": "我希望",
 		"english": "I hope",
-		"soundmark": "/aɪ/ /hop/"
+		"soundmark": "/aɪ/ /hop/",
+		"vietnamese": "Tôi希望"
 	},
 	{
-		"chinese": "我希望你可以给我他的电话号码",
 		"english": "I hope you can give me his phone number",
-		"soundmark": "/aɪ/ /hop/ /ju/ /kæn/ /ɡɪv/ /mi/ /hɪz/ /fon/ /'nʌmbɚ/"
+		"soundmark": "/aɪ/ /hop/ /ju/ /kæn/ /ɡɪv/ /mi/ /hɪz/ /fon/ /'nʌmbɚ/",
+		"vietnamese": "Tôi希望Bạn可以给我Anh ấy的电话号码"
 	},
 	{
-		"chinese": "她的",
 		"english": "her",
-		"soundmark": "/hɚ/"
+		"soundmark": "/hɚ/",
+		"vietnamese": "Cô ấy的"
 	},
 	{
-		"chinese": "她的电话号码",
 		"english": "her phone number",
-		"soundmark": "/hɚ/ /fon/ /'nʌmbɚ/"
+		"soundmark": "/hɚ/ /fon/ /'nʌmbɚ/",
+		"vietnamese": "Cô ấy的电话号码"
 	},
 	{
-		"chinese": "你可以给我她的电话号码",
 		"english": "you can give me her phone number",
-		"soundmark": "/ju/ /kæn/ /ɡɪv/ /mi/ /hɚ/ /fon/ /'nʌmbɚ/"
+		"soundmark": "/ju/ /kæn/ /ɡɪv/ /mi/ /hɚ/ /fon/ /'nʌmbɚ/",
+		"vietnamese": "Bạn可以给TôiCô ấy的电话号码"
 	},
 	{
-		"chinese": "我希望",
 		"english": "I hope",
-		"soundmark": "/aɪ/ /hop/"
+		"soundmark": "/aɪ/ /hop/",
+		"vietnamese": "Tôi希望"
 	},
 	{
-		"chinese": "我希望你可以给我她的电话号码",
 		"english": "I hope you can give me her phone number",
-		"soundmark": "/aɪ/ /hop/ /ju/ /kæn/ /ɡɪv/ /mi/ /hɚ/ /fon/ /'nʌmbɚ/"
+		"soundmark": "/aɪ/ /hop/ /ju/ /kæn/ /ɡɪv/ /mi/ /hɚ/ /fon/ /'nʌmbɚ/",
+		"vietnamese": "Tôi希望Bạn可以给我Cô ấy的电话号码"
 	},
 	{
-		"chinese": "重要的",
 		"english": "important",
-		"soundmark": "/ɪm'pɔrtnt/"
+		"soundmark": "/ɪm'pɔrtnt/",
+		"vietnamese": "quan trọng"
 	},
 	{
-		"chinese": "它是重要的",
 		"english": "it is important",
-		"soundmark": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/"
+		"soundmark": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/",
+		"vietnamese": "Nó quan trọng"
 	},
 	{
-		"chinese": "对我来说",
 		"english": "for me",
-		"soundmark": "/fɝ/ /mi/"
+		"soundmark": "/fɝ/ /mi/",
+		"vietnamese": "đối với tôi"
 	},
 	{
-		"chinese": "它是重要的对我来说",
 		"english": "it is important for me",
-		"soundmark": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/ /fɝ/ /mi/"
+		"soundmark": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/ /fɝ/ /mi/",
+		"vietnamese": "Nó quan trọngđối với tôi"
 	},
 	{
-		"chinese": "非常",
 		"english": "very",
-		"soundmark": "/ˈvɛri/"
+		"soundmark": "/ˈvɛri/",
+		"vietnamese": "rất"
 	},
 	{
-		"chinese": "它是非常重要的对我来说",
 		"english": "it is very important for me",
-		"soundmark": "/ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /fɝ/ /mi/"
+		"soundmark": "/ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /fɝ/ /mi/",
+		"vietnamese": "Nó rất quan trọngđối với tôi"
 	},
 	{
-		"chinese": "因为",
 		"english": "because",
-		"soundmark": "/bɪ'kɔz/"
+		"soundmark": "/bɪ'kɔz/",
+		"vietnamese": "bởi vì"
 	},
 	{
-		"chinese": "因为它是非常重要的对我来说",
 		"english": "because it is very important for me",
-		"soundmark": "/bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /fɝ/ /mi/"
+		"soundmark": "/bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /fɝ/ /mi/",
+		"vietnamese": "bởi vìNó rất quan trọngđối với tôi"
 	},
 	{
-		"chinese": "我希望你可以给我她的电话号码因为这件事是非常重要的对我来说",
 		"english": "I hope you can give me her phone number because it is very important for me",
-		"soundmark": "/aɪ/ /hop/ /ju/ /kæn/ /ɡɪv/ /mi/ /hɚ/ /fon/ /'nʌmbɚ/ /bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /fɝ/ /mi/"
+		"soundmark": "/aɪ/ /hop/ /ju/ /kæn/ /ɡɪv/ /mi/ /hɚ/ /fon/ /'nʌmbɚ/ /bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /fɝ/ /mi/",
+		"vietnamese": "Tôi希望Bạn可以给我Cô ấy的电话号码bởi vì这件事làrấtquan trọngđối với tôi"
 	},
 	{
-		"chinese": "手",
 		"english": "hand",
-		"soundmark": "/hænd/"
+		"soundmark": "/hænd/",
+		"vietnamese": "[VI:手]"
 	},
 	{
-		"chinese": "一只手",
 		"english": "a hand",
-		"soundmark": "/ə/ /hænd/"
+		"soundmark": "/ə/ /hænd/",
+		"vietnamese": "[VI:一只手]"
 	},
 	{
-		"chinese": "给我一只手（搭把手）",
 		"english": "to give me a hand",
-		"soundmark": "/tə/ /ɡɪv/ /mi/ /ə/ /hænd/"
+		"soundmark": "/tə/ /ɡɪv/ /mi/ /ə/ /hænd/",
+		"vietnamese": "给Tôi一只手（搭把手）"
 	},
 	{
-		"chinese": "你可以给我搭把手",
 		"english": "you can give me a hand",
-		"soundmark": "/ju/ /kæn/ /ɡɪv/ /mi/ /ə/ /hænd/"
+		"soundmark": "/ju/ /kæn/ /ɡɪv/ /mi/ /ə/ /hænd/",
+		"vietnamese": "Bạn可以给Tôi搭把手"
 	},
 	{
-		"chinese": "我希望",
 		"english": "I hope",
-		"soundmark": "/aɪ/ /hop/"
+		"soundmark": "/aɪ/ /hop/",
+		"vietnamese": "Tôi希望"
 	},
 	{
-		"chinese": "我希望你可以给我搭把手",
 		"english": "I hope you can give me a hand",
-		"soundmark": "/aɪ/ /hop/ /ju/ /kæn/ /ɡɪv/ /mi/ /ə/ /hænd/"
+		"soundmark": "/aɪ/ /hop/ /ju/ /kæn/ /ɡɪv/ /mi/ /ə/ /hænd/",
+		"vietnamese": "Tôi希望Bạn可以给我搭把手"
 	},
 	{
-		"chinese": "因为",
 		"english": "because",
-		"soundmark": "/bɪ'kɔz/"
+		"soundmark": "/bɪ'kɔz/",
+		"vietnamese": "bởi vì"
 	},
 	{
-		"chinese": "它是非常重要的对我来说",
 		"english": "it is very important for me",
-		"soundmark": "/ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /fɝ/ /mi/"
+		"soundmark": "/ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /fɝ/ /mi/",
+		"vietnamese": "Nó rất quan trọngđối với tôi"
 	},
 	{
-		"chinese": "因为它是非常重要的对我来说",
 		"english": "because it is very important for me",
-		"soundmark": "/bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /fɝ/ /mi/"
+		"soundmark": "/bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /fɝ/ /mi/",
+		"vietnamese": "bởi vìNó rất quan trọngđối với tôi"
 	},
 	{
-		"chinese": "我希望你可以给我搭把手因为它是非常重要的对我来说",
 		"english": "I hope you can give me a hand because it is very important for me",
-		"soundmark": "/aɪ/ /hop/ /ju/ /kæn/ /ɡɪv/ /mi/ /ə/ /hænd/ /bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /fɝ/ /mi/"
+		"soundmark": "/aɪ/ /hop/ /ju/ /kæn/ /ɡɪv/ /mi/ /ə/ /hænd/ /bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /fɝ/ /mi/",
+		"vietnamese": "Tôi希望Bạn可以给我搭把手bởi vìNó rất quan trọngđối với tôi"
 	},
 	{
-		"chinese": "而且",
 		"english": "and",
-		"soundmark": "/ənd/"
+		"soundmark": "/ənd/",
+		"vietnamese": "[VI:而且]"
 	},
 	{
-		"chinese": "我需要",
 		"english": "I need",
-		"soundmark": "/aɪ/ /nid/"
+		"soundmark": "/aɪ/ /nid/",
+		"vietnamese": "Tôi cần"
 	},
 	{
-		"chinese": "帮助",
 		"english": "to help",
-		"soundmark": "/tə/ /hɛlp/"
+		"soundmark": "/tə/ /hɛlp/",
+		"vietnamese": "giúp đỡ"
 	},
 	{
-		"chinese": "我需要你帮助我",
 		"english": "I need you to help me",
-		"soundmark": "/aɪ/ /nid/ /ju/ /tə/ /hɛlp/ /mi/"
+		"soundmark": "/aɪ/ /nid/ /ju/ /tə/ /hɛlp/ /mi/",
+		"vietnamese": "Tôi cầnBạngiúp đỡ tôi"
 	},
 	{
-		"chinese": "现在",
 		"english": "now",
-		"soundmark": "/naʊ/"
+		"soundmark": "/naʊ/",
+		"vietnamese": "bây giờ"
 	},
 	{
-		"chinese": "我需要你现在帮助我",
 		"english": "I need you to help me now",
-		"soundmark": "/aɪ/ /nid/ /ju/ /tə/ /hɛlp/ /mi/ /naʊ/"
+		"soundmark": "/aɪ/ /nid/ /ju/ /tə/ /hɛlp/ /mi/ /naʊ/",
+		"vietnamese": "Tôi cầnBạnbây giờgiúp đỡ tôi"
 	},
 	{
-		"chinese": "我希望你可以给我搭把手因为它是非常重要的对我来说而且我需要你现在帮助我",
 		"english": "I hope you can give me a hand because it is very important for me and I need you to help me now",
-		"soundmark": "/aɪ/ /hop/ /ju/ /kæn/ /ɡɪv/ /mi/ /ə/ /hænd/ /bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /fɝ/ /mi/ /ənd/ /aɪ/ /nid/ /ju/ /tə/ /hɛlp/ /mi/ /naʊ/"
+		"soundmark": "/aɪ/ /hop/ /ju/ /kæn/ /ɡɪv/ /mi/ /ə/ /hænd/ /bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /fɝ/ /mi/ /ənd/ /aɪ/ /nid/ /ju/ /tə/ /hɛlp/ /mi/ /naʊ/",
+		"vietnamese": "Tôi希望Bạn可以给我搭把手bởi vìNó rất quan trọngđối với tôi而且Tôi cần你bây giờgiúp đỡ tôi"
 	},
 	{
-		"chinese": "建议",
 		"english": "advice",
-		"soundmark": "/əd'vaɪs/"
+		"soundmark": "/əd'vaɪs/",
+		"vietnamese": "[VI:建议]"
 	},
 	{
-		"chinese": "一些",
 		"english": "some",
-		"soundmark": "/səm/"
+		"soundmark": "/səm/",
+		"vietnamese": "[VI:一些]"
 	},
 	{
-		"chinese": "一些建议",
 		"english": "some advice",
-		"soundmark": "/səm/ /əd'vaɪs/"
+		"soundmark": "/səm/ /əd'vaɪs/",
+		"vietnamese": "[VI:一些建议]"
 	},
 	{
-		"chinese": "你可以给我",
 		"english": "you can give me",
-		"soundmark": "/ju/ /kæn/ /ɡɪv/ /mi/"
+		"soundmark": "/ju/ /kæn/ /ɡɪv/ /mi/",
+		"vietnamese": "Bạn可以给Tôi"
 	},
 	{
-		"chinese": "你可以给我一些建议",
 		"english": "you can give me some advice",
-		"soundmark": "/ju/ /kæn/ /ɡɪv/ /mi/ /səm/ /əd'vaɪs/"
+		"soundmark": "/ju/ /kæn/ /ɡɪv/ /mi/ /səm/ /əd'vaɪs/",
+		"vietnamese": "Bạn可以给Tôi一些建议"
 	},
 	{
-		"chinese": "我希望",
 		"english": "I hope",
-		"soundmark": "/aɪ/ /hop/"
+		"soundmark": "/aɪ/ /hop/",
+		"vietnamese": "Tôi希望"
 	},
 	{
-		"chinese": "我希望你可以给我一些建议",
 		"english": "I hope you can give me some advice",
-		"soundmark": "/aɪ/ /hop/ /ju/ /kæn/ /ɡɪv/ /mi/ /səm/ /əd'vaɪs/"
+		"soundmark": "/aɪ/ /hop/ /ju/ /kæn/ /ɡɪv/ /mi/ /səm/ /əd'vaɪs/",
+		"vietnamese": "Tôi希望Bạn可以给我一些建议"
 	},
 	{
-		"chinese": "我的",
 		"english": "my",
-		"soundmark": "/maɪ/"
+		"soundmark": "/maɪ/",
+		"vietnamese": "Tôi的"
 	},
 	{
-		"chinese": "我的工作",
 		"english": "my work",
-		"soundmark": "/maɪ/ /wɝk/"
+		"soundmark": "/maɪ/ /wɝk/",
+		"vietnamese": "Tôi的工作"
 	},
 	{
-		"chinese": "关于",
 		"english": "about",
-		"soundmark": "/ə'baʊt/"
+		"soundmark": "/ə'baʊt/",
+		"vietnamese": "[VI:关于]"
 	},
 	{
-		"chinese": "关于我的工作",
 		"english": "about my work",
-		"soundmark": "/ə'baʊt/ /maɪ/ /wɝk/"
+		"soundmark": "/ə'baʊt/ /maɪ/ /wɝk/",
+		"vietnamese": "关于Tôi的工作"
 	},
 	{
-		"chinese": "我希望你可以给我关于我的工作的一些建议",
 		"english": "I hope you can give me some advice about my work",
-		"soundmark": "/aɪ/ /hop/ /ju/ /kæn/ /ɡɪv/ /mi/ /səm/ /əd'vaɪs/ /ə'baʊt/ /maɪ/ /wɝk/"
+		"soundmark": "/aɪ/ /hop/ /ju/ /kæn/ /ɡɪv/ /mi/ /səm/ /əd'vaɪs/ /ə'baʊt/ /maɪ/ /wɝk/",
+		"vietnamese": "Tôi希望Bạn可以给我关于我的工作的一些建议"
 	},
 	{
-		"chinese": "我可以给你一些建议",
 		"english": "I can give you some advice",
-		"soundmark": "/aɪ/ /kæn/ /ɡɪv/ /ju/ /səm/ /əd'vaɪs/"
+		"soundmark": "/aɪ/ /kæn/ /ɡɪv/ /ju/ /səm/ /əd'vaɪs/",
+		"vietnamese": "Tôi可以给Bạn一些建议"
 	},
 	{
-		"chinese": "想要",
 		"english": "want to",
-		"soundmark": "/wɑnt/ /tə/"
+		"soundmark": "/wɑnt/ /tə/",
+		"vietnamese": "muốn"
 	},
 	{
-		"chinese": "你的",
 		"english": "your",
-		"soundmark": "/jʊr/"
+		"soundmark": "/jʊr/",
+		"vietnamese": "Bạn的"
 	},
 	{
-		"chinese": "关于",
 		"english": "about",
-		"soundmark": "/ə'baʊt/"
+		"soundmark": "/ə'baʊt/",
+		"vietnamese": "[VI:关于]"
 	},
 	{
-		"chinese": "关于你的工作",
 		"english": "about your work",
-		"soundmark": "/ə'baʊt/ /jʊr/ /wɝk/"
+		"soundmark": "/ə'baʊt/ /jʊr/ /wɝk/",
+		"vietnamese": "关于Bạn的工作"
 	},
 	{
-		"chinese": "我想要给你关于你的工作的一些建议",
 		"english": "I want to give you some advice about your work",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /ɡɪv/ /ju/ /səm/ /əd'vaɪs/ /ə'baʊt/ /jʊr/ /wɝk/"
+		"soundmark": "/aɪ/ /wɑnt/ /tə/ /ɡɪv/ /ju/ /səm/ /əd'vaɪs/ /ə'baʊt/ /jʊr/ /wɝk/",
+		"vietnamese": "Tôi muốn给Bạn关于你的工作的一些建议"
 	},
 	{
-		"chinese": "我想要你给我一些建议",
 		"english": "I want you to give me some advice",
-		"soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /ɡɪv/ /mi/ /səm/ /əd'vaɪs/"
+		"soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /ɡɪv/ /mi/ /səm/ /əd'vaɪs/",
+		"vietnamese": "Tôi muốnBạn给Tôi一些建议"
 	},
 	{
-		"chinese": "关于我的工作",
 		"english": "about my work",
-		"soundmark": "/ə'baʊt/ /maɪ/ /wɝk/"
+		"soundmark": "/ə'baʊt/ /maɪ/ /wɝk/",
+		"vietnamese": "关于Tôi的工作"
 	},
 	{
-		"chinese": "我想要你给我关于我的工作的一些建议",
 		"english": "I want you to give me some advice about my work",
-		"soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /ɡɪv/ /mi/ /səm/ /əd'vaɪs/ /ə'baʊt/ /maɪ/ /wɝk/"
+		"soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /ɡɪv/ /mi/ /səm/ /əd'vaɪs/ /ə'baʊt/ /maɪ/ /wɝk/",
+		"vietnamese": "Tôi muốnBạn给Tôi关于我的工作的一些建议"
 	},
 	{
-		"chinese": "他的",
 		"english": "his",
-		"soundmark": "/hɪz/"
+		"soundmark": "/hɪz/",
+		"vietnamese": "Anh ấy的"
 	},
 	{
-		"chinese": "他的工作",
 		"english": "his work",
-		"soundmark": "/hɪz/ /wɝk/"
+		"soundmark": "/hɪz/ /wɝk/",
+		"vietnamese": "Anh ấy的工作"
 	},
 	{
-		"chinese": "给他",
 		"english": "to give him",
-		"soundmark": "/tə/ /ɡɪv/ /hɪm/"
+		"soundmark": "/tə/ /ɡɪv/ /hɪm/",
+		"vietnamese": "给Anh ấy"
 	},
 	{
-		"chinese": "你可以给他关于他的工作的一些建议",
 		"english": "you can give him some advice about his work",
-		"soundmark": "/ju/ /kæn/ /ɡɪv/ /mi/ /səm/ /əd'vaɪs/ /ə'baʊt/ /hɪz/ /wɝk/"
+		"soundmark": "/ju/ /kæn/ /ɡɪv/ /mi/ /səm/ /əd'vaɪs/ /ə'baʊt/ /hɪz/ /wɝk/",
+		"vietnamese": "Bạn可以给Anh ấy关于他的工作的一些建议"
 	},
 	{
-		"chinese": "我希望你可以给他关于他的工作的一些建议",
 		"english": "I hope you can give him some advice about his work",
-		"soundmark": "/aɪ/ /hop/ /ju/ /kæn/ /ɡɪv/ /mi/ /səm/ /əd'vaɪs/ /ə'baʊt/ /hɪz/ /wɝk/"
+		"soundmark": "/aɪ/ /hop/ /ju/ /kæn/ /ɡɪv/ /mi/ /səm/ /əd'vaɪs/ /ə'baʊt/ /hɪz/ /wɝk/",
+		"vietnamese": "Tôi希望Bạn可以给Anh ấy关于他的工作的一些建议"
 	},
 	{
-		"chinese": "她的",
 		"english": "her",
-		"soundmark": "/hɚ/"
+		"soundmark": "/hɚ/",
+		"vietnamese": "Cô ấy的"
 	},
 	{
-		"chinese": "她的工作",
 		"english": "her work",
-		"soundmark": "/hɚ/ /wɝk/"
+		"soundmark": "/hɚ/ /wɝk/",
+		"vietnamese": "Cô ấy的工作"
 	},
 	{
-		"chinese": "给她",
 		"english": "to give her",
-		"soundmark": "/tə/ /ɡɪv/ /hɚ/"
+		"soundmark": "/tə/ /ɡɪv/ /hɚ/",
+		"vietnamese": "给Cô ấy"
 	},
 	{
-		"chinese": "我希望你可以给她关于她的工作的一些建议",
 		"english": "I hope you can give her some advice about her work",
-		"soundmark": "/aɪ/ /hop/ /ju/ /kæn/ /ɡɪv/ /hɚ/ /səm/ /əd'vaɪs/ /ə'baʊt/ /hɚ/ /wɝk/"
+		"soundmark": "/aɪ/ /hop/ /ju/ /kæn/ /ɡɪv/ /hɚ/ /səm/ /əd'vaɪs/ /ə'baʊt/ /hɚ/ /wɝk/",
+		"vietnamese": "Tôi希望Bạn可以给Cô ấy关于她的工作的一些建议"
 	},
 	{
-		"chinese": "我希望她可以给我关于我的工作的一些建议",
 		"english": "I hope she can give me some advice about my work",
-		"soundmark": "/aɪ/ /hop/ /ʃi/ /kæn/ /ɡɪv/ /mi/ /səm/ /əd'vaɪs/ /ə'baʊt/ /maɪ/ /wɝk/"
+		"soundmark": "/aɪ/ /hop/ /ʃi/ /kæn/ /ɡɪv/ /mi/ /səm/ /əd'vaɪs/ /ə'baʊt/ /maɪ/ /wɝk/",
+		"vietnamese": "Tôi希望Cô ấy可以给我关于我的工作的一些建议"
 	},
 	{
-		"chinese": "使用",
 		"english": "to use",
-		"soundmark": "/tə/ /juz/"
+		"soundmark": "/tə/ /juz/",
+		"vietnamese": "[VI:使用]"
 	},
 	{
-		"chinese": "字典",
 		"english": "the dictionary",
-		"soundmark": "/ðə/ /'dɪkʃənɛri/"
+		"soundmark": "/ðə/ /'dɪkʃənɛri/",
+		"vietnamese": "[VI:字典]"
 	},
 	{
-		"chinese": "使用字典",
 		"english": "to use the dictionary",
-		"soundmark": "/tə/ /juz/ /ðə/ /'dɪkʃənɛri/"
+		"soundmark": "/tə/ /juz/ /ðə/ /'dɪkʃənɛri/",
+		"vietnamese": "[VI:使用字典]"
 	},
 	{
-		"chinese": "我需要",
 		"english": "I need",
-		"soundmark": "/aɪ/ /nid/"
+		"soundmark": "/aɪ/ /nid/",
+		"vietnamese": "Tôi cần"
 	},
 	{
-		"chinese": "我需要使用字典",
 		"english": "I need to use the dictionary",
-		"soundmark": "/aɪ/ /nid/ /tə/ /juz/ /ðə/ /'dɪkʃənɛri/"
+		"soundmark": "/aɪ/ /nid/ /tə/ /juz/ /ðə/ /'dɪkʃənɛri/",
+		"vietnamese": "Tôi cần使用字典"
 	},
 	{
-		"chinese": "我不需要使用字典",
 		"english": "I don't need to use the dictionary",
-		"soundmark": "/aɪ/ /dont/ /nid/ /tə/ /juz/ /ðə/ /'dɪkʃənɛri/"
+		"soundmark": "/aɪ/ /dont/ /nid/ /tə/ /juz/ /ðə/ /'dɪkʃənɛri/",
+		"vietnamese": "Tôi không cần使用字典"
 	},
 	{
-		"chinese": "我必须使用字典",
 		"english": "I have to use the dictionary",
-		"soundmark": "/aɪ/ /hæv/ /tə/ /juz/ /ðə/ /'dɪkʃənɛri/"
+		"soundmark": "/aɪ/ /hæv/ /tə/ /juz/ /ðə/ /'dɪkʃənɛri/",
+		"vietnamese": "Tôi phải使用字典"
 	},
 	{
-		"chinese": "我不必使用字典",
 		"english": "I don't have to use the dictionary",
-		"soundmark": "/aɪ/ /dont/ /hæv/ /tə/ /juz/ /ðə/ /'dɪkʃənɛri/"
+		"soundmark": "/aɪ/ /dont/ /hæv/ /tə/ /juz/ /ðə/ /'dɪkʃənɛri/",
+		"vietnamese": "Tôikhông必使用字典"
 	},
 	{
-		"chinese": "我的",
 		"english": "my",
-		"soundmark": "/maɪ/"
+		"soundmark": "/maɪ/",
+		"vietnamese": "Tôi的"
 	},
 	{
-		"chinese": "我的字典",
 		"english": "my dictionary",
-		"soundmark": "/maɪ/ /'dɪkʃənɛri/"
+		"soundmark": "/maɪ/ /'dɪkʃənɛri/",
+		"vietnamese": "Tôi的字典"
 	},
 	{
-		"chinese": "我想要",
 		"english": "I want",
-		"soundmark": "/aɪ/ /wɑnt/"
+		"soundmark": "/aɪ/ /wɑnt/",
+		"vietnamese": "Tôi muốn"
 	},
 	{
-		"chinese": "我想要使用我的字典",
 		"english": "I want to use my dictionary",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /juz/ /maɪ/ /'dɪkʃənɛri/"
+		"soundmark": "/aɪ/ /wɑnt/ /tə/ /juz/ /maɪ/ /'dɪkʃənɛri/",
+		"vietnamese": "Tôi muốn使用Tôi的字典"
 	},
 	{
-		"chinese": "我不想使用我的字典",
 		"english": "I don't want to use my dictionary",
-		"soundmark": "/aɪ/ /dont/ /wɑnt/ /tə/ /juz/ /maɪ/ /'dɪkʃənɛri/"
+		"soundmark": "/aɪ/ /dont/ /wɑnt/ /tə/ /juz/ /maɪ/ /'dɪkʃənɛri/",
+		"vietnamese": "Tôi không muốn使用Tôi的字典"
 	},
 	{
-		"chinese": "我想要你使用我的字典",
 		"english": "I want you to use my dictionary",
-		"soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /juz/ /maɪ/ /'dɪkʃənɛri/"
+		"soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /juz/ /maɪ/ /'dɪkʃənɛri/",
+		"vietnamese": "Tôi muốnBạn使用Tôi的字典"
 	},
 	{
-		"chinese": "我不想要你使用我的字典",
 		"english": "I don't want you to use my dictionary",
-		"soundmark": "/aɪ/ /dont/ /wɑnt/ /ju/ /tə/ /juz/ /maɪ/ /'dɪkʃənɛri/"
+		"soundmark": "/aɪ/ /dont/ /wɑnt/ /ju/ /tə/ /juz/ /maɪ/ /'dɪkʃənɛri/",
+		"vietnamese": "Tôi không muốn要Bạn使用Tôi的字典"
 	},
 	{
-		"chinese": "他的字典",
 		"english": "his dictionary",
-		"soundmark": "/hɪz/ /'dɪkʃənɛri/"
+		"soundmark": "/hɪz/ /'dɪkʃənɛri/",
+		"vietnamese": "Anh ấy的字典"
 	},
 	{
-		"chinese": "我想要你使用他的字典",
 		"english": "I want you to use his dictionary",
-		"soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /juz/ /hɪz/ /'dɪkʃənɛri/"
+		"soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /juz/ /hɪz/ /'dɪkʃənɛri/",
+		"vietnamese": "Tôi muốnBạn使用Anh ấy的字典"
 	},
 	{
-		"chinese": "我不想要你使用他的字典",
 		"english": "I don't want you to use his dictionary",
-		"soundmark": "/aɪ/ /dont/ /wɑnt/ /ju/ /tə/ /juz/ /hɪz/ /'dɪkʃənɛri/"
+		"soundmark": "/aɪ/ /dont/ /wɑnt/ /ju/ /tə/ /juz/ /hɪz/ /'dɪkʃənɛri/",
+		"vietnamese": "Tôi không muốn要Bạn使用Anh ấy的字典"
 	},
 	{
-		"chinese": "她的",
 		"english": "her",
-		"soundmark": "/hɚ/"
+		"soundmark": "/hɚ/",
+		"vietnamese": "Cô ấy的"
 	},
 	{
-		"chinese": "她的字典",
 		"english": "her dictionary",
-		"soundmark": "/hɚ/ /'dɪkʃənɛri/"
+		"soundmark": "/hɚ/ /'dɪkʃənɛri/",
+		"vietnamese": "Cô ấy的字典"
 	},
 	{
-		"chinese": "我想要你使用她的字典",
 		"english": "I want you to use her dictionary",
-		"soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /juz/ /hɚ/ /'dɪkʃənɛri/"
+		"soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /juz/ /hɚ/ /'dɪkʃənɛri/",
+		"vietnamese": "Tôi muốnBạn使用Cô ấy的字典"
 	},
 	{
-		"chinese": "我不想要你使用她的字典",
 		"english": "I don't want you to use her dictionary",
-		"soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /juz/ /hɚ/ /'dɪkʃənɛri/"
+		"soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /juz/ /hɚ/ /'dɪkʃənɛri/",
+		"vietnamese": "Tôi không muốn要Bạn使用Cô ấy的字典"
 	},
 	{
-		"chinese": "需要",
 		"english": "need",
-		"soundmark": "/nid/"
+		"soundmark": "/nid/",
+		"vietnamese": "cần"
 	},
 	{
-		"chinese": "你的字典",
 		"english": "your dictionary",
-		"soundmark": "/jʊr/ /'dɪkʃənɛri/"
+		"soundmark": "/jʊr/ /'dɪkʃənɛri/",
+		"vietnamese": "Bạn的字典"
 	},
 	{
-		"chinese": "我需要使用你的字典",
 		"english": "I need to use your dictionary",
-		"soundmark": "/aɪ/ /nid/ /tə/ /juz/ /jʊr/ /'dɪkʃənɛri/"
+		"soundmark": "/aɪ/ /nid/ /tə/ /juz/ /jʊr/ /'dɪkʃənɛri/",
+		"vietnamese": "Tôi cần使用Bạn的字典"
 	},
 	{
-		"chinese": "我不需要使用你的字典",
 		"english": "I don't need to use your dictionary",
-		"soundmark": "/aɪ/ /dont/ /nid/ /tə/ /juz/ /jʊr/ /'dɪkʃənɛri/"
+		"soundmark": "/aɪ/ /dont/ /nid/ /tə/ /juz/ /jʊr/ /'dɪkʃənɛri/",
+		"vietnamese": "Tôi không cần使用Bạn的字典"
 	},
 	{
-		"chinese": "使用",
 		"english": "to use",
-		"soundmark": "/tə/ /juz/"
+		"soundmark": "/tə/ /juz/",
+		"vietnamese": "[VI:使用]"
 	},
 	{
-		"chinese": "她必须使用",
 		"english": "she has to use",
-		"soundmark": "/ʃi/ /hæz/ /tə/ /juz/"
+		"soundmark": "/ʃi/ /hæz/ /tə/ /juz/",
+		"vietnamese": "Cô ấyphải使用"
 	},
 	{
-		"chinese": "她的字典",
 		"english": "her dictionary",
-		"soundmark": "/hɚ/ /'dɪkʃənɛri/"
+		"soundmark": "/hɚ/ /'dɪkʃənɛri/",
+		"vietnamese": "Cô ấy的字典"
 	},
 	{
-		"chinese": "她必须使用她的字典",
 		"english": "she has to use her dictionary",
-		"soundmark": "/ʃi/ /hæz/ /tə/ /juz/ /hɚ/ /'dɪkʃənɛri/"
+		"soundmark": "/ʃi/ /hæz/ /tə/ /juz/ /hɚ/ /'dɪkʃənɛri/",
+		"vietnamese": "Cô ấyphải使用她的字典"
 	},
 	{
-		"chinese": "她不必使用她的字典",
 		"english": "she doesn't have to use her dictionary",
-		"soundmark": "/ʃi/ /ˈdʌznt/ /hæv/ /tə/ /juz/ /hɚ/ /'dɪkʃənɛri/"
+		"soundmark": "/ʃi/ /ˈdʌznt/ /hæv/ /tə/ /juz/ /hɚ/ /'dɪkʃənɛri/",
+		"vietnamese": "Cô ấykhông必使用她的字典"
 	},
 	{
-		"chinese": "她想要使用她的字典",
 		"english": "she wants to use her dictionary",
-		"soundmark": "/ʃi/ /wɑnts/ /tə/ /juz/ /hɚ/ /'dɪkʃənɛri/"
+		"soundmark": "/ʃi/ /wɑnts/ /tə/ /juz/ /hɚ/ /'dɪkʃənɛri/",
+		"vietnamese": "Cô ấymuốn使用她的字典"
 	},
 	{
-		"chinese": "她不想使用她的字典",
 		"english": "she doesn't want to use her dictionary",
-		"soundmark": "/ʃi/ /ˈdʌznt/ /wɑnt/ /tə/ /juz/ /hɚ/ /'dɪkʃənɛri/"
+		"soundmark": "/ʃi/ /ˈdʌznt/ /wɑnt/ /tə/ /juz/ /hɚ/ /'dɪkʃənɛri/",
+		"vietnamese": "Cô ấykhông muốn使用她的字典"
 	},
 	{
-		"chinese": "她想要我使用她的字典",
 		"english": "she wants me to use her dictionary",
-		"soundmark": "/ʃi/ /wɑnts/ /mi/ /tə/ /juz/ /hɚ/ /'dɪkʃənɛri/"
+		"soundmark": "/ʃi/ /wɑnts/ /mi/ /tə/ /juz/ /hɚ/ /'dɪkʃənɛri/",
+		"vietnamese": "Cô ấymuốnTôi使用她的字典"
 	},
 	{
-		"chinese": "她不想要我使用她的字典",
 		"english": "she doesn't want me to use her dictionary",
-		"soundmark": "/ʃi/ /ˈdʌznt/ /wɑnt/ /mi/ /tə/ /juz/ /hɚ/ /'dɪkʃənɛri/"
+		"soundmark": "/ʃi/ /ˈdʌznt/ /wɑnt/ /mi/ /tə/ /juz/ /hɚ/ /'dɪkʃənɛri/",
+		"vietnamese": "Cô ấykhôngmuốnTôi使用她的字典"
 	},
 	{
-		"chinese": "如何",
 		"english": "how",
-		"soundmark": "/haʊ/"
+		"soundmark": "/haʊ/",
+		"vietnamese": "[VI:如何]"
 	},
 	{
-		"chinese": "如何使用字典",
 		"english": "how to use the dictionary",
-		"soundmark": "/haʊ/ /tə/ /juz/ /ðə/ /'dɪkʃənɛri/"
+		"soundmark": "/haʊ/ /tə/ /juz/ /ðə/ /'dɪkʃənɛri/",
+		"vietnamese": "[VI:如何使用字典]"
 	},
 	{
-		"chinese": "知道",
 		"english": "to know",
-		"soundmark": "/tə/ /no/"
+		"soundmark": "/tə/ /no/",
+		"vietnamese": "biết"
 	},
 	{
-		"chinese": "我需要知道如何使用字典",
 		"english": "I need to know how to use the dictionary",
-		"soundmark": "/aɪ/ /nid/ /tə/ /no/ /haʊ/ /tə/ /juz/ /ðə/ /'dɪkʃənɛri/"
+		"soundmark": "/aɪ/ /nid/ /tə/ /no/ /haʊ/ /tə/ /juz/ /ðə/ /'dɪkʃənɛri/",
+		"vietnamese": "Tôicần biết如何使用字典"
 	},
 	{
-		"chinese": "我必须知道如何使用字典",
 		"english": "I have to know how to use the dictionary",
-		"soundmark": "/aɪ/ /hæv/ /tə/ /no/ /haʊ/ /tə/ /juz/ /ðə/ /'dɪkʃənɛri/"
+		"soundmark": "/aɪ/ /hæv/ /tə/ /no/ /haʊ/ /tə/ /juz/ /ðə/ /'dɪkʃənɛri/",
+		"vietnamese": "Tôiphải biết如何使用字典"
 	},
 	{
-		"chinese": "我想要知道如何使用字典",
 		"english": "I want to know how to use the dictionary",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /no/ /haʊ/ /tə/ /juz/ /ðə/ /'dɪkʃənɛri/"
+		"soundmark": "/aɪ/ /wɑnt/ /tə/ /no/ /haʊ/ /tə/ /juz/ /ðə/ /'dɪkʃənɛri/",
+		"vietnamese": "Tôimuốn biết如何使用字典"
 	},
 	{
-		"chinese": "电话",
 		"english": "the phone",
-		"soundmark": "/ðə/ /fon/"
+		"soundmark": "/ðə/ /fon/",
+		"vietnamese": "[VI:电话]"
 	},
 	{
-		"chinese": "使用电话",
 		"english": "to use the phone",
-		"soundmark": "/tə/ /juz/ /ðə/ /fon/"
+		"soundmark": "/tə/ /juz/ /ðə/ /fon/",
+		"vietnamese": "[VI:使用电话]"
 	},
 	{
-		"chinese": "我需要使用电话",
 		"english": "I need to use the phone",
-		"soundmark": "/aɪ/ /nid/ /tə/ /juz/ /ðə/ /fon/"
+		"soundmark": "/aɪ/ /nid/ /tə/ /juz/ /ðə/ /fon/",
+		"vietnamese": "Tôi cần使用电话"
 	},
 	{
-		"chinese": "如何使用电话",
 		"english": "how to use the phone",
-		"soundmark": "/haʊ/ /tə/ /juz/ /ðə/ /fon/"
+		"soundmark": "/haʊ/ /tə/ /juz/ /ðə/ /fon/",
+		"vietnamese": "[VI:如何使用电话]"
 	},
 	{
-		"chinese": "我需要知道如何使用电话",
 		"english": "I need to know how to use the phone",
-		"soundmark": "/aɪ/ /nid/ /tə/ /no/ /haʊ/ /tə/ /juz/ /ðə/ /fon/"
+		"soundmark": "/aɪ/ /nid/ /tə/ /no/ /haʊ/ /tə/ /juz/ /ðə/ /fon/",
+		"vietnamese": "Tôicần biết如何使用电话"
 	},
 	{
-		"chinese": "你的",
 		"english": "your",
-		"soundmark": "/jʊr/"
+		"soundmark": "/jʊr/",
+		"vietnamese": "Bạn的"
 	},
 	{
-		"chinese": "你的电话",
 		"english": "your phone",
-		"soundmark": "/jʊr/ /fon/"
+		"soundmark": "/jʊr/ /fon/",
+		"vietnamese": "Bạn的电话"
 	},
 	{
-		"chinese": "我需要使用你的电话",
 		"english": "I need to use your phone",
-		"soundmark": "/aɪ/ /nid/ /tə/ /juz/ /jʊr/ /fon/"
+		"soundmark": "/aɪ/ /nid/ /tə/ /juz/ /jʊr/ /fon/",
+		"vietnamese": "Tôi cần使用Bạn的电话"
 	},
 	{
-		"chinese": "我不需要使用你的电话",
 		"english": "I don't need to use your phone",
-		"soundmark": "/aɪ/ /dont/ /nid/ /tə/ /juz/ /jʊr/ /fon/"
+		"soundmark": "/aɪ/ /dont/ /nid/ /tə/ /juz/ /jʊr/ /fon/",
+		"vietnamese": "Tôi không cần使用Bạn的电话"
 	},
 	{
-		"chinese": "他需要",
 		"english": "he needs",
-		"soundmark": "/hi/ /nidz/"
+		"soundmark": "/hi/ /nidz/",
+		"vietnamese": "Anh ấycần"
 	},
 	{
-		"chinese": "她的",
 		"english": "her",
-		"soundmark": "/hɚ/"
+		"soundmark": "/hɚ/",
+		"vietnamese": "Cô ấy的"
 	},
 	{
-		"chinese": "她的电话",
 		"english": "her phone",
-		"soundmark": "/hɚ/ /fon/"
+		"soundmark": "/hɚ/ /fon/",
+		"vietnamese": "Cô ấy的电话"
 	},
 	{
-		"chinese": "他需要使用她的电话",
 		"english": "he needs to use her phone",
-		"soundmark": "/hi/ /nidz/ /tə/ /juz/ /hɚ/ /fon/"
+		"soundmark": "/hi/ /nidz/ /tə/ /juz/ /hɚ/ /fon/",
+		"vietnamese": "Anh ấycần使用Cô ấy的电话"
 	},
 	{
-		"chinese": "他不需要使用她的电话",
 		"english": "he doesn't need to use her phone",
-		"soundmark": "/hi/ /ˈdʌznt/ /nid/ /tə/ /juz/ /hɚ/ /fon/"
+		"soundmark": "/hi/ /ˈdʌznt/ /nid/ /tə/ /juz/ /hɚ/ /fon/",
+		"vietnamese": "Anh ấykhôngcần使用Cô ấy的电话"
 	},
 	{
-		"chinese": "洗手间",
 		"english": "the bathroom",
-		"soundmark": "/ðə/ /'bæθrum/"
+		"soundmark": "/ðə/ /'bæθrum/",
+		"vietnamese": "[VI:洗手间]"
 	},
 	{
-		"chinese": "使用洗手间",
 		"english": "to use the bathroom",
-		"soundmark": "/tə/ /juz/ /ðə/ /'bæθrum/"
+		"soundmark": "/tə/ /juz/ /ðə/ /'bæθrum/",
+		"vietnamese": "[VI:使用洗手间]"
 	},
 	{
-		"chinese": "我需要",
 		"english": "I need",
-		"soundmark": "/aɪ/ /nid/"
+		"soundmark": "/aɪ/ /nid/",
+		"vietnamese": "Tôi cần"
 	},
 	{
-		"chinese": "我需要使用洗手间",
 		"english": "I need to use the bathroom",
-		"soundmark": "/aɪ/ /nid/ /tə/ /juz/ /ðə/ /'bæθrum/"
+		"soundmark": "/aɪ/ /nid/ /tə/ /juz/ /ðə/ /'bæθrum/",
+		"vietnamese": "Tôi cần使用洗手间"
 	},
 	{
-		"chinese": "只是",
 		"english": "just",
-		"soundmark": "/dʒʌst/"
+		"soundmark": "/dʒʌst/",
+		"vietnamese": "只là"
 	},
 	{
-		"chinese": "我只是需要使用洗手间",
 		"english": "I just need to use the bathroom",
-		"soundmark": "/aɪ/ /dʒʌst/ /nid/ /tə/ /juz/ /ðə/ /'bæθrum/"
+		"soundmark": "/aɪ/ /dʒʌst/ /nid/ /tə/ /juz/ /ðə/ /'bæθrum/",
+		"vietnamese": "Tôi只làcần使用洗手间"
 	},
 	{
-		"chinese": "你的",
 		"english": "your",
-		"soundmark": "/jʊr/"
+		"soundmark": "/jʊr/",
+		"vietnamese": "Bạn的"
 	},
 	{
-		"chinese": "你的洗手间",
 		"english": "your bathroom",
-		"soundmark": "/jʊr/ /'bæθrum/"
+		"soundmark": "/jʊr/ /'bæθrum/",
+		"vietnamese": "Bạn的洗手间"
 	},
 	{
-		"chinese": "我只是需要使用你的洗手间",
 		"english": "I just need to use your bathroom",
-		"soundmark": "/aɪ/ /dʒʌst/ /nid/ /tə/ /juz/ /jʊr/ /'bæθrum/"
+		"soundmark": "/aɪ/ /dʒʌst/ /nid/ /tə/ /juz/ /jʊr/ /'bæθrum/",
+		"vietnamese": "Tôi只làcần使用Bạn的洗手间"
 	},
 	{
-		"chinese": "他的洗手间",
 		"english": "his bathroom",
-		"soundmark": "/hɪz/ /'bæθrum/"
+		"soundmark": "/hɪz/ /'bæθrum/",
+		"vietnamese": "Anh ấy的洗手间"
 	},
 	{
-		"chinese": "我只是需要使用他的洗手间",
 		"english": "I just need to use his bathroom",
-		"soundmark": "/aɪ/ /dʒʌst/ /nid/ /tə/ /juz/ /hɪz/ /'bæθrum/"
+		"soundmark": "/aɪ/ /dʒʌst/ /nid/ /tə/ /juz/ /hɪz/ /'bæθrum/",
+		"vietnamese": "Tôi只làcần使用Anh ấy的洗手间"
 	},
 	{
-		"chinese": "她的洗手间",
 		"english": "her bathroom",
-		"soundmark": "/hɚ/ /'bæθrum/"
+		"soundmark": "/hɚ/ /'bæθrum/",
+		"vietnamese": "Cô ấy的洗手间"
 	},
 	{
-		"chinese": "我只是需要使用她的洗手间",
 		"english": "I just need to use her bathroom",
-		"soundmark": "/aɪ/ /dʒʌst/ /nid/ /tə/ /juz/ /hɚ/ /'bæθrum/"
+		"soundmark": "/aɪ/ /dʒʌst/ /nid/ /tə/ /juz/ /hɚ/ /'bæθrum/",
+		"vietnamese": "Tôi只làcần使用Cô ấy的洗手间"
 	},
 	{
-		"chinese": "他们的",
 		"english": "their",
-		"soundmark": "/ðɛr/"
+		"soundmark": "/ðɛr/",
+		"vietnamese": "Họ的"
 	},
 	{
-		"chinese": "他们的洗手间",
 		"english": "their bathroom",
-		"soundmark": "/ðɛr/ /'bæθrum/"
+		"soundmark": "/ðɛr/ /'bæθrum/",
+		"vietnamese": "Họ的洗手间"
 	},
 	{
-		"chinese": "我只是需要使用他们的洗手间",
 		"english": "I just need to use their bathroom",
-		"soundmark": "/aɪ/ /dʒʌst/ /nid/ /tə/ /juz/ /ðɛr/ /'bæθrum/"
+		"soundmark": "/aɪ/ /dʒʌst/ /nid/ /tə/ /juz/ /ðɛr/ /'bæθrum/",
+		"vietnamese": "Tôi只làcần使用Họ的洗手间"
 	},
 	{
-		"chinese": "我想要使用他们的洗手间",
 		"english": "I want to use their bathroom",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /juz/ /ðɛr/ /'bæθrum/"
+		"soundmark": "/aɪ/ /wɑnt/ /tə/ /juz/ /ðɛr/ /'bæθrum/",
+		"vietnamese": "Tôi muốn使用Họ的洗手间"
 	},
 	{
-		"chinese": "我必须使用他们的洗手间",
 		"english": "I have to use their bathroom",
-		"soundmark": "/aɪ/ /hæv/ /tə/ /juz/ /ðɛr/ /'bæθrum/"
+		"soundmark": "/aɪ/ /hæv/ /tə/ /juz/ /ðɛr/ /'bæθrum/",
+		"vietnamese": "Tôi phải使用Họ的洗手间"
 	}
 ]

@@ -15,7 +15,7 @@
           </div>
 
           <p class="typing mt-4 max-w-[16rem] text-base leading-relaxed">
-            一起来加入我们
+            một起来加入我们
             <span
               class="bg-gradient-to-r from-purple-400 via-purple-400 to-gray-400 bg-clip-text text-transparent dark:from-purple-600 dark:to-gray-100"
               >Earthworm</span
@@ -123,7 +123,7 @@
                   href="https://github.com/cuixueshe/earthworm"
                   class="transition hover:opacity-75"
                 >
-                  关于我们
+                  Giới thiệu我们
                 </a>
               </li>
             </ul>

@@ -1,677 +1,677 @@
 [
 	{
-		"chinese": "支付；付出",
 		"english": "to pay",
-		"soundmark": "/tə/ /pe/"
+		"soundmark": "/tə/ /pe/",
+		"vietnamese": "[VI:支付；付出]"
 	},
 	{
-		"chinese": "注意力",
 		"english": "attention",
-		"soundmark": "/ə'tɛnʃən/"
+		"soundmark": "/ə'tɛnʃən/",
+		"vietnamese": "[VI:注意力]"
 	},
 	{
-		"chinese": "需要",
 		"english": "need",
-		"soundmark": "/nid/"
+		"soundmark": "/nid/",
+		"vietnamese": "cần"
 	},
 	{
-		"chinese": "你需要",
 		"english": "you need",
-		"soundmark": "/ju/ /nid/"
+		"soundmark": "/ju/ /nid/",
+		"vietnamese": "Bạncần"
 	},
 	{
-		"chinese": "你需要注意",
 		"english": "you need to pay attention",
-		"soundmark": "/ju/ /nid/ /tə/ /pe/ /ə'tɛnʃən/"
+		"soundmark": "/ju/ /nid/ /tə/ /pe/ /ə'tɛnʃən/",
+		"vietnamese": "Bạncần注意"
 	},
 	{
-		"chinese": "问题",
 		"english": "question",
-		"soundmark": "/'kwɛstʃən/"
+		"soundmark": "/'kwɛstʃən/",
+		"vietnamese": "[VI:问题]"
 	},
 	{
-		"chinese": "这个",
 		"english": "this",
-		"soundmark": "/ðɪs/"
+		"soundmark": "/ðɪs/",
+		"vietnamese": "[VI:这个]"
 	},
 	{
-		"chinese": "这个问题",
 		"english": "this question",
-		"soundmark": "/ðɪs/ /'kwɛstʃən/"
+		"soundmark": "/ðɪs/ /'kwɛstʃən/",
+		"vietnamese": "[VI:这个问题]"
 	},
 	{
-		"chinese": "注意",
 		"english": "to pay attention",
-		"soundmark": "/tə/ /pe/ /ə'tɛnʃən/"
+		"soundmark": "/tə/ /pe/ /ə'tɛnʃən/",
+		"vietnamese": "[VI:注意]"
 	},
 	{
-		"chinese": "注意这个问题",
 		"english": "to pay attention to this question",
-		"soundmark": "/tə/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /'kwɛstʃən/"
+		"soundmark": "/tə/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /'kwɛstʃən/",
+		"vietnamese": "[VI:注意这个问题]"
 	},
 	{
-		"chinese": "你需要",
 		"english": "you need",
-		"soundmark": "/ju/ /nid/"
+		"soundmark": "/ju/ /nid/",
+		"vietnamese": "Bạncần"
 	},
 	{
-		"chinese": "你需要注意这个问题",
 		"english": "you need to pay attention to this question",
-		"soundmark": "/ju/ /nid/ /tə/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /'kwɛstʃən/"
+		"soundmark": "/ju/ /nid/ /tə/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /'kwɛstʃən/",
+		"vietnamese": "Bạncần注意这个问题"
 	},
 	{
-		"chinese": "不",
 		"english": "don't",
-		"soundmark": "/dont/"
+		"soundmark": "/dont/",
+		"vietnamese": "không"
 	},
 	{
-		"chinese": "你不需要注意这个问题",
 		"english": "you don't need to pay attention to this question",
-		"soundmark": "/ju/ /dont/ /nid/ /tə/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /'kwɛstʃən/"
+		"soundmark": "/ju/ /dont/ /nid/ /tə/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /'kwɛstʃən/",
+		"vietnamese": "Bạnkhôngcần注意这个问题"
 	},
 	{
-		"chinese": "你(过去)需要注意这个问题",
 		"english": "you needed to pay attention to this question",
-		"soundmark": "/ju/ /nidɪd/ /tə/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /'kwɛstʃən/"
+		"soundmark": "/ju/ /nidɪd/ /tə/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /'kwɛstʃən/",
+		"vietnamese": "Bạn(过去)cần注意这个问题"
 	},
 	{
-		"chinese": "你(过去)不需要注意这个问题",
 		"english": "you didn't need to pay attention to this question",
-		"soundmark": "/ju/ /ˈdɪdnt/ /nid/ /tə/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /'kwɛstʃən/"
+		"soundmark": "/ju/ /ˈdɪdnt/ /nid/ /tə/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /'kwɛstʃən/",
+		"vietnamese": "Bạn(过去)khôngcần注意这个问题"
 	},
 	{
-		"chinese": "你需要注意这个问题",
 		"english": "you need to pay attention to this question",
-		"soundmark": "/ju/ /nid/ /tə/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /'kwɛstʃən/"
+		"soundmark": "/ju/ /nid/ /tə/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /'kwɛstʃən/",
+		"vietnamese": "Bạncần注意这个问题"
 	},
 	{
-		"chinese": "信息",
 		"english": "information",
-		"soundmark": "/ɪnfɚ'meʃən/"
+		"soundmark": "/ɪnfɚ'meʃən/",
+		"vietnamese": "[VI:信息]"
 	},
 	{
-		"chinese": "这个",
 		"english": "this",
-		"soundmark": "/ðɪs/"
+		"soundmark": "/ðɪs/",
+		"vietnamese": "[VI:这个]"
 	},
 	{
-		"chinese": "这个信息",
 		"english": "this information",
-		"soundmark": "/ðɪs/ /ɪnfɚ'meʃən/"
+		"soundmark": "/ðɪs/ /ɪnfɚ'meʃən/",
+		"vietnamese": "[VI:这个信息]"
 	},
 	{
-		"chinese": "你需要注意这个信息",
 		"english": "you need to pay attention to this information",
-		"soundmark": "/ju/ /nid/ /tə/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+		"soundmark": "/ju/ /nid/ /tə/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/",
+		"vietnamese": "Bạncần注意这个信息"
 	},
 	{
-		"chinese": "你注意这个信息",
 		"english": "you pay attention to this information",
-		"soundmark": "/ju/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+		"soundmark": "/ju/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/",
+		"vietnamese": "Bạn注意这个信息"
 	},
 	{
-		"chinese": "不",
 		"english": "don't",
-		"soundmark": "/dont/"
+		"soundmark": "/dont/",
+		"vietnamese": "không"
 	},
 	{
-		"chinese": "你没有注意这个信息",
 		"english": "you don't pay attention to this information",
-		"soundmark": "/ju/ /dont/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+		"soundmark": "/ju/ /dont/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/",
+		"vietnamese": "Bạn没有注意这个信息"
 	},
 	{
-		"chinese": "注意力",
 		"english": "attention",
-		"soundmark": "/ə'tɛnʃən/"
+		"soundmark": "/ə'tɛnʃən/",
+		"vietnamese": "[VI:注意力]"
 	},
 	{
-		"chinese": "你(过去)注意这个信息",
 		"english": "you paid attention to this information",
-		"soundmark": "/ju/ /ped/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+		"soundmark": "/ju/ /ped/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/",
+		"vietnamese": "Bạn(过去)注意这个信息"
 	},
 	{
-		"chinese": "你(过去)没有注意这个信息",
 		"english": "you didn't pay attention to this information",
-		"soundmark": "/ju/ /ˈdɪdnt/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+		"soundmark": "/ju/ /ˈdɪdnt/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/",
+		"vietnamese": "Bạn(过去)没有注意这个信息"
 	},
 	{
-		"chinese": "应该",
 		"english": "should",
-		"soundmark": "/ʃʊd/"
+		"soundmark": "/ʃʊd/",
+		"vietnamese": "[VI:应该]"
 	},
 	{
-		"chinese": "你应该",
 		"english": "you should",
-		"soundmark": "/ju/ /ʃʊd/"
+		"soundmark": "/ju/ /ʃʊd/",
+		"vietnamese": "Bạn应该"
 	},
 	{
-		"chinese": "你应该注意这个信息",
 		"english": "you should pay attention to this information",
-		"soundmark": "/ju/ /ʃʊd/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+		"soundmark": "/ju/ /ʃʊd/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/",
+		"vietnamese": "Bạn应该注意这个信息"
 	},
 	{
-		"chinese": "你不应该",
 		"english": "you should not",
-		"soundmark": "/ju/ /ʃʊd/ /nɑt/"
+		"soundmark": "/ju/ /ʃʊd/ /nɑt/",
+		"vietnamese": "Bạnkhông应该"
 	},
 	{
-		"chinese": "你不应该注意这个信息",
 		"english": "you should not pay attention to this information",
-		"soundmark": "/ju/ /ʃʊd/ /nɑt/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+		"soundmark": "/ju/ /ʃʊd/ /nɑt/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/",
+		"vietnamese": "Bạnkhông应该注意这个信息"
 	},
 	{
-		"chinese": "支付；付出(ing形式)",
 		"english": "paying",
-		"soundmark": "/peɪŋ/"
+		"soundmark": "/peɪŋ/",
+		"vietnamese": "[VI:支付；付出(ing形式)]"
 	},
 	{
-		"chinese": "是；赋值(原型)",
 		"english": "be",
-		"soundmark": "/bi/"
+		"soundmark": "/bi/",
+		"vietnamese": "là；赋值(原型)"
 	},
 	{
-		"chinese": "正在付出",
 		"english": "be paying",
-		"soundmark": "/bi/ /peɪŋ/"
+		"soundmark": "/bi/ /peɪŋ/",
+		"vietnamese": "[VI:正在付出]"
 	},
 	{
-		"chinese": "注意力",
 		"english": "attention",
-		"soundmark": "/ə'tɛnʃən/"
+		"soundmark": "/ə'tɛnʃən/",
+		"vietnamese": "[VI:注意力]"
 	},
 	{
-		"chinese": "正在注意(付出注意力)",
 		"english": "be paying attention",
-		"soundmark": "/bi/ /peɪŋ/ /ə'tɛnʃən/"
+		"soundmark": "/bi/ /peɪŋ/ /ə'tɛnʃən/",
+		"vietnamese": "[VI:正在注意(付出注意力)]"
 	},
 	{
-		"chinese": "信息",
 		"english": "information",
-		"soundmark": "/ɪnfɚ'meʃən/"
+		"soundmark": "/ɪnfɚ'meʃən/",
+		"vietnamese": "[VI:信息]"
 	},
 	{
-		"chinese": "这个信息",
 		"english": "this information",
-		"soundmark": "/ðɪs/ /ɪnfɚ'meʃən/"
+		"soundmark": "/ðɪs/ /ɪnfɚ'meʃən/",
+		"vietnamese": "[VI:这个信息]"
 	},
 	{
-		"chinese": "正在注意这个信息",
 		"english": "be paying attention to this information",
-		"soundmark": "/bi/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+		"soundmark": "/bi/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/",
+		"vietnamese": "[VI:正在注意这个信息]"
 	},
 	{
-		"chinese": "你",
 		"english": "you",
-		"soundmark": "/ju/"
+		"soundmark": "/ju/",
+		"vietnamese": "Bạn"
 	},
 	{
-		"chinese": "你(现在)正在注意这个信息",
 		"english": "you are paying attention to this information",
-		"soundmark": "/ju/ /ɚ/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+		"soundmark": "/ju/ /ɚ/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/",
+		"vietnamese": "Bạn(bây giờ)正在注意这个信息"
 	},
 	{
-		"chinese": "我",
 		"english": "I",
-		"soundmark": "/aɪ/"
+		"soundmark": "/aɪ/",
+		"vietnamese": "Tôi"
 	},
 	{
-		"chinese": "我(现在)正在注意这个信息",
 		"english": "I am paying attention to this information",
-		"soundmark": "/aɪ/ /æm/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+		"soundmark": "/aɪ/ /æm/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/",
+		"vietnamese": "Tôi(bây giờ)正在注意这个信息"
 	},
 	{
-		"chinese": "他",
 		"english": "he",
-		"soundmark": "/hi/"
+		"soundmark": "/hi/",
+		"vietnamese": "Anh ấy"
 	},
 	{
-		"chinese": "他(现在)正在注意这个信息",
 		"english": "he is paying attention to this information",
-		"soundmark": "/hi/ /ɪz/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+		"soundmark": "/hi/ /ɪz/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/",
+		"vietnamese": "Anh ấy(bây giờ)正在注意这个信息"
 	},
 	{
-		"chinese": "不",
 		"english": "not",
-		"soundmark": "/nɑt/"
+		"soundmark": "/nɑt/",
+		"vietnamese": "không"
 	},
 	{
-		"chinese": "他(现在)没有正在注意这个信息",
 		"english": "he is not paying attention to this information",
-		"soundmark": "/hi/ /ɪz/ /nɑt/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+		"soundmark": "/hi/ /ɪz/ /nɑt/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/",
+		"vietnamese": "Anh ấy(bây giờ)没有正在注意这个信息"
 	},
 	{
-		"chinese": "他(过去)正在注意这个信息",
 		"english": "he was paying attention to this information",
-		"soundmark": "/hi/ /wəz/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+		"soundmark": "/hi/ /wəz/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/",
+		"vietnamese": "Anh ấy(过去)正在注意这个信息"
 	},
 	{
-		"chinese": "不",
 		"english": "not",
-		"soundmark": "/nɑt/"
+		"soundmark": "/nɑt/",
+		"vietnamese": "không"
 	},
 	{
-		"chinese": "他(过去)没有正在注意这个信息",
 		"english": "he was not paying attention to this information",
-		"soundmark": "/hi/ /wəz/ /nɑt/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+		"soundmark": "/hi/ /wəz/ /nɑt/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/",
+		"vietnamese": "Anh ấy(过去)没有正在注意这个信息"
 	},
 	{
-		"chinese": "昨天",
 		"english": "yesterday",
-		"soundmark": "/'jɛstɚde/"
+		"soundmark": "/'jɛstɚde/",
+		"vietnamese": "[VI:昨天]"
 	},
 	{
-		"chinese": "在这个时候",
 		"english": "at this time",
-		"soundmark": "/ət/ /ðɪs/ /taɪm/"
+		"soundmark": "/ət/ /ðɪs/ /taɪm/",
+		"vietnamese": "[VI:在这个时候]"
 	},
 	{
-		"chinese": "在昨天这个时候",
 		"english": "at this time yesterday",
-		"soundmark": "/ət/ /ðɪs/ /taɪm/ /'jɛstɚde/"
+		"soundmark": "/ət/ /ðɪs/ /taɪm/ /'jɛstɚde/",
+		"vietnamese": "[VI:在昨天这个时候]"
 	},
 	{
-		"chinese": "他在昨天这个时候没有注意到这个信息",
 		"english": "he was not paying attention to this information at this time yesterday",
-		"soundmark": "/hi/ /wəz/ /nɑt/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/ /ət/ /ðɪs/ /taɪm/ /'jɛstɚde/"
+		"soundmark": "/hi/ /wəz/ /nɑt/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/ /ət/ /ðɪs/ /taɪm/ /'jɛstɚde/",
+		"vietnamese": "Anh ấy在昨天这个时候没有注意到这个信息"
 	},
 	{
-		"chinese": "是；赋值(原型)",
 		"english": "be",
-		"soundmark": "/bi/"
+		"soundmark": "/bi/",
+		"vietnamese": "là；赋值(原型)"
 	},
 	{
-		"chinese": "正在注意(付出注意力)",
 		"english": "be paying attention",
-		"soundmark": "/bi/ /peɪŋ/ /ə'tɛnʃən/"
+		"soundmark": "/bi/ /peɪŋ/ /ə'tɛnʃən/",
+		"vietnamese": "[VI:正在注意(付出注意力)]"
 	},
 	{
-		"chinese": "正在注意这个信息",
 		"english": "be paying attention to this information",
-		"soundmark": "/bi/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+		"soundmark": "/bi/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/",
+		"vietnamese": "[VI:正在注意这个信息]"
 	},
 	{
-		"chinese": "将会",
 		"english": "will",
-		"soundmark": "/wɪl/"
+		"soundmark": "/wɪl/",
+		"vietnamese": "[VI:将会]"
 	},
 	{
-		"chinese": "他将会",
 		"english": "he will",
-		"soundmark": "/hi/ /wɪl/"
+		"soundmark": "/hi/ /wɪl/",
+		"vietnamese": "Anh ấy将会"
 	},
 	{
-		"chinese": "他将会正在注意这个信息",
 		"english": "he will be paying attention to this information",
-		"soundmark": "/hi/ /wɪl/ /bi/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+		"soundmark": "/hi/ /wɪl/ /bi/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/",
+		"vietnamese": "Anh ấy将会正在注意这个信息"
 	},
 	{
-		"chinese": "明天",
 		"english": "tomorrow",
-		"soundmark": "/tə'mɔro/"
+		"soundmark": "/tə'mɔro/",
+		"vietnamese": "ngày mai"
 	},
 	{
-		"chinese": "在这个时候",
 		"english": "at this time",
-		"soundmark": "/ət/ /ðɪs/ /taɪm/"
+		"soundmark": "/ət/ /ðɪs/ /taɪm/",
+		"vietnamese": "[VI:在这个时候]"
 	},
 	{
-		"chinese": "在明天这个时候",
 		"english": "at this time tomorrow",
-		"soundmark": "/ət/ /ðɪs/ /taɪm/ /tə'mɔro/"
+		"soundmark": "/ət/ /ðɪs/ /taɪm/ /tə'mɔro/",
+		"vietnamese": "在ngày mai这个时候"
 	},
 	{
-		"chinese": "他在明天这个时候将会正在注意这个信息",
 		"english": "he will be paying attention to this information at this time tomorrow",
-		"soundmark": "/hi/ /wɪl/ /bi/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/ /ət/ /ðɪs/ /taɪm/ /tə'mɔro/"
+		"soundmark": "/hi/ /wɪl/ /bi/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/ /ət/ /ðɪs/ /taɪm/ /tə'mɔro/",
+		"vietnamese": "Anh ấy在ngày mai这个时候将会正在注意这个信息"
 	},
 	{
-		"chinese": "细节",
 		"english": "the detail",
-		"soundmark": "/ðə/ /ˈditel/"
+		"soundmark": "/ðə/ /ˈditel/",
+		"vietnamese": "[VI:细节]"
 	},
 	{
-		"chinese": "细节(复数)",
 		"english": "the details",
-		"soundmark": "/ðə/ /ˈditelz/"
+		"soundmark": "/ðə/ /ˈditelz/",
+		"vietnamese": "[VI:细节(复数)]"
 	},
 	{
-		"chinese": "所有的",
 		"english": "all",
-		"soundmark": "/ɔl/"
+		"soundmark": "/ɔl/",
+		"vietnamese": "[VI:所有的]"
 	},
 	{
-		"chinese": "所有的细节",
 		"english": "all the details",
-		"soundmark": "/ɔl/ /ðə/ /ˈditelz/"
+		"soundmark": "/ɔl/ /ðə/ /ˈditelz/",
+		"vietnamese": "[VI:所有的细节]"
 	},
 	{
-		"chinese": "支付；付出",
 		"english": "to pay",
-		"soundmark": "/tə/ /pe/"
+		"soundmark": "/tə/ /pe/",
+		"vietnamese": "[VI:支付；付出]"
 	},
 	{
-		"chinese": "注意力",
 		"english": "attention",
-		"soundmark": "/ə'tɛnʃən/"
+		"soundmark": "/ə'tɛnʃən/",
+		"vietnamese": "[VI:注意力]"
 	},
 	{
-		"chinese": "注意(付出注意力)",
 		"english": "to pay attention",
-		"soundmark": "/tə/ /pe/ /ə'tɛnʃən/"
+		"soundmark": "/tə/ /pe/ /ə'tɛnʃən/",
+		"vietnamese": "[VI:注意(付出注意力)]"
 	},
 	{
-		"chinese": "注意所有的细节",
 		"english": "to pay attention to all the details",
-		"soundmark": "/tə/ /pe/ /ə'tɛnʃən/ /tə/ /ɔl/ /ðə/ /ˈditelz/"
+		"soundmark": "/tə/ /pe/ /ə'tɛnʃən/ /tə/ /ɔl/ /ðə/ /ˈditelz/",
+		"vietnamese": "[VI:注意所有的细节]"
 	},
 	{
-		"chinese": "重要的",
 		"english": "important",
-		"soundmark": "/ɪm'pɔrtnt/"
+		"soundmark": "/ɪm'pɔrtnt/",
+		"vietnamese": "quan trọng"
 	},
 	{
-		"chinese": "它",
 		"english": "it",
-		"soundmark": "/ɪt/"
+		"soundmark": "/ɪt/",
+		"vietnamese": "Nó"
 	},
 	{
-		"chinese": "它是重要的",
 		"english": "it is important",
-		"soundmark": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/"
+		"soundmark": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/",
+		"vietnamese": "Nó quan trọng"
 	},
 	{
-		"chinese": "非常",
 		"english": "very",
-		"soundmark": "/ˈvɛri/"
+		"soundmark": "/ˈvɛri/",
+		"vietnamese": "rất"
 	},
 	{
-		"chinese": "它是非常重要的",
 		"english": "it is very important",
-		"soundmark": "/ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/"
+		"soundmark": "/ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/",
+		"vietnamese": "Nó rất quan trọng"
 	},
 	{
-		"chinese": "注意所有的细节(它)是非常重要的",
 		"english": "it is very important to pay attention to all the details",
-		"soundmark": "/ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /tə/ /pe/ /ə'tɛnʃən/ /tə/ /ɔl/ /ðə/ /ˈditelz/"
+		"soundmark": "/ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /tə/ /pe/ /ə'tɛnʃən/ /tə/ /ɔl/ /ðə/ /ˈditelz/",
+		"vietnamese": "注意所有的细节(Nó)làrấtquan trọng"
 	},
 	{
-		"chinese": "讨论",
 		"english": "to discuss",
-		"soundmark": "/tə/ /dɪ'skʌs/"
+		"soundmark": "/tə/ /dɪ'skʌs/",
+		"vietnamese": "[VI:讨论]"
 	},
 	{
-		"chinese": "某件事情",
 		"english": "something",
-		"soundmark": "/'sʌmθɪŋ/"
+		"soundmark": "/'sʌmθɪŋ/",
+		"vietnamese": "[VI:某件事情]"
 	},
 	{
-		"chinese": "讨论某件事情",
 		"english": "to discuss something",
-		"soundmark": "/tə/ /dɪ'skʌs/ /'sʌmθɪŋ/"
+		"soundmark": "/tə/ /dɪ'skʌs/ /'sʌmθɪŋ/",
+		"vietnamese": "[VI:讨论某件事情]"
 	},
 	{
-		"chinese": "想要(直接地)",
 		"english": "want",
-		"soundmark": "/wɑnt/"
+		"soundmark": "/wɑnt/",
+		"vietnamese": "muốn(直接地)"
 	},
 	{
-		"chinese": "愿意;想要(委婉地)",
 		"english": "would like",
-		"soundmark": "/wʊd/ /laɪk/"
+		"soundmark": "/wʊd/ /laɪk/",
+		"vietnamese": "愿意;muốn(委婉地)"
 	},
 	{
-		"chinese": "我想要",
 		"english": "I would like",
-		"soundmark": "/aɪ/ /wʊd/ /laɪk/"
+		"soundmark": "/aɪ/ /wʊd/ /laɪk/",
+		"vietnamese": "Tôi muốn"
 	},
 	{
-		"chinese": "我想要讨论某件事情",
 		"english": "I would like to discuss something",
-		"soundmark": "/aɪ/ /wʊd/ /laɪk/ /tə/ /dɪ'skʌs/ /'sʌmθɪŋ/"
+		"soundmark": "/aɪ/ /wʊd/ /laɪk/ /tə/ /dɪ'skʌs/ /'sʌmθɪŋ/",
+		"vietnamese": "Tôi muốn讨论某件事情"
 	},
 	{
-		"chinese": "重要的",
 		"english": "important",
-		"soundmark": "/ɪm'pɔrtnt/"
+		"soundmark": "/ɪm'pɔrtnt/",
+		"vietnamese": "quan trọng"
 	},
 	{
-		"chinese": "重要的某件事情",
 		"english": "something important",
-		"soundmark": "/'sʌmθɪŋ/ /ɪm'pɔrtnt/"
+		"soundmark": "/'sʌmθɪŋ/ /ɪm'pɔrtnt/",
+		"vietnamese": "quan trọng某件事情"
 	},
 	{
-		"chinese": "我想要讨论重要的某件事情",
 		"english": "I would like to discuss something important",
-		"soundmark": "/aɪ/ /wʊd/ /laɪk/ /tə/ /dɪ'skʌs/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/"
+		"soundmark": "/aɪ/ /wʊd/ /laɪk/ /tə/ /dɪ'skʌs/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/",
+		"vietnamese": "Tôi muốn讨论quan trọng某件事情"
 	},
 	{
-		"chinese": "和......一起",
 		"english": "with",
-		"soundmark": "/wɪð/"
+		"soundmark": "/wɪð/",
+		"vietnamese": "và......一起"
 	},
 	{
-		"chinese": "和你一起",
 		"english": "with you",
-		"soundmark": "/wɪð/ /ju/"
+		"soundmark": "/wɪð/ /ju/",
+		"vietnamese": "vàBạn一起"
 	},
 	{
-		"chinese": "我想要和你一起讨论重要的某件事情",
 		"english": "I would like to discuss something important with you",
-		"soundmark": "/aɪ/ /wʊd/ /laɪk/ /tə/ /dɪ'skʌs/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/ /wɪð/ /ju/"
+		"soundmark": "/aɪ/ /wʊd/ /laɪk/ /tə/ /dɪ'skʌs/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/ /wɪð/ /ju/",
+		"vietnamese": "Tôi muốnvàBạn一起讨论quan trọng某件事情"
 	},
 	{
-		"chinese": "我们",
 		"english": "we",
-		"soundmark": "/wi/"
+		"soundmark": "/wi/",
+		"vietnamese": "Chúng tôi"
 	},
 	{
-		"chinese": "我们想要讨论重要的某件事情",
 		"english": "we would like to discuss something important",
-		"soundmark": "/wi/ /wʊd/ /laɪk/ /tə/ /dɪ'skʌs/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/"
+		"soundmark": "/wi/ /wʊd/ /laɪk/ /tə/ /dɪ'skʌs/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/",
+		"vietnamese": "Chúng tôimuốn讨论quan trọng某件事情"
 	},
 	{
-		"chinese": "我们讨论",
 		"english": "we discuss",
-		"soundmark": "/wi/ /dɪ'skʌs/"
+		"soundmark": "/wi/ /dɪ'skʌs/",
+		"vietnamese": "Chúng tôi讨论"
 	},
 	{
-		"chinese": "可以",
 		"english": "can",
-		"soundmark": "/kən/"
+		"soundmark": "/kən/",
+		"vietnamese": "[VI:可以]"
 	},
 	{
-		"chinese": "我们可以讨论",
 		"english": "we can discuss",
-		"soundmark": "/wi/ /kən/ /dɪ'skʌs/"
+		"soundmark": "/wi/ /kən/ /dɪ'skʌs/",
+		"vietnamese": "Chúng tôi可以讨论"
 	},
 	{
-		"chinese": "所有的",
 		"english": "all",
-		"soundmark": "/ɔl/"
+		"soundmark": "/ɔl/",
+		"vietnamese": "[VI:所有的]"
 	},
 	{
-		"chinese": "细节(复数)",
 		"english": "the details",
-		"soundmark": "/ðə/ /ˈditelz/"
+		"soundmark": "/ðə/ /ˈditelz/",
+		"vietnamese": "[VI:细节(复数)]"
 	},
 	{
-		"chinese": "所有的细节",
 		"english": "all the details",
-		"soundmark": "/ɔl/ /ðə/ /ˈditelz/"
+		"soundmark": "/ɔl/ /ðə/ /ˈditelz/",
+		"vietnamese": "[VI:所有的细节]"
 	},
 	{
-		"chinese": "我们可以讨论所有的细节",
 		"english": "we can discuss all the details",
-		"soundmark": "/wi/ /kən/ /dɪ'skʌs/ /ɔl/ /ðə/ /ˈditelz/"
+		"soundmark": "/wi/ /kən/ /dɪ'skʌs/ /ɔl/ /ðə/ /ˈditelz/",
+		"vietnamese": "Chúng tôi可以讨论所有的细节"
 	},
 	{
-		"chinese": "这个计划",
 		"english": "the plan",
-		"soundmark": "/ðə/ /plæn/"
+		"soundmark": "/ðə/ /plæn/",
+		"vietnamese": "[VI:这个计划]"
 	},
 	{
-		"chinese": "所有的细节",
 		"english": "all the details",
-		"soundmark": "/ɔl/ /ðə/ /ˈditelz/"
+		"soundmark": "/ɔl/ /ðə/ /ˈditelz/",
+		"vietnamese": "[VI:所有的细节]"
 	},
 	{
-		"chinese": "这个计划的所有的细节",
 		"english": "all the details of the plan",
-		"soundmark": "/ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/"
+		"soundmark": "/ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/",
+		"vietnamese": "[VI:这个计划的所有的细节]"
 	},
 	{
-		"chinese": "我们可以讨论这个计划的所有的细节",
 		"english": "we can discuss all the details of the plan",
-		"soundmark": "/wi/ /kən/ /dɪ'skʌs/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/"
+		"soundmark": "/wi/ /kən/ /dɪ'skʌs/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/",
+		"vietnamese": "Chúng tôi可以讨论这个计划的所有的细节"
 	},
 	{
-		"chinese": "一起",
 		"english": "together",
-		"soundmark": "/tə'ɡɛðɚ/"
+		"soundmark": "/tə'ɡɛðɚ/",
+		"vietnamese": "[VI:一起]"
 	},
 	{
-		"chinese": "我们可以一起讨论这个计划的所有的细节",
 		"english": "we can discuss all the details of the plan together",
-		"soundmark": "/wi/ /kən/ /dɪ'skʌs/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/"
+		"soundmark": "/wi/ /kən/ /dɪ'skʌs/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/",
+		"vietnamese": "Chúng tôi可以一起讨论这个计划的所有的细节"
 	},
 	{
-		"chinese": "将会",
 		"english": "will",
-		"soundmark": "/wɪl/"
+		"soundmark": "/wɪl/",
+		"vietnamese": "[VI:将会]"
 	},
 	{
-		"chinese": "我们将会一起讨论这个计划的所有的细节",
 		"english": "we will discuss all the details of the plan together",
-		"soundmark": "/wi/ /wɪl/ /dɪ'skʌs/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/"
+		"soundmark": "/wi/ /wɪl/ /dɪ'skʌs/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/",
+		"vietnamese": "Chúng tôi将会一起讨论这个计划的所有的细节"
 	},
 	{
-		"chinese": "明天",
 		"english": "tomorrow",
-		"soundmark": "/tə'mɔro/"
+		"soundmark": "/tə'mɔro/",
+		"vietnamese": "ngày mai"
 	},
 	{
-		"chinese": "早上",
 		"english": "morning",
-		"soundmark": "/'mɔrnɪŋ/"
+		"soundmark": "/'mɔrnɪŋ/",
+		"vietnamese": "[VI:早上]"
 	},
 	{
-		"chinese": "明天早上",
 		"english": "tomorrow morning",
-		"soundmark": "/tə'mɔro/ /'mɔrnɪŋ/"
+		"soundmark": "/tə'mɔro/ /'mɔrnɪŋ/",
+		"vietnamese": "ngày mai早上"
 	},
 	{
-		"chinese": "我们明天早上将会一起讨论这个计划的所有的细节",
 		"english": "we will discuss all the details of the plan together tomorrow morning",
-		"soundmark": "/wi/ /wɪl/ /dɪ'skʌs/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/ /tə'mɔro/ /'mɔrnɪŋ/"
+		"soundmark": "/wi/ /wɪl/ /dɪ'skʌs/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/ /tə'mɔro/ /'mɔrnɪŋ/",
+		"vietnamese": "Chúng tôingày mai早上将会一起讨论这个计划的所有的细节"
 	},
 	{
-		"chinese": "讨论(ing形式)",
 		"english": "discussing",
-		"soundmark": "/dɪ'skʌsɪŋ/"
+		"soundmark": "/dɪ'skʌsɪŋ/",
+		"vietnamese": "[VI:讨论(ing形式)]"
 	},
 	{
-		"chinese": "是；赋值(原型)",
 		"english": "be",
-		"soundmark": "/bi/"
+		"soundmark": "/bi/",
+		"vietnamese": "là；赋值(原型)"
 	},
 	{
-		"chinese": "正在讨论",
 		"english": "be discussing",
-		"soundmark": "/bi/ /dɪ'skʌsɪŋ/"
+		"soundmark": "/bi/ /dɪ'skʌsɪŋ/",
+		"vietnamese": "[VI:正在讨论]"
 	},
 	{
-		"chinese": "这个计划的所有的细节",
 		"english": "all the details of the plan",
-		"soundmark": "/ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/"
+		"soundmark": "/ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/",
+		"vietnamese": "[VI:这个计划的所有的细节]"
 	},
 	{
-		"chinese": "正在讨论这个计划的所有细节",
 		"english": "be discussing all the details of the plan",
-		"soundmark": "/bi/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/"
+		"soundmark": "/bi/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/",
+		"vietnamese": "[VI:正在讨论这个计划的所有细节]"
 	},
 	{
-		"chinese": "一起",
 		"english": "together",
-		"soundmark": "/tə'ɡɛðɚ/"
+		"soundmark": "/tə'ɡɛðɚ/",
+		"vietnamese": "[VI:一起]"
 	},
 	{
-		"chinese": "正在一起讨论这个计划的所有细节",
 		"english": "be discussing all the details of the plan together",
-		"soundmark": "/bi/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/"
+		"soundmark": "/bi/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/",
+		"vietnamese": "[VI:正在一起讨论这个计划的所有细节]"
 	},
 	{
-		"chinese": "我们(现在)正在讨论",
 		"english": "we are discussing",
-		"soundmark": "/wi/ /ɚ/ /dɪ'skʌsɪŋ/"
+		"soundmark": "/wi/ /ɚ/ /dɪ'skʌsɪŋ/",
+		"vietnamese": "Chúng tôi(bây giờ)正在讨论"
 	},
 	{
-		"chinese": "这个计划的所有的细节",
 		"english": "all the details of the plan",
-		"soundmark": "/ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/"
+		"soundmark": "/ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/",
+		"vietnamese": "[VI:这个计划的所有的细节]"
 	},
 	{
-		"chinese": "我们(现在)正在讨论这个计划的所有的细节",
 		"english": "we are discussing all the details of the plan",
-		"soundmark": "/wi/ /ɚ/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/"
+		"soundmark": "/wi/ /ɚ/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/",
+		"vietnamese": "Chúng tôi(bây giờ)正在讨论这个计划的所有的细节"
 	},
 	{
-		"chinese": "一起",
 		"english": "together",
-		"soundmark": "/tə'ɡɛðɚ/"
+		"soundmark": "/tə'ɡɛðɚ/",
+		"vietnamese": "[VI:一起]"
 	},
 	{
-		"chinese": "我们(现在)正在一起讨论这个计划的所有的细节",
 		"english": "we are discussing all the details of the plan together",
-		"soundmark": "/wi/ /ɚ/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/"
+		"soundmark": "/wi/ /ɚ/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/",
+		"vietnamese": "Chúng tôi(bây giờ)正在一起讨论这个计划的所有的细节"
 	},
 	{
-		"chinese": "我们(过去)正在一起讨论这个计划的所有的细节",
 		"english": "we were discussing all the details of the plan together",
-		"soundmark": "/wi/ /wɚ/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/"
+		"soundmark": "/wi/ /wɚ/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/",
+		"vietnamese": "Chúng tôi(过去)正在一起讨论这个计划的所有的细节"
 	},
 	{
-		"chinese": "是；赋值(原型)",
 		"english": "be",
-		"soundmark": "/bi/"
+		"soundmark": "/bi/",
+		"vietnamese": "là；赋值(原型)"
 	},
 	{
-		"chinese": "正在讨论",
 		"english": "be discussing",
-		"soundmark": "/bi/ /dɪ'skʌsɪŋ/"
+		"soundmark": "/bi/ /dɪ'skʌsɪŋ/",
+		"vietnamese": "[VI:正在讨论]"
 	},
 	{
-		"chinese": "正在一起讨论这个计划的所有细节",
 		"english": "be discussing all the details of the plan together",
-		"soundmark": "/bi/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/"
+		"soundmark": "/bi/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/",
+		"vietnamese": "[VI:正在一起讨论这个计划的所有细节]"
 	},
 	{
-		"chinese": "我们将会",
 		"english": "we will",
-		"soundmark": "/wi/ /wɪl/"
+		"soundmark": "/wi/ /wɪl/",
+		"vietnamese": "Chúng tôi将会"
 	},
 	{
-		"chinese": "我们将会正在一起讨论这个计划的所有的细节",
 		"english": "we will be discussing all the details of the plan together",
-		"soundmark": "/wi/ /wɪl/ /bi/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/"
+		"soundmark": "/wi/ /wɪl/ /bi/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/",
+		"vietnamese": "Chúng tôi将会正在一起讨论这个计划的所有的细节"
 	},
 	{
-		"chinese": "明天",
 		"english": "tomorrow",
-		"soundmark": "/tə'mɔro/"
+		"soundmark": "/tə'mɔro/",
+		"vietnamese": "ngày mai"
 	},
 	{
-		"chinese": "在这个时候",
 		"english": "at this time",
-		"soundmark": "/ət/ /ðɪs/ /taɪm/"
+		"soundmark": "/ət/ /ðɪs/ /taɪm/",
+		"vietnamese": "[VI:在这个时候]"
 	},
 	{
-		"chinese": "在明天这个时候",
 		"english": "at this time tomorrow",
-		"soundmark": "/ət/ /ðɪs/ /taɪm/ /tə'mɔro/"
+		"soundmark": "/ət/ /ðɪs/ /taɪm/ /tə'mɔro/",
+		"vietnamese": "在ngày mai这个时候"
 	},
 	{
-		"chinese": "我们在明天这个时候将会正在一起讨论这个计划的所有的细节",
 		"english": "we will be discussing all the details of the plan together at this time tomorrow",
-		"soundmark": "/wi/ /wɪl/ /bi/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/ /ət/ /ðɪs/ /taɪm/ /tə'mɔro/"
+		"soundmark": "/wi/ /wɪl/ /bi/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/ /ət/ /ðɪs/ /taɪm/ /tə'mɔro/",
+		"vietnamese": "Chúng tôi在ngày mai这个时候将会正在一起讨论这个计划的所有的细节"
 	}
 ]

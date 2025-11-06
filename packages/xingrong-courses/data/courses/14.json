@@ -1,817 +1,817 @@
 [
 	{
-		"chinese": "我",
 		"english": "I",
-		"soundmark": "/aɪ/"
+		"soundmark": "/aɪ/",
+		"vietnamese": "Tôi"
 	},
 	{
-		"chinese": "我是",
 		"english": "I am",
-		"soundmark": "/aɪ/ /æm/"
+		"soundmark": "/aɪ/ /æm/",
+		"vietnamese": "Tôi là"
 	},
 	{
-		"chinese": "年轻的",
 		"english": "young",
-		"soundmark": "/jʌŋ/"
+		"soundmark": "/jʌŋ/",
+		"vietnamese": "[VI:年轻的]"
 	},
 	{
-		"chinese": "我是年轻的",
 		"english": "I am young",
-		"soundmark": "/aɪ/ /æm/ /jʌŋ/"
+		"soundmark": "/aɪ/ /æm/ /jʌŋ/",
+		"vietnamese": "Tôi là年轻的"
 	},
 	{
-		"chinese": "我是不年轻的",
 		"english": "I am not young",
-		"soundmark": "/aɪ/ /æm/ /nɑt/ /jʌŋ/"
+		"soundmark": "/aɪ/ /æm/ /nɑt/ /jʌŋ/",
+		"vietnamese": "Tôi làkhông年轻的"
 	},
 	{
-		"chinese": "我（过去）是年轻的",
 		"english": "I was young",
-		"soundmark": "/aɪ/ /wəz/ /jʌŋ/"
+		"soundmark": "/aɪ/ /wəz/ /jʌŋ/",
+		"vietnamese": "Tôi（过去）là年轻的"
 	},
 	{
-		"chinese": "我（过去）是不年轻的",
 		"english": "I was not young",
-		"soundmark": "/aɪ/ /wəz/ /nɑt/ /jʌŋ/"
+		"soundmark": "/aɪ/ /wəz/ /nɑt/ /jʌŋ/",
+		"vietnamese": "Tôi（过去）làkhông年轻的"
 	},
 	{
-		"chinese": "他是",
 		"english": "he is",
-		"soundmark": "/hi/ /ɪz/"
+		"soundmark": "/hi/ /ɪz/",
+		"vietnamese": "Anh ấy là"
 	},
 	{
-		"chinese": "他是年轻的",
 		"english": "he is young",
-		"soundmark": "/hi/ /ɪz/ /jʌŋ/"
+		"soundmark": "/hi/ /ɪz/ /jʌŋ/",
+		"vietnamese": "Anh ấy là年轻的"
 	},
 	{
-		"chinese": "他是不年轻的",
 		"english": "he is not young",
-		"soundmark": "/hi/ /ɪz/ /nɑt/ /jʌŋ/"
+		"soundmark": "/hi/ /ɪz/ /nɑt/ /jʌŋ/",
+		"vietnamese": "Anh ấy làkhông年轻的"
 	},
 	{
-		"chinese": "他（过去）是年轻的",
 		"english": "he was young",
-		"soundmark": "/hi/ /wəz/ /jʌŋ/"
+		"soundmark": "/hi/ /wəz/ /jʌŋ/",
+		"vietnamese": "Anh ấy（过去）là年轻的"
 	},
 	{
-		"chinese": "他（过去）是不年轻的",
 		"english": "he was not young",
-		"soundmark": "/hi/ /wəz/ /nɑt/ /jʌŋ/"
+		"soundmark": "/hi/ /wəz/ /nɑt/ /jʌŋ/",
+		"vietnamese": "Anh ấy（过去）làkhông年轻的"
 	},
 	{
-		"chinese": "我们是",
 		"english": "we are",
-		"soundmark": "/wi/ /ɚ/"
+		"soundmark": "/wi/ /ɚ/",
+		"vietnamese": "Chúng tôilà"
 	},
 	{
-		"chinese": "我们是年轻的",
 		"english": "we are young",
-		"soundmark": "/wi/ /ɚ/ /jʌŋ/"
+		"soundmark": "/wi/ /ɚ/ /jʌŋ/",
+		"vietnamese": "Chúng tôilà年轻的"
 	},
 	{
-		"chinese": "我们是不年轻的",
 		"english": "we are not young",
-		"soundmark": "/wi/ /ɚ/ /nɑt/ /jʌŋ/"
+		"soundmark": "/wi/ /ɚ/ /nɑt/ /jʌŋ/",
+		"vietnamese": "Chúng tôilàkhông年轻的"
 	},
 	{
-		"chinese": "我们（过去）是年轻的",
 		"english": "we were young",
-		"soundmark": "/wi/ /wɚ/ /jʌŋ/"
+		"soundmark": "/wi/ /wɚ/ /jʌŋ/",
+		"vietnamese": "Chúng tôi（过去）là年轻的"
 	},
 	{
-		"chinese": "我们（过去）是不年轻的",
 		"english": "we were not young",
-		"soundmark": "/wi/ /wɚ/ /nɑt/ /jʌŋ/"
+		"soundmark": "/wi/ /wɚ/ /nɑt/ /jʌŋ/",
+		"vietnamese": "Chúng tôi（过去）làkhông年轻的"
 	},
 	{
-		"chinese": "你是",
 		"english": "you are",
-		"soundmark": "/ju/ /ɚ/"
+		"soundmark": "/ju/ /ɚ/",
+		"vietnamese": "Bạn là"
 	},
 	{
-		"chinese": "你是年轻的",
 		"english": "you are young",
-		"soundmark": "/ju/ /ɚ/ /jʌŋ/"
+		"soundmark": "/ju/ /ɚ/ /jʌŋ/",
+		"vietnamese": "Bạn là年轻的"
 	},
 	{
-		"chinese": "你是不年轻的",
 		"english": "you are not young",
-		"soundmark": "/ju/ /ɚ/ /nɑt/ /jʌŋ/"
+		"soundmark": "/ju/ /ɚ/ /nɑt/ /jʌŋ/",
+		"vietnamese": "Bạn làkhông年轻的"
 	},
 	{
-		"chinese": "你（过去）是年轻的",
 		"english": "you were young",
-		"soundmark": "/ju/ /wɚ/ /jʌŋ/"
+		"soundmark": "/ju/ /wɚ/ /jʌŋ/",
+		"vietnamese": "Bạn（过去）là年轻的"
 	},
 	{
-		"chinese": "你（过去）是不年轻的",
 		"english": "you were not young",
-		"soundmark": "/ju/ /wɚ/ /nɑt/ /jʌŋ/"
+		"soundmark": "/ju/ /wɚ/ /nɑt/ /jʌŋ/",
+		"vietnamese": "Bạn（过去）làkhông年轻的"
 	},
 	{
-		"chinese": "非常",
 		"english": "very",
-		"soundmark": "/ˈvɛri/"
+		"soundmark": "/ˈvɛri/",
+		"vietnamese": "rất"
 	},
 	{
-		"chinese": "你（过去）是非常年轻的",
 		"english": "you were very young",
-		"soundmark": "/ju/ /wɚ/ /ˈvɛri/ /jʌŋ/"
+		"soundmark": "/ju/ /wɚ/ /ˈvɛri/ /jʌŋ/",
+		"vietnamese": "Bạn（过去）làrất年轻的"
 	},
 	{
-		"chinese": "见到",
 		"english": "to see",
-		"soundmark": "/tə/ /si/"
+		"soundmark": "/tə/ /si/",
+		"vietnamese": "gặp"
 	},
 	{
-		"chinese": "我（过去）见到你",
 		"english": "I saw you",
-		"soundmark": "/aɪ/ /sɔ/ /ju/"
+		"soundmark": "/aɪ/ /sɔ/ /ju/",
+		"vietnamese": "Tôi（过去）gặp bạn"
 	},
 	{
-		"chinese": "当......的时候",
 		"english": "when",
-		"soundmark": "/wɛn/"
+		"soundmark": "/wɛn/",
+		"vietnamese": "[VI:当......的时候]"
 	},
 	{
-		"chinese": "当我（过去）见到你的时候",
 		"english": "when I saw you",
-		"soundmark": "/wɛn/ /aɪ/ /sɔ/ /ju/"
+		"soundmark": "/wɛn/ /aɪ/ /sɔ/ /ju/",
+		"vietnamese": "当Tôi（过去）gặp bạn的时候"
 	},
 	{
-		"chinese": "第一次",
 		"english": "first",
-		"soundmark": "/fɝst/"
+		"soundmark": "/fɝst/",
+		"vietnamese": "[VI:第一次]"
 	},
 	{
-		"chinese": "当我第一次（过去）见到你的时候",
 		"english": "when I first saw you",
-		"soundmark": "/wɛn/ /aɪ/ /fɝst/ /sɔ/ /ju/"
+		"soundmark": "/wɛn/ /aɪ/ /fɝst/ /sɔ/ /ju/",
+		"vietnamese": "当Tôi第一次（过去）gặp bạn的时候"
 	},
 	{
-		"chinese": "当我第一次（过去）见到你的时候你（过去）是非常年轻的",
 		"english": "you were very young when I first saw you",
-		"soundmark": "/ju/ /wɚ/ /ˈvɛri/ /jʌŋ/ /wɛn/ /aɪ/ /fɝst/ /sɔ/ /ju/"
+		"soundmark": "/ju/ /wɚ/ /ˈvɛri/ /jʌŋ/ /wɛn/ /aɪ/ /fɝst/ /sɔ/ /ju/",
+		"vietnamese": "当Tôi第一次（过去）gặp bạn的时候Bạn（过去）làrất年轻的"
 	},
 	{
-		"chinese": "吃",
 		"english": "to eat",
-		"soundmark": "/tə/ /it/"
+		"soundmark": "/tə/ /it/",
+		"vietnamese": "ăn"
 	},
 	{
-		"chinese": "一个苹果",
 		"english": "an apple",
-		"soundmark": "/ən/ /'æpl/"
+		"soundmark": "/ən/ /'æpl/",
+		"vietnamese": "[VI:一个苹果]"
 	},
 	{
-		"chinese": "吃一个苹果",
 		"english": "to eat an apple",
-		"soundmark": "/tə/ /it/ /ən/ /'æpl/"
+		"soundmark": "/tə/ /it/ /ən/ /'æpl/",
+		"vietnamese": "ăn一个苹果"
 	},
 	{
-		"chinese": "我想要吃一个苹果",
 		"english": "I want to eat an apple",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /it/ /ən/ /'æpl/"
+		"soundmark": "/aɪ/ /wɑnt/ /tə/ /it/ /ən/ /'æpl/",
+		"vietnamese": "Tôi muốnăn一个苹果"
 	},
 	{
-		"chinese": "每天",
 		"english": "every day",
-		"soundmark": "/'ɛvri/ /de/"
+		"soundmark": "/'ɛvri/ /de/",
+		"vietnamese": "mỗi ngày"
 	},
 	{
-		"chinese": "我想要每天吃一个苹果",
 		"english": "I want to eat an apple every day",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /it/ /ən/ /'æpl/ /'ɛvri/ /de/"
+		"soundmark": "/aɪ/ /wɑnt/ /tə/ /it/ /ən/ /'æpl/ /'ɛvri/ /de/",
+		"vietnamese": "Tôi muốnmỗi ngàyăn一个苹果"
 	},
 	{
-		"chinese": "我每天吃一个苹果",
 		"english": "I eat an apple every day",
-		"soundmark": "/aɪ/ /it/ /ən/ /'æpl/ /'ɛvri/ /de/"
+		"soundmark": "/aɪ/ /it/ /ən/ /'æpl/ /'ɛvri/ /de/",
+		"vietnamese": "Tôimỗi ngàyăn一个苹果"
 	},
 	{
-		"chinese": "吃了",
 		"english": "ate",
-		"soundmark": "/et/"
+		"soundmark": "/et/",
+		"vietnamese": "ăn了"
 	},
 	{
-		"chinese": "吃了一个苹果",
 		"english": "ate an apple",
-		"soundmark": "/et/ /ən/ /'æpl/"
+		"soundmark": "/et/ /ən/ /'æpl/",
+		"vietnamese": "ăn了一个苹果"
 	},
 	{
-		"chinese": "我吃了一个苹果",
 		"english": "I ate an apple",
-		"soundmark": "/aɪ/ /et/ /ən/ /'æpl/"
+		"soundmark": "/aɪ/ /et/ /ən/ /'æpl/",
+		"vietnamese": "Tôiăn了一个苹果"
 	},
 	{
-		"chinese": "她吃了一个苹果",
 		"english": "she ate an apple",
-		"soundmark": "/ʃi/ /et/ /ən/ /'æpl/"
+		"soundmark": "/ʃi/ /et/ /ən/ /'æpl/",
+		"vietnamese": "Cô ấyăn了一个苹果"
 	},
 	{
-		"chinese": "在......之前",
 		"english": "ago",
-		"soundmark": "/ə'ɡo/"
+		"soundmark": "/ə'ɡo/",
+		"vietnamese": "[VI:在......之前]"
 	},
 	{
-		"chinese": "一小时",
 		"english": "an hour",
-		"soundmark": "/ən/ /'aʊɚ/"
+		"soundmark": "/ən/ /'aʊɚ/",
+		"vietnamese": "[VI:一小时]"
 	},
 	{
-		"chinese": "在一小时之前",
 		"english": "an hour ago",
-		"soundmark": "/ən/ /'aʊɚ/ /ə'ɡo/"
+		"soundmark": "/ən/ /'aʊɚ/ /ə'ɡo/",
+		"vietnamese": "[VI:在一小时之前]"
 	},
 	{
-		"chinese": "她在一小时之前吃了一个苹果",
 		"english": "she ate an apple an hour ago",
-		"soundmark": "/ʃi/ /et/ /ən/ /'æpl/ /ən/ /'aʊɚ/ /ə'ɡo/"
+		"soundmark": "/ʃi/ /et/ /ən/ /'æpl/ /ən/ /'aʊɚ/ /ə'ɡo/",
+		"vietnamese": "Cô ấy在一小时之前ăn了一个苹果"
 	},
 	{
-		"chinese": "她在一小时之前没吃一个苹果",
 		"english": "she didn't eat an apple an hour ago",
-		"soundmark": "/ʃi/ /dɪdnt/ /it/ /ən/ /'æpl/ /ən/ /'aʊɚ/ /ə'ɡo/"
+		"soundmark": "/ʃi/ /dɪdnt/ /it/ /ən/ /'æpl/ /ən/ /'aʊɚ/ /ə'ɡo/",
+		"vietnamese": "Cô ấy在一小时之前没ăn一个苹果"
 	},
 	{
-		"chinese": "喝",
 		"english": "to drink",
-		"soundmark": "/tə/ /drɪŋk/"
+		"soundmark": "/tə/ /drɪŋk/",
+		"vietnamese": "[VI:喝]"
 	},
 	{
-		"chinese": "一些水",
 		"english": "some water",
-		"soundmark": "/səm/ /'wɔtɚ/"
+		"soundmark": "/səm/ /'wɔtɚ/",
+		"vietnamese": "[VI:一些水]"
 	},
 	{
-		"chinese": "喝一些水",
 		"english": "to drink some water",
-		"soundmark": "/tə/ /drɪŋk/ /səm/ /'wɔtɚ/"
+		"soundmark": "/tə/ /drɪŋk/ /səm/ /'wɔtɚ/",
+		"vietnamese": "[VI:喝一些水]"
 	},
 	{
-		"chinese": "我想要喝一些水",
 		"english": "I want to drink some water",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /drɪŋk/ /səm/ /'wɔtɚ/"
+		"soundmark": "/aɪ/ /wɑnt/ /tə/ /drɪŋk/ /səm/ /'wɔtɚ/",
+		"vietnamese": "Tôi muốn喝一些水"
 	},
 	{
-		"chinese": "每天早上",
 		"english": "every morning",
-		"soundmark": "/'ɛvri/ /'mɔrnɪŋ/"
+		"soundmark": "/'ɛvri/ /'mɔrnɪŋ/",
+		"vietnamese": "mỗi ngày早上"
 	},
 	{
-		"chinese": "我想要每天早上喝一些水",
 		"english": "I want to drink some water every morning",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /drɪŋk/ /səm/ /'wɔtɚ/ /'ɛvri/ /'mɔrnɪŋ/"
+		"soundmark": "/aɪ/ /wɑnt/ /tə/ /drɪŋk/ /səm/ /'wɔtɚ/ /'ɛvri/ /'mɔrnɪŋ/",
+		"vietnamese": "Tôi muốnmỗi ngày早上喝一些水"
 	},
 	{
-		"chinese": "我每天早上喝一些水",
 		"english": "I drink some water every morning",
-		"soundmark": "/aɪ/ /drɪŋk/ /səm/ /'wɔtɚ/ /'ɛvri/ /'mɔrnɪŋ/"
+		"soundmark": "/aɪ/ /drɪŋk/ /səm/ /'wɔtɚ/ /'ɛvri/ /'mɔrnɪŋ/",
+		"vietnamese": "Tôimỗi ngày早上喝一些水"
 	},
 	{
-		"chinese": "喝了",
 		"english": "drank",
-		"soundmark": "/dræŋk/"
+		"soundmark": "/dræŋk/",
+		"vietnamese": "[VI:喝了]"
 	},
 	{
-		"chinese": "我喝了一些水",
 		"english": "I drank some water",
-		"soundmark": "/aɪ/ /dræŋk/ /səm/ /'wɔtɚ/"
+		"soundmark": "/aɪ/ /dræŋk/ /səm/ /'wɔtɚ/",
+		"vietnamese": "Tôi喝了一些水"
 	},
 	{
-		"chinese": "这个",
 		"english": "this",
-		"soundmark": "/ðɪs/"
+		"soundmark": "/ðɪs/",
+		"vietnamese": "[VI:这个]"
 	},
 	{
-		"chinese": "早上",
 		"english": "morning",
-		"soundmark": "/'mɔrnɪŋ/"
+		"soundmark": "/'mɔrnɪŋ/",
+		"vietnamese": "[VI:早上]"
 	},
 	{
-		"chinese": "今天早上",
 		"english": "this morning",
-		"soundmark": "/ðɪs/ /'mɔrnɪŋ/"
+		"soundmark": "/ðɪs/ /'mɔrnɪŋ/",
+		"vietnamese": "hôm nay早上"
 	},
 	{
-		"chinese": "我今天早上喝了一些水",
 		"english": "I drank some water this morning",
-		"soundmark": "/aɪ/ /dræŋk/ /səm/ /'wɔtɚ/ /ðɪs/ /'mɔrnɪŋ/"
+		"soundmark": "/aɪ/ /dræŋk/ /səm/ /'wɔtɚ/ /ðɪs/ /'mɔrnɪŋ/",
+		"vietnamese": "Tôihôm nay早上喝了一些水"
 	},
 	{
-		"chinese": "任何",
 		"english": "any",
-		"soundmark": "/'ɛni/"
+		"soundmark": "/'ɛni/",
+		"vietnamese": "[VI:任何]"
 	},
 	{
-		"chinese": "我今天早上没喝任何水",
 		"english": "I didn't drink any water this morning",
-		"soundmark": "/aɪ/ /dɪdnt/ /drɪŋk/ /'ɛni/ /'wɔtɚ/ /ðɪs/ /'mɔrnɪŋ/"
+		"soundmark": "/aɪ/ /dɪdnt/ /drɪŋk/ /'ɛni/ /'wɔtɚ/ /ðɪs/ /'mɔrnɪŋ/",
+		"vietnamese": "Tôihôm nay早上没喝任何水"
 	},
 	{
-		"chinese": "知道",
 		"english": "to know",
-		"soundmark": "/tə/ /no/"
+		"soundmark": "/tə/ /no/",
+		"vietnamese": "biết"
 	},
 	{
-		"chinese": "他（过去）知道答案",
 		"english": "he knew the answer",
-		"soundmark": "/hi/ /nju/ /ði/ /'ænsɚ/"
+		"soundmark": "/hi/ /nju/ /ði/ /'ænsɚ/",
+		"vietnamese": "Anh ấy（过去）biết答案"
 	},
 	{
-		"chinese": "问题的答案",
 		"english": "the answer to the question",
-		"soundmark": "/ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+		"soundmark": "/ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+		"vietnamese": "[VI:问题的答案]"
 	},
 	{
-		"chinese": "他（过去）知道问题的答案",
 		"english": "he knew the answer to the question",
-		"soundmark": "/hi/ /nju/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+		"soundmark": "/hi/ /nju/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+		"vietnamese": "Anh ấy（过去）biết问题的答案"
 	},
 	{
-		"chinese": "已经",
 		"english": "already",
-		"soundmark": "/ɔl'rɛdi/"
+		"soundmark": "/ɔl'rɛdi/",
+		"vietnamese": "[VI:已经]"
 	},
 	{
-		"chinese": "他已经知道问题的答案",
 		"english": "he already knew the answer to the question",
-		"soundmark": "/hi/ /ɔl'rɛdi/ /nju/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+		"soundmark": "/hi/ /ɔl'rɛdi/ /nju/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+		"vietnamese": "Anh ấy已经biết问题的答案"
 	},
 	{
-		"chinese": "他（过去）不知道问题的答案",
 		"english": "he didn't know the answer to the question",
-		"soundmark": "/hi/ /dɪdnt/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+		"soundmark": "/hi/ /dɪdnt/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+		"vietnamese": "Anh ấy（过去）khôngbiết问题的答案"
 	},
 	{
-		"chinese": "忘记",
 		"english": "to forget",
-		"soundmark": "/tə/ /fɚ'ɡɛt/"
+		"soundmark": "/tə/ /fɚ'ɡɛt/",
+		"vietnamese": "[VI:忘记]"
 	},
 	{
-		"chinese": "告诉",
 		"english": "to tell",
-		"soundmark": "/tə/ /tɛl/"
+		"soundmark": "/tə/ /tɛl/",
+		"vietnamese": "nói"
 	},
 	{
-		"chinese": "我（过去）忘记告诉你",
 		"english": "I forgot to tell you",
-		"soundmark": "/aɪ/ /fɚ'ɡɑt/ /tə/ /tɛl/ /ju/"
+		"soundmark": "/aɪ/ /fɚ'ɡɑt/ /tə/ /tɛl/ /ju/",
+		"vietnamese": "Tôi（过去）忘记nói với bạn"
 	},
 	{
-		"chinese": "他已经知道问题的答案",
 		"english": "he already knew the answer to the question",
-		"soundmark": "/hi/ /ɔl'rɛdi/ /nju/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+		"soundmark": "/hi/ /ɔl'rɛdi/ /nju/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+		"vietnamese": "Anh ấy已经biết问题的答案"
 	},
 	{
-		"chinese": "我（过去）忘记告诉你他已经知道问题的答案",
 		"english": "I forgot to tell you he already knew the answer to the question",
-		"soundmark": "/aɪ/ /fɚ'ɡɑt/ /tə/ /tɛl/ /ju/ /hi/ /ɔl'rɛdi/ /nju/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+		"soundmark": "/aɪ/ /fɚ'ɡɑt/ /tə/ /tɛl/ /ju/ /hi/ /ɔl'rɛdi/ /nju/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+		"vietnamese": "Tôi（过去）忘记nói với bạnAnh ấy已经biết问题的答案"
 	},
 	{
-		"chinese": "我的",
 		"english": "my",
-		"soundmark": "/maɪ/"
+		"soundmark": "/maɪ/",
+		"vietnamese": "Tôi的"
 	},
 	{
-		"chinese": "工作",
 		"english": "job",
-		"soundmark": "/dʒɑb/"
+		"soundmark": "/dʒɑb/",
+		"vietnamese": "[VI:工作]"
 	},
 	{
-		"chinese": "我的工作",
 		"english": "my job",
-		"soundmark": "/maɪ/ /dʒɑb/"
+		"soundmark": "/maɪ/ /dʒɑb/",
+		"vietnamese": "Tôi的工作"
 	},
 	{
-		"chinese": "失去",
 		"english": "to lose",
-		"soundmark": "/tə/ /luz/"
+		"soundmark": "/tə/ /luz/",
+		"vietnamese": "[VI:失去]"
 	},
 	{
-		"chinese": "失去了",
 		"english": "lost",
-		"soundmark": "/lɔst/"
+		"soundmark": "/lɔst/",
+		"vietnamese": "[VI:失去了]"
 	},
 	{
-		"chinese": "我失去了我的工作",
 		"english": "I lost my job",
-		"soundmark": "/aɪ/ /lɔst/ /maɪ/ /dʒɑb/"
+		"soundmark": "/aɪ/ /lɔst/ /maɪ/ /dʒɑb/",
+		"vietnamese": "Tôi失去了我的工作"
 	},
 	{
-		"chinese": "在......之前",
 		"english": "ago",
-		"soundmark": "/ə'ɡo/"
+		"soundmark": "/ə'ɡo/",
+		"vietnamese": "[VI:在......之前]"
 	},
 	{
-		"chinese": "两年",
 		"english": "two years",
-		"soundmark": "/tu/ /jɪrz/"
+		"soundmark": "/tu/ /jɪrz/",
+		"vietnamese": "[VI:两年]"
 	},
 	{
-		"chinese": "在两年之前",
 		"english": "two years ago",
-		"soundmark": "/tu/ /jɪrz/ /ə'ɡo/"
+		"soundmark": "/tu/ /jɪrz/ /ə'ɡo/",
+		"vietnamese": "[VI:在两年之前]"
 	},
 	{
-		"chinese": "我在两年前失去了我的工作",
 		"english": "I lost my job two years ago",
-		"soundmark": "/aɪ/ /lɔst/ /maɪ/ /dʒɑb/ /tu/ /jɪrz/ /ə'ɡo/"
+		"soundmark": "/aɪ/ /lɔst/ /maɪ/ /dʒɑb/ /tu/ /jɪrz/ /ə'ɡo/",
+		"vietnamese": "Tôi在两年前失去了我的工作"
 	},
 	{
-		"chinese": "我在两年前没有失去我的工作",
 		"english": "I didn't lose my job two years ago",
-		"soundmark": "/aɪ/ /dɪdnt/ /luz/ /maɪ/ /dʒɑb/ /tu/ /jɪrz/ /ə'ɡo/"
+		"soundmark": "/aɪ/ /dɪdnt/ /luz/ /maɪ/ /dʒɑb/ /tu/ /jɪrz/ /ə'ɡo/",
+		"vietnamese": "Tôi在两年前没有失去我的工作"
 	},
 	{
-		"chinese": "离开",
 		"english": "to leave",
-		"soundmark": "/tə/ /liv/"
+		"soundmark": "/tə/ /liv/",
+		"vietnamese": "[VI:离开]"
 	},
 	{
-		"chinese": "离开了",
 		"english": "left",
-		"soundmark": "/lɛft/"
+		"soundmark": "/lɛft/",
+		"vietnamese": "[VI:离开了]"
 	},
 	{
-		"chinese": "她的",
 		"english": "her",
-		"soundmark": "/hɚ/"
+		"soundmark": "/hɚ/",
+		"vietnamese": "Cô ấy的"
 	},
 	{
-		"chinese": "办公室",
 		"english": "office",
-		"soundmark": "/'ɑfɪs/"
+		"soundmark": "/'ɑfɪs/",
+		"vietnamese": "[VI:办公室]"
 	},
 	{
-		"chinese": "她的办公室",
 		"english": "her office",
-		"soundmark": "/hɚ/ /'ɑfɪs/"
+		"soundmark": "/hɚ/ /'ɑfɪs/",
+		"vietnamese": "Cô ấy的办公室"
 	},
 	{
-		"chinese": "我离开了她的办公室",
 		"english": "I left her office",
-		"soundmark": "/aɪ/ /lɛft/ /hɚ/ /'ɑfɪs/"
+		"soundmark": "/aɪ/ /lɛft/ /hɚ/ /'ɑfɪs/",
+		"vietnamese": "Tôi离开了Cô ấy的办公室"
 	},
 	{
-		"chinese": "在......之前",
 		"english": "ago",
-		"soundmark": "/ə'ɡo/"
+		"soundmark": "/ə'ɡo/",
+		"vietnamese": "[VI:在......之前]"
 	},
 	{
-		"chinese": "一小时",
 		"english": "an hour",
-		"soundmark": "/ən/ /'aʊɚ/"
+		"soundmark": "/ən/ /'aʊɚ/",
+		"vietnamese": "[VI:一小时]"
 	},
 	{
-		"chinese": "在一小时之前",
 		"english": "an hour ago",
-		"soundmark": "/ən/ /'aʊɚ/ /ə'ɡo/"
+		"soundmark": "/ən/ /'aʊɚ/ /ə'ɡo/",
+		"vietnamese": "[VI:在一小时之前]"
 	},
 	{
-		"chinese": "我在一小时之前离开了她的办公室",
 		"english": "I left her office an hour ago",
-		"soundmark": "/aɪ/ /lɛft/ /hɚ/ /'ɑfɪs/ /ən/ /'aʊɚ/ /ə'ɡo/"
+		"soundmark": "/aɪ/ /lɛft/ /hɚ/ /'ɑfɪs/ /ən/ /'aʊɚ/ /ə'ɡo/",
+		"vietnamese": "Tôi在一小时之前离开了Cô ấy的办公室"
 	},
 	{
-		"chinese": "我在一小时之前没有离开她的办公室",
 		"english": "I didn't leave her office an hour ago",
-		"soundmark": "/aɪ/ /dɪdnt/ /liv/ /hɚ/ /'ɑfɪs/ /ən/ /'aʊɚ/ /ə'ɡo/"
+		"soundmark": "/aɪ/ /dɪdnt/ /liv/ /hɚ/ /'ɑfɪs/ /ən/ /'aʊɚ/ /ə'ɡo/",
+		"vietnamese": "Tôi在一小时之前没有离开Cô ấy的办公室"
 	},
 	{
-		"chinese": "睡觉",
 		"english": "to sleep",
-		"soundmark": "/tə/ /slip/"
+		"soundmark": "/tə/ /slip/",
+		"vietnamese": "[VI:睡觉]"
 	},
 	{
-		"chinese": "房间",
 		"english": "room",
-		"soundmark": "/rum/"
+		"soundmark": "/rum/",
+		"vietnamese": "[VI:房间]"
 	},
 	{
-		"chinese": "我的房间",
 		"english": "my room",
-		"soundmark": "/maɪ/ /rum/"
+		"soundmark": "/maɪ/ /rum/",
+		"vietnamese": "Tôi的房间"
 	},
 	{
-		"chinese": "在我的房间（过去）睡觉",
 		"english": "slept in my room",
-		"soundmark": "/slɛpt/ /ɪn/ /maɪ/ /rum/"
+		"soundmark": "/slɛpt/ /ɪn/ /maɪ/ /rum/",
+		"vietnamese": "在Tôi的房间（过去）睡觉"
 	},
 	{
-		"chinese": "上一个",
 		"english": "last",
-		"soundmark": "/læst/"
+		"soundmark": "/læst/",
+		"vietnamese": "[VI:上一个]"
 	},
 	{
-		"chinese": "晚上",
 		"english": "night",
-		"soundmark": "/naɪt/"
+		"soundmark": "/naɪt/",
+		"vietnamese": "[VI:晚上]"
 	},
 	{
-		"chinese": "昨晚",
 		"english": "last night",
-		"soundmark": "/læst/ /naɪt/"
+		"soundmark": "/læst/ /naɪt/",
+		"vietnamese": "[VI:昨晚]"
 	},
 	{
-		"chinese": "她昨晚睡在我的房间",
 		"english": "she slept in my room last night",
-		"soundmark": "/ʃi/ /slɛpt/ /ɪn/ /maɪ/ /rum/ /læst/ /naɪt/"
+		"soundmark": "/ʃi/ /slɛpt/ /ɪn/ /maɪ/ /rum/ /læst/ /naɪt/",
+		"vietnamese": "Cô ấy昨晚睡在Tôi的房间"
 	},
 	{
-		"chinese": "她昨晚没有睡在我的房间",
 		"english": "she didn't sleep in my room last night",
-		"soundmark": "/ʃi/ /dɪdnt/ /slip/ /ɪn/ /maɪ/ /rum/ /læst/ /naɪt/"
+		"soundmark": "/ʃi/ /dɪdnt/ /slip/ /ɪn/ /maɪ/ /rum/ /læst/ /naɪt/",
+		"vietnamese": "Cô ấy昨晚没有睡在Tôi的房间"
 	},
 	{
-		"chinese": "明白",
 		"english": "to understand",
-		"soundmark": "/tə/ /ʌndɚ'stænd/"
+		"soundmark": "/tə/ /ʌndɚ'stænd/",
+		"vietnamese": "[VI:明白]"
 	},
 	{
-		"chinese": "你必须明白",
 		"english": "you have to understand",
-		"soundmark": "/ju/ /hæv/ /tə/ /ʌndɚ'stænd/"
+		"soundmark": "/ju/ /hæv/ /tə/ /ʌndɚ'stænd/",
+		"vietnamese": "Bạnphải明白"
 	},
 	{
-		"chinese": "你明白",
 		"english": "you understand",
-		"soundmark": "/ju/ /ʌndɚ'stænd/"
+		"soundmark": "/ju/ /ʌndɚ'stænd/",
+		"vietnamese": "Bạn明白"
 	},
 	{
-		"chinese": "你不明白",
 		"english": "you don't understand",
-		"soundmark": "/ju/ /dont/ /ʌndɚ'stænd/"
+		"soundmark": "/ju/ /dont/ /ʌndɚ'stænd/",
+		"vietnamese": "Bạnkhông明白"
 	},
 	{
-		"chinese": "你（过去）明白",
 		"english": "you understood",
-		"soundmark": "/ju/ /ʌndɚˈstʊd/"
+		"soundmark": "/ju/ /ʌndɚˈstʊd/",
+		"vietnamese": "Bạn（过去）明白"
 	},
 	{
-		"chinese": "你不（过去）明白",
 		"english": "you didn't understand",
-		"soundmark": "/ju/ /dɪdnt/ /ʌndɚ'stænd/"
+		"soundmark": "/ju/ /dɪdnt/ /ʌndɚ'stænd/",
+		"vietnamese": "Bạnkhông（过去）明白"
 	},
 	{
-		"chinese": "告诉",
 		"english": "to tell",
-		"soundmark": "/tə/ /tɛl/"
+		"soundmark": "/tə/ /tɛl/",
+		"vietnamese": "nói"
 	},
 	{
-		"chinese": "告诉过",
 		"english": "told",
-		"soundmark": "/told/"
+		"soundmark": "/told/",
+		"vietnamese": "nói过"
 	},
 	{
-		"chinese": "我告诉过你",
 		"english": "I told you",
-		"soundmark": "/aɪ/ /told/ /ju/"
+		"soundmark": "/aɪ/ /told/ /ju/",
+		"vietnamese": "Tôinói过Bạn"
 	},
 	{
-		"chinese": "她昨晚没有睡在我的房间",
 		"english": "she didn't sleep in my room last night",
-		"soundmark": "/ʃi/ /dɪdnt/ /slip/ /ɪn/ /maɪ/ /rum/ /læst/ /naɪt/"
+		"soundmark": "/ʃi/ /dɪdnt/ /slip/ /ɪn/ /maɪ/ /rum/ /læst/ /naɪt/",
+		"vietnamese": "Cô ấy昨晚没有睡在Tôi的房间"
 	},
 	{
-		"chinese": "我告诉过你她昨晚没有睡在我的房间",
 		"english": "I told you she didn't sleep in my room last night",
-		"soundmark": "/aɪ/ /told/ /ju/ /ʃi/ /dɪdnt/ /slip/ /ɪn/ /maɪ/ /rum/ /læst/ /naɪt/"
+		"soundmark": "/aɪ/ /told/ /ju/ /ʃi/ /dɪdnt/ /slip/ /ɪn/ /maɪ/ /rum/ /læst/ /naɪt/",
+		"vietnamese": "Tôinói过BạnCô ấy昨晚没有睡在我的房间"
 	},
 	{
-		"chinese": "但是",
 		"english": "but",
-		"soundmark": "/bʌt/"
+		"soundmark": "/bʌt/",
+		"vietnamese": "但là"
 	},
 	{
-		"chinese": "你（过去）不明白",
 		"english": "you didn't understand",
-		"soundmark": "/ju/ /dɪdnt/ /ʌndɚ'stænd/"
+		"soundmark": "/ju/ /dɪdnt/ /ʌndɚ'stænd/",
+		"vietnamese": "Bạn（过去）không明白"
 	},
 	{
-		"chinese": "但是你（过去）不明白",
 		"english": "but you didn't understand",
-		"soundmark": "/bʌt/ /ju/ /dɪdnt/ /ʌndɚ'stænd/"
+		"soundmark": "/bʌt/ /ju/ /dɪdnt/ /ʌndɚ'stænd/",
+		"vietnamese": "但làBạn（过去）không明白"
 	},
 	{
-		"chinese": "我告诉过你她昨晚没有睡在我的房间但是你（过去）不明白",
 		"english": "I told you she didn't sleep in my room last night but you didn't understand",
-		"soundmark": "/aɪ/ /told/ /ju/ /ʃi/ /dɪdnt/ /slip/ /ɪn/ /maɪ/ /rum/ /læst/ /naɪt/ /bʌt/ /ju/ /dɪdnt/ /ʌndɚ'stænd/"
+		"soundmark": "/aɪ/ /told/ /ju/ /ʃi/ /dɪdnt/ /slip/ /ɪn/ /maɪ/ /rum/ /læst/ /naɪt/ /bʌt/ /ju/ /dɪdnt/ /ʌndɚ'stænd/",
+		"vietnamese": "Tôinói过BạnCô ấy昨晚没有睡在我的房间但là你（过去）không明白"
 	},
 	{
-		"chinese": "买",
 		"english": "to buy",
-		"soundmark": "/tə/ /baɪ/"
+		"soundmark": "/tə/ /baɪ/",
+		"vietnamese": "[VI:买]"
 	},
 	{
-		"chinese": "一个房子",
 		"english": "a house",
-		"soundmark": "/ə/ /haʊs/"
+		"soundmark": "/ə/ /haʊs/",
+		"vietnamese": "[VI:一个房子]"
 	},
 	{
-		"chinese": "买一个房子",
 		"english": "to buy a house",
-		"soundmark": "/tə/ /baɪ/ /ə/ /haʊs/"
+		"soundmark": "/tə/ /baɪ/ /ə/ /haʊs/",
+		"vietnamese": "[VI:买一个房子]"
 	},
 	{
-		"chinese": "我想要买一个房子",
 		"english": "I want to buy a house",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /baɪ/ /ə/ /haʊs/"
+		"soundmark": "/aɪ/ /wɑnt/ /tə/ /baɪ/ /ə/ /haʊs/",
+		"vietnamese": "Tôi muốn买一个房子"
 	},
 	{
-		"chinese": "买了",
 		"english": "bought",
-		"soundmark": "/bɔt/"
+		"soundmark": "/bɔt/",
+		"vietnamese": "[VI:买了]"
 	},
 	{
-		"chinese": "我买了一个房子",
 		"english": "I bought a house",
-		"soundmark": "/aɪ/ /bɔt/ /ə/ /haʊs/"
+		"soundmark": "/aɪ/ /bɔt/ /ə/ /haʊs/",
+		"vietnamese": "Tôi买了一个房子"
 	},
 	{
-		"chinese": "在......之前",
 		"english": "ago",
-		"soundmark": "/ə'ɡo/"
+		"soundmark": "/ə'ɡo/",
+		"vietnamese": "[VI:在......之前]"
 	},
 	{
-		"chinese": "两年",
 		"english": "two years",
-		"soundmark": "/tu/ /jɪrz/"
+		"soundmark": "/tu/ /jɪrz/",
+		"vietnamese": "[VI:两年]"
 	},
 	{
-		"chinese": "在两年之前",
 		"english": "two years ago",
-		"soundmark": "/tu/ /jɪrz/ /ə'ɡo/"
+		"soundmark": "/tu/ /jɪrz/ /ə'ɡo/",
+		"vietnamese": "[VI:在两年之前]"
 	},
 	{
-		"chinese": "我在两年之前买了一个房子",
 		"english": "I bought a house two years ago",
-		"soundmark": "/aɪ/ /bɔt/ /ə/ /haʊs/ /tu/ /jɪrz/ /ə'ɡo/"
+		"soundmark": "/aɪ/ /bɔt/ /ə/ /haʊs/ /tu/ /jɪrz/ /ə'ɡo/",
+		"vietnamese": "Tôi在两年之前买了一个房子"
 	},
 	{
-		"chinese": "我在两年之前没有买一个房子",
 		"english": "I didn't buy a house two years ago",
-		"soundmark": "/aɪ/ /dɪdnt/ /baɪ/ /ə/ /haʊs/ /tu/ /jɪrz/ /ə'ɡo/"
+		"soundmark": "/aɪ/ /dɪdnt/ /baɪ/ /ə/ /haʊs/ /tu/ /jɪrz/ /ə'ɡo/",
+		"vietnamese": "Tôi在两年之前没有买一个房子"
 	},
 	{
-		"chinese": "他在两年之前买了一个房子",
 		"english": "he bought a house two years ago",
-		"soundmark": "/hi/ /bɔt/ /ə/ /haʊs/ /tu/ /jɪrz/ /ə'ɡo/"
+		"soundmark": "/hi/ /bɔt/ /ə/ /haʊs/ /tu/ /jɪrz/ /ə'ɡo/",
+		"vietnamese": "Anh ấy在两年之前买了一个房子"
 	},
 	{
-		"chinese": "他在两年之前没有买一个房子",
 		"english": "he didn't buy a house two years ago",
-		"soundmark": "/hi/ /dɪdnt/ /baɪ/ /ə/ /haʊs/ /tu/ /jɪrz/ /ə'ɡo/"
+		"soundmark": "/hi/ /dɪdnt/ /baɪ/ /ə/ /haʊs/ /tu/ /jɪrz/ /ə'ɡo/",
+		"vietnamese": "Anh ấy在两年之前没有买一个房子"
 	},
 	{
-		"chinese": "明白",
 		"english": "to understand",
-		"soundmark": "/tə/ /ʌndɚ'stænd/"
+		"soundmark": "/tə/ /ʌndɚ'stænd/",
+		"vietnamese": "[VI:明白]"
 	},
 	{
-		"chinese": "你必须明白",
 		"english": "you have to understand",
-		"soundmark": "/ju/ /hæv/ /tə/ /ʌndɚ'stænd/"
+		"soundmark": "/ju/ /hæv/ /tə/ /ʌndɚ'stænd/",
+		"vietnamese": "Bạnphải明白"
 	},
 	{
-		"chinese": "你必须明白我在两年之前买了一个房子",
 		"english": "you have to understand I bought a house two years ago",
-		"soundmark": "/ju/ /hæv/ /tə/ /ʌndɚ'stænd/ /aɪ/ /bɔt/ /ə/ /haʊs/ /tu/ /jɪrz/ /ə'ɡo/"
+		"soundmark": "/ju/ /hæv/ /tə/ /ʌndɚ'stænd/ /aɪ/ /bɔt/ /ə/ /haʊs/ /tu/ /jɪrz/ /ə'ɡo/",
+		"vietnamese": "Bạnphải明白Tôi在两年之前买了一个房子"
 	},
 	{
-		"chinese": "洗",
 		"english": "to wash",
-		"soundmark": "/tə/ /wɔʃ/"
+		"soundmark": "/tə/ /wɔʃ/",
+		"vietnamese": "[VI:洗]"
 	},
 	{
-		"chinese": "我的",
 		"english": "my",
-		"soundmark": "/maɪ/"
+		"soundmark": "/maɪ/",
+		"vietnamese": "Tôi的"
 	},
 	{
-		"chinese": "脸",
 		"english": "face",
-		"soundmark": "/fes/"
+		"soundmark": "/fes/",
+		"vietnamese": "[VI:脸]"
 	},
 	{
-		"chinese": "我的脸",
 		"english": "my face",
-		"soundmark": "/maɪ/ /fes/"
+		"soundmark": "/maɪ/ /fes/",
+		"vietnamese": "Tôi的脸"
 	},
 	{
-		"chinese": "洗我的脸",
 		"english": "to wash my face",
-		"soundmark": "/tə/ /wɔʃ/ /maɪ/ /fes/"
+		"soundmark": "/tə/ /wɔʃ/ /maɪ/ /fes/",
+		"vietnamese": "洗Tôi的脸"
 	},
 	{
-		"chinese": "我需要洗我的脸",
 		"english": "I need to wash my face",
-		"soundmark": "/aɪ/ /nid/ /tə/ /wɔʃ/ /maɪ/ /fes/"
+		"soundmark": "/aɪ/ /nid/ /tə/ /wɔʃ/ /maɪ/ /fes/",
+		"vietnamese": "Tôi cần洗Tôi的脸"
 	},
 	{
-		"chinese": "每天",
 		"english": "every day",
-		"soundmark": "/'ɛvri/ /de/"
+		"soundmark": "/'ɛvri/ /de/",
+		"vietnamese": "mỗi ngày"
 	},
 	{
-		"chinese": "我需要每天洗我的脸",
 		"english": "I need to wash my face every day",
-		"soundmark": "/aɪ/ /nid/ /tə/ /wɑʃ/ /maɪ/ /fes/ /'ɛvri/ /de/"
+		"soundmark": "/aɪ/ /nid/ /tə/ /wɑʃ/ /maɪ/ /fes/ /'ɛvri/ /de/",
+		"vietnamese": "Tôi cầnmỗi ngày洗Tôi的脸"
 	},
 	{
-		"chinese": "我每天洗我的脸",
 		"english": "I wash my face every day",
-		"soundmark": "/aɪ/ /wɔʃ/ /maɪ/ /fes/ /'ɛvri/ /de/"
+		"soundmark": "/aɪ/ /wɔʃ/ /maɪ/ /fes/ /'ɛvri/ /de/",
+		"vietnamese": "Tôimỗi ngày洗我的脸"
 	},
 	{
-		"chinese": "洗了",
 		"english": "washed",
-		"soundmark": "/wɔʃt/"
+		"soundmark": "/wɔʃt/",
+		"vietnamese": "[VI:洗了]"
 	},
 	{
-		"chinese": "我洗了我的脸",
 		"english": "I washed my face",
-		"soundmark": "/aɪ/ /wɔʃt/ /maɪ/ /fes/"
+		"soundmark": "/aɪ/ /wɔʃt/ /maɪ/ /fes/",
+		"vietnamese": "Tôi洗了我的脸"
 	},
 	{
-		"chinese": "今天早上",
 		"english": "this morning",
-		"soundmark": "/ðɪs/ /'mɔrnɪŋ/"
+		"soundmark": "/ðɪs/ /'mɔrnɪŋ/",
+		"vietnamese": "hôm nay早上"
 	},
 	{
-		"chinese": "我今天早上洗了我的脸",
 		"english": "I washed my face this morning",
-		"soundmark": "/aɪ/ /wɔʃt/ /maɪ/ /fes/ /ðɪs/ /'mɔrnɪŋ/"
+		"soundmark": "/aɪ/ /wɔʃt/ /maɪ/ /fes/ /ðɪs/ /'mɔrnɪŋ/",
+		"vietnamese": "Tôihôm nay早上洗了我的脸"
 	},
 	{
-		"chinese": "我告诉过你",
 		"english": "I told you",
-		"soundmark": "/aɪ/ /told/ /ju/"
+		"soundmark": "/aɪ/ /told/ /ju/",
+		"vietnamese": "Tôinói过Bạn"
 	},
 	{
-		"chinese": "我告诉过你我今天早上洗了我的脸",
 		"english": "I told you I washed my face this morning",
-		"soundmark": "/aɪ/ /told/ /ju/ /aɪ/ /wɔʃt/ /maɪ/ /fes/ /ðɪs/ /'mɔrnɪŋ/"
+		"soundmark": "/aɪ/ /told/ /ju/ /aɪ/ /wɔʃt/ /maɪ/ /fes/ /ðɪs/ /'mɔrnɪŋ/",
+		"vietnamese": "Tôinói过Bạn我hôm nay早上洗了我的脸"
 	},
 	{
-		"chinese": "打电话给",
 		"english": "to call",
-		"soundmark": "/tə/ /kɔl/"
+		"soundmark": "/tə/ /kɔl/",
+		"vietnamese": "[VI:打电话给]"
 	},
 	{
-		"chinese": "打电话给他",
 		"english": "to call him",
-		"soundmark": "/tə/ /kɔl/ /hɪm/"
+		"soundmark": "/tə/ /kɔl/ /hɪm/",
+		"vietnamese": "打电话给Anh ấy"
 	},
 	{
-		"chinese": "我需要打电话给他",
 		"english": "I need to call him",
-		"soundmark": "/aɪ/ /nid/ /tə/ /kɔl/ /hɪm/"
+		"soundmark": "/aɪ/ /nid/ /tə/ /kɔl/ /hɪm/",
+		"vietnamese": "Tôi cần打电话给Anh ấy"
 	},
 	{
-		"chinese": "我打电话给他",
 		"english": "I call him",
-		"soundmark": "/aɪ/ /kɔl/ /hɪm/"
+		"soundmark": "/aɪ/ /kɔl/ /hɪm/",
+		"vietnamese": "Tôi打电话给Anh ấy"
 	},
 	{
-		"chinese": "打了电话给",
 		"english": "called",
-		"soundmark": "/kɔld/"
+		"soundmark": "/kɔld/",
+		"vietnamese": "[VI:打了电话给]"
 	},
 	{
-		"chinese": "我打了电话给他",
 		"english": "I called him",
-		"soundmark": "/aɪ/ /kɔld/ /hɪm/"
+		"soundmark": "/aɪ/ /kɔld/ /hɪm/",
+		"vietnamese": "Tôi打了电话给Anh ấy"
 	},
 	{
-		"chinese": "昨晚",
 		"english": "last night",
-		"soundmark": "/læst/ /naɪt/"
+		"soundmark": "/læst/ /naɪt/",
+		"vietnamese": "[VI:昨晚]"
 	},
 	{
-		"chinese": "我昨晚打了电话给他",
 		"english": "I called him last night",
-		"soundmark": "/aɪ/ /kɔld/ /hɪm/ /læst/ /naɪt/"
+		"soundmark": "/aɪ/ /kɔld/ /hɪm/ /læst/ /naɪt/",
+		"vietnamese": "Tôi昨晚打了电话给Anh ấy"
 	},
 	{
-		"chinese": "他告诉我",
 		"english": "he told me",
-		"soundmark": "/hi/ /told/ /mi/"
+		"soundmark": "/hi/ /told/ /mi/",
+		"vietnamese": "Anh ấynói với tôi"
 	},
 	{
-		"chinese": "他两年前买了一个房子",
 		"english": "he bought a house two years ago",
-		"soundmark": "/hi/ /bɔt/ /ə/ /haʊs/ /tu/ /jɪrz/ /ə'ɡo/"
+		"soundmark": "/hi/ /bɔt/ /ə/ /haʊs/ /tu/ /jɪrz/ /ə'ɡo/",
+		"vietnamese": "Anh ấy两年前买了一个房子"
 	},
 	{
-		"chinese": "他告诉我他两年前买了一个房子",
 		"english": "he told me he bought a house two years ago",
-		"soundmark": "/hi/ /told/ /mi/ /hi/ /bɔt/ /ə/ /haʊs/ /tu/ /jɪrz/ /ə'ɡo/"
+		"soundmark": "/hi/ /told/ /mi/ /hi/ /bɔt/ /ə/ /haʊs/ /tu/ /jɪrz/ /ə'ɡo/",
+		"vietnamese": "Anh ấynói với tôi他两年前买了一个房子"
 	},
 	{
-		"chinese": "我昨晚打了电话给他而且他告诉我他在两年之前买了一个房子",
 		"english": "I called him last night and he told me he bought a house two years ago",
-		"soundmark": "/aɪ/ /kɔld/ /hɪm/ /læst/ /naɪt/ /ənd/ /hi/ /told/ /mi/ /hi/ /bɔt/ /ə/ /haʊs/ /tu/ /jɪrz/ /ə'ɡo/"
+		"soundmark": "/aɪ/ /kɔld/ /hɪm/ /læst/ /naɪt/ /ənd/ /hi/ /told/ /mi/ /hi/ /bɔt/ /ə/ /haʊs/ /tu/ /jɪrz/ /ə'ɡo/",
+		"vietnamese": "Tôi昨晚打了电话给Anh ấy而且他nói với tôi他在两年之前买了一个房子"
 	}
 ]

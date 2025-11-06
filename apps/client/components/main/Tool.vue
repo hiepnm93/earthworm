@@ -6,7 +6,7 @@
     <div class="flex items-center">
       <NuxtLink
         class="clickable-item"
-        data-tippy-content="课程列表"
+        data-tippy-content="Khóa họcDanh sách"
         :href="`/course-pack/${courseStore.currentCourse?.coursePackId}`"
         @mouseenter="$lazyTippy"
       >
@@ -14,7 +14,7 @@
       </NuxtLink>
       <div
         class="clickable-item ml-4"
-        data-tippy-content="课程题目列表"
+        data-tippy-content="Khóa học题目Danh sách"
         @click="toggleContents"
         @mouseenter="$lazyTippy"
       >
@@ -30,21 +30,21 @@
     <div class="flex items-center gap-4">
       <div
         v-if="isAuthenticated()"
-        :data-tippy-content="`暂停游戏 (${shortcutKeys.pause})`"
+        :data-tippy-content="`Tạm dừng游戏 (${shortcutKeys.pause})`"
         @click="pauseGame"
         @mouseenter="$lazyTippy"
       >
         <span class="clickable-item icon-item i-ph-pause-bold"></span>
       </div>
       <div
-        data-tippy-content="重置当前课程进度"
+        data-tippy-content="Đặt lại当前Khóa họcTiến độ"
         @click="handleDoAgain"
         @mouseenter="$lazyTippy"
       >
         <span class="clickable-item icon-item i-ph-arrow-counter-clockwise"></span>
       </div>
       <div
-        data-tippy-content="排行榜"
+        data-tippy-content="Bảng xếp hạng"
         @click="rankingStore.showRankModal"
         @mouseenter="$lazyTippy"
       >
@@ -62,16 +62,16 @@
   <RankRankingList />
   <MainMessageBox
     v-model:show-modal="showTipModal"
-    content="是否确认重置当前课程进度？"
+    content="Có xác nhận khôngĐặt lại当前Khóa họcTiến độ？"
     confirm-btn-text="确认"
     @confirm="handleTipConfirm"
   />
 
   <MainMessageBox
     v-model:show-modal="showGamePauseModal"
-    content="游戏暂停 快点回来！"
+    content="游戏Tạm dừng 快点回来！"
     cancelBtnText=""
-    confirm-btn-text="继续游戏"
+    confirm-btn-text="Tiếp tục游戏"
     @confirm="resumeGame"
     @close="resumeGame"
   />
@@ -120,7 +120,7 @@ const currentPercentage = computed(() => {
 });
 
 function useGamePauseWrapper() {
-  // 游客不会显示倒计时  所以暂停功能是不需要的
+  // Khách不会Hiện倒计时  所以Tạm dừng功能是不需要的
   if (!isAuthenticated()) return;
 
   const gameStore = useGameStore();

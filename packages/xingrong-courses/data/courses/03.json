@@ -1,917 +1,917 @@
 [
 	{
-		"chinese": "做",
 		"english": "to do",
-		"soundmark": "/tə/ /du/"
+		"soundmark": "/tə/ /du/",
+		"vietnamese": "làm"
 	},
 	{
-		"chinese": "它；这件事情",
 		"english": "it",
-		"soundmark": "/ɪt/"
+		"soundmark": "/ɪt/",
+		"vietnamese": "Nó"
 	},
 	{
-		"chinese": "做这件事情",
 		"english": "to do it",
-		"soundmark": "/tə/ /du/ /ɪt/"
+		"soundmark": "/tə/ /du/ /ɪt/",
+		"vietnamese": "làm điều này"
 	},
 	{
-		"chinese": "我需要",
 		"english": "I need",
-		"soundmark": "/aɪ/ /nid/"
+		"soundmark": "/aɪ/ /nid/",
+		"vietnamese": "Tôi cần"
 	},
 	{
-		"chinese": "我需要做这件事情",
 		"english": "I need to do it",
-		"soundmark": "/aɪ/ /nid/ /tə/ /du/ /ɪt/"
+		"soundmark": "/aɪ/ /nid/ /tə/ /du/ /ɪt/",
+		"vietnamese": "Tôi cần làm điều này"
 	},
 	{
-		"chinese": "今天",
 		"english": "today",
-		"soundmark": "/tə'de/"
+		"soundmark": "/tə'de/",
+		"vietnamese": "hôm nay"
 	},
 	{
-		"chinese": "我需要今天做这件事情",
 		"english": "I need to do it today",
-		"soundmark": "/aɪ/ /nid/ /tə/ /du/ /ɪt/ /tə'de/"
+		"soundmark": "/aɪ/ /nid/ /tə/ /du/ /ɪt/ /tə'de/",
+		"vietnamese": "Tôi cầnhôm naylàm điều này"
 	},
 	{
-		"chinese": "你需要",
 		"english": "you need",
-		"soundmark": "/ju/ /nid/"
+		"soundmark": "/ju/ /nid/",
+		"vietnamese": "Bạncần"
 	},
 	{
-		"chinese": "你需要今天做这件事情",
 		"english": "you need to do it today",
-		"soundmark": "/ju/ /nid/ /tə/ /du/ /ɪt/ /tə'de/"
+		"soundmark": "/ju/ /nid/ /tə/ /du/ /ɪt/ /tə'de/",
+		"vietnamese": "Bạncầnhôm naylàm điều này"
 	},
 	{
-		"chinese": "他",
 		"english": "he",
-		"soundmark": "/hi/"
+		"soundmark": "/hi/",
+		"vietnamese": "Anh ấy"
 	},
 	{
-		"chinese": "他需要",
 		"english": "he needs",
-		"soundmark": "/hi/ /nidz/"
+		"soundmark": "/hi/ /nidz/",
+		"vietnamese": "Anh ấycần"
 	},
 	{
-		"chinese": "他需要今天做这件事情",
 		"english": "he needs to do it today",
-		"soundmark": "/hi/ /nidz/ /tə/ /du/ /ɪt/ /tə'de/"
+		"soundmark": "/hi/ /nidz/ /tə/ /du/ /ɪt/ /tə'de/",
+		"vietnamese": "Anh ấycầnhôm naylàm điều này"
 	},
 	{
-		"chinese": "相信",
 		"english": "to believe",
-		"soundmark": "/tə/ /bɪ'liv/"
+		"soundmark": "/tə/ /bɪ'liv/",
+		"vietnamese": "tin"
 	},
 	{
-		"chinese": "相信我",
 		"english": "to believe me",
-		"soundmark": "/tə/ /bɪ'liv/ /mi/"
+		"soundmark": "/tə/ /bɪ'liv/ /mi/",
+		"vietnamese": "tin tôi"
 	},
 	{
-		"chinese": "他需要相信我",
 		"english": "he needs to believe me",
-		"soundmark": "/hi/ /nidz/ /tə/ /bɪ'liv/ /mi/"
+		"soundmark": "/hi/ /nidz/ /tə/ /bɪ'liv/ /mi/",
+		"vietnamese": "Anh ấycầntin tôi"
 	},
 	{
-		"chinese": "她",
 		"english": "she",
-		"soundmark": "/ʃi/"
+		"soundmark": "/ʃi/",
+		"vietnamese": "Cô ấy"
 	},
 	{
-		"chinese": "她需要",
 		"english": "she needs",
-		"soundmark": "/ʃi/ /nidz/"
+		"soundmark": "/ʃi/ /nidz/",
+		"vietnamese": "Cô ấycần"
 	},
 	{
-		"chinese": "她需要相信我",
 		"english": "she needs to believe me",
-		"soundmark": "/ʃi/ /nidz/ /tə/ /bɪ'liv/ /mi/"
+		"soundmark": "/ʃi/ /nidz/ /tə/ /bɪ'liv/ /mi/",
+		"vietnamese": "Cô ấycầntin tôi"
 	},
 	{
-		"chinese": "吃",
 		"english": "to eat",
-		"soundmark": "/tə/ /it/"
+		"soundmark": "/tə/ /it/",
+		"vietnamese": "ăn"
 	},
 	{
-		"chinese": "这个食物",
 		"english": "the food",
-		"soundmark": "/ðə/ /fud/"
+		"soundmark": "/ðə/ /fud/",
+		"vietnamese": "thức ăn này"
 	},
 	{
-		"chinese": "吃这个食物",
 		"english": "to eat the food",
-		"soundmark": "/tə/ /it/ /ðə/ /fud/"
+		"soundmark": "/tə/ /it/ /ðə/ /fud/",
+		"vietnamese": "ăn thức ăn này"
 	},
 	{
-		"chinese": "现在",
 		"english": "now",
-		"soundmark": "/naʊ/"
+		"soundmark": "/naʊ/",
+		"vietnamese": "bây giờ"
 	},
 	{
-		"chinese": "现在吃这个食物",
 		"english": "to eat the food now",
-		"soundmark": "/tə/ /it/ /ðə/ /fud/ /naʊ/"
+		"soundmark": "/tə/ /it/ /ðə/ /fud/ /naʊ/",
+		"vietnamese": "bây giờăn thức ăn này"
 	},
 	{
-		"chinese": "她需要",
 		"english": "she needs",
-		"soundmark": "/ʃi/ /nidz/"
+		"soundmark": "/ʃi/ /nidz/",
+		"vietnamese": "Cô ấycần"
 	},
 	{
-		"chinese": "她需要现在吃这个食物",
 		"english": "she needs to eat the food now",
-		"soundmark": "/ʃi/ /nidz/ /tə/ /it/ /ðə/ /fud/ /naʊ/"
+		"soundmark": "/ʃi/ /nidz/ /tə/ /it/ /ðə/ /fud/ /naʊ/",
+		"vietnamese": "Cô ấycầnbây giờăn thức ăn này"
 	},
 	{
-		"chinese": "它",
 		"english": "it",
-		"soundmark": "/ɪt/"
+		"soundmark": "/ɪt/",
+		"vietnamese": "Nó"
 	},
 	{
-		"chinese": "它需要",
 		"english": "it needs",
-		"soundmark": "/ɪt/ /nidz/"
+		"soundmark": "/ɪt/ /nidz/",
+		"vietnamese": "Nócần"
 	},
 	{
-		"chinese": "它需要现在吃这个食物",
 		"english": "it needs to eat the food now",
-		"soundmark": "/ɪt/ /nidz/ /tə/ /it/ /ðə/ /fud/ /naʊ/"
+		"soundmark": "/ɪt/ /nidz/ /tə/ /it/ /ðə/ /fud/ /naʊ/",
+		"vietnamese": "Nócầnbây giờăn thức ăn này"
 	},
 	{
-		"chinese": "睡觉",
 		"english": "to sleep",
-		"soundmark": "/tə/ /slip/"
+		"soundmark": "/tə/ /slip/",
+		"vietnamese": "[VI:睡觉]"
 	},
 	{
-		"chinese": "它需要睡觉",
 		"english": "it needs to sleep",
-		"soundmark": "/ɪt/ /nidz/ /tə/ /slip/"
+		"soundmark": "/ɪt/ /nidz/ /tə/ /slip/",
+		"vietnamese": "Nócần睡觉"
 	},
 	{
-		"chinese": "星荣需要",
 		"english": "Xingrong needs",
-		"soundmark": "/nidz/"
+		"soundmark": "/nidz/",
+		"vietnamese": "Xingrongcần"
 	},
 	{
-		"chinese": "睡觉",
 		"english": "to sleep",
-		"soundmark": "/tə/ /slip/"
+		"soundmark": "/tə/ /slip/",
+		"vietnamese": "[VI:睡觉]"
 	},
 	{
-		"chinese": "星荣需要睡觉",
 		"english": "Xingrong needs to sleep",
-		"soundmark": "/nidz/ /tə/ /slip/"
+		"soundmark": "/nidz/ /tə/ /slip/",
+		"vietnamese": "Xingrongcần睡觉"
 	},
 	{
-		"chinese": "某件事",
 		"english": "something",
-		"soundmark": "/'sʌmθɪŋ/"
+		"soundmark": "/'sʌmθɪŋ/",
+		"vietnamese": "[VI:某件事]"
 	},
 	{
-		"chinese": "重要的",
 		"english": "important",
-		"soundmark": "/ɪm'pɔrtnt/"
+		"soundmark": "/ɪm'pɔrtnt/",
+		"vietnamese": "quan trọng"
 	},
 	{
-		"chinese": "重要的某件事",
 		"english": "something important",
-		"soundmark": "/'sʌmθɪŋ/ /ɪm'pɔrtnt/"
+		"soundmark": "/'sʌmθɪŋ/ /ɪm'pɔrtnt/",
+		"vietnamese": "quan trọng某件事"
 	},
 	{
-		"chinese": "告诉",
 		"english": "to tell",
-		"soundmark": "/tə/ /tɛl/"
+		"soundmark": "/tə/ /tɛl/",
+		"vietnamese": "nói"
 	},
 	{
-		"chinese": "告诉你",
 		"english": "to tell you",
-		"soundmark": "/tə/ /tɛl/ /ju/"
+		"soundmark": "/tə/ /tɛl/ /ju/",
+		"vietnamese": "nói với bạn"
 	},
 	{
-		"chinese": "告诉你重要的某件事",
 		"english": "to tell you something important",
-		"soundmark": "/tə/ /tɛl/ /ju/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/"
+		"soundmark": "/tə/ /tɛl/ /ju/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/",
+		"vietnamese": "nói với bạnquan trọng某件事"
 	},
 	{
-		"chinese": "我想要",
 		"english": "I want",
-		"soundmark": "/aɪ/ /wɑnt/"
+		"soundmark": "/aɪ/ /wɑnt/",
+		"vietnamese": "Tôi muốn"
 	},
 	{
-		"chinese": "我想要告诉你重要的某件事",
 		"english": "I want to tell you something important",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /tɛl/ /ju/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/"
+		"soundmark": "/aɪ/ /wɑnt/ /tə/ /tɛl/ /ju/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/",
+		"vietnamese": "Tôi muốnnói với bạnquan trọng某件事"
 	},
 	{
-		"chinese": "你想要",
 		"english": "you want",
-		"soundmark": "/ju/ /wɑnt/"
+		"soundmark": "/ju/ /wɑnt/",
+		"vietnamese": "Bạnmuốn"
 	},
 	{
-		"chinese": "你想要告诉我重要的某件事",
 		"english": "you want to tell me something important",
-		"soundmark": "/ju/ /wɑnt/ /tə/ /tɛl/ /mi/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/"
+		"soundmark": "/ju/ /wɑnt/ /tə/ /tɛl/ /mi/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/",
+		"vietnamese": "Bạnmuốnnói với tôiquan trọng某件事"
 	},
 	{
-		"chinese": "他想要",
 		"english": "he wants",
-		"soundmark": "/hi/ /wɑnts/"
+		"soundmark": "/hi/ /wɑnts/",
+		"vietnamese": "Anh ấymuốn"
 	},
 	{
-		"chinese": "他想要告诉我重要的某件事",
 		"english": "he wants to tell me something important",
-		"soundmark": "/hi/ /wɑnts/ /tə/ /tɛl/ /mi/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/"
+		"soundmark": "/hi/ /wɑnts/ /tə/ /tɛl/ /mi/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/",
+		"vietnamese": "Anh ấymuốnnói với tôiquan trọng某件事"
 	},
 	{
-		"chinese": "解释",
 		"english": "to explain",
-		"soundmark": "/tə/ /ɪk'splen/"
+		"soundmark": "/tə/ /ɪk'splen/",
+		"vietnamese": "[VI:解释]"
 	},
 	{
-		"chinese": "原因",
 		"english": "the reason",
-		"soundmark": "/ðə/ /ˈrizən/"
+		"soundmark": "/ðə/ /ˈrizən/",
+		"vietnamese": "[VI:原因]"
 	},
 	{
-		"chinese": "解释原因",
 		"english": "to explain the reason",
-		"soundmark": "/tə/ /ɪk'splen/ /ðə/ /ˈrizən/"
+		"soundmark": "/tə/ /ɪk'splen/ /ðə/ /ˈrizən/",
+		"vietnamese": "[VI:解释原因]"
 	},
 	{
-		"chinese": "他想要",
 		"english": "he wants",
-		"soundmark": "/hi/ /wɑnts/"
+		"soundmark": "/hi/ /wɑnts/",
+		"vietnamese": "Anh ấymuốn"
 	},
 	{
-		"chinese": "他想要解释原因",
 		"english": "he wants to explain the reason",
-		"soundmark": "/hi/ /wɑnts/ /tə/ /ɪk'splen/ /ðə/ /ˈrizən/"
+		"soundmark": "/hi/ /wɑnts/ /tə/ /ɪk'splen/ /ðə/ /ˈrizən/",
+		"vietnamese": "Anh ấymuốn解释原因"
 	},
 	{
-		"chinese": "她想要",
 		"english": "she wants",
-		"soundmark": "/ʃi/ /wɑnts/"
+		"soundmark": "/ʃi/ /wɑnts/",
+		"vietnamese": "Cô ấymuốn"
 	},
 	{
-		"chinese": "她想要解释原因",
 		"english": "she wants to explain the reason",
-		"soundmark": "/ʃi/ /wɑnts/ /tə/ /ɪk'splen/ /ðə/ /ˈrizən/"
+		"soundmark": "/ʃi/ /wɑnts/ /tə/ /ɪk'splen/ /ðə/ /ˈrizən/",
+		"vietnamese": "Cô ấymuốn解释原因"
 	},
 	{
-		"chinese": "她需要",
 		"english": "she needs",
-		"soundmark": "/ʃi/ /nidz/"
+		"soundmark": "/ʃi/ /nidz/",
+		"vietnamese": "Cô ấycần"
 	},
 	{
-		"chinese": "她现在需要吃这个食物",
 		"english": "she needs to eat the food now",
-		"soundmark": "/ʃi/ /nidz/ /tə/ /it/ /ðə/ /fud/ /naʊ/"
+		"soundmark": "/ʃi/ /nidz/ /tə/ /it/ /ðə/ /fud/ /naʊ/",
+		"vietnamese": "Cô ấybây giờcầnăn thức ăn này"
 	},
 	{
-		"chinese": "为什么",
 		"english": "why",
-		"soundmark": "/waɪ/"
+		"soundmark": "/waɪ/",
+		"vietnamese": "[VI:为什么]"
 	},
 	{
-		"chinese": "她想要解释原因为什么她现在需要吃这个食物",
 		"english": "she wants to explain the reason why she needs to eat the food now",
-		"soundmark": "/ʃi/ /wɑnts/ /tə/ /ɪk'splen/ /ðə/ /ˈrizən/ /waɪ/ /ʃi/ /nidz/ /tə/ /it/ /ðə/ /fud/ /naʊ/"
+		"soundmark": "/ʃi/ /wɑnts/ /tə/ /ɪk'splen/ /ðə/ /ˈrizən/ /waɪ/ /ʃi/ /nidz/ /tə/ /it/ /ðə/ /fud/ /naʊ/",
+		"vietnamese": "Cô ấymuốn解释原bởi vì什么她bây giờcầnăn thức ăn này"
 	},
 	{
-		"chinese": "问",
 		"english": "to ask",
-		"soundmark": "/tə/ /æsk/"
+		"soundmark": "/tə/ /æsk/",
+		"vietnamese": "[VI:问]"
 	},
 	{
-		"chinese": "问我",
 		"english": "to ask me",
-		"soundmark": "/tə/ /æsk/ /mi/"
+		"soundmark": "/tə/ /æsk/ /mi/",
+		"vietnamese": "问Tôi"
 	},
 	{
-		"chinese": "一个问题",
 		"english": "a question",
-		"soundmark": "/ə/ /'kwɛstʃən/"
+		"soundmark": "/ə/ /'kwɛstʃən/",
+		"vietnamese": "[VI:一个问题]"
 	},
 	{
-		"chinese": "问我一个问题",
 		"english": "to ask me a question",
-		"soundmark": "/tə/ /æsk/ /mi/ /ə/ /'kwɛstʃən/"
+		"soundmark": "/tə/ /æsk/ /mi/ /ə/ /'kwɛstʃən/",
+		"vietnamese": "问Tôi一个问题"
 	},
 	{
-		"chinese": "她想要",
 		"english": "she wants",
-		"soundmark": "/ʃi/ /wɑnts/"
+		"soundmark": "/ʃi/ /wɑnts/",
+		"vietnamese": "Cô ấymuốn"
 	},
 	{
-		"chinese": "她想要问我一个问题",
 		"english": "she wants to ask me a question",
-		"soundmark": "/ʃi/ /wɑnts/ /tə/ /æsk/ /mi/ /ə/ /'kwɛstʃən/"
+		"soundmark": "/ʃi/ /wɑnts/ /tə/ /æsk/ /mi/ /ə/ /'kwɛstʃən/",
+		"vietnamese": "Cô ấymuốn问Tôi一个问题"
 	},
 	{
-		"chinese": "关于",
 		"english": "about",
-		"soundmark": "/ə'baʊt/"
+		"soundmark": "/ə'baʊt/",
+		"vietnamese": "[VI:关于]"
 	},
 	{
-		"chinese": "这个食物",
 		"english": "the food",
-		"soundmark": "/ðə/ /fud/"
+		"soundmark": "/ðə/ /fud/",
+		"vietnamese": "thức ăn này"
 	},
 	{
-		"chinese": "关于这个食物的一个问题",
 		"english": "a question about the food",
-		"soundmark": "/ə/ /'kwɛstʃən/ /ə'baʊt/ /ðə/ /fud/"
+		"soundmark": "/ə/ /'kwɛstʃən/ /ə'baʊt/ /ðə/ /fud/",
+		"vietnamese": "关于thức ăn này的一个问题"
 	},
 	{
-		"chinese": "她想要问我关于这个食物的一个问题",
 		"english": "she wants to ask me a question about the food",
-		"soundmark": "/ʃi/ /wɑnts/ /tə/ /æsk/ /mi/ /ə/ /'kwɛstʃən/ /ə'baʊt/ /ðə/ /fud/"
+		"soundmark": "/ʃi/ /wɑnts/ /tə/ /æsk/ /mi/ /ə/ /'kwɛstʃən/ /ə'baʊt/ /ðə/ /fud/",
+		"vietnamese": "Cô ấymuốn问Tôi关于thức ăn này的一个问题"
 	},
 	{
-		"chinese": "飞翔",
 		"english": "to fly",
-		"soundmark": "/tə/ /flaɪ/"
+		"soundmark": "/tə/ /flaɪ/",
+		"vietnamese": "[VI:飞翔]"
 	},
 	{
-		"chinese": "天空",
 		"english": "sky",
-		"soundmark": "/skaɪ/"
+		"soundmark": "/skaɪ/",
+		"vietnamese": "[VI:天空]"
 	},
 	{
-		"chinese": "在天空中",
 		"english": "in the sky",
-		"soundmark": "/ɪn/ /ðə/ /skaɪ/"
+		"soundmark": "/ɪn/ /ðə/ /skaɪ/",
+		"vietnamese": "[VI:在天空中]"
 	},
 	{
-		"chinese": "在天空中飞翔",
 		"english": "to fly in the sky",
-		"soundmark": "/tə/ /flaɪ/ /ɪn/ /ðə/ /skaɪ/"
+		"soundmark": "/tə/ /flaɪ/ /ɪn/ /ðə/ /skaɪ/",
+		"vietnamese": "[VI:在天空中飞翔]"
 	},
 	{
-		"chinese": "这个小鸟",
 		"english": "the bird",
-		"soundmark": "/ðə/ /bɝd/"
+		"soundmark": "/ðə/ /bɝd/",
+		"vietnamese": "[VI:这个小鸟]"
 	},
 	{
-		"chinese": "这个小鸟想要",
 		"english": "the bird wants",
-		"soundmark": "/ðə/ /bɝd/ /wɑnts/"
+		"soundmark": "/ðə/ /bɝd/ /wɑnts/",
+		"vietnamese": "这个小鸟muốn"
 	},
 	{
-		"chinese": "这个小鸟想要在天空中飞翔",
 		"english": "the bird wants to fly in the sky",
-		"soundmark": "/ðə/ /bɝd/ /wɑnts/ /tə/ /flaɪ/ /ɪn/ /ðə/ /skaɪ/"
+		"soundmark": "/ðə/ /bɝd/ /wɑnts/ /tə/ /flaɪ/ /ɪn/ /ðə/ /skaɪ/",
+		"vietnamese": "这个小鸟muốn在天空中飞翔"
 	},
 	{
-		"chinese": "星荣想要",
 		"english": "Xingrong wants",
-		"soundmark": "/wɑnts/"
+		"soundmark": "/wɑnts/",
+		"vietnamese": "Xingrongmuốn"
 	},
 	{
-		"chinese": "星荣想要在天空中飞翔",
 		"english": "Xingrong wants to fly in the sky",
-		"soundmark": "/wɑnts/ /tə/ /flaɪ/ /ɪn/ /ðə/ /skaɪ/"
+		"soundmark": "/wɑnts/ /tə/ /flaɪ/ /ɪn/ /ðə/ /skaɪ/",
+		"vietnamese": "Xingrongmuốn在天空中飞翔"
 	},
 	{
-		"chinese": "但是",
 		"english": "but",
-		"soundmark": "/bət/"
+		"soundmark": "/bət/",
+		"vietnamese": "但là"
 	},
 	{
-		"chinese": "不可能的",
 		"english": "impossible",
-		"soundmark": "/ɪm'pɑsəbl/"
+		"soundmark": "/ɪm'pɑsəbl/",
+		"vietnamese": "không thể"
 	},
 	{
-		"chinese": "它是不可能的",
 		"english": "it is impossible",
-		"soundmark": "/ɪt/ /ɪz/ /ɪm'pɑsəbl/"
+		"soundmark": "/ɪt/ /ɪz/ /ɪm'pɑsəbl/",
+		"vietnamese": "Nó không thể"
 	},
 	{
-		"chinese": "星荣想要在天空中飞翔但是它是不可能的",
 		"english": "Xingrong wants to fly in the sky but it is impossible",
-		"soundmark": "/wɑnts/ /tə/ /flaɪ/ /ɪn/ /ðə/ /skaɪ/ /bət/ /ɪt/ /ɪz/ /ɪm'pɑsəbl/"
+		"soundmark": "/wɑnts/ /tə/ /flaɪ/ /ɪn/ /ðə/ /skaɪ/ /bət/ /ɪt/ /ɪz/ /ɪm'pɑsəbl/",
+		"vietnamese": "Xingrongmuốn在天空中飞翔但làNó không thể"
 	},
 	{
-		"chinese": "阅读",
 		"english": "to read",
-		"soundmark": "/tə/ /rid/"
+		"soundmark": "/tə/ /rid/",
+		"vietnamese": "[VI:阅读]"
 	},
 	{
-		"chinese": "在家里",
 		"english": "at home",
-		"soundmark": "/ət/ /hom/"
+		"soundmark": "/ət/ /hom/",
+		"vietnamese": "[VI:在家里]"
 	},
 	{
-		"chinese": "在家里阅读",
 		"english": "to read at home",
-		"soundmark": "/tə/ /rid/ /ət/ /hom/"
+		"soundmark": "/tə/ /rid/ /ət/ /hom/",
+		"vietnamese": "[VI:在家里阅读]"
 	},
 	{
-		"chinese": "我喜欢",
 		"english": "I like",
-		"soundmark": "/aɪ/ /laɪk/"
+		"soundmark": "/aɪ/ /laɪk/",
+		"vietnamese": "Tôi thích"
 	},
 	{
-		"chinese": "我喜欢在家里阅读",
 		"english": "I like to read at home",
-		"soundmark": "/aɪ/ /laɪk/ /tə/ /rid/ /ət/ /hom/"
+		"soundmark": "/aɪ/ /laɪk/ /tə/ /rid/ /ət/ /hom/",
+		"vietnamese": "Tôi thích在家里阅读"
 	},
 	{
-		"chinese": "你喜欢",
 		"english": "you like",
-		"soundmark": "/ju/ /laɪk/"
+		"soundmark": "/ju/ /laɪk/",
+		"vietnamese": "Bạnthích"
 	},
 	{
-		"chinese": "你喜欢在家里阅读",
 		"english": "you like to read at home",
-		"soundmark": "/ju/ /laɪk/ /tə/ /rid/ /ət/ /hom/"
+		"soundmark": "/ju/ /laɪk/ /tə/ /rid/ /ət/ /hom/",
+		"vietnamese": "Bạnthích在家里阅读"
 	},
 	{
-		"chinese": "他喜欢",
 		"english": "he likes",
-		"soundmark": "/hi/ /laɪks/"
+		"soundmark": "/hi/ /laɪks/",
+		"vietnamese": "Anh ấythích"
 	},
 	{
-		"chinese": "他喜欢在家里阅读",
 		"english": "he likes to read at home",
-		"soundmark": "/hi/ /laɪks/ /tə/ /rid/ /ət/ /hom/"
+		"soundmark": "/hi/ /laɪks/ /tə/ /rid/ /ət/ /hom/",
+		"vietnamese": "Anh ấythích在家里阅读"
 	},
 	{
-		"chinese": "散步",
 		"english": "to walk",
-		"soundmark": "/tə/ /wɔk/"
+		"soundmark": "/tə/ /wɔk/",
+		"vietnamese": "[VI:散步]"
 	},
 	{
-		"chinese": "公园",
 		"english": "park",
-		"soundmark": "/pɑrk/"
+		"soundmark": "/pɑrk/",
+		"vietnamese": "[VI:公园]"
 	},
 	{
-		"chinese": "在公园里",
 		"english": "in the park",
-		"soundmark": "/ɪn/ /ðə/ /pɑrk/"
+		"soundmark": "/ɪn/ /ðə/ /pɑrk/",
+		"vietnamese": "[VI:在公园里]"
 	},
 	{
-		"chinese": "在公园里散步",
 		"english": "to walk in the park",
-		"soundmark": "/tə/ /wɔk/ /ɪn/ /ðə/ /pɑrk/"
+		"soundmark": "/tə/ /wɔk/ /ɪn/ /ðə/ /pɑrk/",
+		"vietnamese": "[VI:在公园里散步]"
 	},
 	{
-		"chinese": "他喜欢",
 		"english": "he likes",
-		"soundmark": "/hi/ /laɪks/"
+		"soundmark": "/hi/ /laɪks/",
+		"vietnamese": "Anh ấythích"
 	},
 	{
-		"chinese": "他喜欢在公园里散步",
 		"english": "he likes to walk in the park",
-		"soundmark": "/hi/ /laɪks/ /tə/ /wɔk/ /ɪn/ /ðə/ /pɑrk/"
+		"soundmark": "/hi/ /laɪks/ /tə/ /wɔk/ /ɪn/ /ðə/ /pɑrk/",
+		"vietnamese": "Anh ấythích在公园里散步"
 	},
 	{
-		"chinese": "她喜欢",
 		"english": "she likes",
-		"soundmark": "/ʃi/ /laɪks/"
+		"soundmark": "/ʃi/ /laɪks/",
+		"vietnamese": "Cô ấythích"
 	},
 	{
-		"chinese": "她喜欢在公园里散步",
 		"english": "she likes to walk in the park",
-		"soundmark": "/ʃi/ /laɪks/ /tə/ /wɔk/ /ɪn/ /ðə/ /pɑrk/"
+		"soundmark": "/ʃi/ /laɪks/ /tə/ /wɔk/ /ɪn/ /ðə/ /pɑrk/",
+		"vietnamese": "Cô ấythích在公园里散步"
 	},
 	{
-		"chinese": "睡觉",
 		"english": "to sleep",
-		"soundmark": "/tə/ /slip/"
+		"soundmark": "/tə/ /slip/",
+		"vietnamese": "[VI:睡觉]"
 	},
 	{
-		"chinese": "床",
 		"english": "bed",
-		"soundmark": "/bɛd/"
+		"soundmark": "/bɛd/",
+		"vietnamese": "[VI:床]"
 	},
 	{
-		"chinese": "在床上",
 		"english": "on the bed",
-		"soundmark": "/ɑn/ /ðə/ /bɛd/"
+		"soundmark": "/ɑn/ /ðə/ /bɛd/",
+		"vietnamese": "[VI:在床上]"
 	},
 	{
-		"chinese": "在床上睡觉",
 		"english": "to sleep on the bed",
-		"soundmark": "/tə/ /slip/ /ɑn/ /ðə/ /bɛd/"
+		"soundmark": "/tə/ /slip/ /ɑn/ /ðə/ /bɛd/",
+		"vietnamese": "[VI:在床上睡觉]"
 	},
 	{
-		"chinese": "他喜欢",
 		"english": "he likes",
-		"soundmark": "/hi/ /laɪks/"
+		"soundmark": "/hi/ /laɪks/",
+		"vietnamese": "Anh ấythích"
 	},
 	{
-		"chinese": "他喜欢在床上睡觉",
 		"english": "he likes to sleep on the bed",
-		"soundmark": "/hi/ /laɪks/ /tə/ /slip/ /ɑn/ /ðə/ /bɛd/"
+		"soundmark": "/hi/ /laɪks/ /tə/ /slip/ /ɑn/ /ðə/ /bɛd/",
+		"vietnamese": "Anh ấythích在床上睡觉"
 	},
 	{
-		"chinese": "星荣喜欢",
 		"english": "Xingrong likes",
-		"soundmark": "/laɪks/"
+		"soundmark": "/laɪks/",
+		"vietnamese": "Xingrongthích"
 	},
 	{
-		"chinese": "星荣喜欢在床上睡觉",
 		"english": "Xingrong likes to sleep on the bed",
-		"soundmark": "/laɪks/ /tə/ /slip/ /ɑn/ /ðə/ /bɛd/"
+		"soundmark": "/laɪks/ /tə/ /slip/ /ɑn/ /ðə/ /bɛd/",
+		"vietnamese": "Xingrongthích在床上睡觉"
 	},
 	{
-		"chinese": "告诉",
 		"english": "to tell",
-		"soundmark": "/tə/ /tɛl/"
+		"soundmark": "/tə/ /tɛl/",
+		"vietnamese": "nói"
 	},
 	{
-		"chinese": "事实",
 		"english": "the truth",
-		"soundmark": "/ðə/ /trʊθ/"
+		"soundmark": "/ðə/ /trʊθ/",
+		"vietnamese": "sự thật"
 	},
 	{
-		"chinese": "告诉你事实",
 		"english": "to tell you the truth",
-		"soundmark": "/tə/ /tɛl/ /ju/ /ðə/ /trʊθ/"
+		"soundmark": "/tə/ /tɛl/ /ju/ /ðə/ /trʊθ/",
+		"vietnamese": "nói với bạnsự thật"
 	},
 	{
-		"chinese": "我必须告诉你事实",
 		"english": "I have to tell you the truth",
-		"soundmark": "/aɪ/ /hæv/ /tə/ /tɛl/ /ju/ /ðə/ /trʊθ/"
+		"soundmark": "/aɪ/ /hæv/ /tə/ /tɛl/ /ju/ /ðə/ /trʊθ/",
+		"vietnamese": "Tôi phảinói với bạnsự thật"
 	},
 	{
-		"chinese": "你必须告诉我事实",
 		"english": "you have to tell me the truth",
-		"soundmark": "/ju/ /hæv/ /tə/ /tɛl/ /mi/ /ðə/ /trʊθ/"
+		"soundmark": "/ju/ /hæv/ /tə/ /tɛl/ /mi/ /ðə/ /trʊθ/",
+		"vietnamese": "Bạn phải nói sự thật với tôi"
 	},
 	{
-		"chinese": "他必须告诉",
 		"english": "he has to tell",
-		"soundmark": "/hi/ /hæz/ /tə/ /tɛl/"
+		"soundmark": "/hi/ /hæz/ /tə/ /tɛl/",
+		"vietnamese": "Anh ấyphảinói"
 	},
 	{
-		"chinese": "他必须告诉我事实",
 		"english": "he has to tell me the truth",
-		"soundmark": "/hi/ /hæz/ /tə/ /tɛl/ /mi/ /ðə/ /trʊθ/"
+		"soundmark": "/hi/ /hæz/ /tə/ /tɛl/ /mi/ /ðə/ /trʊθ/",
+		"vietnamese": "Anh ấyphảinói sự thật với tôi"
 	},
 	{
-		"chinese": "解释",
 		"english": "to explain",
-		"soundmark": "/tə/ /ɪk'splen/"
+		"soundmark": "/tə/ /ɪk'splen/",
+		"vietnamese": "[VI:解释]"
 	},
 	{
-		"chinese": "原因",
 		"english": "the reason",
-		"soundmark": "/ðə/ /ˈrizən/"
+		"soundmark": "/ðə/ /ˈrizən/",
+		"vietnamese": "[VI:原因]"
 	},
 	{
-		"chinese": "解释原因",
 		"english": "to explain the reason",
-		"soundmark": "/tə/ /ɪk'splen/ /ðə/ /ˈrizən/"
+		"soundmark": "/tə/ /ɪk'splen/ /ðə/ /ˈrizən/",
+		"vietnamese": "[VI:解释原因]"
 	},
 	{
-		"chinese": "他必须解释",
 		"english": "he has to explain",
-		"soundmark": "/hi/ /hæz/ /tə/ /ɪk'splen/"
+		"soundmark": "/hi/ /hæz/ /tə/ /ɪk'splen/",
+		"vietnamese": "Anh ấyphải解释"
 	},
 	{
-		"chinese": "他必须解释原因",
 		"english": "he has to explain the reason",
-		"soundmark": "/hi/ /hæz/ /tə/ /ɪk'splen/ /ðə/ /ˈrizən/"
+		"soundmark": "/hi/ /hæz/ /tə/ /ɪk'splen/ /ðə/ /ˈrizən/",
+		"vietnamese": "Anh ấyphải解释原因"
 	},
 	{
-		"chinese": "她必须解释",
 		"english": "she has to explain",
-		"soundmark": "/ʃi/ /hæz/ /tə/ /ɪk'splen/"
+		"soundmark": "/ʃi/ /hæz/ /tə/ /ɪk'splen/",
+		"vietnamese": "Cô ấyphải解释"
 	},
 	{
-		"chinese": "她必须解释原因",
 		"english": "she has to explain the reason",
-		"soundmark": "/ʃi/ /hæz/ /tə/ /ɪk'splen/ /ðə/ /ˈrizən/"
+		"soundmark": "/ʃi/ /hæz/ /tə/ /ɪk'splen/ /ðə/ /ˈrizən/",
+		"vietnamese": "Cô ấyphải解释原因"
 	},
 	{
-		"chinese": "阅读",
 		"english": "to read",
-		"soundmark": "/tə/ /rid/"
+		"soundmark": "/tə/ /rid/",
+		"vietnamese": "[VI:阅读]"
 	},
 	{
-		"chinese": "在家里",
 		"english": "at home",
-		"soundmark": "/ət/ /hom/"
+		"soundmark": "/ət/ /hom/",
+		"vietnamese": "[VI:在家里]"
 	},
 	{
-		"chinese": "在家里阅读",
 		"english": "to read at home",
-		"soundmark": "/tə/ /rid/ /ət/ /hom/"
+		"soundmark": "/tə/ /rid/ /ət/ /hom/",
+		"vietnamese": "[VI:在家里阅读]"
 	},
 	{
-		"chinese": "她喜欢在家里阅读",
 		"english": "she likes to read at home",
-		"soundmark": "/ʃi/ /laɪks/ /tə/ /rid/ /ət/ /hom/"
+		"soundmark": "/ʃi/ /laɪks/ /tə/ /rid/ /ət/ /hom/",
+		"vietnamese": "Cô ấythích在家里阅读"
 	},
 	{
-		"chinese": "为什么",
 		"english": "why",
-		"soundmark": "/waɪ/"
+		"soundmark": "/waɪ/",
+		"vietnamese": "[VI:为什么]"
 	},
 	{
-		"chinese": "她必须解释原因为什么她喜欢在家里阅读",
 		"english": "she has to explain the reason why she likes to read at home",
-		"soundmark": "/ʃi/ /hæz/ /tə/ /ɪk'splen/ /ðə/ /ˈrizən/ /waɪ/ /ʃi/ /laɪks/ /tə/ /rid/ /ət/ /hom/"
+		"soundmark": "/ʃi/ /hæz/ /tə/ /ɪk'splen/ /ðə/ /ˈrizən/ /waɪ/ /ʃi/ /laɪks/ /tə/ /rid/ /ət/ /hom/",
+		"vietnamese": "Cô ấyphải解释原bởi vì什么她thích在家里阅读"
 	},
 	{
-		"chinese": "她必须在家里阅读",
 		"english": "she has to read at home",
-		"soundmark": "/ʃi/ /hæz/ /tə/ /rid/ /ət/ /hom/"
+		"soundmark": "/ʃi/ /hæz/ /tə/ /rid/ /ət/ /hom/",
+		"vietnamese": "Cô ấyphải在家里阅读"
 	},
 	{
-		"chinese": "睡觉",
 		"english": "to sleep",
-		"soundmark": "/tə/ /slip/"
+		"soundmark": "/tə/ /slip/",
+		"vietnamese": "[VI:睡觉]"
 	},
 	{
-		"chinese": "它必须睡觉",
 		"english": "it has to sleep",
-		"soundmark": "/ɪt/ /hæz/ /tə/ /slip/"
+		"soundmark": "/ɪt/ /hæz/ /tə/ /slip/",
+		"vietnamese": "Nóphải睡觉"
 	},
 	{
-		"chinese": "现在",
 		"english": "now",
-		"soundmark": "/naʊ/"
+		"soundmark": "/naʊ/",
+		"vietnamese": "bây giờ"
 	},
 	{
-		"chinese": "它现在必须睡觉",
 		"english": "it has to sleep now",
-		"soundmark": "/ɪt/ /hæz/ /tə/ /slip/ /naʊ/"
+		"soundmark": "/ɪt/ /hæz/ /tə/ /slip/ /naʊ/",
+		"vietnamese": "Nóbây giờphải睡觉"
 	},
 	{
-		"chinese": "星荣现在必须睡觉",
 		"english": "Xingrong has to sleep now",
-		"soundmark": "/hæz/ /tə/ /slip/ /naʊ/"
+		"soundmark": "/hæz/ /tə/ /slip/ /naʊ/",
+		"vietnamese": "Xingrongbây giờphải睡觉"
 	},
 	{
-		"chinese": "劳累的",
 		"english": "tired",
-		"soundmark": "/taɪrd/"
+		"soundmark": "/taɪrd/",
+		"vietnamese": "[VI:劳累的]"
 	},
 	{
-		"chinese": "他是",
 		"english": "he is",
-		"soundmark": "/hi/ /ɪz/"
+		"soundmark": "/hi/ /ɪz/",
+		"vietnamese": "Anh ấy là"
 	},
 	{
-		"chinese": "他是劳累的",
 		"english": "he is tired",
-		"soundmark": "/hi/ /ɪz/ /taɪrd/"
+		"soundmark": "/hi/ /ɪz/ /taɪrd/",
+		"vietnamese": "Anh ấy là劳累的"
 	},
 	{
-		"chinese": "非常",
 		"english": "very",
-		"soundmark": "/ˈvɛri/"
+		"soundmark": "/ˈvɛri/",
+		"vietnamese": "rất"
 	},
 	{
-		"chinese": "他是非常劳累的",
 		"english": "he is very tired",
-		"soundmark": "/hi/ /ɪz/ /ˈvɛri/ /taɪrd/"
+		"soundmark": "/hi/ /ɪz/ /ˈvɛri/ /taɪrd/",
+		"vietnamese": "Anh ấy làrất劳累的"
 	},
 	{
-		"chinese": "因为",
 		"english": "because",
-		"soundmark": "/bɪ'kɔz/"
+		"soundmark": "/bɪ'kɔz/",
+		"vietnamese": "bởi vì"
 	},
 	{
-		"chinese": "因为他是非常劳累的",
 		"english": "because he is very tired",
-		"soundmark": "/bɪ'kɔz/ /hi/ /ɪz/ /ˈvɛri/ /taɪrd/"
+		"soundmark": "/bɪ'kɔz/ /hi/ /ɪz/ /ˈvɛri/ /taɪrd/",
+		"vietnamese": "bởi vìAnh ấy làrất劳累的"
 	},
 	{
-		"chinese": "星荣现在必须睡觉因为他是非常劳累的",
 		"english": "Xingrong has to sleep now because he is very tired",
-		"soundmark": "/hæz/ /tə/ /slip/ /naʊ/ /bɪ'kɔz/ /hi/ /ɪz/ /ˈvɛri/ /taɪrd/"
+		"soundmark": "/hæz/ /tə/ /slip/ /naʊ/ /bɪ'kɔz/ /hi/ /ɪz/ /ˈvɛri/ /taɪrd/",
+		"vietnamese": "Xingrongbây giờphải睡觉bởi vìAnh ấy làrất劳累的"
 	},
 	{
-		"chinese": "事实",
 		"english": "the truth",
-		"soundmark": "/ðə/ /trʊθ/"
+		"soundmark": "/ðə/ /trʊθ/",
+		"vietnamese": "sự thật"
 	},
 	{
-		"chinese": "告诉我事实",
 		"english": "to tell me the truth",
-		"soundmark": "/tə/ /tɛl/ /mi/ /ðə/ /trʊθ/"
+		"soundmark": "/tə/ /tɛl/ /mi/ /ðə/ /trʊθ/",
+		"vietnamese": "nói sự thật với tôi"
 	},
 	{
-		"chinese": "他必须告诉我事实",
 		"english": "He has to tell me the truth",
-		"soundmark": "/hi/ /hæz/ /tə/ /tɛl/ /mi/ /ðə/ /trʊθ/"
+		"soundmark": "/hi/ /hæz/ /tə/ /tɛl/ /mi/ /ðə/ /trʊθ/",
+		"vietnamese": "Anh ấyphảinói sự thật với tôi"
 	},
 	{
-		"chinese": "知道",
 		"english": "to know",
-		"soundmark": "/tə/ /no/"
+		"soundmark": "/tə/ /no/",
+		"vietnamese": "biết"
 	},
 	{
-		"chinese": "知道这件事",
 		"english": "to know it",
-		"soundmark": "/tə/ /no/ /ɪt/"
+		"soundmark": "/tə/ /no/ /ɪt/",
+		"vietnamese": "biết这件事"
 	},
 	{
-		"chinese": "我需要",
 		"english": "I need",
-		"soundmark": "/aɪ/ /nid/"
+		"soundmark": "/aɪ/ /nid/",
+		"vietnamese": "Tôi cần"
 	},
 	{
-		"chinese": "我需要知道这件事",
 		"english": "I need to know it",
-		"soundmark": "/aɪ/ /nid/ /tə/ /no/ /ɪt/"
+		"soundmark": "/aɪ/ /nid/ /tə/ /no/ /ɪt/",
+		"vietnamese": "Tôicần biết这件事"
 	},
 	{
-		"chinese": "因为",
 		"english": "because",
-		"soundmark": "/bɪ'kɔz/"
+		"soundmark": "/bɪ'kɔz/",
+		"vietnamese": "bởi vì"
 	},
 	{
-		"chinese": "他必须告诉我事实因为我需要知道它",
 		"english": "He has to tell me the truth because I need to know it",
-		"soundmark": "/hi/ /hæz/ /tə/ /tɛl/ /mi/ /ðə/ /trʊθ/ /bɪ'kɔz/ /aɪ/ /nid/ /tə/ /no/ /ɪt/"
+		"soundmark": "/hi/ /hæz/ /tə/ /tɛl/ /mi/ /ðə/ /trʊθ/ /bɪ'kɔz/ /aɪ/ /nid/ /tə/ /no/ /ɪt/",
+		"vietnamese": "Anh ấyphảinói sự thật với tôibởi vìTôicần biếtNó"
 	},
 	{
-		"chinese": "解释原因",
 		"english": "to explain the reason",
-		"soundmark": "/tə/ /ɪk'splen/ /ðə/ /ˈrizən/"
+		"soundmark": "/tə/ /ɪk'splen/ /ðə/ /ˈrizən/",
+		"vietnamese": "[VI:解释原因]"
 	},
 	{
-		"chinese": "她必须解释原因",
 		"english": "she has to explain the reason",
-		"soundmark": "/ʃi/ /hæz/ /tə/ /ɪk'splen/ /ðə/ /ˈrizən/"
+		"soundmark": "/ʃi/ /hæz/ /tə/ /ɪk'splen/ /ðə/ /ˈrizən/",
+		"vietnamese": "Cô ấyphải解释原因"
 	},
 	{
-		"chinese": "在家里阅读",
 		"english": "to read at home",
-		"soundmark": "/tə/ /rid/ /ət/ /hom/"
+		"soundmark": "/tə/ /rid/ /ət/ /hom/",
+		"vietnamese": "[VI:在家里阅读]"
 	},
 	{
-		"chinese": "她喜欢",
 		"english": "she likes",
-		"soundmark": "/ʃi/ /laɪks/"
+		"soundmark": "/ʃi/ /laɪks/",
+		"vietnamese": "Cô ấythích"
 	},
 	{
-		"chinese": "她喜欢在家里阅读",
 		"english": "she likes to read at home",
-		"soundmark": "/ʃi/ /laɪks/ /tə/ /rid/ /ət/ /hom/"
+		"soundmark": "/ʃi/ /laɪks/ /tə/ /rid/ /ət/ /hom/",
+		"vietnamese": "Cô ấythích在家里阅读"
 	},
 	{
-		"chinese": "为什么",
 		"english": "why",
-		"soundmark": "/waɪ/"
+		"soundmark": "/waɪ/",
+		"vietnamese": "[VI:为什么]"
 	},
 	{
-		"chinese": "她必须解释原因为什么她喜欢在家里阅读",
 		"english": "she has to explain the reason why she likes to read at home",
-		"soundmark": "/ʃi/ /hæz/ /tə/ /ɪk'splen/ /ðə/ /ˈrizən/ /waɪ/ /ʃi/ /laɪks/ /tə/ /rid/ /ət/ /hom/"
+		"soundmark": "/ʃi/ /hæz/ /tə/ /ɪk'splen/ /ðə/ /ˈrizən/ /waɪ/ /ʃi/ /laɪks/ /tə/ /rid/ /ət/ /hom/",
+		"vietnamese": "Cô ấyphải解释原bởi vì什么她thích在家里阅读"
 	},
 	{
-		"chinese": "重要的",
 		"english": "important",
-		"soundmark": "/ɪm'pɔrtnt/"
+		"soundmark": "/ɪm'pɔrtnt/",
+		"vietnamese": "quan trọng"
 	},
 	{
-		"chinese": "非常",
 		"english": "very",
-		"soundmark": "/ˈvɛri/"
+		"soundmark": "/ˈvɛri/",
+		"vietnamese": "rất"
 	},
 	{
-		"chinese": "它是非常重要的",
 		"english": "it is very important",
-		"soundmark": "/ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/"
+		"soundmark": "/ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/",
+		"vietnamese": "Nó rất quan trọng"
 	},
 	{
-		"chinese": "因为",
 		"english": "because",
-		"soundmark": "/bɪ'kɔz/"
+		"soundmark": "/bɪ'kɔz/",
+		"vietnamese": "bởi vì"
 	},
 	{
-		"chinese": "她必须解释原因为什么她喜欢在家里阅读因为它是非常重要的",
 		"english": "she has to explain the reason why she likes to read at home because it is very important",
-		"soundmark": "/ʃi/ /hæz/ /tə/ /ɪk'splen/ /ðə/ /ˈrizən/ /waɪ/ /ʃi/ /laɪks/ /tə/ /rid/ /ət/ /hom/ /bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/"
+		"soundmark": "/ʃi/ /hæz/ /tə/ /ɪk'splen/ /ðə/ /ˈrizən/ /waɪ/ /ʃi/ /laɪks/ /tə/ /rid/ /ət/ /hom/ /bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/",
+		"vietnamese": "Cô ấyphải解释原bởi vì什么她thích在家里阅读因为Nó rất quan trọng"
 	},
 	{
-		"chinese": "她想要",
 		"english": "she wants",
-		"soundmark": "/ʃi/ /wɑnts/"
+		"soundmark": "/ʃi/ /wɑnts/",
+		"vietnamese": "Cô ấymuốn"
 	},
 	{
-		"chinese": "见到",
 		"english": "to see",
-		"soundmark": "/tə/ /si/"
+		"soundmark": "/tə/ /si/",
+		"vietnamese": "gặp"
 	},
 	{
-		"chinese": "她想要见到我",
 		"english": "she wants to see me",
-		"soundmark": "/ʃi/ /wɑnts/ /tə/ /si/ /mi/"
+		"soundmark": "/ʃi/ /wɑnts/ /tə/ /si/ /mi/",
+		"vietnamese": "Cô ấymuốngặp tôi"
 	},
 	{
-		"chinese": "在这里",
 		"english": "to be here",
-		"soundmark": "/tə/ /bi/ /hɪr/"
+		"soundmark": "/tə/ /bi/ /hɪr/",
+		"vietnamese": "ở đây"
 	},
 	{
-		"chinese": "我必须在这里",
 		"english": "I have to be here",
-		"soundmark": "/aɪ/ /hæv/ /tə/ /bi/ /hɪr/"
+		"soundmark": "/aɪ/ /hæv/ /tə/ /bi/ /hɪr/",
+		"vietnamese": "Tôi phải ở đây"
 	},
 	{
-		"chinese": "我今天必须在这里",
 		"english": "I have to be here today",
-		"soundmark": "/aɪ/ /hæv/ /tə/ /bi/ /hɪr/ /tə'de/"
+		"soundmark": "/aɪ/ /hæv/ /tə/ /bi/ /hɪr/ /tə'de/",
+		"vietnamese": "Tôi phải ở đây hôm nay"
 	},
 	{
-		"chinese": "所以",
 		"english": "so",
-		"soundmark": "/so/"
+		"soundmark": "/so/",
+		"vietnamese": "vì vậy"
 	},
 	{
-		"chinese": "她想要见到我所以我今天必须在这里",
 		"english": "she wants to see me so I have to be here today",
-		"soundmark": "/ʃi/ /wɑnts/ /tə/ /si/ /mi/ /so/ /aɪ/ /hæv/ /tə/ /bi/ /hɪr/ /tə'de/"
+		"soundmark": "/ʃi/ /wɑnts/ /tə/ /si/ /mi/ /so/ /aɪ/ /hæv/ /tə/ /bi/ /hɪr/ /tə'de/",
+		"vietnamese": "Cô ấymuốngặp tôivì vậyTôi phải ở đây hôm nay"
 	},
 	{
-		"chinese": "我需要做这件事情",
 		"english": "I need to do it",
-		"soundmark": "/aɪ/ /nid/ /tə/ /du/ /ɪt/"
+		"soundmark": "/aɪ/ /nid/ /tə/ /du/ /ɪt/",
+		"vietnamese": "Tôi cần làm điều này"
 	},
 	{
-		"chinese": "你需要做这件事",
 		"english": "you need to do it",
-		"soundmark": "/ju/ /nid/ /tə/ /du/ /ɪt/"
+		"soundmark": "/ju/ /nid/ /tə/ /du/ /ɪt/",
+		"vietnamese": "Bạn cần làm điều này"
 	},
 	{
-		"chinese": "他需要做这件事",
 		"english": "he needs to do it",
-		"soundmark": "/hi/ /nidz/ /tə/ /du/ /ɪt/"
+		"soundmark": "/hi/ /nidz/ /tə/ /du/ /ɪt/",
+		"vietnamese": "Anh ấycầnlàm điều này"
 	},
 	{
-		"chinese": "她喜欢做这件事",
 		"english": "she likes to do it",
-		"soundmark": "/ʃi/ /laɪks/ /tə/ /du/ /ɪt/"
+		"soundmark": "/ʃi/ /laɪks/ /tə/ /du/ /ɪt/",
+		"vietnamese": "Cô ấythíchlàm điều này"
 	},
 	{
-		"chinese": "它想要做这件事",
 		"english": "it wants to do it",
-		"soundmark": "/ɪt/ /wɑnts/ /tə/ /du/ /ɪt/"
+		"soundmark": "/ɪt/ /wɑnts/ /tə/ /du/ /ɪt/",
+		"vietnamese": "Nómuốnlàm điều này"
 	},
 	{
-		"chinese": "星荣必须做这件事",
 		"english": "Xingrong has to do it",
-		"soundmark": "/hæz/ /tə/ /du/ /ɪt/"
+		"soundmark": "/hæz/ /tə/ /du/ /ɪt/",
+		"vietnamese": "Xingrongphảilàm điều này"
 	},
 	{
-		"chinese": "因为",
 		"english": "because",
-		"soundmark": "/bɪ'kɔz/"
+		"soundmark": "/bɪ'kɔz/",
+		"vietnamese": "bởi vì"
 	},
 	{
-		"chinese": "所以",
 		"english": "so",
-		"soundmark": "/so/"
+		"soundmark": "/so/",
+		"vietnamese": "vì vậy"
 	},
 	{
-		"chinese": "为什么",
 		"english": "why",
-		"soundmark": "/waɪ/"
+		"soundmark": "/waɪ/",
+		"vietnamese": "[VI:为什么]"
 	},
 	{
-		"chinese": "解释原因",
 		"english": "to explain the reason",
-		"soundmark": "/tə/ /ɪk'splen/ /ðə/ /ˈrizən/"
+		"soundmark": "/tə/ /ɪk'splen/ /ðə/ /ˈrizən/",
+		"vietnamese": "[VI:解释原因]"
 	},
 	{
-		"chinese": "问我一个问题",
 		"english": "to ask me a question",
-		"soundmark": "/tə/ /æsk/ /mi/ /ə/ /'kwɛstʃən/"
+		"soundmark": "/tə/ /æsk/ /mi/ /ə/ /'kwɛstʃən/",
+		"vietnamese": "问Tôi一个问题"
 	},
 	{
-		"chinese": "在天空中飞翔",
 		"english": "to fly in the sky",
-		"soundmark": "/tə/ /flaɪ/ /ɪn/ /ðə/ /skaɪ/"
+		"soundmark": "/tə/ /flaɪ/ /ɪn/ /ðə/ /skaɪ/",
+		"vietnamese": "[VI:在天空中飞翔]"
 	},
 	{
-		"chinese": "在家里阅读",
 		"english": "to read at home",
-		"soundmark": "/tə/ /rid/ /ət/ /hom/"
+		"soundmark": "/tə/ /rid/ /ət/ /hom/",
+		"vietnamese": "[VI:在家里阅读]"
 	},
 	{
-		"chinese": "在公园里散步",
 		"english": "to walk in the park",
-		"soundmark": "/tə/ /wɔk/ /ɪn/ /ðə/ /pɑrk/"
+		"soundmark": "/tə/ /wɔk/ /ɪn/ /ðə/ /pɑrk/",
+		"vietnamese": "[VI:在公园里散步]"
 	},
 	{
-		"chinese": "在床上睡觉",
 		"english": "to sleep on the bed",
-		"soundmark": "/tə/ /slip/ /ɑn/ /ðə/ /bɛd/"
+		"soundmark": "/tə/ /slip/ /ɑn/ /ðə/ /bɛd/",
+		"vietnamese": "[VI:在床上睡觉]"
 	},
 	{
-		"chinese": "告诉我事实",
 		"english": "to tell me the truth",
-		"soundmark": "/tə/ /tɛl/ /mi/ /ðə/ /trʊθ/"
+		"soundmark": "/tə/ /tɛl/ /mi/ /ðə/ /trʊθ/",
+		"vietnamese": "nói sự thật với tôi"
 	}
 ]

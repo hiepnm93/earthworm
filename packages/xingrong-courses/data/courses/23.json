@@ -1,647 +1,647 @@
 [
 	{
-		"chinese": "手",
 		"english": "hand",
-		"soundmark": "/hænd/"
+		"soundmark": "/hænd/",
+		"vietnamese": "[VI:手]"
 	},
 	{
-		"chinese": "手（复数）",
 		"english": "hands",
-		"soundmark": "/hændz/"
+		"soundmark": "/hændz/",
+		"vietnamese": "[VI:手（复数）]"
 	},
 	{
-		"chinese": "递给",
 		"english": "to hand",
-		"soundmark": "/tə/ /hænd/"
+		"soundmark": "/tə/ /hænd/",
+		"vietnamese": "[VI:递给]"
 	},
 	{
-		"chinese": "他",
 		"english": "him",
-		"soundmark": "/hɪm/"
+		"soundmark": "/hɪm/",
+		"vietnamese": "Anh ấy"
 	},
 	{
-		"chinese": "递给他",
 		"english": "to hand him",
-		"soundmark": "/tə/ /hænd/ /hɪm/"
+		"soundmark": "/tə/ /hænd/ /hɪm/",
+		"vietnamese": "递给Anh ấy"
 	},
 	{
-		"chinese": "香蕉",
 		"english": "banana",
-		"soundmark": "/bə'nænə/"
+		"soundmark": "/bə'nænə/",
+		"vietnamese": "[VI:香蕉]"
 	},
 	{
-		"chinese": "一个香蕉",
 		"english": "a banana",
-		"soundmark": "/ə/ /bə'nænə/"
+		"soundmark": "/ə/ /bə'nænə/",
+		"vietnamese": "[VI:一个香蕉]"
 	},
 	{
-		"chinese": "递给他一个香蕉",
 		"english": "to hand him a banana",
-		"soundmark": "/tə/ /hænd/ /hɪm/ /ə/ /bə'nænə/"
+		"soundmark": "/tə/ /hænd/ /hɪm/ /ə/ /bə'nænə/",
+		"vietnamese": "递给Anh ấy一个香蕉"
 	},
 	{
-		"chinese": "他",
 		"english": "he",
-		"soundmark": "/hi/"
+		"soundmark": "/hi/",
+		"vietnamese": "Anh ấy"
 	},
 	{
-		"chinese": "想要",
 		"english": "want",
-		"soundmark": "/wɑnt/"
+		"soundmark": "/wɑnt/",
+		"vietnamese": "muốn"
 	},
 	{
-		"chinese": "他想要",
 		"english": "he wants",
-		"soundmark": "/hi/ /wɑnts/"
+		"soundmark": "/hi/ /wɑnts/",
+		"vietnamese": "Anh ấymuốn"
 	},
 	{
-		"chinese": "我",
 		"english": "me",
-		"soundmark": "/mi/"
+		"soundmark": "/mi/",
+		"vietnamese": "Tôi"
 	},
 	{
-		"chinese": "他想要我",
 		"english": "he wants me",
-		"soundmark": "/hi/ /wɑnts/ /mi/"
+		"soundmark": "/hi/ /wɑnts/ /mi/",
+		"vietnamese": "Anh ấymuốnTôi"
 	},
 	{
-		"chinese": "递给他一个香蕉",
 		"english": "to hand him a banana",
-		"soundmark": "/tə/ /hænd/ /hɪm/ /ə/ /bə'nænə/"
+		"soundmark": "/tə/ /hænd/ /hɪm/ /ə/ /bə'nænə/",
+		"vietnamese": "递给Anh ấy一个香蕉"
 	},
 	{
-		"chinese": "他想要我递给他一个香蕉",
 		"english": "he wants me to hand him a banana",
-		"soundmark": "/hi/ /wɑnts/ /mi/ /tə/ /hænd/ /hɪm/ /ə/ /bə'nænə/"
+		"soundmark": "/hi/ /wɑnts/ /mi/ /tə/ /hænd/ /hɪm/ /ə/ /bə'nænə/",
+		"vietnamese": "Anh ấymuốnTôi递给他一个香蕉"
 	},
 	{
-		"chinese": "手机",
 		"english": "phone",
-		"soundmark": "/fon/"
+		"soundmark": "/fon/",
+		"vietnamese": "[VI:手机]"
 	},
 	{
-		"chinese": "他的",
 		"english": "his",
-		"soundmark": "/hɪz/"
+		"soundmark": "/hɪz/",
+		"vietnamese": "Anh ấy的"
 	},
 	{
-		"chinese": "他的手机",
 		"english": "his phone",
-		"soundmark": "/hɪz/ /fon/"
+		"soundmark": "/hɪz/ /fon/",
+		"vietnamese": "Anh ấy的手机"
 	},
 	{
-		"chinese": "递给他",
 		"english": "to hand him",
-		"soundmark": "/tə/ /hænd/ /hɪm/"
+		"soundmark": "/tə/ /hænd/ /hɪm/",
+		"vietnamese": "递给Anh ấy"
 	},
 	{
-		"chinese": "递给他他的手机",
 		"english": "to hand him his phone",
-		"soundmark": "/tə/ /hænd/ /hɪm/ /hɪz/ /fon/"
+		"soundmark": "/tə/ /hænd/ /hɪm/ /hɪz/ /fon/",
+		"vietnamese": "递给Anh ấy他的手机"
 	},
 	{
-		"chinese": "他想要我",
 		"english": "he wants me",
-		"soundmark": "/hi/ /wɑnts/ /mi/"
+		"soundmark": "/hi/ /wɑnts/ /mi/",
+		"vietnamese": "Anh ấymuốnTôi"
 	},
 	{
-		"chinese": "他想要我递给他他的手机",
 		"english": "he wants me to hand him his phone",
-		"soundmark": "/hi/ /wɑnts/ /mi/ /tə/ /hænd/ /hɪm/ /hɪz/ /fon/"
+		"soundmark": "/hi/ /wɑnts/ /mi/ /tə/ /hænd/ /hɪm/ /hɪz/ /fon/",
+		"vietnamese": "Anh ấymuốnTôi递给他他的手机"
 	},
 	{
-		"chinese": "我",
 		"english": "me",
-		"soundmark": "/mi/"
+		"soundmark": "/mi/",
+		"vietnamese": "Tôi"
 	},
 	{
-		"chinese": "递给我",
 		"english": "to hand me",
-		"soundmark": "/tə/ /hænd/ /mi/"
+		"soundmark": "/tə/ /hænd/ /mi/",
+		"vietnamese": "递给Tôi"
 	},
 	{
-		"chinese": "包",
 		"english": "bag",
-		"soundmark": "/bæɡ/"
+		"soundmark": "/bæɡ/",
+		"vietnamese": "[VI:包]"
 	},
 	{
-		"chinese": "你的",
 		"english": "your",
-		"soundmark": "/jʊr/"
+		"soundmark": "/jʊr/",
+		"vietnamese": "Bạn的"
 	},
 	{
-		"chinese": "你的包",
 		"english": "your bag",
-		"soundmark": "/jʊr/ /bæɡ/"
+		"soundmark": "/jʊr/ /bæɡ/",
+		"vietnamese": "Bạn的包"
 	},
 	{
-		"chinese": "递给我你的包",
 		"english": "to hand me your bag",
-		"soundmark": "/tə/ /hænd/ /mi/ /jʊr/ /bæɡ/"
+		"soundmark": "/tə/ /hænd/ /mi/ /jʊr/ /bæɡ/",
+		"vietnamese": "递给TôiBạn的包"
 	},
 	{
-		"chinese": "想要",
 		"english": "want",
-		"soundmark": "/wɑnt/"
+		"soundmark": "/wɑnt/",
+		"vietnamese": "muốn"
 	},
 	{
-		"chinese": "我想要你",
 		"english": "I want you",
-		"soundmark": "/aɪ/ /wɑnt/ /ju/"
+		"soundmark": "/aɪ/ /wɑnt/ /ju/",
+		"vietnamese": "Tôi muốnBạn"
 	},
 	{
-		"chinese": "我想要你递给我你的包",
 		"english": "I want you to hand me your bag",
-		"soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /hænd/ /mi/ /jʊr/ /bæɡ/"
+		"soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /hænd/ /mi/ /jʊr/ /bæɡ/",
+		"vietnamese": "Tôi muốnBạn递给Tôi你的包"
 	},
 	{
-		"chinese": "学校",
 		"english": "school",
-		"soundmark": "/skul/"
+		"soundmark": "/skul/",
+		"vietnamese": "[VI:学校]"
 	},
 	{
-		"chinese": "包",
 		"english": "bag",
-		"soundmark": "/bæɡ/"
+		"soundmark": "/bæɡ/",
+		"vietnamese": "[VI:包]"
 	},
 	{
-		"chinese": "书包",
 		"english": "school bag",
-		"soundmark": "/skul/ /bæɡ/"
+		"soundmark": "/skul/ /bæɡ/",
+		"vietnamese": "[VI:书包]"
 	},
 	{
-		"chinese": "你的",
 		"english": "your",
-		"soundmark": "/jʊr/"
+		"soundmark": "/jʊr/",
+		"vietnamese": "Bạn的"
 	},
 	{
-		"chinese": "你的书包",
 		"english": "your school bag",
-		"soundmark": "/jʊr/ /skul/ /bæɡ/"
+		"soundmark": "/jʊr/ /skul/ /bæɡ/",
+		"vietnamese": "Bạn的书包"
 	},
 	{
-		"chinese": "递给我",
 		"english": "to hand me",
-		"soundmark": "/tə/ /hænd/ /mi/"
+		"soundmark": "/tə/ /hænd/ /mi/",
+		"vietnamese": "递给Tôi"
 	},
 	{
-		"chinese": "递给我你的书包",
 		"english": "to hand me your school bag",
-		"soundmark": "/tə/ /hænd/ /mi/ /jʊr/ /skul/ /bæɡ/"
+		"soundmark": "/tə/ /hænd/ /mi/ /jʊr/ /skul/ /bæɡ/",
+		"vietnamese": "递给TôiBạn的书包"
 	},
 	{
-		"chinese": "我想要你",
 		"english": "I want you",
-		"soundmark": "/aɪ/ /wɑnt/ /ju/"
+		"soundmark": "/aɪ/ /wɑnt/ /ju/",
+		"vietnamese": "Tôi muốnBạn"
 	},
 	{
-		"chinese": "我想要你递给我你的书包",
 		"english": "I want you to hand me your school bag",
-		"soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /hænd/ /mi/ /jʊr/ /skul/ /bæɡ/"
+		"soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /hænd/ /mi/ /jʊr/ /skul/ /bæɡ/",
+		"vietnamese": "Tôi muốnBạn递给Tôi你的书包"
 	},
 	{
-		"chinese": "我的",
 		"english": "my",
-		"soundmark": "/maɪ/"
+		"soundmark": "/maɪ/",
+		"vietnamese": "Tôi的"
 	},
 	{
-		"chinese": "我的书包",
 		"english": "my school bag",
-		"soundmark": "/maɪ/ /skul/ /bæɡ/"
+		"soundmark": "/maɪ/ /skul/ /bæɡ/",
+		"vietnamese": "Tôi的书包"
 	},
 	{
-		"chinese": "递给我我的书包",
 		"english": "to hand me my school bag",
-		"soundmark": "/tə/ /hænd/ /mi/ /maɪ/ /skul/ /bæɡ/"
+		"soundmark": "/tə/ /hænd/ /mi/ /maɪ/ /skul/ /bæɡ/",
+		"vietnamese": "递给Tôi我的书包"
 	},
 	{
-		"chinese": "我想要你",
 		"english": "I want you",
-		"soundmark": "/aɪ/ /wɑnt/ /ju/"
+		"soundmark": "/aɪ/ /wɑnt/ /ju/",
+		"vietnamese": "Tôi muốnBạn"
 	},
 	{
-		"chinese": "我想要你递给我我的书包",
 		"english": "I want you to hand me my school bag",
-		"soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /hænd/ /mi/ /maɪ/ /skul/ /bæɡ/"
+		"soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /hænd/ /mi/ /maɪ/ /skul/ /bæɡ/",
+		"vietnamese": "Tôi muốnBạn递给Tôi我的书包"
 	},
 	{
-		"chinese": "手机",
 		"english": "phone",
-		"soundmark": "/fon/"
+		"soundmark": "/fon/",
+		"vietnamese": "[VI:手机]"
 	},
 	{
-		"chinese": "我的",
 		"english": "my",
-		"soundmark": "/maɪ/"
+		"soundmark": "/maɪ/",
+		"vietnamese": "Tôi的"
 	},
 	{
-		"chinese": "我的手机",
 		"english": "my phone",
-		"soundmark": "/maɪ/ /fon/"
+		"soundmark": "/maɪ/ /fon/",
+		"vietnamese": "Tôi的手机"
 	},
 	{
-		"chinese": "递给我",
 		"english": "to hand me",
-		"soundmark": "/tə/ /hænd/ /mi/"
+		"soundmark": "/tə/ /hænd/ /mi/",
+		"vietnamese": "递给Tôi"
 	},
 	{
-		"chinese": "递给我我的手机",
 		"english": "to hand me my phone",
-		"soundmark": "/tə/ /hænd/ /mi/ /maɪ/ /fon/"
+		"soundmark": "/tə/ /hænd/ /mi/ /maɪ/ /fon/",
+		"vietnamese": "递给Tôi我的手机"
 	},
 	{
-		"chinese": "我想要你",
 		"english": "I want you",
-		"soundmark": "/aɪ/ /wɑnt/ /ju/"
+		"soundmark": "/aɪ/ /wɑnt/ /ju/",
+		"vietnamese": "Tôi muốnBạn"
 	},
 	{
-		"chinese": "我想要你递给我我的手机",
 		"english": "I want you to hand me my phone",
-		"soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /hænd/ /mi/ /maɪ/ /fon/"
+		"soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /hænd/ /mi/ /maɪ/ /fon/",
+		"vietnamese": "Tôi muốnBạn递给Tôi我的手机"
 	},
 	{
-		"chinese": "需要",
 		"english": "need",
-		"soundmark": "/nid/"
+		"soundmark": "/nid/",
+		"vietnamese": "cần"
 	},
 	{
-		"chinese": "你需要",
 		"english": "you need",
-		"soundmark": "/ju/ /nid/"
+		"soundmark": "/ju/ /nid/",
+		"vietnamese": "Bạncần"
 	},
 	{
-		"chinese": "递给我我的手机",
 		"english": "to hand me my phone",
-		"soundmark": "/tə/ /hænd/ /mi/ /maɪ/ /fon/"
+		"soundmark": "/tə/ /hænd/ /mi/ /maɪ/ /fon/",
+		"vietnamese": "递给Tôi我的手机"
 	},
 	{
-		"chinese": "你需要递给我我的手机",
 		"english": "you need to hand me my phone",
-		"soundmark": "/ju/ /nid/ /tə/ /hænd/ /mi/ /maɪ/ /fon/"
+		"soundmark": "/ju/ /nid/ /tə/ /hænd/ /mi/ /maɪ/ /fon/",
+		"vietnamese": "Bạncần递给Tôi我的手机"
 	},
 	{
-		"chinese": "你递给我我的手机",
 		"english": "you hand me my phone",
-		"soundmark": "/ju/ /hænd/ /mi/ /maɪ/ /fon/"
+		"soundmark": "/ju/ /hænd/ /mi/ /maɪ/ /fon/",
+		"vietnamese": "Bạn递给Tôi我的手机"
 	},
 	{
-		"chinese": "递给我我的手机",
 		"english": "hand me my phone",
-		"soundmark": "/hænd/ /mi/ /maɪ/ /fon/"
+		"soundmark": "/hænd/ /mi/ /maɪ/ /fon/",
+		"vietnamese": "递给Tôi我的手机"
 	},
 	{
-		"chinese": "一个香蕉",
 		"english": "a banana",
-		"soundmark": "/ə/ /bə'nænə/"
+		"soundmark": "/ə/ /bə'nænə/",
+		"vietnamese": "[VI:一个香蕉]"
 	},
 	{
-		"chinese": "递给我一个香蕉",
 		"english": "hand me a banana",
-		"soundmark": "/hænd/ /mi/ /ə/ /bə'nænə/"
+		"soundmark": "/hænd/ /mi/ /ə/ /bə'nænə/",
+		"vietnamese": "递给Tôi一个香蕉"
 	},
 	{
-		"chinese": "我的包",
 		"english": "my bag",
-		"soundmark": "/maɪ/ /bæɡ/"
+		"soundmark": "/maɪ/ /bæɡ/",
+		"vietnamese": "Tôi的包"
 	},
 	{
-		"chinese": "递给我我的包",
 		"english": "hand me my bag",
-		"soundmark": "/hænd/ /mi/ /maɪ/ /bæɡ/"
+		"soundmark": "/hænd/ /mi/ /maɪ/ /bæɡ/",
+		"vietnamese": "递给Tôi我的包"
 	},
 	{
-		"chinese": "请求麻烦一下",
 		"english": "please",
-		"soundmark": "/pliz/"
+		"soundmark": "/pliz/",
+		"vietnamese": "[VI:请求麻烦一下]"
 	},
 	{
-		"chinese": "麻烦一下递给我我的包",
 		"english": "please hand me my bag",
-		"soundmark": "/pliz/ /hænd/ /mi/ /maɪ/ /bæɡ/"
+		"soundmark": "/pliz/ /hænd/ /mi/ /maɪ/ /bæɡ/",
+		"vietnamese": "麻烦一下递给Tôi我的包"
 	},
 	{
-		"chinese": "麻烦一下递给我一个香蕉",
 		"english": "please hand me a banana",
-		"soundmark": "/pliz/ /hænd/ /mi/ /ə/ /bə'nænə/"
+		"soundmark": "/pliz/ /hænd/ /mi/ /ə/ /bə'nænə/",
+		"vietnamese": "麻烦一下递给Tôi一个香蕉"
 	},
 	{
-		"chinese": "麻烦一下递给我我的手机",
 		"english": "please hand me my phone",
-		"soundmark": "/pliz/ /hænd/ /mi/ /maɪ/ /fon/"
+		"soundmark": "/pliz/ /hænd/ /mi/ /maɪ/ /fon/",
+		"vietnamese": "麻烦一下递给Tôi我的手机"
 	},
 	{
-		"chinese": "可以",
 		"english": "can",
-		"soundmark": "/kən/"
+		"soundmark": "/kən/",
+		"vietnamese": "[VI:可以]"
 	},
 	{
-		"chinese": "你可以",
 		"english": "you can",
-		"soundmark": "/ju/ /kən/"
+		"soundmark": "/ju/ /kən/",
+		"vietnamese": "Bạn可以"
 	},
 	{
-		"chinese": "递给我我的手机",
 		"english": "to hand me my phone",
-		"soundmark": "/tə/ /hænd/ /mi/ /maɪ/ /fon/"
+		"soundmark": "/tə/ /hænd/ /mi/ /maɪ/ /fon/",
+		"vietnamese": "递给Tôi我的手机"
 	},
 	{
-		"chinese": "你可以递给我我的手机",
 		"english": "you can hand me my phone",
-		"soundmark": "/ju/ /kən/ /hænd/ /mi/ /maɪ/ /fon/"
+		"soundmark": "/ju/ /kən/ /hænd/ /mi/ /maɪ/ /fon/",
+		"vietnamese": "Bạn可以递给Tôi我的手机"
 	},
 	{
-		"chinese": "你可以递给我我的手机吗？",
 		"english": "can you hand me my phone",
-		"soundmark": "/kən/ /ju/ /hænd/ /mi/ /maɪ/ /fon/"
+		"soundmark": "/kən/ /ju/ /hænd/ /mi/ /maɪ/ /fon/",
+		"vietnamese": "Bạn可以递给Tôi我的手机吗？"
 	},
 	{
-		"chinese": "你可以......吗？",
 		"english": "can you",
-		"soundmark": "/kən/ /ju/"
+		"soundmark": "/kən/ /ju/",
+		"vietnamese": "Bạn可以......吗？"
 	},
 	{
-		"chinese": "一个香蕉",
 		"english": "a banana",
-		"soundmark": "/ə/ /bə'nænə/"
+		"soundmark": "/ə/ /bə'nænə/",
+		"vietnamese": "[VI:一个香蕉]"
 	},
 	{
-		"chinese": "递给我",
 		"english": "to hand me",
-		"soundmark": "/tə/ /hænd/ /mi/"
+		"soundmark": "/tə/ /hænd/ /mi/",
+		"vietnamese": "递给Tôi"
 	},
 	{
-		"chinese": "递给我一个香蕉",
 		"english": "to hand me a banana",
-		"soundmark": "/tə/ /hænd/ /mi/ /ə/ /bə'nænə/"
+		"soundmark": "/tə/ /hænd/ /mi/ /ə/ /bə'nænə/",
+		"vietnamese": "递给Tôi一个香蕉"
 	},
 	{
-		"chinese": "你可以递给我一个香蕉吗？",
 		"english": "can you hand me a banana",
-		"soundmark": "/kən/ /ju/ /hænd/ /mi/ /ə/ /bə'nænə/"
+		"soundmark": "/kən/ /ju/ /hænd/ /mi/ /ə/ /bə'nænə/",
+		"vietnamese": "Bạn可以递给Tôi一个香蕉吗？"
 	},
 	{
-		"chinese": "请求麻烦一下",
 		"english": "please",
-		"soundmark": "/pliz/"
+		"soundmark": "/pliz/",
+		"vietnamese": "[VI:请求麻烦一下]"
 	},
 	{
-		"chinese": "你可以麻烦一下递给我我的手机吗？",
 		"english": "can you please hand me my phone",
-		"soundmark": "/kən/ /ju/ /pliz/ /hænd/ /mi/ /maɪ/ /fon/"
+		"soundmark": "/kən/ /ju/ /pliz/ /hænd/ /mi/ /maɪ/ /fon/",
+		"vietnamese": "Bạn可以麻烦一下递给Tôi我的手机吗？"
 	},
 	{
-		"chinese": "你可以麻烦一下......吗？",
 		"english": "can you please",
-		"soundmark": "/kən/ /ju/ /pliz/"
+		"soundmark": "/kən/ /ju/ /pliz/",
+		"vietnamese": "Bạn可以麻烦一下......吗？"
 	},
 	{
-		"chinese": "递给我一个香蕉",
 		"english": "to hand me a banana",
-		"soundmark": "/tə/ /hænd/ /mi/ /ə/ /bə'nænə/"
+		"soundmark": "/tə/ /hænd/ /mi/ /ə/ /bə'nænə/",
+		"vietnamese": "递给Tôi一个香蕉"
 	},
 	{
-		"chinese": "你可以麻烦一下递给我一个香蕉吗？",
 		"english": "can you please hand me a banana",
-		"soundmark": "/kən/ /ju/ /pliz/ /hænd/ /mi/ /ə/ /bə'nænə/"
+		"soundmark": "/kən/ /ju/ /pliz/ /hænd/ /mi/ /ə/ /bə'nænə/",
+		"vietnamese": "Bạn可以麻烦一下递给Tôi一个香蕉吗？"
 	},
 	{
-		"chinese": "可以",
 		"english": "can",
-		"soundmark": "/kən/"
+		"soundmark": "/kən/",
+		"vietnamese": "[VI:可以]"
 	},
 	{
-		"chinese": "可以（礼貌版）",
 		"english": "could",
-		"soundmark": "/kʊd/"
+		"soundmark": "/kʊd/",
+		"vietnamese": "[VI:可以（礼貌版）]"
 	},
 	{
-		"chinese": "你可以麻烦一下递给我一个香蕉吗？",
 		"english": "can you please hand me a banana",
-		"soundmark": "/kən/ /ju/ /pliz/ /hænd/ /mi/ /ə/ /bə'nænə/"
+		"soundmark": "/kən/ /ju/ /pliz/ /hænd/ /mi/ /ə/ /bə'nænə/",
+		"vietnamese": "Bạn可以麻烦一下递给Tôi一个香蕉吗？"
 	},
 	{
-		"chinese": "你可以（礼貌版）麻烦一下递给我一个香蕉吗？",
 		"english": "could you please hand me a banana",
-		"soundmark": "/kʊd/ /ju/ /pliz/ /hænd/ /mi/ /ə/ /bə'nænə/"
+		"soundmark": "/kʊd/ /ju/ /pliz/ /hænd/ /mi/ /ə/ /bə'nænə/",
+		"vietnamese": "Bạn可以（礼貌版）麻烦一下递给Tôi一个香蕉吗？"
 	},
 	{
-		"chinese": "你可以（礼貌版）麻烦一下......吗？",
 		"english": "could you please",
-		"soundmark": "/kʊd/ /ju/ /pliz/"
+		"soundmark": "/kʊd/ /ju/ /pliz/",
+		"vietnamese": "Bạn可以（礼貌版）麻烦一下......吗？"
 	},
 	{
-		"chinese": "递给我我的手机",
 		"english": "to hand me my phone",
-		"soundmark": "/tə/ /hænd/ /mi/ /maɪ/ /fon/"
+		"soundmark": "/tə/ /hænd/ /mi/ /maɪ/ /fon/",
+		"vietnamese": "递给Tôi我的手机"
 	},
 	{
-		"chinese": "你可以（礼貌版）麻烦一下递给我我的手机吗？",
 		"english": "could you please hand me my phone",
-		"soundmark": "/kʊd/ /ju/ /pliz/ /hænd/ /mi/ /maɪ/ /fon/"
+		"soundmark": "/kʊd/ /ju/ /pliz/ /hænd/ /mi/ /maɪ/ /fon/",
+		"vietnamese": "Bạn可以（礼貌版）麻烦一下递给Tôi我的手机吗？"
 	},
 	{
-		"chinese": "你可以（礼貌版）麻烦一下......吗？",
 		"english": "could you please",
-		"soundmark": "/kʊd/ /ju/ /pliz/"
+		"soundmark": "/kʊd/ /ju/ /pliz/",
+		"vietnamese": "Bạn可以（礼貌版）麻烦一下......吗？"
 	},
 	{
-		"chinese": "递给我我的书包",
 		"english": "to hand me my school bag",
-		"soundmark": "/tə/ /hænd/ /mi/ /maɪ/ /skul/ /bæɡ/"
+		"soundmark": "/tə/ /hænd/ /mi/ /maɪ/ /skul/ /bæɡ/",
+		"vietnamese": "递给Tôi我的书包"
 	},
 	{
-		"chinese": "你可以（礼貌版）麻烦一下递给我我的书包吗？",
 		"english": "could you please hand me my school bag",
-		"soundmark": "/kʊd/ /ju/ /pliz/ /hænd/ /mi/ /maɪ/ /skul/ /bæɡ/"
+		"soundmark": "/kʊd/ /ju/ /pliz/ /hænd/ /mi/ /maɪ/ /skul/ /bæɡ/",
+		"vietnamese": "Bạn可以（礼貌版）麻烦一下递给Tôi我的书包吗？"
 	},
 	{
-		"chinese": "你可以（礼貌版）麻烦一下......吗？",
 		"english": "could you please",
-		"soundmark": "/kʊd/ /ju/ /pliz/"
+		"soundmark": "/kʊd/ /ju/ /pliz/",
+		"vietnamese": "Bạn可以（礼貌版）麻烦一下......吗？"
 	},
 	{
-		"chinese": "帮助",
 		"english": "to help",
-		"soundmark": "/tə/ /hɛlp/"
+		"soundmark": "/tə/ /hɛlp/",
+		"vietnamese": "giúp đỡ"
 	},
 	{
-		"chinese": "帮助我",
 		"english": "to help me",
-		"soundmark": "/tə/ /hɛlp/ /mi/"
+		"soundmark": "/tə/ /hɛlp/ /mi/",
+		"vietnamese": "giúp đỡ tôi"
 	},
 	{
-		"chinese": "你可以（礼貌版）麻烦一下帮助我吗？",
 		"english": "could you please help me",
-		"soundmark": "/kʊd/ /ju/ /pliz/ /hɛlp/ /mi/"
+		"soundmark": "/kʊd/ /ju/ /pliz/ /hɛlp/ /mi/",
+		"vietnamese": "Bạn可以（礼貌版）麻烦一下giúp đỡ tôi吗？"
 	},
 	{
-		"chinese": "告诉",
 		"english": "to tell",
-		"soundmark": "/tə/ /tɛl/"
+		"soundmark": "/tə/ /tɛl/",
+		"vietnamese": "nói"
 	},
 	{
-		"chinese": "我",
 		"english": "me",
-		"soundmark": "/mi/"
+		"soundmark": "/mi/",
+		"vietnamese": "Tôi"
 	},
 	{
-		"chinese": "告诉我",
 		"english": "to tell me",
-		"soundmark": "/tə/ /tɛl/ /mi/"
+		"soundmark": "/tə/ /tɛl/ /mi/",
+		"vietnamese": "nói với tôi"
 	},
 	{
-		"chinese": "事实；真相",
 		"english": "the truth",
-		"soundmark": "/ðə/ /trʊθ/"
+		"soundmark": "/ðə/ /trʊθ/",
+		"vietnamese": "sự thật；真相"
 	},
 	{
-		"chinese": "告诉我真相",
 		"english": "to tell me the truth",
-		"soundmark": "/tə/ /tɛl/ /mi/ /ðə/ /trʊθ/"
+		"soundmark": "/tə/ /tɛl/ /mi/ /ðə/ /trʊθ/",
+		"vietnamese": "nói với tôi真相"
 	},
 	{
-		"chinese": "请问你可以......吗？",
 		"english": "could you please",
-		"soundmark": "/kʊd/ /ju/ /pliz/"
+		"soundmark": "/kʊd/ /ju/ /pliz/",
+		"vietnamese": "请问Bạn可以......吗？"
 	},
 	{
-		"chinese": "请问你可以告诉我真相吗？",
 		"english": "could you please tell me the truth",
-		"soundmark": "/kʊd/ /ju/ /pliz/ /tɛl/ /mi/ /ðə/ /trʊθ/"
+		"soundmark": "/kʊd/ /ju/ /pliz/ /tɛl/ /mi/ /ðə/ /trʊθ/",
+		"vietnamese": "请问Bạn可以nói với tôi真相吗？"
 	},
 	{
-		"chinese": "离开",
 		"english": "to leave",
-		"soundmark": "/tə/ /liv/"
+		"soundmark": "/tə/ /liv/",
+		"vietnamese": "[VI:离开]"
 	},
 	{
-		"chinese": "我",
 		"english": "me",
-		"soundmark": "/mi/"
+		"soundmark": "/mi/",
+		"vietnamese": "Tôi"
 	},
 	{
-		"chinese": "离开我",
 		"english": "to leave me",
-		"soundmark": "/tə/ /liv/ /mi/"
+		"soundmark": "/tə/ /liv/ /mi/",
+		"vietnamese": "离开Tôi"
 	},
 	{
-		"chinese": "单独；一个人",
 		"english": "alone",
-		"soundmark": "/ə'lon/"
+		"soundmark": "/ə'lon/",
+		"vietnamese": "[VI:单独；一个人]"
 	},
 	{
-		"chinese": "离开我（让我变成）单独一个人",
 		"english": "to leave me alone",
-		"soundmark": "/tə/ /liv/ /mi/ /ə'lon/"
+		"soundmark": "/tə/ /liv/ /mi/ /ə'lon/",
+		"vietnamese": "离开Tôi（让我变成）单独一个人"
 	},
 	{
-		"chinese": "请问你可以......吗？",
 		"english": "could you please",
-		"soundmark": "/kʊd/ /ju/ /pliz/"
+		"soundmark": "/kʊd/ /ju/ /pliz/",
+		"vietnamese": "请问Bạn可以......吗？"
 	},
 	{
-		"chinese": "请问你可以走开别烦我吗？",
 		"english": "could you please leave me alone",
-		"soundmark": "/kʊd/ /ju/ /pliz/ /tə/ /liv/ /mi/ /ə'lon/"
+		"soundmark": "/kʊd/ /ju/ /pliz/ /tə/ /liv/ /mi/ /ə'lon/",
+		"vietnamese": "请问Bạn可以走开别烦Tôi吗？"
 	},
 	{
-		"chinese": "打电话",
 		"english": "to call",
-		"soundmark": "/tə/ /kɔl/"
+		"soundmark": "/tə/ /kɔl/",
+		"vietnamese": "[VI:打电话]"
 	},
 	{
-		"chinese": "我",
 		"english": "me",
-		"soundmark": "/mi/"
+		"soundmark": "/mi/",
+		"vietnamese": "Tôi"
 	},
 	{
-		"chinese": "打电话给我",
 		"english": "to call me",
-		"soundmark": "/tə/ /kɔl/ /mi/"
+		"soundmark": "/tə/ /kɔl/ /mi/",
+		"vietnamese": "打电话给Tôi"
 	},
 	{
-		"chinese": "今晚",
 		"english": "tonight",
-		"soundmark": "/tə'naɪt/"
+		"soundmark": "/tə'naɪt/",
+		"vietnamese": "tối nay"
 	},
 	{
-		"chinese": "今晚打电话给我",
 		"english": "to call me tonight",
-		"soundmark": "/tə/ /kɔl/ /mi/ /tə'naɪt/"
+		"soundmark": "/tə/ /kɔl/ /mi/ /tə'naɪt/",
+		"vietnamese": "tối nay打电话给Tôi"
 	},
 	{
-		"chinese": "请问你可以......吗？",
 		"english": "could you please",
-		"soundmark": "/kʊd/ /ju/ /pliz/"
+		"soundmark": "/kʊd/ /ju/ /pliz/",
+		"vietnamese": "请问Bạn可以......吗？"
 	},
 	{
-		"chinese": "请问你可以今晚打电话给我吗？",
 		"english": "could you please call me tonight",
-		"soundmark": "/kʊd/ /ju/ /pliz/ /kɔl/ /mi/ /tə'naɪt/"
+		"soundmark": "/kʊd/ /ju/ /pliz/ /kɔl/ /mi/ /tə'naɪt/",
+		"vietnamese": "请问Bạn可以tối nay打电话给Tôi吗？"
 	},
 	{
-		"chinese": "给",
 		"english": "to give",
-		"soundmark": "/tə/ /ɡɪv/"
+		"soundmark": "/tə/ /ɡɪv/",
+		"vietnamese": "[VI:给]"
 	},
 	{
-		"chinese": "我",
 		"english": "me",
-		"soundmark": "/mi/"
+		"soundmark": "/mi/",
+		"vietnamese": "Tôi"
 	},
 	{
-		"chinese": "给我",
 		"english": "to give me",
-		"soundmark": "/tə/ /ɡɪv/ /mi/"
+		"soundmark": "/tə/ /ɡɪv/ /mi/",
+		"vietnamese": "给Tôi"
 	},
 	{
-		"chinese": "手",
 		"english": "hand",
-		"soundmark": "/hænd/"
+		"soundmark": "/hænd/",
+		"vietnamese": "[VI:手]"
 	},
 	{
-		"chinese": "一只手",
 		"english": "a hand",
-		"soundmark": "/ə/ /hænd/"
+		"soundmark": "/ə/ /hænd/",
+		"vietnamese": "[VI:一只手]"
 	},
 	{
-		"chinese": "给我帮把手",
 		"english": "to give me a hand",
-		"soundmark": "/tə/ /ɡɪv/ /mi/ /ə/ /hænd/"
+		"soundmark": "/tə/ /ɡɪv/ /mi/ /ə/ /hænd/",
+		"vietnamese": "给Tôi帮把手"
 	},
 	{
-		"chinese": "请问你可以......吗？",
 		"english": "could you please",
-		"soundmark": "/kʊd/ /ju/ /pliz/"
+		"soundmark": "/kʊd/ /ju/ /pliz/",
+		"vietnamese": "请问Bạn可以......吗？"
 	},
 	{
-		"chinese": "请问你可以给我帮把手吗？",
 		"english": "could you please give me a hand",
-		"soundmark": "/kʊd/ /ju/ /pliz/ /ɡɪv/ /mi/ /ə/ /hænd/"
+		"soundmark": "/kʊd/ /ju/ /pliz/ /ɡɪv/ /mi/ /ə/ /hænd/",
+		"vietnamese": "请问Bạn可以给Tôi帮把手吗？"
 	},
 	{
-		"chinese": "打开",
 		"english": "to open",
-		"soundmark": "/tə/ /'opən/"
+		"soundmark": "/tə/ /'opən/",
+		"vietnamese": "[VI:打开]"
 	},
 	{
-		"chinese": "门",
 		"english": "the door",
-		"soundmark": "/ðə/ /dɔr/"
+		"soundmark": "/ðə/ /dɔr/",
+		"vietnamese": "[VI:门]"
 	},
 	{
-		"chinese": "打开门",
 		"english": "to open the door",
-		"soundmark": "/tə/ /'opən/ /ðə/ /dɔr/"
+		"soundmark": "/tə/ /'opən/ /ðə/ /dɔr/",
+		"vietnamese": "[VI:打开门]"
 	},
 	{
-		"chinese": "请问你可以......吗？",
 		"english": "could you please",
-		"soundmark": "/kʊd/ /ju/ /pliz/"
+		"soundmark": "/kʊd/ /ju/ /pliz/",
+		"vietnamese": "请问Bạn可以......吗？"
 	},
 	{
-		"chinese": "请问你可以打开门吗",
 		"english": "could you please open the door",
-		"soundmark": "/kʊd/ /ju/ /pliz/ /'opən/ /ðə/ /dɔr/"
+		"soundmark": "/kʊd/ /ju/ /pliz/ /'opən/ /ðə/ /dɔr/",
+		"vietnamese": "请问Bạn可以打开门吗"
 	}
 ]

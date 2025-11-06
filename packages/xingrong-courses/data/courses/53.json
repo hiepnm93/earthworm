@@ -1,777 +1,777 @@
 [
 	{
-		"chinese": "存",
 		"english": "to save",
-		"soundmark": "/tə/ /sev/"
+		"soundmark": "/tə/ /sev/",
+		"vietnamese": "[VI:存]"
 	},
 	{
-		"chinese": "存(ed形式)",
 		"english": "saved",
-		"soundmark": "/sevd/"
+		"soundmark": "/sevd/",
+		"vietnamese": "[VI:存(ed形式)]"
 	},
 	{
-		"chinese": "我们(过去已经)存",
 		"english": "we had saved",
-		"soundmark": "/wi/ /hæd/ /sevd/"
+		"soundmark": "/wi/ /hæd/ /sevd/",
+		"vietnamese": "Chúng tôi(过去已经)存"
 	},
 	{
-		"chinese": "钱",
 		"english": "money",
-		"soundmark": "/ˈmʌni/"
+		"soundmark": "/ˈmʌni/",
+		"vietnamese": "[VI:钱]"
 	},
 	{
-		"chinese": "足够的",
 		"english": "enough",
-		"soundmark": "/ɪ'nʌf/"
+		"soundmark": "/ɪ'nʌf/",
+		"vietnamese": "[VI:足够的]"
 	},
 	{
-		"chinese": "足够的钱",
 		"english": "enough money",
-		"soundmark": "/ɪ'nʌf/ /ˈmʌni/"
+		"soundmark": "/ɪ'nʌf/ /ˈmʌni/",
+		"vietnamese": "[VI:足够的钱]"
 	},
 	{
-		"chinese": "我们(过去已经)存了足够的钱",
 		"english": "we had saved enough money",
-		"soundmark": "/wi/ /hæd/ /sevd/ /ɪ'nʌf/ /ˈmʌni/"
+		"soundmark": "/wi/ /hæd/ /sevd/ /ɪ'nʌf/ /ˈmʌni/",
+		"vietnamese": "Chúng tôi(过去已经)存了足够的钱"
 	},
 	{
-		"chinese": "购买",
 		"english": "to buy",
-		"soundmark": "/tə/ /baɪ/"
+		"soundmark": "/tə/ /baɪ/",
+		"vietnamese": "[VI:购买]"
 	},
 	{
-		"chinese": "房子",
 		"english": "house",
-		"soundmark": "/haʊs/"
+		"soundmark": "/haʊs/",
+		"vietnamese": "[VI:房子]"
 	},
 	{
-		"chinese": "买一套房子",
 		"english": "to buy a house",
-		"soundmark": "/tə/ /baɪ/ /ə/ /haʊs/"
+		"soundmark": "/tə/ /baɪ/ /ə/ /haʊs/",
+		"vietnamese": "[VI:买一套房子]"
 	},
 	{
-		"chinese": "决定",
 		"english": "to decide",
-		"soundmark": "/tə/ /dɪ'saɪd/"
+		"soundmark": "/tə/ /dɪ'saɪd/",
+		"vietnamese": "[VI:决定]"
 	},
 	{
-		"chinese": "决定买一套房子",
 		"english": "to decide to buy a house",
-		"soundmark": "/tə/ /dɪ'saɪd/ /tə/ /baɪ/ /ə/ /haʊs/"
+		"soundmark": "/tə/ /dɪ'saɪd/ /tə/ /baɪ/ /ə/ /haʊs/",
+		"vietnamese": "[VI:决定买一套房子]"
 	},
 	{
-		"chinese": "我们决定买一套房子",
 		"english": "we decide to buy a house",
-		"soundmark": "/wi/ /dɪ'saɪd/ /tə/ /baɪ/ /ə/ /haʊs/ /(过去)决定 decided/ /dɪ'saɪdɪd/"
+		"soundmark": "/wi/ /dɪ'saɪd/ /tə/ /baɪ/ /ə/ /haʊs/ /(过去)决定 decided/ /dɪ'saɪdɪd/",
+		"vietnamese": "Chúng tôi决定买一套房子"
 	},
 	{
-		"chinese": "我们(过去)决定买一套房子",
 		"english": "we decided to buy a house",
-		"soundmark": "/wi/ /dɪ'saɪdɪd/ /tə/ /baɪ/ /ə/ /haʊs/"
+		"soundmark": "/wi/ /dɪ'saɪdɪd/ /tə/ /baɪ/ /ə/ /haʊs/",
+		"vietnamese": "Chúng tôi(过去)决定买一套房子"
 	},
 	{
-		"chinese": "在......之前",
 		"english": "before",
-		"soundmark": "/bɪ'fɔr/"
+		"soundmark": "/bɪ'fɔr/",
+		"vietnamese": "[VI:在......之前]"
 	},
 	{
-		"chinese": "在我们(过去)决定买一套房子之前",
 		"english": "before we decided to buy a house",
-		"soundmark": "/bɪ'fɔr/ /wi/ /dɪ'saɪdɪd/ /tə/ /baɪ/ /ə/ /haʊs/"
+		"soundmark": "/bɪ'fɔr/ /wi/ /dɪ'saɪdɪd/ /tə/ /baɪ/ /ə/ /haʊs/",
+		"vietnamese": "在Chúng tôi(过去)决定买一套房子之前"
 	},
 	{
-		"chinese": "我们(过去已经)存了足够的钱",
 		"english": "we had saved enough money",
-		"soundmark": "/wi/ /hæd/ /sevd/ /ɪ'nʌf/ /ˈmʌni/"
+		"soundmark": "/wi/ /hæd/ /sevd/ /ɪ'nʌf/ /ˈmʌni/",
+		"vietnamese": "Chúng tôi(过去已经)存了足够的钱"
 	},
 	{
-		"chinese": "在我们(过去)决定买一个房子之前我们(过去已经)存了足够的钱。",
 		"english": "we had saved enough money before we decided to buy a house",
-		"soundmark": "/wi/ /hæd/ /sevd/ /ɪ'nʌf/ /ˈmʌni/ /bɪ'fɔr/ /wi/ /dɪ'saɪdɪd/ /tə/ /baɪ/ /ə/ /haʊs/"
+		"soundmark": "/wi/ /hæd/ /sevd/ /ɪ'nʌf/ /ˈmʌni/ /bɪ'fɔr/ /wi/ /dɪ'saɪdɪd/ /tə/ /baɪ/ /ə/ /haʊs/",
+		"vietnamese": "在Chúng tôi(过去)决定买一个房子之前Tôi们(过去已经)存了足够的钱。"
 	},
 	{
-		"chinese": "打扫",
 		"english": "to clean",
-		"soundmark": "/tə/ /klin/"
+		"soundmark": "/tə/ /klin/",
+		"vietnamese": "[VI:打扫]"
 	},
 	{
-		"chinese": "打扫(ed形式)",
 		"english": "cleaned",
-		"soundmark": "/klind/"
+		"soundmark": "/klind/",
+		"vietnamese": "[VI:打扫(ed形式)]"
 	},
 	{
-		"chinese": "他们(过去已经)打扫",
 		"english": "they had cleaned",
-		"soundmark": "/ðe/ /hæd/ /klind/"
+		"soundmark": "/ðe/ /hæd/ /klind/",
+		"vietnamese": "Họ(过去已经)打扫"
 	},
 	{
-		"chinese": "房子",
 		"english": "house",
-		"soundmark": "/haʊs/"
+		"soundmark": "/haʊs/",
+		"vietnamese": "[VI:房子]"
 	},
 	{
-		"chinese": "他们(过去已经)打扫了那个房子",
 		"english": "they had cleaned the house",
-		"soundmark": "/ðe/ /hæd/ /klind/ /ðə/ /haʊs/"
+		"soundmark": "/ðe/ /hæd/ /klind/ /ðə/ /haʊs/",
+		"vietnamese": "Họ(过去已经)打扫了那个房子"
 	},
 	{
-		"chinese": "整个",
 		"english": "entire",
-		"soundmark": "/ɪnˈtaɪɚ/"
+		"soundmark": "/ɪnˈtaɪɚ/",
+		"vietnamese": "[VI:整个]"
 	},
 	{
-		"chinese": "他们(过去已经)打扫了整个房子",
 		"english": "they had cleaned the entire house",
-		"soundmark": "/ðe/ /hæd/ /klind/ /ði/ /ɪnˈtaɪɚ/ /haʊs/"
+		"soundmark": "/ðe/ /hæd/ /klind/ /ði/ /ɪnˈtaɪɚ/ /haʊs/",
+		"vietnamese": "Họ(过去已经)打扫了整个房子"
 	},
 	{
-		"chinese": "父母",
 		"english": "parents",
-		"soundmark": "/'pɛrənts/"
+		"soundmark": "/'pɛrənts/",
+		"vietnamese": "[VI:父母]"
 	},
 	{
-		"chinese": "他们的",
 		"english": "their",
-		"soundmark": "/ðɛr/"
+		"soundmark": "/ðɛr/",
+		"vietnamese": "Họ的"
 	},
 	{
-		"chinese": "他们的父母",
 		"english": "their parents",
-		"soundmark": "/ðɛr/ /'pɛrənts/"
+		"soundmark": "/ðɛr/ /'pɛrənts/",
+		"vietnamese": "Họ的父母"
 	},
 	{
-		"chinese": "到达",
 		"english": "to arrive",
-		"soundmark": "/tə/ /ə'raɪv/ /(过去)达到 arrived/ /ə'raɪvd/"
+		"soundmark": "/tə/ /ə'raɪv/ /(过去)达到 arrived/ /ə'raɪvd/",
+		"vietnamese": "[VI:到达]"
 	},
 	{
-		"chinese": "他们的父母(过去)到达",
 		"english": "their parents arrived",
-		"soundmark": "/ðɛr/ /'pɛrənts/ /ə'raɪvd/"
+		"soundmark": "/ðɛr/ /'pɛrənts/ /ə'raɪvd/",
+		"vietnamese": "Họ的父母(过去)到达"
 	},
 	{
-		"chinese": "在他们的父母(过去)到达之前",
 		"english": "before their parents arrived",
-		"soundmark": "/bɪ'fɔr/ /ðɛr/ /'pɛrənts/ /ə'raɪvd/"
+		"soundmark": "/bɪ'fɔr/ /ðɛr/ /'pɛrənts/ /ə'raɪvd/",
+		"vietnamese": "在Họ的父母(过去)到达之前"
 	},
 	{
-		"chinese": "他们(过去已经)打扫了整个房子",
 		"english": "they had cleaned the entire house",
-		"soundmark": "/ðe/ /hæd/ /klind/ /ðə/ /ɪnˈtaɪɚ/ /haʊs/"
+		"soundmark": "/ðe/ /hæd/ /klind/ /ðə/ /ɪnˈtaɪɚ/ /haʊs/",
+		"vietnamese": "Họ(过去已经)打扫了整个房子"
 	},
 	{
-		"chinese": "在他们的父母(过去)到达之前他们(过去已经)打扫了整个房子。",
 		"english": "they had cleaned the entire house before their parents arrived",
-		"soundmark": "/ðe/ /hæd/ /klind/ /ði/ /ɪnˈtaɪɚ/ /haʊs/ /bɪ'fɔr/ /ðɛr/ /'pɛrənts/ /ə'raɪvd/"
+		"soundmark": "/ðe/ /hæd/ /klind/ /ði/ /ɪnˈtaɪɚ/ /haʊs/ /bɪ'fɔr/ /ðɛr/ /'pɛrənts/ /ə'raɪvd/",
+		"vietnamese": "在Họ的父母(过去)到达之前Anh ấy们(过去已经)打扫了整个房子。"
 	},
 	{
-		"chinese": "搬家",
 		"english": "move",
-		"soundmark": "/muv/"
+		"soundmark": "/muv/",
+		"vietnamese": "[VI:搬家]"
 	},
 	{
-		"chinese": "搬家(ed形式)",
 		"english": "moved",
-		"soundmark": "/muvd/"
+		"soundmark": "/muvd/",
+		"vietnamese": "[VI:搬家(ed形式)]"
 	},
 	{
-		"chinese": "他们(过去已经)搬家",
 		"english": "they had moved",
-		"soundmark": "/ðe/ /hæd/ /muvd/"
+		"soundmark": "/ðe/ /hæd/ /muvd/",
+		"vietnamese": "Họ(过去已经)搬家"
 	},
 	{
-		"chinese": "城市",
 		"english": "city",
-		"soundmark": "/'sɪti/"
+		"soundmark": "/'sɪti/",
+		"vietnamese": "[VI:城市]"
 	},
 	{
-		"chinese": "新的",
 		"english": "new",
-		"soundmark": "/nu/"
+		"soundmark": "/nu/",
+		"vietnamese": "[VI:新的]"
 	},
 	{
-		"chinese": "一个新的城市",
 		"english": "a new city",
-		"soundmark": "/ə/ /nu/ /'sɪti/"
+		"soundmark": "/ə/ /nu/ /'sɪti/",
+		"vietnamese": "[VI:一个新的城市]"
 	},
 	{
-		"chinese": "他们(过去已经)搬家到了一个新的城市",
 		"english": "they had moved to a new city",
-		"soundmark": "/ðe/ /hæd/ /muvd/ /tə/ /ə/ /nu/ /'sɪti/"
+		"soundmark": "/ðe/ /hæd/ /muvd/ /tə/ /ə/ /nu/ /'sɪti/",
+		"vietnamese": "Họ(过去已经)搬家到了一个新的城市"
 	},
 	{
-		"chinese": "出生",
 		"english": "to bear",
-		"soundmark": "/tə/ /bɜːθ/"
+		"soundmark": "/tə/ /bɜːθ/",
+		"vietnamese": "[VI:出生]"
 	},
 	{
-		"chinese": "出生(ed形式)",
 		"english": "born",
-		"soundmark": "/bɔrn/"
+		"soundmark": "/bɔrn/",
+		"vietnamese": "[VI:出生(ed形式)]"
 	},
 	{
-		"chinese": "被出生",
 		"english": "be born",
-		"soundmark": "/bi/ /bɔrn/"
+		"soundmark": "/bi/ /bɔrn/",
+		"vietnamese": "[VI:被出生]"
 	},
 	{
-		"chinese": "那个婴儿",
 		"english": "the baby",
-		"soundmark": "/ðə/ /'bebi/"
+		"soundmark": "/ðə/ /'bebi/",
+		"vietnamese": "[VI:那个婴儿]"
 	},
 	{
-		"chinese": "那个婴儿(过去)出生",
 		"english": "the baby was born",
-		"soundmark": "/ðə/ /'bebi/ /wəz/ /bɔrn/"
+		"soundmark": "/ðə/ /'bebi/ /wəz/ /bɔrn/",
+		"vietnamese": "[VI:那个婴儿(过去)出生]"
 	},
 	{
-		"chinese": "在......之前",
 		"english": "before",
-		"soundmark": "/bɪ'fɔr/"
+		"soundmark": "/bɪ'fɔr/",
+		"vietnamese": "[VI:在......之前]"
 	},
 	{
-		"chinese": "在那个婴儿(过去)出生之前",
 		"english": "before the baby was born",
-		"soundmark": "/bɪ'fɔr/ /ðə/ /'bebi/ /wəz/ /bɔrn/"
+		"soundmark": "/bɪ'fɔr/ /ðə/ /'bebi/ /wəz/ /bɔrn/",
+		"vietnamese": "[VI:在那个婴儿(过去)出生之前]"
 	},
 	{
-		"chinese": "他们(过去已经)搬家到了一个新的城市",
 		"english": "they had moved to a new city",
-		"soundmark": "/ðe/ /hæd/ /muvd/ /tə/ /ə/ /nu/ /'sɪti/"
+		"soundmark": "/ðe/ /hæd/ /muvd/ /tə/ /ə/ /nu/ /'sɪti/",
+		"vietnamese": "Họ(过去已经)搬家到了一个新的城市"
 	},
 	{
-		"chinese": "在那个婴儿(过去)出生之前他们,(过去已经)搬到了一个新的城市",
 		"english": "they had moved to a new city before the baby was born",
-		"soundmark": "/ðe/ /hæd/ /muvd/ /tə/ /ə/ /nu/ /'sɪti/ /bɪ'fɔr/ /ðə/ /'bebi/ /wəz/ /bɔrn/"
+		"soundmark": "/ðe/ /hæd/ /muvd/ /tə/ /ə/ /nu/ /'sɪti/ /bɪ'fɔr/ /ðə/ /'bebi/ /wəz/ /bɔrn/",
+		"vietnamese": "在那个婴儿(过去)出生之前Họ,(过去已经)搬到了一个新的城市"
 	},
 	{
-		"chinese": "计划",
 		"english": "to plan",
-		"soundmark": "/tə/ /plæn/"
+		"soundmark": "/tə/ /plæn/",
+		"vietnamese": "[VI:计划]"
 	},
 	{
-		"chinese": "计划(ed形式)",
 		"english": "planned",
-		"soundmark": "/plænd/"
+		"soundmark": "/plænd/",
+		"vietnamese": "[VI:计划(ed形式)]"
 	},
 	{
-		"chinese": "他们(过去已经)计划",
 		"english": "they had planned",
-		"soundmark": "/ðe/ /hæd/ /plænd/"
+		"soundmark": "/ðe/ /hæd/ /plænd/",
+		"vietnamese": "Họ(过去已经)计划"
 	},
 	{
-		"chinese": "已经",
 		"english": "already",
-		"soundmark": "/ɔl'rɛdi/"
+		"soundmark": "/ɔl'rɛdi/",
+		"vietnamese": "[VI:已经]"
 	},
 	{
-		"chinese": "他们(过去)已经计划",
 		"english": "they had already planned",
-		"soundmark": "/ðe/ /hæd/ /ɔl'rɛdi/ /plænd/"
+		"soundmark": "/ðe/ /hæd/ /ɔl'rɛdi/ /plænd/",
+		"vietnamese": "Họ(过去)已经计划"
 	},
 	{
-		"chinese": "假期",
 		"english": "vacation",
-		"soundmark": "/veˈkeʃn/"
+		"soundmark": "/veˈkeʃn/",
+		"vietnamese": "[VI:假期]"
 	},
 	{
-		"chinese": "他们的",
 		"english": "their",
-		"soundmark": "/ðɛr/"
+		"soundmark": "/ðɛr/",
+		"vietnamese": "Họ的"
 	},
 	{
-		"chinese": "他们的假期",
 		"english": "their vacation",
-		"soundmark": "/ðɛr/ /veˈkeʃn/"
+		"soundmark": "/ðɛr/ /veˈkeʃn/",
+		"vietnamese": "Họ的假期"
 	},
 	{
-		"chinese": "他们(过去)已经计划了他们的假期",
 		"english": "they had already planned their vacation",
-		"soundmark": "/ðe/ /hæd/ /ɔl'rɛdi/ /plænd/ /ðɛr/ /veˈkeʃn/"
+		"soundmark": "/ðe/ /hæd/ /ɔl'rɛdi/ /plænd/ /ðɛr/ /veˈkeʃn/",
+		"vietnamese": "Họ(过去)已经计划了Anh ấy们的假期"
 	},
 	{
-		"chinese": "邀请",
 		"english": "to invite",
-		"soundmark": "/tə/ /ɪn'vaɪt/"
+		"soundmark": "/tə/ /ɪn'vaɪt/",
+		"vietnamese": "[VI:邀请]"
 	},
 	{
-		"chinese": "邀请",
 		"english": "invitation",
-		"soundmark": "/ɪnvɪ'teʃən/"
+		"soundmark": "/ɪnvɪ'teʃən/",
+		"vietnamese": "[VI:邀请]"
 	},
 	{
-		"chinese": "那个邀请",
 		"english": "the invitation",
-		"soundmark": "/ði/ /ɪnvɪ'teʃən/"
+		"soundmark": "/ði/ /ɪnvɪ'teʃən/",
+		"vietnamese": "[VI:那个邀请]"
 	},
 	{
-		"chinese": "收到",
 		"english": "to receive",
-		"soundmark": "/tə/ /rɪ'siv/"
+		"soundmark": "/tə/ /rɪ'siv/",
+		"vietnamese": "[VI:收到]"
 	},
 	{
-		"chinese": "收到那个邀请",
 		"english": "to receive the invitation",
-		"soundmark": "/tə/ /rɪ'siv/ /ði/ /ɪnvɪ'teʃən/ /(过去)收到 received/ /rɪ'sivd/ /(过去)收到那个邀请 received the invitation/ /rɪ'sivd/ /ði/ /ɪnvɪ'teʃən/"
+		"soundmark": "/tə/ /rɪ'siv/ /ði/ /ɪnvɪ'teʃən/ /(过去)收到 received/ /rɪ'sivd/ /(过去)收到那个邀请 received the invitation/ /rɪ'sivd/ /ði/ /ɪnvɪ'teʃən/",
+		"vietnamese": "[VI:收到那个邀请]"
 	},
 	{
-		"chinese": "他们(过去)收到那个邀请",
 		"english": "they received the invitation",
-		"soundmark": "/ðe/ /rɪ'sivd/ /ði/ /ɪnvɪ'teʃən/"
+		"soundmark": "/ðe/ /rɪ'sivd/ /ði/ /ɪnvɪ'teʃən/",
+		"vietnamese": "Họ(过去)收到那个邀请"
 	},
 	{
-		"chinese": "在......之前",
 		"english": "before",
-		"soundmark": "/bɪ'fɔr/"
+		"soundmark": "/bɪ'fɔr/",
+		"vietnamese": "[VI:在......之前]"
 	},
 	{
-		"chinese": "在他们(过去)收到那个邀请之前",
 		"english": "before they received the invitation",
-		"soundmark": "/bɪ'fɔr/ /ðe/ /rɪ'sivd/ /ði/ /ɪnvɪ'teʃən/"
+		"soundmark": "/bɪ'fɔr/ /ðe/ /rɪ'sivd/ /ði/ /ɪnvɪ'teʃən/",
+		"vietnamese": "在Họ(过去)收到那个邀请之前"
 	},
 	{
-		"chinese": "他们(过去)已经计划了他们的假期",
 		"english": "they had already planned their vacation",
-		"soundmark": "/ðe/ /hæd/ /ɔl'rɛdi/ /plænd/ /ðɛr/ /veˈkeʃn/"
+		"soundmark": "/ðe/ /hæd/ /ɔl'rɛdi/ /plænd/ /ðɛr/ /veˈkeʃn/",
+		"vietnamese": "Họ(过去)已经计划了Anh ấy们的假期"
 	},
 	{
-		"chinese": "在他们(过去)收到那个邀请之前他们(过去)已经计划了他们的假期",
 		"english": "they had already planned their vacation before they received the invitation",
-		"soundmark": "/ðe/ /hæd/ /ɔl'rɛdi/ /plænd/ /ðɛr/ /veˈkeʃn/ /bɪ'fɔr/ /ðe/ /rɪ'sivd/ /ði/ /ɪnvɪ'teʃən/"
+		"soundmark": "/ðe/ /hæd/ /ɔl'rɛdi/ /plænd/ /ðɛr/ /veˈkeʃn/ /bɪ'fɔr/ /ðe/ /rɪ'sivd/ /ði/ /ɪnvɪ'teʃən/",
+		"vietnamese": "在Họ(过去)收到那个邀请之前Anh ấy们(过去)已经计划了他们的假期"
 	},
 	{
-		"chinese": "离开",
 		"english": "to leave",
-		"soundmark": "/tə/ /liv/"
+		"soundmark": "/tə/ /liv/",
+		"vietnamese": "[VI:离开]"
 	},
 	{
-		"chinese": "办公室",
 		"english": "office",
-		"soundmark": "/ði/ /'ɑfɪs/"
+		"soundmark": "/ði/ /'ɑfɪs/",
+		"vietnamese": "[VI:办公室]"
 	},
 	{
-		"chinese": "离开办公室",
 		"english": "to leave the office",
-		"soundmark": "/tə/ /liv/ /ði/ /'ɑfɪs/"
+		"soundmark": "/tə/ /liv/ /ði/ /'ɑfɪs/",
+		"vietnamese": "[VI:离开办公室]"
 	},
 	{
-		"chinese": "离开(ed形式)",
 		"english": "left",
-		"soundmark": "/lɛft/"
+		"soundmark": "/lɛft/",
+		"vietnamese": "[VI:离开(ed形式)]"
 	},
 	{
-		"chinese": "她(过去已经)离开",
 		"english": "she had left",
-		"soundmark": "/ʃi/ /hæd/ /lɛft/"
+		"soundmark": "/ʃi/ /hæd/ /lɛft/",
+		"vietnamese": "Cô ấy(过去已经)离开"
 	},
 	{
-		"chinese": "她(过去已经)离开办公室",
 		"english": "she had left the office",
-		"soundmark": "/ʃi/ /hæd/ /lɛft/ /ði/ /'ɑfɪs/"
+		"soundmark": "/ʃi/ /hæd/ /lɛft/ /ði/ /'ɑfɪs/",
+		"vietnamese": "Cô ấy(过去已经)离开办公室"
 	},
 	{
-		"chinese": "刚刚",
 		"english": "just",
-		"soundmark": "/dʒʌst/"
+		"soundmark": "/dʒʌst/",
+		"vietnamese": "[VI:刚刚]"
 	},
 	{
-		"chinese": "她(过去已经)刚刚离开办公室",
 		"english": "she had just left the office",
-		"soundmark": "/ʃi/ /hæd/ /dʒʌst/ /lɛft/ /ði/ /'ɑfɪs/"
+		"soundmark": "/ʃi/ /hæd/ /dʒʌst/ /lɛft/ /ði/ /'ɑfɪs/",
+		"vietnamese": "Cô ấy(过去已经)刚刚离开办公室"
 	},
 	{
-		"chinese": "老板",
 		"english": "boss",
-		"soundmark": "/bɔs/"
+		"soundmark": "/bɔs/",
+		"vietnamese": "[VI:老板]"
 	},
 	{
-		"chinese": "她的",
 		"english": "her",
-		"soundmark": "/hɚ/"
+		"soundmark": "/hɚ/",
+		"vietnamese": "Cô ấy的"
 	},
 	{
-		"chinese": "她的老板",
 		"english": "her boss",
-		"soundmark": "/hɚ/ /bɔs/"
+		"soundmark": "/hɚ/ /bɔs/",
+		"vietnamese": "Cô ấy的老板"
 	},
 	{
-		"chinese": "打电话",
 		"english": "to call",
-		"soundmark": "/tə/ /kɔl/ /(过去)打电话 called/ /kɔld/"
+		"soundmark": "/tə/ /kɔl/ /(过去)打电话 called/ /kɔld/",
+		"vietnamese": "[VI:打电话]"
 	},
 	{
-		"chinese": "她的老板(过去)打电话",
 		"english": "her boss called",
-		"soundmark": "/hɚ/ /bɔs/ /kɔld/"
+		"soundmark": "/hɚ/ /bɔs/ /kɔld/",
+		"vietnamese": "Cô ấy的老板(过去)打电话"
 	},
 	{
-		"chinese": "当......时候",
 		"english": "when",
-		"soundmark": "/wɛn/"
+		"soundmark": "/wɛn/",
+		"vietnamese": "[VI:当......时候]"
 	},
 	{
-		"chinese": "当她的老板(过去)打电话的时候",
 		"english": "when her boss called",
-		"soundmark": "/wɛn/ /hɚ/ /bɔs/ /kɔld/"
+		"soundmark": "/wɛn/ /hɚ/ /bɔs/ /kɔld/",
+		"vietnamese": "当Cô ấy的老板(过去)打电话的时候"
 	},
 	{
-		"chinese": "她(过去已经)刚刚离开办公室",
 		"english": "she had just left the office",
-		"soundmark": "/ʃi/ /hæd/ /dʒʌst/ /lɛft/ /ði/ /'ɑfɪs/"
+		"soundmark": "/ʃi/ /hæd/ /dʒʌst/ /lɛft/ /ði/ /'ɑfɪs/",
+		"vietnamese": "Cô ấy(过去已经)刚刚离开办公室"
 	},
 	{
-		"chinese": "她(过去已经)刚刚离开办公室当她的老板(过去)打电话的时候",
 		"english": "she had just left the office when her boss called",
-		"soundmark": "/ʃi/ /hæd/ /dʒʌst/ /lɛft/ /ði/ /'ɑfɪs/ /wɛn/ /hɚ/ /bɔs/ /kɔld/"
+		"soundmark": "/ʃi/ /hæd/ /dʒʌst/ /lɛft/ /ði/ /'ɑfɪs/ /wɛn/ /hɚ/ /bɔs/ /kɔld/",
+		"vietnamese": "Cô ấy(过去已经)刚刚离开办公室当她的老板(过去)打电话的时候"
 	},
 	{
-		"chinese": "任务",
 		"english": "task",
-		"soundmark": "/tæsk/"
+		"soundmark": "/tæsk/",
+		"vietnamese": "[VI:任务]"
 	},
 	{
-		"chinese": "紧急的",
 		"english": "urgent",
-		"soundmark": "/'ɝdʒənt/"
+		"soundmark": "/'ɝdʒənt/",
+		"vietnamese": "[VI:紧急的]"
 	},
 	{
-		"chinese": "一项紧急的任务",
 		"english": "an urgent task",
-		"soundmark": "/ən/ /'ɝdʒənt/ /tæsk/"
+		"soundmark": "/ən/ /'ɝdʒənt/ /tæsk/",
+		"vietnamese": "[VI:一项紧急的任务]"
 	},
 	{
-		"chinese": "她的老板(过去)打电话",
 		"english": "her boss called",
-		"soundmark": "/hɚ/ /bɔs/ /kɔld/"
+		"soundmark": "/hɚ/ /bɔs/ /kɔld/",
+		"vietnamese": "Cô ấy的老板(过去)打电话"
 	},
 	{
-		"chinese": "她的老板(过去)打电话给她安排一项紧急的任务",
 		"english": "her boss called with an urgent task",
-		"soundmark": "/hɚ/ /bɔs/ /kɔld/ /wɪð/ /ən/ /'ɝdʒənt/ /tæsk/"
+		"soundmark": "/hɚ/ /bɔs/ /kɔld/ /wɪð/ /ən/ /'ɝdʒənt/ /tæsk/",
+		"vietnamese": "Cô ấy的老板(过去)打电话给她安排一项紧急的任务"
 	},
 	{
-		"chinese": "当她的老板(过去)打电话给她安排一项紧急的任务的时候",
 		"english": "when her boss called with an urgent task",
-		"soundmark": "/wɛn/ /hɚ/ /bɔs/ /kɔld/ /wɪð/ /ən/ /'ɝdʒənt/ /tæsk/"
+		"soundmark": "/wɛn/ /hɚ/ /bɔs/ /kɔld/ /wɪð/ /ən/ /'ɝdʒənt/ /tæsk/",
+		"vietnamese": "当Cô ấy的老板(过去)打电话给她安排一项紧急的任务的时候"
 	},
 	{
-		"chinese": "她(过去已经)刚刚离开办公室",
 		"english": "she had just left the office",
-		"soundmark": "/ʃi/ /hæd/ /dʒʌst/ /lɛft/ /ði/ /'ɑfɪs/"
+		"soundmark": "/ʃi/ /hæd/ /dʒʌst/ /lɛft/ /ði/ /'ɑfɪs/",
+		"vietnamese": "Cô ấy(过去已经)刚刚离开办公室"
 	},
 	{
-		"chinese": "当她的老板(过去)打电话给她安排一项紧急任务的时候她刚刚离开办公室",
 		"english": "she had just left the office when her boss called with an urgent task",
-		"soundmark": "/ʃi/ /hæd/ /dʒʌst/ /lɛft/ /ði/ /'ɑfɪs/ /wɛn/ /hɚ/ /bɔs/ /kɔld/ /wɪð/ /ən/ /'ɝdʒənt/ /tæsk/"
+		"soundmark": "/ʃi/ /hæd/ /dʒʌst/ /lɛft/ /ði/ /'ɑfɪs/ /wɛn/ /hɚ/ /bɔs/ /kɔld/ /wɪð/ /ən/ /'ɝdʒənt/ /tæsk/",
+		"vietnamese": "当Cô ấy的老板(过去)打电话给她安排一项紧急任务的时候她刚刚离开办公室"
 	},
 	{
-		"chinese": "在国外",
 		"english": "abroad",
-		"soundmark": "/ə'brɔd/"
+		"soundmark": "/ə'brɔd/",
+		"vietnamese": "[VI:在国外]"
 	},
 	{
-		"chinese": "我在国外",
 		"english": "I am abroad",
-		"soundmark": "/aɪ/ /æm/ /ə'brɔd/ /be(ed形式) been/ /bɪn/"
+		"soundmark": "/aɪ/ /æm/ /ə'brɔd/ /be(ed形式) been/ /bɪn/",
+		"vietnamese": "Tôi在国外"
 	},
 	{
-		"chinese": "我(已经)去过国外",
 		"english": "I have been abroad",
-		"soundmark": "/aɪ/ /hæv/ /bɪn/ /ə'brɔd/"
+		"soundmark": "/aɪ/ /hæv/ /bɪn/ /ə'brɔd/",
+		"vietnamese": "Tôi(已经)去过国外"
 	},
 	{
-		"chinese": "还没有",
 		"english": "haven't",
-		"soundmark": "/ˈhævnt/"
+		"soundmark": "/ˈhævnt/",
+		"vietnamese": "[VI:还没有]"
 	},
 	{
-		"chinese": "我还没有去过国外",
 		"english": "I haven't been abroad",
-		"soundmark": "/aɪ/ /ˈhævnt/ /bɪn/ /ə'brɔd/"
+		"soundmark": "/aɪ/ /ˈhævnt/ /bɪn/ /ə'brɔd/",
+		"vietnamese": "Tôi还没有去过国外"
 	},
 	{
-		"chinese": "从来没有",
 		"english": "never",
-		"soundmark": "/'nɛvɚ/"
+		"soundmark": "/'nɛvɚ/",
+		"vietnamese": "[VI:从来没有]"
 	},
 	{
-		"chinese": "我从来没有去过国外",
 		"english": "I have never been abroad",
-		"soundmark": "/aɪ/ /hæv/ /'nɛvɚ/ /bɪn/ /ə'brɔd/"
+		"soundmark": "/aɪ/ /hæv/ /'nɛvɚ/ /bɪn/ /ə'brɔd/",
+		"vietnamese": "Tôi从来没有去过国外"
 	},
 	{
-		"chinese": "我(过去)从来没有去过国外",
 		"english": "I had never been abroad",
-		"soundmark": "/aɪ/ /hæd/ /'nɛvɚ/ /bɪn/ /ə'brɔd/"
+		"soundmark": "/aɪ/ /hæd/ /'nɛvɚ/ /bɪn/ /ə'brɔd/",
+		"vietnamese": "Tôi(过去)从来没有去过国外"
 	},
 	{
-		"chinese": "她(过去)从来没有去过国外",
 		"english": "she had never been abroad",
-		"soundmark": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/ /ə'brɔd/"
+		"soundmark": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/ /ə'brɔd/",
+		"vietnamese": "Cô ấy(过去)从来没有去过国外"
 	},
 	{
-		"chinese": "旅行",
 		"english": "trip",
-		"soundmark": "/trɪp/"
+		"soundmark": "/trɪp/",
+		"vietnamese": "[VI:旅行]"
 	},
 	{
-		"chinese": "她的旅行",
 		"english": "her trip",
-		"soundmark": "/hɚ/ /trɪp/"
+		"soundmark": "/hɚ/ /trɪp/",
+		"vietnamese": "Cô ấy的旅行"
 	},
 	{
-		"chinese": "西班牙",
 		"english": "Spain",
-		"soundmark": "/spen/"
+		"soundmark": "/spen/",
+		"vietnamese": "[VI:西班牙]"
 	},
 	{
-		"chinese": "她的去西班牙的旅行",
 		"english": "her trip to Spain",
-		"soundmark": "/hɚ/ /trɪp/ /tə/ /spen/"
+		"soundmark": "/hɚ/ /trɪp/ /tə/ /spen/",
+		"vietnamese": "Cô ấy的去西班牙的旅行"
 	},
 	{
-		"chinese": "上一个",
 		"english": "last",
-		"soundmark": "/læst/"
+		"soundmark": "/læst/",
+		"vietnamese": "[VI:上一个]"
 	},
 	{
-		"chinese": "年",
 		"english": "year",
-		"soundmark": "/jɪr/"
+		"soundmark": "/jɪr/",
+		"vietnamese": "[VI:年]"
 	},
 	{
-		"chinese": "去年",
 		"english": "last year",
-		"soundmark": "/læst/ /jɪr/"
+		"soundmark": "/læst/ /jɪr/",
+		"vietnamese": "[VI:去年]"
 	},
 	{
-		"chinese": "去年她的去西班牙的旅行",
 		"english": "her trip to Spain last year",
-		"soundmark": "/hɚ/ /trɪp/ /tə/ /spen/ /læst/ /jɪr/"
+		"soundmark": "/hɚ/ /trɪp/ /tə/ /spen/ /læst/ /jɪr/",
+		"vietnamese": "去年Cô ấy的去西班牙的旅行"
 	},
 	{
-		"chinese": "在......之前",
 		"english": "before",
-		"soundmark": "/bɪ'fɔr/"
+		"soundmark": "/bɪ'fɔr/",
+		"vietnamese": "[VI:在......之前]"
 	},
 	{
-		"chinese": "在去年她的去西班牙的旅行之前",
 		"english": "before her trip to Spain last year",
-		"soundmark": "/bɪ'fɔr/ /hɚ/ /trɪp/ /tə/ /spen/ /læst/ /jɪr/"
+		"soundmark": "/bɪ'fɔr/ /hɚ/ /trɪp/ /tə/ /spen/ /læst/ /jɪr/",
+		"vietnamese": "在去年Cô ấy的去西班牙的旅行之前"
 	},
 	{
-		"chinese": "她(过去)从来没有去过国外",
 		"english": "she had never been abroad",
-		"soundmark": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/ /ə'brɔd/"
+		"soundmark": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/ /ə'brɔd/",
+		"vietnamese": "Cô ấy(过去)从来没有去过国外"
 	},
 	{
-		"chinese": "在去年她的去西班牙的旅行之前她(过去)从来没有去过国外",
 		"english": "she had never been abroad before her trip to Spain last year",
-		"soundmark": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/ /ə'brɔd/ /bɪ'fɔr/ /hɚ/ /trɪp/ /tə/ /spen/ /læst/ /jɪr/"
+		"soundmark": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/ /ə'brɔd/ /bɪ'fɔr/ /hɚ/ /trɪp/ /tə/ /spen/ /læst/ /jɪr/",
+		"vietnamese": "在去年Cô ấy的去西班牙的旅行之前她(过去)从来没有去过国外"
 	},
 	{
-		"chinese": "国家",
 		"english": "country",
-		"soundmark": "/ˈkʌntri/"
+		"soundmark": "/ˈkʌntri/",
+		"vietnamese": "[VI:国家]"
 	},
 	{
-		"chinese": "外国的",
 		"english": "foreign",
-		"soundmark": "/ˈfɔrən/"
+		"soundmark": "/ˈfɔrən/",
+		"vietnamese": "[VI:外国的]"
 	},
 	{
-		"chinese": "外国",
 		"english": "a foreign country",
-		"soundmark": "/ə/ /ˈfɔrən/ /ˈkʌntri/"
+		"soundmark": "/ə/ /ˈfɔrən/ /ˈkʌntri/",
+		"vietnamese": "[VI:外国]"
 	},
 	{
-		"chinese": "在国外",
 		"english": "abroad",
-		"soundmark": "/ə'brɔd/"
+		"soundmark": "/ə'brɔd/",
+		"vietnamese": "[VI:在国外]"
 	},
 	{
-		"chinese": "她(过去)从来没有去过国外",
 		"english": "she had never been abroad",
-		"soundmark": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/ /ə'brɔd/"
+		"soundmark": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/ /ə'brɔd/",
+		"vietnamese": "Cô ấy(过去)从来没有去过国外"
 	},
 	{
-		"chinese": "她(过去)从来没有去过外国",
 		"english": "she had never been to a foreign country",
-		"soundmark": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/ /tə/ /ə/ /ˈfɔrən/ /ˈkʌntri/"
+		"soundmark": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/ /tə/ /ə/ /ˈfɔrən/ /ˈkʌntri/",
+		"vietnamese": "Cô ấy(过去)从来没有去过外国"
 	},
 	{
-		"chinese": "在去年她的去西班牙的旅行之前",
 		"english": "before her trip to Spain last year",
-		"soundmark": "/bɪ'fɔr/ /hɚ/ /trɪp/ /tə/ /spen/ /læst/ /jɪr/"
+		"soundmark": "/bɪ'fɔr/ /hɚ/ /trɪp/ /tə/ /spen/ /læst/ /jɪr/",
+		"vietnamese": "在去年Cô ấy的去西班牙的旅行之前"
 	},
 	{
-		"chinese": "在去年她的去西班牙的旅行之前她(过去)从来没有去过外国",
 		"english": "she had never been to a foreign country before her trip to Spain last year",
-		"soundmark": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/ /tə/ /ə/ /ˈfɔrən/ /ˈkʌntri/ /bɪ'fɔr/ /hɚ/ /trɪp/ /tə/ /spen/ /læst/ /jɪr/"
+		"soundmark": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/ /tə/ /ə/ /ˈfɔrən/ /ˈkʌntri/ /bɪ'fɔr/ /hɚ/ /trɪp/ /tə/ /spen/ /læst/ /jɪr/",
+		"vietnamese": "在去年Cô ấy的去西班牙的旅行之前她(过去)从来没有去过外国"
 	},
 	{
-		"chinese": "她(过去)从来没有去过",
 		"english": "she had never been",
-		"soundmark": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/"
+		"soundmark": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/",
+		"vietnamese": "Cô ấy(过去)从来没有去过"
 	},
 	{
-		"chinese": "加州",
 		"english": "California",
-		"soundmark": "/ˌkælɪˈfɔrnjə/"
+		"soundmark": "/ˌkælɪˈfɔrnjə/",
+		"vietnamese": "[VI:加州]"
 	},
 	{
-		"chinese": "她(过去)从来没有去过加州",
 		"english": "she had never been to California",
-		"soundmark": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/ /tə/ /ˌkælɪˈfɔrnjə/"
+		"soundmark": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/ /tə/ /ˌkælɪˈfɔrnjə/",
+		"vietnamese": "Cô ấy(过去)从来没有去过加州"
 	},
 	{
-		"chinese": "夏天",
 		"english": "summer",
-		"soundmark": "/'sʌmɚ/"
+		"soundmark": "/'sʌmɚ/",
+		"vietnamese": "[VI:夏天]"
 	},
 	{
-		"chinese": "上一个",
 		"english": "last",
-		"soundmark": "/læst/"
+		"soundmark": "/læst/",
+		"vietnamese": "[VI:上一个]"
 	},
 	{
-		"chinese": "去年夏天",
 		"english": "last summer",
-		"soundmark": "/læst/ /'sʌmɚ/"
+		"soundmark": "/læst/ /'sʌmɚ/",
+		"vietnamese": "[VI:去年夏天]"
 	},
 	{
-		"chinese": "在......之前",
 		"english": "before",
-		"soundmark": "/bɪ'fɔr/"
+		"soundmark": "/bɪ'fɔr/",
+		"vietnamese": "[VI:在......之前]"
 	},
 	{
-		"chinese": "在去年夏天之前",
 		"english": "before last summer",
-		"soundmark": "/bɪ'fɔr/ /læst/ /'sʌmɚ/"
+		"soundmark": "/bɪ'fɔr/ /læst/ /'sʌmɚ/",
+		"vietnamese": "[VI:在去年夏天之前]"
 	},
 	{
-		"chinese": "在去年夏天之前她(过去)从来没有去过加州",
 		"english": "she had never been to California before last summer",
-		"soundmark": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/ /tə/ /ˌkælɪˈfɔrnjə/ /bɪ'fɔr/ /læst/ /'sʌmɚ/"
+		"soundmark": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/ /tə/ /ˌkælɪˈfɔrnjə/ /bɪ'fɔr/ /læst/ /'sʌmɚ/",
+		"vietnamese": "在去年夏天之前Cô ấy(过去)从来没有去过加州"
 	},
 	{
-		"chinese": "迟到",
 		"english": "late",
-		"soundmark": "/let/"
+		"soundmark": "/let/",
+		"vietnamese": "[VI:迟到]"
 	},
 	{
-		"chinese": "她(过去)从来没有迟到过",
 		"english": "she had never been late",
-		"soundmark": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/ /let/"
+		"soundmark": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/ /let/",
+		"vietnamese": "Cô ấy(过去)从来没有迟到过"
 	},
 	{
-		"chinese": "工作",
 		"english": "work",
-		"soundmark": "/wɝk/"
+		"soundmark": "/wɝk/",
+		"vietnamese": "[VI:工作]"
 	},
 	{
-		"chinese": "她(过去)从来没有上班迟到过",
 		"english": "she had never been late to work",
-		"soundmark": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/ /let/ /tə/ /wɝk/"
+		"soundmark": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/ /let/ /tə/ /wɝk/",
+		"vietnamese": "Cô ấy(过去)从来没有上班迟到过"
 	},
 	{
-		"chinese": "天",
 		"english": "day",
-		"soundmark": "/de/"
+		"soundmark": "/de/",
+		"vietnamese": "[VI:天]"
 	},
 	{
-		"chinese": "那天",
 		"english": "that day",
-		"soundmark": "/ðæt/ /de/"
+		"soundmark": "/ðæt/ /de/",
+		"vietnamese": "[VI:那天]"
 	},
 	{
-		"chinese": "在那天之前",
 		"english": "before that day",
-		"soundmark": "/bɪ'fɔr/ /ðæt/ /de/"
+		"soundmark": "/bɪ'fɔr/ /ðæt/ /de/",
+		"vietnamese": "[VI:在那天之前]"
 	},
 	{
-		"chinese": "在那天之前她(过去)从来没有上班迟到过",
 		"english": "she had never been late to work before that day",
-		"soundmark": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/ /let/ /tə/ /wɝk/ /bɪ'fɔr/ /ðæt/ /de/"
+		"soundmark": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/ /let/ /tə/ /wɝk/ /bɪ'fɔr/ /ðæt/ /de/",
+		"vietnamese": "在那天之前Cô ấy(过去)从来没有上班迟到过"
 	},
 	{
-		"chinese": "驾驶",
 		"english": "to drive",
-		"soundmark": "/tə/ /draɪv/"
+		"soundmark": "/tə/ /draɪv/",
+		"vietnamese": "[VI:驾驶]"
 	},
 	{
-		"chinese": "驾驶(ed形式)",
 		"english": "driven",
-		"soundmark": "/'drɪvn/"
+		"soundmark": "/'drɪvn/",
+		"vietnamese": "[VI:驾驶(ed形式)]"
 	},
 	{
-		"chinese": "她(过去)从来没有驾驶过",
 		"english": "she had never driven",
-		"soundmark": "/ʃi/ /hæd/ /'nɛvɚ/ /'drɪvn/"
+		"soundmark": "/ʃi/ /hæd/ /'nɛvɚ/ /'drɪvn/",
+		"vietnamese": "Cô ấy(过去)从来没有驾驶过"
 	},
 	{
-		"chinese": "车",
 		"english": "car",
-		"soundmark": "/kɑr/"
+		"soundmark": "/kɑr/",
+		"vietnamese": "[VI:车]"
 	},
 	{
-		"chinese": "她(过去)从来没有驾驶过一辆车",
 		"english": "she had never driven a car",
-		"soundmark": "/ʃi/ /hæd/ /'nɛvɚ/ /'drɪvn/ /ə/ /kɑr/"
+		"soundmark": "/ʃi/ /hæd/ /'nɛvɚ/ /'drɪvn/ /ə/ /kɑr/",
+		"vietnamese": "Cô ấy(过去)从来没有驾驶过一辆车"
 	},
 	{
-		"chinese": "驾驶",
 		"english": "to drive",
-		"soundmark": "/tə/ /draɪv/"
+		"soundmark": "/tə/ /draɪv/",
+		"vietnamese": "[VI:驾驶]"
 	},
 	{
-		"chinese": "驾驶员",
 		"english": "driver",
-		"soundmark": "/'draɪvɚ/"
+		"soundmark": "/'draɪvɚ/",
+		"vietnamese": "[VI:驾驶员]"
 	},
 	{
-		"chinese": "执照",
 		"english": "license",
-		"soundmark": "/'laɪsns/"
+		"soundmark": "/'laɪsns/",
+		"vietnamese": "[VI:执照]"
 	},
 	{
-		"chinese": "驾照",
 		"english": "driver's license",
-		"soundmark": "/'draɪvɚz/ /'laɪsns/"
+		"soundmark": "/'draɪvɚz/ /'laɪsns/",
+		"vietnamese": "[VI:驾照]"
 	},
 	{
-		"chinese": "她的驾照",
 		"english": "her driver's license",
-		"soundmark": "/hɚ/ /'draɪvɚz/ /'laɪsns/"
+		"soundmark": "/hɚ/ /'draɪvɚz/ /'laɪsns/",
+		"vietnamese": "Cô ấy的驾照"
 	},
 	{
-		"chinese": "拿到",
 		"english": "to get",
-		"soundmark": "/tə/ /ɡɛt/ /(过去)拿到 got/ /ɡɑt/"
+		"soundmark": "/tə/ /ɡɛt/ /(过去)拿到 got/ /ɡɑt/",
+		"vietnamese": "[VI:拿到]"
 	},
 	{
-		"chinese": "她(过去)拿到",
 		"english": "she got",
-		"soundmark": "/ʃi/ /ɡɑt/"
+		"soundmark": "/ʃi/ /ɡɑt/",
+		"vietnamese": "Cô ấy(过去)拿到"
 	},
 	{
-		"chinese": "她(过去)拿到她的驾照",
 		"english": "she got her driver's license",
-		"soundmark": "/ʃi/ /ɡɑt/ /hɚ/ /'draɪvɚz/ /'laɪsns/"
+		"soundmark": "/ʃi/ /ɡɑt/ /hɚ/ /'draɪvɚz/ /'laɪsns/",
+		"vietnamese": "Cô ấy(过去)拿到她的驾照"
 	},
 	{
-		"chinese": "在她(过去)拿到她的驾照之前",
 		"english": "before she got her driver's license",
-		"soundmark": "/bɪ'fɔr/ /ʃi/ /ɡɑt/ /hɚ/ /'draɪvɚz/ /'laɪsns/"
+		"soundmark": "/bɪ'fɔr/ /ʃi/ /ɡɑt/ /hɚ/ /'draɪvɚz/ /'laɪsns/",
+		"vietnamese": "在Cô ấy(过去)拿到她的驾照之前"
 	},
 	{
-		"chinese": "她(过去)从来没有驾驶过一辆车",
 		"english": "she had never driven a car",
-		"soundmark": "/ʃi/ /hæd/ /'nɛvɚ/ /'drɪvn/ /ə/ /kɑr/"
+		"soundmark": "/ʃi/ /hæd/ /'nɛvɚ/ /'drɪvn/ /ə/ /kɑr/",
+		"vietnamese": "Cô ấy(过去)从来没有驾驶过一辆车"
 	},
 	{
-		"chinese": "在她(过去)拿到她的驾照之前她,(过去)从来没有驾驶过一辆车",
 		"english": "she had never driven a car before she got her driver's license",
-		"soundmark": "/ʃi/ /hæd/ /'nɛvɚ/ /'drɪvn/ /ə/ /kɑr/ /bɪ'fɔr/ /ʃi/ /ɡɑt/ /hɚ/ /'draɪvɚz/ /'laɪsns/"
+		"soundmark": "/ʃi/ /hæd/ /'nɛvɚ/ /'drɪvn/ /ə/ /kɑr/ /bɪ'fɔr/ /ʃi/ /ɡɑt/ /hɚ/ /'draɪvɚz/ /'laɪsns/",
+		"vietnamese": "在Cô ấy(过去)拿到她的驾照之前她,(过去)从来没有驾驶过一辆车"
 	}
 ]

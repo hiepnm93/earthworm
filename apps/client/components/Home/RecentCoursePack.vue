@@ -31,13 +31,13 @@
                   class="btn btn-sm tw-btn-blue"
                   @click.stop="gotoCourseList(coursePack.coursePackId)"
                 >
-                  课程列表
+                  Khóa họcDanh sách
                 </button>
                 <button
                   class="btn btn-success btn-sm text-white"
                   @click.stop="gotoGame(coursePack.coursePackId, coursePack.courseId)"
                 >
-                  继续游戏
+                  Tiếp tục游戏
                 </button>
               </div>
             </template>
@@ -49,7 +49,7 @@
           暂无记录，<NuxtLink
             href="/course-pack"
             class="link text-blue-500 no-underline hover:opacity-75"
-            >先学习一课， </NuxtLink
+            >先Học tậpmột课， </NuxtLink
           >再来看看吧~
         </div>
       </template>

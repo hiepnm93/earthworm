@@ -59,7 +59,7 @@ export async function insertStatement(
   const defaultStatement = {
     order,
     courseId,
-    chinese: "你好",
+    vietnamese: "Xin chào",
     english: "hello",
     soundmark: "nihao",
   } satisfies StatementInsert;

@@ -1,787 +1,787 @@
 [
 	{
-		"chinese": "做",
 		"english": "to make",
-		"soundmark": "/tə/ /mek/"
+		"soundmark": "/tə/ /mek/",
+		"vietnamese": "làm"
 	},
 	{
-		"chinese": "承诺",
 		"english": "promise",
-		"soundmark": "/'prɑmɪs/"
+		"soundmark": "/'prɑmɪs/",
+		"vietnamese": "[VI:承诺]"
 	},
 	{
-		"chinese": "做一个承诺",
 		"english": "to make a promise",
-		"soundmark": "/tə/ /mek/ /ə/ /'prɑmɪs/"
+		"soundmark": "/tə/ /mek/ /ə/ /'prɑmɪs/",
+		"vietnamese": "làm一个承诺"
 	},
 	{
-		"chinese": "你",
 		"english": "you",
-		"soundmark": "/ju/"
+		"soundmark": "/ju/",
+		"vietnamese": "Bạn"
 	},
 	{
-		"chinese": "需要",
 		"english": "need",
-		"soundmark": "/nid/"
+		"soundmark": "/nid/",
+		"vietnamese": "cần"
 	},
 	{
-		"chinese": "你需要",
 		"english": "you need",
-		"soundmark": "/ju/ /nid/"
+		"soundmark": "/ju/ /nid/",
+		"vietnamese": "Bạncần"
 	},
 	{
-		"chinese": "你需要做一个承诺",
 		"english": "you need to make a promise",
-		"soundmark": "/ju/ /nid/ /tə/ /mek/ /ə/ /'prɑmɪs/"
+		"soundmark": "/ju/ /nid/ /tə/ /mek/ /ə/ /'prɑmɪs/",
+		"vietnamese": "Bạncần làm一个承诺"
 	},
 	{
-		"chinese": "做一个承诺",
 		"english": "to make a promise",
-		"soundmark": "/tə/ /mek/ /ə/ /'prɑmɪs/"
+		"soundmark": "/tə/ /mek/ /ə/ /'prɑmɪs/",
+		"vietnamese": "làm一个承诺"
 	},
 	{
-		"chinese": "我想要你",
 		"english": "I want you",
-		"soundmark": "/aɪ/ /wɑnt/ /ju/"
+		"soundmark": "/aɪ/ /wɑnt/ /ju/",
+		"vietnamese": "Tôi muốnBạn"
 	},
 	{
-		"chinese": "我想要你做一个承诺",
 		"english": "I want you to make a promise",
-		"soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /mek/ /ə/ /'prɑmɪs/"
+		"soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /mek/ /ə/ /'prɑmɪs/",
+		"vietnamese": "Tôi muốnBạnlàm一个承诺"
 	},
 	{
-		"chinese": "不",
 		"english": "don't",
-		"soundmark": "/dont/"
+		"soundmark": "/dont/",
+		"vietnamese": "không"
 	},
 	{
-		"chinese": "我不想要你做一个承诺",
 		"english": "I don't want you to make a promise",
-		"soundmark": "/aɪ/ /dont/ /wɑnt/ /ju/ /tə/ /mek/ /ə/ /'prɑmɪs/"
+		"soundmark": "/aɪ/ /dont/ /wɑnt/ /ju/ /tə/ /mek/ /ə/ /'prɑmɪs/",
+		"vietnamese": "Tôi không muốn要Bạnlàm一个承诺"
 	},
 	{
-		"chinese": "承诺",
 		"english": "promise",
-		"soundmark": "/'prɑmɪs/"
+		"soundmark": "/'prɑmɪs/",
+		"vietnamese": "[VI:承诺]"
 	},
 	{
-		"chinese": "这个承诺",
 		"english": "the promise",
-		"soundmark": "/ðə/ /'prɑmɪs/"
+		"soundmark": "/ðə/ /'prɑmɪs/",
+		"vietnamese": "[VI:这个承诺]"
 	},
 	{
-		"chinese": "保持",
 		"english": "to keep",
-		"soundmark": "/tə/ /kip/"
+		"soundmark": "/tə/ /kip/",
+		"vietnamese": "[VI:保持]"
 	},
 	{
-		"chinese": "遵守这个承诺",
 		"english": "to keep the promise",
-		"soundmark": "/tə/ /kip/ /ðə/ /'prɑmɪs/"
+		"soundmark": "/tə/ /kip/ /ðə/ /'prɑmɪs/",
+		"vietnamese": "[VI:遵守这个承诺]"
 	},
 	{
-		"chinese": "你需要",
 		"english": "you need",
-		"soundmark": "/ju/ /nid/"
+		"soundmark": "/ju/ /nid/",
+		"vietnamese": "Bạncần"
 	},
 	{
-		"chinese": "你需要遵守这个承诺",
 		"english": "you need to keep the promise",
-		"soundmark": "/ju/ /nid/ /tə/ /kip/ /ðə/ /'prɑmɪs/"
+		"soundmark": "/ju/ /nid/ /tə/ /kip/ /ðə/ /'prɑmɪs/",
+		"vietnamese": "Bạncần遵守这个承诺"
 	},
 	{
-		"chinese": "能够",
 		"english": "can",
-		"soundmark": "/kæn/"
+		"soundmark": "/kæn/",
+		"vietnamese": "[VI:能够]"
 	},
 	{
-		"chinese": "你能够遵守这个承诺",
 		"english": "you can keep the promise",
-		"soundmark": "/ju/ /kæn/ /kip/ /ðə/ /'prɑmɪs/"
+		"soundmark": "/ju/ /kæn/ /kip/ /ðə/ /'prɑmɪs/",
+		"vietnamese": "Bạn能够遵守这个承诺"
 	},
 	{
-		"chinese": "不能",
 		"english": "can't",
-		"soundmark": "/kænt/"
+		"soundmark": "/kænt/",
+		"vietnamese": "không能"
 	},
 	{
-		"chinese": "你不能遵守这个承诺",
 		"english": "you can't keep the promise",
-		"soundmark": "/ju/ /kænt/ /kip/ /ðə/ /'prɑmɪs/"
+		"soundmark": "/ju/ /kænt/ /kip/ /ðə/ /'prɑmɪs/",
+		"vietnamese": "Bạnkhông能遵守这个承诺"
 	},
 	{
-		"chinese": "你不能遵守的这个承诺",
 		"english": "the promise you can't keep",
-		"soundmark": "/ðə/ /'prɑmɪs/ /ju/ /kænt/ /kip/"
+		"soundmark": "/ðə/ /'prɑmɪs/ /ju/ /kænt/ /kip/",
+		"vietnamese": "Bạnkhông能遵守的这个承诺"
 	},
 	{
-		"chinese": "你不能遵守",
 		"english": "you can't keep",
-		"soundmark": "/ju/ /kænt/ /kip/"
+		"soundmark": "/ju/ /kænt/ /kip/",
+		"vietnamese": "Bạnkhông能遵守"
 	},
 	{
-		"chinese": "我不想要你做一个承诺",
 		"english": "I don't want you to make a promise",
-		"soundmark": "/aɪ/ /dont/ /wɑnt/ /ju/ /tə/ /mek/ /ə/ /'prɑmɪs/"
+		"soundmark": "/aɪ/ /dont/ /wɑnt/ /ju/ /tə/ /mek/ /ə/ /'prɑmɪs/",
+		"vietnamese": "Tôi không muốn要Bạnlàm一个承诺"
 	},
 	{
-		"chinese": "我不想要你做一个你不能遵守的承诺",
 		"english": "I don't want you to make a promise you can't keep",
-		"soundmark": "/aɪ/ /dont/ /wɑnt/ /ju/ /tə/ /mek/ /ə/ /'prɑmɪs/ /ju/ /kænt/ /kip/"
+		"soundmark": "/aɪ/ /dont/ /wɑnt/ /ju/ /tə/ /mek/ /ə/ /'prɑmɪs/ /ju/ /kænt/ /kip/",
+		"vietnamese": "Tôi không muốn要Bạnlàm一个你không能遵守的承诺"
 	},
 	{
-		"chinese": "保持",
 		"english": "to keep",
-		"soundmark": "/tə/ /kip/"
+		"soundmark": "/tə/ /kip/",
+		"vietnamese": "[VI:保持]"
 	},
 	{
-		"chinese": "安静",
 		"english": "quiet",
-		"soundmark": "/'kwaɪət/"
+		"soundmark": "/'kwaɪət/",
+		"vietnamese": "[VI:安静]"
 	},
 	{
-		"chinese": "保持安静",
 		"english": "to keep quiet",
-		"soundmark": "/tə/ /kip/ /'kwaɪət/"
+		"soundmark": "/tə/ /kip/ /'kwaɪət/",
+		"vietnamese": "[VI:保持安静]"
 	},
 	{
-		"chinese": "你必须保持安静",
 		"english": "you have to keep quiet",
-		"soundmark": "/ju/ /hæv/ /tə/ /kip/ /'kwaɪət/"
+		"soundmark": "/ju/ /hæv/ /tə/ /kip/ /'kwaɪət/",
+		"vietnamese": "Bạnphải保持安静"
 	},
 	{
-		"chinese": "鱼",
 		"english": "fish",
-		"soundmark": "/fɪʃ/"
+		"soundmark": "/fɪʃ/",
+		"vietnamese": "[VI:鱼]"
 	},
 	{
-		"chinese": "钓鱼",
 		"english": "to fish",
-		"soundmark": "/tə/ /fɪʃ/"
+		"soundmark": "/tə/ /fɪʃ/",
+		"vietnamese": "[VI:钓鱼]"
 	},
 	{
-		"chinese": "钓鱼(ing形式）",
 		"english": "fishing",
-		"soundmark": "/'fɪʃɪŋ/"
+		"soundmark": "/'fɪʃɪŋ/",
+		"vietnamese": "[VI:钓鱼(ing形式）]"
 	},
 	{
-		"chinese": "正在钓鱼",
 		"english": "be fishing",
-		"soundmark": "/bi/ /'fɪʃɪŋ/"
+		"soundmark": "/bi/ /'fɪʃɪŋ/",
+		"vietnamese": "[VI:正在钓鱼]"
 	},
 	{
-		"chinese": "你（现在）正在钓鱼",
 		"english": "you are fishing",
-		"soundmark": "/ju/ /ɚ/ /'fɪʃɪŋ/"
+		"soundmark": "/ju/ /ɚ/ /'fɪʃɪŋ/",
+		"vietnamese": "Bạn（bây giờ）正在钓鱼"
 	},
 	{
-		"chinese": "当......时候",
 		"english": "when",
-		"soundmark": "/wɛn/"
+		"soundmark": "/wɛn/",
+		"vietnamese": "[VI:当......时候]"
 	},
 	{
-		"chinese": "当你（现在）正在钓鱼的时候",
 		"english": "when you are fishing",
-		"soundmark": "/wɛn/ /ju/ /ɚ/ /'fɪʃɪŋ/"
+		"soundmark": "/wɛn/ /ju/ /ɚ/ /'fɪʃɪŋ/",
+		"vietnamese": "当Bạn（bây giờ）正在钓鱼的时候"
 	},
 	{
-		"chinese": "你必须保持安静",
 		"english": "you have to keep quiet",
-		"soundmark": "/ju/ /hæv/ /tə/ /kip/ /'kwaɪət/"
+		"soundmark": "/ju/ /hæv/ /tə/ /kip/ /'kwaɪət/",
+		"vietnamese": "Bạnphải保持安静"
 	},
 	{
-		"chinese": "你必须保持安静当你（现在）正在钓鱼的时候",
 		"english": "you have to keep quiet when you are fishing",
-		"soundmark": "/ju/ /hæv/ /tə/ /kip/ /'kwaɪət/ /wɛn/ /ju/ /ɚ/ /'fɪʃɪŋ/"
+		"soundmark": "/ju/ /hæv/ /tə/ /kip/ /'kwaɪət/ /wɛn/ /ju/ /ɚ/ /'fɪʃɪŋ/",
+		"vietnamese": "Bạnphải保持安静当你（bây giờ）正在钓鱼的时候"
 	},
 	{
-		"chinese": "保持",
 		"english": "to keep",
-		"soundmark": "/tə/ /kip/"
+		"soundmark": "/tə/ /kip/",
+		"vietnamese": "[VI:保持]"
 	},
 	{
-		"chinese": "秘密",
 		"english": "secret",
-		"soundmark": "/'sikrət/"
+		"soundmark": "/'sikrət/",
+		"vietnamese": "[VI:秘密]"
 	},
 	{
-		"chinese": "保守一个秘密",
 		"english": "to keep a secret",
-		"soundmark": "/tə/ /kip/ /ə/ /'sikrət/"
+		"soundmark": "/tə/ /kip/ /ə/ /'sikrət/",
+		"vietnamese": "[VI:保守一个秘密]"
 	},
 	{
-		"chinese": "我们的",
 		"english": "our",
-		"soundmark": "/'aʊɚ/"
+		"soundmark": "/'aʊɚ/",
+		"vietnamese": "Chúng tôi的"
 	},
 	{
-		"chinese": "我们的秘密",
 		"english": "our secret",
-		"soundmark": "/'aʊɚ/ /'sikrət/"
+		"soundmark": "/'aʊɚ/ /'sikrət/",
+		"vietnamese": "Chúng tôi的秘密"
 	},
 	{
-		"chinese": "保守我们的秘密",
 		"english": "to keep our secret",
-		"soundmark": "/tə/ /kip/ /'aʊɚ/ /'sikrət/"
+		"soundmark": "/tə/ /kip/ /'aʊɚ/ /'sikrət/",
+		"vietnamese": "保守Chúng tôi的秘密"
 	},
 	{
-		"chinese": "你必须保守我们的秘密",
 		"english": "you have to keep our secret",
-		"soundmark": "/ju/ /hæv/ /tə/ /kip/ /'aʊɚ/ /'sikrət/"
+		"soundmark": "/ju/ /hæv/ /tə/ /kip/ /'aʊɚ/ /'sikrət/",
+		"vietnamese": "Bạnphải保守Chúng tôi的秘密"
 	},
 	{
-		"chinese": "保守一个秘密",
 		"english": "to keep a secret",
-		"soundmark": "/tə/ /kip/ /ə/ /'sikrət/"
+		"soundmark": "/tə/ /kip/ /ə/ /'sikrət/",
+		"vietnamese": "[VI:保守一个秘密]"
 	},
 	{
-		"chinese": "她",
 		"english": "she",
-		"soundmark": "/ʃi/"
+		"soundmark": "/ʃi/",
+		"vietnamese": "Cô ấy"
 	},
 	{
-		"chinese": "不可以",
 		"english": "can't",
-		"soundmark": "/kænt/"
+		"soundmark": "/kænt/",
+		"vietnamese": "không可以"
 	},
 	{
-		"chinese": "她不可以",
 		"english": "she can't",
-		"soundmark": "/ʃi/ /kænt/"
+		"soundmark": "/ʃi/ /kænt/",
+		"vietnamese": "Cô ấykhông可以"
 	},
 	{
-		"chinese": "她不可以保守一个秘密",
 		"english": "she can't keep a secret",
-		"soundmark": "/ʃi/ /kænt/ /kip/ /ə/ /'sikrət/"
+		"soundmark": "/ʃi/ /kænt/ /kip/ /ə/ /'sikrət/",
+		"vietnamese": "Cô ấykhông可以保守一个秘密"
 	},
 	{
-		"chinese": "分钟",
 		"english": "minute",
-		"soundmark": "/'mɪnɪt/"
+		"soundmark": "/'mɪnɪt/",
+		"vietnamese": "[VI:分钟]"
 	},
 	{
-		"chinese": "五",
 		"english": "five",
-		"soundmark": "/faɪv/"
+		"soundmark": "/faɪv/",
+		"vietnamese": "[VI:五]"
 	},
 	{
-		"chinese": "五分钟",
 		"english": "five minutes",
-		"soundmark": "/faɪv/ /'mɪnɪts/"
+		"soundmark": "/faɪv/ /'mɪnɪts/",
+		"vietnamese": "[VI:五分钟]"
 	},
 	{
-		"chinese": "她不可以保守一个秘密五分钟",
 		"english": "she can't keep a secret for five minutes",
-		"soundmark": "/ʃi/ /kænt/ /kip/ /ə/ /'sikrət/ /fɝ/ /faɪv/ /'mɪnɪts/"
+		"soundmark": "/ʃi/ /kænt/ /kip/ /ə/ /'sikrət/ /fɝ/ /faɪv/ /'mɪnɪts/",
+		"vietnamese": "Cô ấykhông可以保守一个秘密五分钟"
 	},
 	{
-		"chinese": "说",
 		"english": "to say",
-		"soundmark": "/tə/ /seɪ/"
+		"soundmark": "/tə/ /seɪ/",
+		"vietnamese": "[VI:说]"
 	},
 	{
-		"chinese": "她（过去）说",
 		"english": "she said",
-		"soundmark": "/ʃi/ /sɛd/"
+		"soundmark": "/ʃi/ /sɛd/",
+		"vietnamese": "Cô ấy（过去）说"
 	},
 	{
-		"chinese": "她（过去）说她不可以保守一个秘密五分钟",
 		"english": "she said she can't keep a secret for five minutes",
-		"soundmark": "/ʃi/ /sɛd/ /ʃi/ /kænt/ /kip/ /ə/ /'sikrət/ /fɝ/ /faɪv/ /'mɪnɪts/"
+		"soundmark": "/ʃi/ /sɛd/ /ʃi/ /kænt/ /kip/ /ə/ /'sikrət/ /fɝ/ /faɪv/ /'mɪnɪts/",
+		"vietnamese": "Cô ấy（过去）说她không可以保守一个秘密五分钟"
 	},
 	{
-		"chinese": "保持",
 		"english": "to keep",
-		"soundmark": "/tə/ /kip/"
+		"soundmark": "/tə/ /kip/",
+		"vietnamese": "[VI:保持]"
 	},
 	{
-		"chinese": "平衡",
 		"english": "balance",
-		"soundmark": "/'bæləns/"
+		"soundmark": "/'bæləns/",
+		"vietnamese": "[VI:平衡]"
 	},
 	{
-		"chinese": "保持平衡",
 		"english": "to keep balance",
-		"soundmark": "/tə/ /kip/ /'bæləns/"
+		"soundmark": "/tə/ /kip/ /'bæləns/",
+		"vietnamese": "[VI:保持平衡]"
 	},
 	{
-		"chinese": "好的",
 		"english": "good",
-		"soundmark": "/ɡʊd/"
+		"soundmark": "/ɡʊd/",
+		"vietnamese": "tốt"
 	},
 	{
-		"chinese": "保持一个好的平衡",
 		"english": "to keep a good balance",
-		"soundmark": "/tə/ /kip/ /ə/ /ɡʊd/ /'bæləns/"
+		"soundmark": "/tə/ /kip/ /ə/ /ɡʊd/ /'bæləns/",
+		"vietnamese": "保持一个tốt平衡"
 	},
 	{
-		"chinese": "工作",
 		"english": "work",
-		"soundmark": "/wɝk/"
+		"soundmark": "/wɝk/",
+		"vietnamese": "[VI:工作]"
 	},
 	{
-		"chinese": "生活",
 		"english": "life",
-		"soundmark": "/laɪf/"
+		"soundmark": "/laɪf/",
+		"vietnamese": "[VI:生活]"
 	},
 	{
-		"chinese": "和",
 		"english": "and",
-		"soundmark": "/ənd/"
+		"soundmark": "/ənd/",
+		"vietnamese": "và"
 	},
 	{
-		"chinese": "工作和生活",
 		"english": "work and life",
-		"soundmark": "/wɝk/ /ənd/ /laɪf/"
+		"soundmark": "/wɝk/ /ənd/ /laɪf/",
+		"vietnamese": "工作và生活"
 	},
 	{
-		"chinese": "在......之间",
 		"english": "between",
-		"soundmark": "/bɪ'twin/"
+		"soundmark": "/bɪ'twin/",
+		"vietnamese": "[VI:在......之间]"
 	},
 	{
-		"chinese": "在工作和生活之间",
 		"english": "between work and life",
-		"soundmark": "/bɪ'twin/ /wɝk/ /ənd/ /laɪf/"
+		"soundmark": "/bɪ'twin/ /wɝk/ /ənd/ /laɪf/",
+		"vietnamese": "在工作và生活之间"
 	},
 	{
-		"chinese": "保持一个好的平衡",
 		"english": "to keep a good balance",
-		"soundmark": "/tə/ /kip/ /ə/ /ɡʊd/ /'bæləns/"
+		"soundmark": "/tə/ /kip/ /ə/ /ɡʊd/ /'bæləns/",
+		"vietnamese": "保持一个tốt平衡"
 	},
 	{
-		"chinese": "在工作和生活之间保持一个好的平衡",
 		"english": "to keep a good balance between work and life",
-		"soundmark": "/tə/ /kip/ /ə/ /ɡʊd/ /'bæləns/ /bɪ'twin/ /wɝk/ /ənd/ /laɪf/"
+		"soundmark": "/tə/ /kip/ /ə/ /ɡʊd/ /'bæləns/ /bɪ'twin/ /wɝk/ /ənd/ /laɪf/",
+		"vietnamese": "在工作và生活之间保持一个tốt平衡"
 	},
 	{
-		"chinese": "你",
 		"english": "you",
-		"soundmark": "/ju/"
+		"soundmark": "/ju/",
+		"vietnamese": "Bạn"
 	},
 	{
-		"chinese": "你必须在工作和生活之间保持一个好的平衡",
 		"english": "you have to keep a good balance between work and life",
-		"soundmark": "/ju/ /hæv/ /tə/ /kip/ /ə/ /ɡʊd/ /'bæləns/ /bɪ'twin/ /wɝk/ /ənd/ /laɪf/"
+		"soundmark": "/ju/ /hæv/ /tə/ /kip/ /ə/ /ɡʊd/ /'bæləns/ /bɪ'twin/ /wɝk/ /ənd/ /laɪf/",
+		"vietnamese": "Bạnphải在工作và生活之间保持一个tốt平衡"
 	},
 	{
-		"chinese": "困难的",
 		"english": "difficult",
-		"soundmark": "/'dɪfɪkəlt/"
+		"soundmark": "/'dɪfɪkəlt/",
+		"vietnamese": "[VI:困难的]"
 	},
 	{
-		"chinese": "它；这件事情",
 		"english": "it",
-		"soundmark": "/ɪt/"
+		"soundmark": "/ɪt/",
+		"vietnamese": "Nó"
 	},
 	{
-		"chinese": "它是困难的",
 		"english": "it is difficult",
-		"soundmark": "/ɪt/ /ɪz/ /'dɪfɪkəlt/"
+		"soundmark": "/ɪt/ /ɪz/ /'dɪfɪkəlt/",
+		"vietnamese": "Nó là困难的"
 	},
 	{
-		"chinese": "一个好的平衡",
 		"english": "a good balance",
-		"soundmark": "/ə/ /ɡʊd/ /'bæləns/"
+		"soundmark": "/ə/ /ɡʊd/ /'bæləns/",
+		"vietnamese": "一个tốt平衡"
 	},
 	{
-		"chinese": "保持",
 		"english": "to keep",
-		"soundmark": "/tə/ /kip/"
+		"soundmark": "/tə/ /kip/",
+		"vietnamese": "[VI:保持]"
 	},
 	{
-		"chinese": "保持一个好的平衡",
 		"english": "to keep a good balance",
-		"soundmark": "/tə/ /kip/ /ə/ /ɡʊd/ /'bæləns/"
+		"soundmark": "/tə/ /kip/ /ə/ /ɡʊd/ /'bæləns/",
+		"vietnamese": "保持一个tốt平衡"
 	},
 	{
-		"chinese": "工作和生活",
 		"english": "work and life",
-		"soundmark": "/wɝk/ /ənd/ /laɪf/"
+		"soundmark": "/wɝk/ /ənd/ /laɪf/",
+		"vietnamese": "工作và生活"
 	},
 	{
-		"chinese": "在......之间",
 		"english": "between",
-		"soundmark": "/bɪ'twin/"
+		"soundmark": "/bɪ'twin/",
+		"vietnamese": "[VI:在......之间]"
 	},
 	{
-		"chinese": "在工作和生活之间",
 		"english": "between work and life",
-		"soundmark": "/bɪ'twin/ /wɝk/ /ənd/ /laɪf/"
+		"soundmark": "/bɪ'twin/ /wɝk/ /ənd/ /laɪf/",
+		"vietnamese": "在工作và生活之间"
 	},
 	{
-		"chinese": "在工作和生活之间保持一个好的平衡",
 		"english": "to keep a good balance between work and life",
-		"soundmark": "/tə/ /kip/ /ə/ /ɡʊd/ /'bæləns/ /bɪ'twin/ /wɝk/ /ənd/ /laɪf/"
+		"soundmark": "/tə/ /kip/ /ə/ /ɡʊd/ /'bæləns/ /bɪ'twin/ /wɝk/ /ənd/ /laɪf/",
+		"vietnamese": "在工作và生活之间保持一个tốt平衡"
 	},
 	{
-		"chinese": "它是困难的",
 		"english": "it is difficult",
-		"soundmark": "/ɪt/ /ɪz/ /'dɪfɪkəlt/"
+		"soundmark": "/ɪt/ /ɪz/ /'dɪfɪkəlt/",
+		"vietnamese": "Nó là困难的"
 	},
 	{
-		"chinese": "在工作和生活之间保持一个好的平衡（它）是困难的",
 		"english": "it is difficult to keep a good balance between work and life",
-		"soundmark": "/ɪt/ /ɪz/ /'dɪfɪkəlt/ /tə/ /kip/ /ə/ /ɡʊd/ /'bæləns/ /bɪ'twin/ /wɝk/ /ənd/ /laɪf/"
+		"soundmark": "/ɪt/ /ɪz/ /'dɪfɪkəlt/ /tə/ /kip/ /ə/ /ɡʊd/ /'bæləns/ /bɪ'twin/ /wɝk/ /ənd/ /laɪf/",
+		"vietnamese": "在工作và生活之间保持一个tốt平衡（Nó）là困难的"
 	},
 	{
-		"chinese": "非常",
 		"english": "very",
-		"soundmark": "/ˈvɛri/"
+		"soundmark": "/ˈvɛri/",
+		"vietnamese": "rất"
 	},
 	{
-		"chinese": "在工作和生活之间保持一个好的平衡（它）是非常困难的",
 		"english": "it is very difficult to keep a good balance between work and life",
-		"soundmark": "/ɪt/ /ɪz/ /ˈvɛri/ /'dɪfɪkəlt/ /tə/ /kip/ /ə/ /ɡʊd/ /'bæləns/ /bɪ'twin/ /wɝk/ /ənd/ /laɪf/"
+		"soundmark": "/ɪt/ /ɪz/ /ˈvɛri/ /'dɪfɪkəlt/ /tə/ /kip/ /ə/ /ɡʊd/ /'bæləns/ /bɪ'twin/ /wɝk/ /ənd/ /laɪf/",
+		"vietnamese": "在工作và生活之间保持一个tốt平衡（Nó）làrất困难的"
 	},
 	{
-		"chinese": "保持",
 		"english": "to keep",
-		"soundmark": "/tə/ /kip/"
+		"soundmark": "/tə/ /kip/",
+		"vietnamese": "[VI:保持]"
 	},
 	{
-		"chinese": "安静",
 		"english": "quiet",
-		"soundmark": "/'kwaɪət/"
+		"soundmark": "/'kwaɪət/",
+		"vietnamese": "[VI:安静]"
 	},
 	{
-		"chinese": "保持安静",
 		"english": "to keep quiet",
-		"soundmark": "/tə/ /kip/ /'kwaɪət/"
+		"soundmark": "/tə/ /kip/ /'kwaɪət/",
+		"vietnamese": "[VI:保持安静]"
 	},
 	{
-		"chinese": "关于",
 		"english": "about",
-		"soundmark": "/ə'baʊt/"
+		"soundmark": "/ə'baʊt/",
+		"vietnamese": "[VI:关于]"
 	},
 	{
-		"chinese": "那件事",
 		"english": "it",
-		"soundmark": "/ɪt/"
+		"soundmark": "/ɪt/",
+		"vietnamese": "[VI:那件事]"
 	},
 	{
-		"chinese": "关于那件事",
 		"english": "about it",
-		"soundmark": "/ə'baʊt/ /ɪt/"
+		"soundmark": "/ə'baʊt/ /ɪt/",
+		"vietnamese": "[VI:关于那件事]"
 	},
 	{
-		"chinese": "对于那件事保持沉默",
 		"english": "to keep quiet about it",
-		"soundmark": "/tə/ /kip/ /'kwaɪət/ /ə'baʊt/ /ɪt/"
+		"soundmark": "/tə/ /kip/ /'kwaɪət/ /ə'baʊt/ /ɪt/",
+		"vietnamese": "[VI:对于那件事保持沉默]"
 	},
 	{
-		"chinese": "告诉",
 		"english": "to tell",
-		"soundmark": "/tə/ /tɛl/"
+		"soundmark": "/tə/ /tɛl/",
+		"vietnamese": "nói"
 	},
 	{
-		"chinese": "我（过去）告诉你",
 		"english": "I told you",
-		"soundmark": "/aɪ/ /told/ /ju/"
+		"soundmark": "/aɪ/ /told/ /ju/",
+		"vietnamese": "Tôi（过去）nói với bạn"
 	},
 	{
-		"chinese": "我（过去）告诉你对于那件事保持沉默",
 		"english": "I told you to keep quiet about it",
-		"soundmark": "/aɪ/ /told/ /ju/ /tə/ /kip/ /'kwaɪət/ /ə'baʊt/ /ɪt/"
+		"soundmark": "/aɪ/ /told/ /ju/ /tə/ /kip/ /'kwaɪət/ /ə'baʊt/ /ɪt/",
+		"vietnamese": "Tôi（过去）nói với bạn对于那件事保持沉默"
 	},
 	{
-		"chinese": "计划",
 		"english": "plan",
-		"soundmark": "/plæn/"
+		"soundmark": "/plæn/",
+		"vietnamese": "[VI:计划]"
 	},
 	{
-		"chinese": "我的",
 		"english": "my",
-		"soundmark": "/maɪ/"
+		"soundmark": "/maɪ/",
+		"vietnamese": "Tôi的"
 	},
 	{
-		"chinese": "我的计划",
 		"english": "my plan",
-		"soundmark": "/maɪ/ /plæn/"
+		"soundmark": "/maɪ/ /plæn/",
+		"vietnamese": "Tôi的计划"
 	},
 	{
-		"chinese": "关于我的计划",
 		"english": "about my plan",
-		"soundmark": "/ə'baʊt/ /maɪ/ /plæn/"
+		"soundmark": "/ə'baʊt/ /maɪ/ /plæn/",
+		"vietnamese": "关于Tôi的计划"
 	},
 	{
-		"chinese": "保持沉默",
 		"english": "to keep quiet",
-		"soundmark": "/tə/ /kip/ /'kwaɪət/"
+		"soundmark": "/tə/ /kip/ /'kwaɪət/",
+		"vietnamese": "[VI:保持沉默]"
 	},
 	{
-		"chinese": "对于我的计划保持沉默",
 		"english": "to keep quiet about my plan",
-		"soundmark": "/tə/ /kip/ /'kwaɪət/ /ə'baʊt/ /maɪ/ /plæn/"
+		"soundmark": "/tə/ /kip/ /'kwaɪət/ /ə'baʊt/ /maɪ/ /plæn/",
+		"vietnamese": "对于Tôi的计划保持沉默"
 	},
 	{
-		"chinese": "我（过去）告诉你",
 		"english": "I told you",
-		"soundmark": "/aɪ/ /told/ /ju/"
+		"soundmark": "/aɪ/ /told/ /ju/",
+		"vietnamese": "Tôi（过去）nói với bạn"
 	},
 	{
-		"chinese": "我（过去）告诉你对于我的计划保持沉默",
 		"english": "I told you to keep quiet about my plan",
-		"soundmark": "/aɪ/ /told/ /ju/ /tə/ /kip/ /'kwaɪət/ /ə'baʊt/ /maɪ/ /plæn/"
+		"soundmark": "/aɪ/ /told/ /ju/ /tə/ /kip/ /'kwaɪət/ /ə'baʊt/ /maɪ/ /plæn/",
+		"vietnamese": "Tôi（过去）nói với bạn对于我的计划保持沉默"
 	},
 	{
-		"chinese": "做一个承诺",
 		"english": "to make a promise",
-		"soundmark": "/tə/ /mek/ /ə/ /'prɑmɪs/"
+		"soundmark": "/tə/ /mek/ /ə/ /'prɑmɪs/",
+		"vietnamese": "làm一个承诺"
 	},
 	{
-		"chinese": "承诺",
 		"english": "to promise",
-		"soundmark": "/tə/ /'prɑmɪs/"
+		"soundmark": "/tə/ /'prɑmɪs/",
+		"vietnamese": "[VI:承诺]"
 	},
 	{
-		"chinese": "你（过去）承诺",
 		"english": "you promised",
-		"soundmark": "/ju/ /'prɑmɪst/"
+		"soundmark": "/ju/ /'prɑmɪst/",
+		"vietnamese": "Bạn（过去）承诺"
 	},
 	{
-		"chinese": "你（过去）承诺对于我的计划保持沉默",
 		"english": "you promised to keep quiet about my plan",
-		"soundmark": "/ju/ /'prɑmɪst/ /tə/ /kip/ /'kwaɪət/ /ə'baʊt/ /maɪ/ /plæn/"
+		"soundmark": "/ju/ /'prɑmɪst/ /tə/ /kip/ /'kwaɪət/ /ə'baʊt/ /maɪ/ /plæn/",
+		"vietnamese": "Bạn（过去）承诺对于Tôi的计划保持沉默"
 	},
 	{
-		"chinese": "承诺",
 		"english": "to promise",
-		"soundmark": "/tə/ /'prɑmɪs/"
+		"soundmark": "/tə/ /'prɑmɪs/",
+		"vietnamese": "[VI:承诺]"
 	},
 	{
-		"chinese": "我",
 		"english": "me",
-		"soundmark": "/mi/"
+		"soundmark": "/mi/",
+		"vietnamese": "Tôi"
 	},
 	{
-		"chinese": "承诺我",
 		"english": "to promise me",
-		"soundmark": "/tə/ /'prɑmɪs/ /mi/"
+		"soundmark": "/tə/ /'prɑmɪs/ /mi/",
+		"vietnamese": "承诺Tôi"
 	},
 	{
-		"chinese": "我想要你",
 		"english": "I want you",
-		"soundmark": "/aɪ/ /wɑnt/ /ju/"
+		"soundmark": "/aɪ/ /wɑnt/ /ju/",
+		"vietnamese": "Tôi muốnBạn"
 	},
 	{
-		"chinese": "我想要你承诺我",
 		"english": "I want you to promise me",
-		"soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /'prɑmɪs/ /mi/"
+		"soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /'prɑmɪs/ /mi/",
+		"vietnamese": "Tôi muốnBạn承诺Tôi"
 	},
 	{
-		"chinese": "你将会",
 		"english": "you will",
-		"soundmark": "/ju/ /wɪl/"
+		"soundmark": "/ju/ /wɪl/",
+		"vietnamese": "Bạn将会"
 	},
 	{
-		"chinese": "告诉",
 		"english": "to tell",
-		"soundmark": "/tə/ /tɛl/"
+		"soundmark": "/tə/ /tɛl/",
+		"vietnamese": "nói"
 	},
 	{
-		"chinese": "你将会告诉",
 		"english": "you will tell",
-		"soundmark": "/ju/ /wɪl/ /tɛl/"
+		"soundmark": "/ju/ /wɪl/ /tɛl/",
+		"vietnamese": "Bạn将会nói"
 	},
 	{
-		"chinese": "你将不会告诉",
 		"english": "you will not tell",
-		"soundmark": "/ju/ /wɪl/ /nɑt/ /tɛl/"
+		"soundmark": "/ju/ /wɪl/ /nɑt/ /tɛl/",
+		"vietnamese": "Bạn将không会nói"
 	},
 	{
-		"chinese": "他",
 		"english": "him",
-		"soundmark": "/hɪm/"
+		"soundmark": "/hɪm/",
+		"vietnamese": "Anh ấy"
 	},
 	{
-		"chinese": "你将不会告诉他",
 		"english": "you will not tell him",
-		"soundmark": "/ju/ /wɪl/ /nɑt/ /tɛl/ /hɪm/"
+		"soundmark": "/ju/ /wɪl/ /nɑt/ /tɛl/ /hɪm/",
+		"vietnamese": "Bạn将không会nóiAnh ấy"
 	},
 	{
-		"chinese": "真相",
 		"english": "the truth",
-		"soundmark": "/ðə/ /trʊθ/"
+		"soundmark": "/ðə/ /trʊθ/",
+		"vietnamese": "[VI:真相]"
 	},
 	{
-		"chinese": "你将不会告诉他真相",
 		"english": "you will not tell him the truth",
-		"soundmark": "/ju/ /wɪl/ /nɑt/ /tɛl/ /hɪm/ /ðə/ /trʊθ/"
+		"soundmark": "/ju/ /wɪl/ /nɑt/ /tɛl/ /hɪm/ /ðə/ /trʊθ/",
+		"vietnamese": "Bạn将không会nóiAnh ấy真相"
 	},
 	{
-		"chinese": "我想要你承诺我你将不会告诉他真相",
 		"english": "I want you to promise me you will not tell him the truth",
-		"soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /'prɑmɪs/ /mi/ /ju/ /wɪl/ /nɑt/ /tɛl/ /hɪm/ /ðə/ /trʊθ/"
+		"soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /'prɑmɪs/ /mi/ /ju/ /wɪl/ /nɑt/ /tɛl/ /hɪm/ /ðə/ /trʊθ/",
+		"vietnamese": "Tôi muốnBạn承诺Tôi你将không会nóiAnh ấy真相"
 	},
 	{
-		"chinese": "绝不",
 		"english": "never",
-		"soundmark": "/'nɛvɚ/"
+		"soundmark": "/'nɛvɚ/",
+		"vietnamese": "绝không"
 	},
 	{
-		"chinese": "我想要你承诺我你将绝不会告诉他真相",
 		"english": "I want you to promise me you will never tell him the truth",
-		"soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /'prɑmɪs/ /mi/ /ju/ /wɪl/ /'nɛvɚ/ /tɛl/ /hɪm/ /ðə/ /trʊθ/"
+		"soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /'prɑmɪs/ /mi/ /ju/ /wɪl/ /'nɛvɚ/ /tɛl/ /hɪm/ /ðə/ /trʊθ/",
+		"vietnamese": "Tôi muốnBạn承诺Tôi你将绝không会nóiAnh ấy真相"
 	},
 	{
-		"chinese": "做",
 		"english": "to make",
-		"soundmark": "/tə/ /mek/"
+		"soundmark": "/tə/ /mek/",
+		"vietnamese": "làm"
 	},
 	{
-		"chinese": "承诺",
 		"english": "promise",
-		"soundmark": "/'prɑmɪs/"
+		"soundmark": "/'prɑmɪs/",
+		"vietnamese": "[VI:承诺]"
 	},
 	{
-		"chinese": "做一个承诺",
 		"english": "to make a promise",
-		"soundmark": "/tə/ /mek/ /ə/ /'prɑmɪs/"
+		"soundmark": "/tə/ /mek/ /ə/ /'prɑmɪs/",
+		"vietnamese": "làm一个承诺"
 	},
 	{
-		"chinese": "我",
 		"english": "I",
-		"soundmark": "/aɪ/"
+		"soundmark": "/aɪ/",
+		"vietnamese": "Tôi"
 	},
 	{
-		"chinese": "我做一个承诺",
 		"english": "I make a promise",
-		"soundmark": "/aɪ/ /mek/ /ə/ /'prɑmɪs/"
+		"soundmark": "/aɪ/ /mek/ /ə/ /'prɑmɪs/",
+		"vietnamese": "Tôilàm一个承诺"
 	},
 	{
-		"chinese": "我自己",
 		"english": "myself",
-		"soundmark": "/maɪ'sɛlf/"
+		"soundmark": "/maɪ'sɛlf/",
+		"vietnamese": "Tôi自己"
 	},
 	{
-		"chinese": "我对我自己做一个承诺",
 		"english": "I make a promise to myself",
-		"soundmark": "/aɪ/ /mek/ /ə/ /'prɑmɪs/ /tə/ /maɪ'sɛlf/"
+		"soundmark": "/aɪ/ /mek/ /ə/ /'prɑmɪs/ /tə/ /maɪ'sɛlf/",
+		"vietnamese": "Tôi对我自己làm一个承诺"
 	},
 	{
-		"chinese": "我对我自己做了一个承诺",
 		"english": "I made a promise to myself",
-		"soundmark": "/aɪ/ /med/ /ə/ /'prɑmɪs/ /tə/ /maɪ'sɛlf/"
+		"soundmark": "/aɪ/ /med/ /ə/ /'prɑmɪs/ /tə/ /maɪ'sɛlf/",
+		"vietnamese": "Tôi对我自己làm了一个承诺"
 	},
 	{
-		"chinese": "年轻",
 		"english": "young",
-		"soundmark": "/jʌŋ/"
+		"soundmark": "/jʌŋ/",
+		"vietnamese": "[VI:年轻]"
 	},
 	{
-		"chinese": "我是年轻的",
 		"english": "I am young",
-		"soundmark": "/aɪ/ /æm/ /jʌŋ/"
+		"soundmark": "/aɪ/ /æm/ /jʌŋ/",
+		"vietnamese": "Tôi là年轻的"
 	},
 	{
-		"chinese": "我（过去）是年轻的",
 		"english": "I was young",
-		"soundmark": "/aɪ/ /wəz/ /jʌŋ/"
+		"soundmark": "/aɪ/ /wəz/ /jʌŋ/",
+		"vietnamese": "Tôi（过去）là年轻的"
 	},
 	{
-		"chinese": "当......什么时候",
 		"english": "when",
-		"soundmark": "/wɛn/"
+		"soundmark": "/wɛn/",
+		"vietnamese": "[VI:当......什么时候]"
 	},
 	{
-		"chinese": "当我（过去）是年轻的时候",
 		"english": "when I was young",
-		"soundmark": "/wɛn/ /aɪ/ /wəz/ /jʌŋ/"
+		"soundmark": "/wɛn/ /aɪ/ /wəz/ /jʌŋ/",
+		"vietnamese": "当Tôi（过去）là年轻的时候"
 	},
 	{
-		"chinese": "更年轻的",
 		"english": "younger",
-		"soundmark": "/ˈjʌŋɡər/"
+		"soundmark": "/ˈjʌŋɡər/",
+		"vietnamese": "[VI:更年轻的]"
 	},
 	{
-		"chinese": "当我是更年轻的时候",
 		"english": "when I was younger",
-		"soundmark": "/wɛn/ /aɪ/ /wəz/ /ˈjʌŋɡər/"
+		"soundmark": "/wɛn/ /aɪ/ /wəz/ /ˈjʌŋɡər/",
+		"vietnamese": "当Tôi là更年轻的时候"
 	},
 	{
-		"chinese": "我对我自己做了一个承诺",
 		"english": "I made a promise to myself",
-		"soundmark": "/aɪ/ /med/ /ə/ /'prɑmɪs/ /tə/ /maɪ'sɛlf/"
+		"soundmark": "/aɪ/ /med/ /ə/ /'prɑmɪs/ /tə/ /maɪ'sɛlf/",
+		"vietnamese": "Tôi对我自己làm了一个承诺"
 	},
 	{
-		"chinese": "当我年轻一点的时候我对自己做了一个承诺",
 		"english": "I made a promise to myself when I was younger",
-		"soundmark": "/aɪ/ /med/ /ə/ /'prɑmɪs/ /tə/ /maɪ'sɛlf/ /wɛn/ /aɪ/ /wəz/ /ˈjʌŋɡər/"
+		"soundmark": "/aɪ/ /med/ /ə/ /'prɑmɪs/ /tə/ /maɪ'sɛlf/ /wɛn/ /aɪ/ /wəz/ /ˈjʌŋɡər/",
+		"vietnamese": "当Tôi年轻一点的时候我对自己làm了一个承诺"
 	},
 	{
-		"chinese": "学",
 		"english": "to learn",
-		"soundmark": "/tə/ /lɝn/"
+		"soundmark": "/tə/ /lɝn/",
+		"vietnamese": "[VI:学]"
 	},
 	{
-		"chinese": "英语",
 		"english": "English",
-		"soundmark": "/ˈɪŋɡlɪʃ/"
+		"soundmark": "/ˈɪŋɡlɪʃ/",
+		"vietnamese": "[VI:英语]"
 	},
 	{
-		"chinese": "学英语",
 		"english": "to learn English",
-		"soundmark": "/tə/ /lɝn/ /ˈɪŋɡlɪʃ/"
+		"soundmark": "/tə/ /lɝn/ /ˈɪŋɡlɪʃ/",
+		"vietnamese": "[VI:学英语]"
 	},
 	{
-		"chinese": "每一个",
 		"english": "every",
-		"soundmark": "/'ɛvri/"
+		"soundmark": "/'ɛvri/",
+		"vietnamese": "[VI:每一个]"
 	},
 	{
-		"chinese": "天",
 		"english": "day",
-		"soundmark": "/de/"
+		"soundmark": "/de/",
+		"vietnamese": "[VI:天]"
 	},
 	{
-		"chinese": "每天",
 		"english": "every day",
-		"soundmark": "/'ɛvri/ /de/"
+		"soundmark": "/'ɛvri/ /de/",
+		"vietnamese": "mỗi ngày"
 	},
 	{
-		"chinese": "每天学英语",
 		"english": "to learn English every day",
-		"soundmark": "/tə/ /lɝn/ /ˈɪŋɡlɪʃ/ /'ɛvri/ /de/"
+		"soundmark": "/tə/ /lɝn/ /ˈɪŋɡlɪʃ/ /'ɛvri/ /de/",
+		"vietnamese": "mỗi ngày学英语"
 	},
 	{
-		"chinese": "我将会",
 		"english": "I will",
-		"soundmark": "/aɪ/ /wɪl/"
+		"soundmark": "/aɪ/ /wɪl/",
+		"vietnamese": "Tôi将会"
 	},
 	{
-		"chinese": "我将会每天学英语",
 		"english": "I will learn English every day",
-		"soundmark": "/aɪ/ /wɪl/ /lɝn/ /ˈɪŋɡlɪʃ/ /'ɛvri/ /de/"
+		"soundmark": "/aɪ/ /wɪl/ /lɝn/ /ˈɪŋɡlɪʃ/ /'ɛvri/ /de/",
+		"vietnamese": "Tôi将会mỗi ngày学英语"
 	},
 	{
-		"chinese": "那个",
 		"english": "that",
-		"soundmark": "/ðæt/"
+		"soundmark": "/ðæt/",
+		"vietnamese": "[VI:那个]"
 	},
 	{
-		"chinese": "那个我将会每天学英语",
 		"english": "that I will learn English every day",
-		"soundmark": "/ðæt/ /aɪ/ /wɪl/ /lɝn/ /ˈɪŋɡlɪʃ/ /'ɛvri/ /de/"
+		"soundmark": "/ðæt/ /aɪ/ /wɪl/ /lɝn/ /ˈɪŋɡlɪʃ/ /'ɛvri/ /de/",
+		"vietnamese": "那个Tôi将会mỗi ngày学英语"
 	},
 	{
-		"chinese": "当我年轻一点的时候我对自己做了一个承诺",
 		"english": "I made a promise to myself when I was younger",
-		"soundmark": "/aɪ/ /med/ /ə/ /'prɑmɪs/ /tə/ /maɪ'sɛlf/ /wɛn/ /aɪ/ /wəz/ /ˈjʌŋɡər/"
+		"soundmark": "/aɪ/ /med/ /ə/ /'prɑmɪs/ /tə/ /maɪ'sɛlf/ /wɛn/ /aɪ/ /wəz/ /ˈjʌŋɡər/",
+		"vietnamese": "当Tôi年轻一点的时候我对自己làm了一个承诺"
 	},
 	{
-		"chinese": "当我年轻一点的时候我对自己做了一个承诺（那个）我将会每天学英语",
 		"english": "I made a promise to myself when I was younger that I will learn English every day",
-		"soundmark": "/aɪ/ /med/ /ə/ /'prɑmɪs/ /tə/ /maɪ'sɛlf/ /wɛn/ /aɪ/ /wəz/ /ˈjʌŋɡər/ /ðæt/ /aɪ/ /wɪl/ /lɝn/ /ˈɪŋɡlɪʃ/ /'ɛvri/ /de/"
+		"soundmark": "/aɪ/ /med/ /ə/ /'prɑmɪs/ /tə/ /maɪ'sɛlf/ /wɛn/ /aɪ/ /wəz/ /ˈjʌŋɡər/ /ðæt/ /aɪ/ /wɪl/ /lɝn/ /ˈɪŋɡlɪʃ/ /'ɛvri/ /de/",
+		"vietnamese": "当Tôi年轻一点的时候我对自己làm了一个承诺（那个）我将会mỗi ngày学英语"
 	},
 	{
-		"chinese": "我（过去）将会每天学英语",
 		"english": "I would learn English every day",
-		"soundmark": "/aɪ/ /wʊd/ /lɝn/ /ˈɪŋɡlɪʃ/ /'ɛvri/ /de/"
+		"soundmark": "/aɪ/ /wʊd/ /lɝn/ /ˈɪŋɡlɪʃ/ /'ɛvri/ /de/",
+		"vietnamese": "Tôi（过去）将会mỗi ngày学英语"
 	},
 	{
-		"chinese": "当我年轻一点的时候我对自己做了一个承诺（那个）我过去将会每天学英语",
 		"english": "I made a promise to myself when I was younger that I would learn English every day",
-		"soundmark": "/aɪ/ /med/ /ə/ /'prɑmɪs/ /tə/ /maɪ'sɛlf/ /wɛn/ /aɪ/ /wəz/ /ˈjʌŋɡər/ /aɪ/ /wʊd/ /lɝn/ /ˈɪŋɡlɪʃ/ /'ɛvri/ /de/"
+		"soundmark": "/aɪ/ /med/ /ə/ /'prɑmɪs/ /tə/ /maɪ'sɛlf/ /wɛn/ /aɪ/ /wəz/ /ˈjʌŋɡər/ /aɪ/ /wʊd/ /lɝn/ /ˈɪŋɡlɪʃ/ /'ɛvri/ /de/",
+		"vietnamese": "当Tôi年轻一点的时候我对自己làm了一个承诺（那个）我过去将会mỗi ngày学英语"
 	}
 ]

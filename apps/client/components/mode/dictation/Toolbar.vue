@@ -24,13 +24,13 @@
       @click="handleReset"
       class="btn btn-primary mx-3"
     >
-      重置
+      Đặt lại
     </button>
     <button
       @click="handlePlay"
       class="btn btn-secondary"
     >
-      重新播放
+      重新Phát
     </button>
   </div>
 </template>
@@ -86,7 +86,7 @@ const TOOLBAR_LIST = [
     ],
   },
   {
-    label: "播放次数",
+    label: "Phátlần数",
     key: "times",
     options: [
       {
@@ -108,7 +108,7 @@ const TOOLBAR_LIST = [
     ],
   },
   {
-    label: "播放间隔",
+    label: "Phát间隔",
     key: "interval",
     options: [
       {

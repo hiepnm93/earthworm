@@ -1,852 +1,852 @@
 [
 	{
-		"chinese": "到达",
 		"english": "to get",
-		"soundmark": "/tə/ /ɡɛt/"
+		"soundmark": "/tə/ /ɡɛt/",
+		"vietnamese": "[VI:到达]"
 	},
 	{
-		"chinese": "那里",
 		"english": "there",
-		"soundmark": "/ðɛr/"
+		"soundmark": "/ðɛr/",
+		"vietnamese": "[VI:那里]"
 	},
 	{
-		"chinese": "到达那里",
 		"english": "to get there",
-		"soundmark": "/tə/ /ɡɛt/ /ðɛr/"
+		"soundmark": "/tə/ /ɡɛt/ /ðɛr/",
+		"vietnamese": "[VI:到达那里]"
 	},
 	{
-		"chinese": "需要",
 		"english": "need",
-		"soundmark": "/nid/"
+		"soundmark": "/nid/",
+		"vietnamese": "cần"
 	},
 	{
-		"chinese": "我需要到达那里",
 		"english": "I need to get there",
-		"soundmark": "/aɪ/ /nid/ /tə/ /ɡɛt/ /ðɛr/"
+		"soundmark": "/aɪ/ /nid/ /tə/ /ɡɛt/ /ðɛr/",
+		"vietnamese": "Tôi cần到达那里"
 	},
 	{
-		"chinese": "我不需要到达那里",
 		"english": "I don't need to get there",
-		"soundmark": "/aɪ/ /dont/ /nid/ /tə/ /ɡɛt/ /ðɛr/"
+		"soundmark": "/aɪ/ /dont/ /nid/ /tə/ /ɡɛt/ /ðɛr/",
+		"vietnamese": "Tôi không cần到达那里"
 	},
 	{
-		"chinese": "很快；马上",
 		"english": "soon",
-		"soundmark": "/sun/"
+		"soundmark": "/sun/",
+		"vietnamese": "[VI:很快；马上]"
 	},
 	{
-		"chinese": "我需要马上到达那里",
 		"english": "I need to get there soon",
-		"soundmark": "/aɪ/ /nid/ /tə/ /ɡɛt/ /ðɛr/ /sun/"
+		"soundmark": "/aɪ/ /nid/ /tə/ /ɡɛt/ /ðɛr/ /sun/",
+		"vietnamese": "Tôi cần马上到达那里"
 	},
 	{
-		"chinese": "可能",
 		"english": "possible",
-		"soundmark": "/'pɑsəbl/"
+		"soundmark": "/'pɑsəbl/",
+		"vietnamese": "[VI:可能]"
 	},
 	{
-		"chinese": "尽快；尽可能地快",
 		"english": "as soon as possible",
-		"soundmark": "/əz/ /sun/ /əz/ /'pɑsəbl/"
+		"soundmark": "/əz/ /sun/ /əz/ /'pɑsəbl/",
+		"vietnamese": "sớm；尽可能地快"
 	},
 	{
-		"chinese": "我需要尽快到达那里",
 		"english": "I need to get there as soon as possible",
-		"soundmark": "/aɪ/ /nid/ /tə/ /ɡɛt/ /ðɛr/ /əz/ /sun/ /əz/ /'pɑsəbl/"
+		"soundmark": "/aɪ/ /nid/ /tə/ /ɡɛt/ /ðɛr/ /əz/ /sun/ /əz/ /'pɑsəbl/",
+		"vietnamese": "Tôi cầnsớm到达那里"
 	},
 	{
-		"chinese": "如何",
 		"english": "how",
-		"soundmark": "/haʊ/"
+		"soundmark": "/haʊ/",
+		"vietnamese": "[VI:如何]"
 	},
 	{
-		"chinese": "如何到达那里",
 		"english": "how to get there",
-		"soundmark": "/haʊ/ /tə/ /ɡɛt/ /ðɛr/"
+		"soundmark": "/haʊ/ /tə/ /ɡɛt/ /ðɛr/",
+		"vietnamese": "[VI:如何到达那里]"
 	},
 	{
-		"chinese": "知道",
 		"english": "to know",
-		"soundmark": "/tə/ /no/"
+		"soundmark": "/tə/ /no/",
+		"vietnamese": "biết"
 	},
 	{
-		"chinese": "知道如何到达那里",
 		"english": "to know how to get there",
-		"soundmark": "/tə/ /no/ /haʊ/ /tə/ /ɡɛt/ /ðɛr/"
+		"soundmark": "/tə/ /no/ /haʊ/ /tə/ /ɡɛt/ /ðɛr/",
+		"vietnamese": "biết如何到达那里"
 	},
 	{
-		"chinese": "想要",
 		"english": "want",
-		"soundmark": "/wɑnt/"
+		"soundmark": "/wɑnt/",
+		"vietnamese": "muốn"
 	},
 	{
-		"chinese": "我想要知道如何到达那里",
 		"english": "I want to know how to get there",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /no/ /haʊ/ /tə/ /ɡɛt/ /ðɛr/"
+		"soundmark": "/aɪ/ /wɑnt/ /tə/ /no/ /haʊ/ /tə/ /ɡɛt/ /ðɛr/",
+		"vietnamese": "Tôimuốn biết如何到达那里"
 	},
 	{
-		"chinese": "只是",
 		"english": "just",
-		"soundmark": "/dʒʌst/"
+		"soundmark": "/dʒʌst/",
+		"vietnamese": "只là"
 	},
 	{
-		"chinese": "我只是想要知道如何到达那里",
 		"english": "I just want to know how to get there",
-		"soundmark": "/aɪ/ /dʒʌst/ /wɑnt/ /tə/ /no/ /haʊ/ /tə/ /ɡɛt/ /ðɛr/"
+		"soundmark": "/aɪ/ /dʒʌst/ /wɑnt/ /tə/ /no/ /haʊ/ /tə/ /ɡɛt/ /ðɛr/",
+		"vietnamese": "Tôi只làmuốn biết如何到达那里"
 	},
 	{
-		"chinese": "时间",
 		"english": "time",
-		"soundmark": "/taɪm/"
+		"soundmark": "/taɪm/",
+		"vietnamese": "[VI:时间]"
 	},
 	{
-		"chinese": "准时",
 		"english": "on time",
-		"soundmark": "/ɑn/ /taɪm/"
+		"soundmark": "/ɑn/ /taɪm/",
+		"vietnamese": "[VI:准时]"
 	},
 	{
-		"chinese": "我只是想要知道如何准时到达那里",
 		"english": "I just want to know how to get there on time",
-		"soundmark": "/aɪ/ /dʒʌst/ /wɑnt/ /tə/ /no/ /haʊ/ /tə/ /ɡɛt/ /ðɛr/ /ɑn/ /taɪm/"
+		"soundmark": "/aɪ/ /dʒʌst/ /wɑnt/ /tə/ /no/ /haʊ/ /tə/ /ɡɛt/ /ðɛr/ /ɑn/ /taɪm/",
+		"vietnamese": "Tôi只làmuốn biết如何准时到达那里"
 	},
 	{
-		"chinese": "你必须到达那里",
 		"english": "you have to get there",
-		"soundmark": "/ju/ /hæv/ /tə/ /ɡɛt/ /ðɛr/"
+		"soundmark": "/ju/ /hæv/ /tə/ /ɡɛt/ /ðɛr/",
+		"vietnamese": "Bạnphải到达那里"
 	},
 	{
-		"chinese": "今晚",
 		"english": "tonight",
-		"soundmark": "/tə'naɪt/"
+		"soundmark": "/tə'naɪt/",
+		"vietnamese": "tối nay"
 	},
 	{
-		"chinese": "你必须今晚到达那里",
 		"english": "you have to get there tonight",
-		"soundmark": "/ju/ /hæv/ /tə/ /ɡɛt/ /ðɛr/ /tə'naɪt/"
+		"soundmark": "/ju/ /hæv/ /tə/ /ɡɛt/ /ðɛr/ /tə'naɪt/",
+		"vietnamese": "Bạnphảitối nay到达那里"
 	},
 	{
-		"chinese": "你不必今晚到达那里",
 		"english": "you don't have to get there tonight",
-		"soundmark": "/ju/ /dont/ /hæv/ /tə/ /ɡɛt/ /ðɛr/ /tə'naɪt/"
+		"soundmark": "/ju/ /dont/ /hæv/ /tə/ /ɡɛt/ /ðɛr/ /tə'naɪt/",
+		"vietnamese": "Bạnkhông必tối nay到达那里"
 	},
 	{
-		"chinese": "可以",
 		"english": "can",
-		"soundmark": "/kæn/"
+		"soundmark": "/kæn/",
+		"vietnamese": "[VI:可以]"
 	},
 	{
-		"chinese": "我们可以",
 		"english": "we can",
-		"soundmark": "/wi/ /kæn/"
+		"soundmark": "/wi/ /kæn/",
+		"vietnamese": "Chúng tôi可以"
 	},
 	{
-		"chinese": "到达那里",
 		"english": "to get there",
-		"soundmark": "/tə/ /ɡɛt/ /ðɛr/"
+		"soundmark": "/tə/ /ɡɛt/ /ðɛr/",
+		"vietnamese": "[VI:到达那里]"
 	},
 	{
-		"chinese": "我们可以到达那里",
 		"english": "we can get there",
-		"soundmark": "/wi/ /kæn/ /tə/ /ɡɛt/ /ðɛr/"
+		"soundmark": "/wi/ /kæn/ /tə/ /ɡɛt/ /ðɛr/",
+		"vietnamese": "Chúng tôi可以到达那里"
 	},
 	{
-		"chinese": "准时",
 		"english": "on time",
-		"soundmark": "/ɑn/ /taɪm/"
+		"soundmark": "/ɑn/ /taɪm/",
+		"vietnamese": "[VI:准时]"
 	},
 	{
-		"chinese": "我们可以准时到达那里",
 		"english": "we can get there on time",
-		"soundmark": "/wi/ /kæn/ /ɡɛt/ /ðɛr/ /ɑn/ /taɪm/"
+		"soundmark": "/wi/ /kæn/ /ɡɛt/ /ðɛr/ /ɑn/ /taɪm/",
+		"vietnamese": "Chúng tôi可以准时到达那里"
 	},
 	{
-		"chinese": "我们不可以准时到达那里",
 		"english": "we can not get there on time",
-		"soundmark": "/wi/ /kæn/ /nɑt/ /ɡɛt/ /ðɛr/ /ɑn/ /taɪm/"
+		"soundmark": "/wi/ /kæn/ /nɑt/ /ɡɛt/ /ðɛr/ /ɑn/ /taɪm/",
+		"vietnamese": "Chúng tôikhông可以准时到达那里"
 	},
 	{
-		"chinese": "我们准时到达那里",
 		"english": "we get there on time",
-		"soundmark": "/wi/ /ɡɛt/ /ðɛr/ /ɑn/ /taɪm/"
+		"soundmark": "/wi/ /ɡɛt/ /ðɛr/ /ɑn/ /taɪm/",
+		"vietnamese": "Chúng tôi准时到达那里"
 	},
 	{
-		"chinese": "她准时到达那里",
 		"english": "she gets there on time",
-		"soundmark": "/ʃi/ /ɡɛts/ /ðɛr/ /ɑn/ /taɪm/"
+		"soundmark": "/ʃi/ /ɡɛts/ /ðɛr/ /ɑn/ /taɪm/",
+		"vietnamese": "Cô ấy准时到达那里"
 	},
 	{
-		"chinese": "我准时到达那里",
 		"english": "I get there on time",
-		"soundmark": "/aɪ/ /ɡɛt/ /ðɛr/ /ɑn/ /taɪm/"
+		"soundmark": "/aɪ/ /ɡɛt/ /ðɛr/ /ɑn/ /taɪm/",
+		"vietnamese": "Tôi准时到达那里"
 	},
 	{
-		"chinese": "你准时到达那里",
 		"english": "you get there on time",
-		"soundmark": "/ju/ /ɡɛt/ /ðɛr/ /ɑn/ /taɪm/"
+		"soundmark": "/ju/ /ɡɛt/ /ðɛr/ /ɑn/ /taɪm/",
+		"vietnamese": "Bạn准时到达那里"
 	},
 	{
-		"chinese": "忘记",
 		"english": "to forget",
-		"soundmark": "/tə/ /fɚ'ɡɛt/"
+		"soundmark": "/tə/ /fɚ'ɡɛt/",
+		"vietnamese": "[VI:忘记]"
 	},
 	{
-		"chinese": "你忘记",
 		"english": "you forget",
-		"soundmark": "/ju/ /fɚ'ɡɛt/"
+		"soundmark": "/ju/ /fɚ'ɡɛt/",
+		"vietnamese": "Bạn忘记"
 	},
 	{
-		"chinese": "锁",
 		"english": "to lock",
-		"soundmark": "/tə/ /lɑk/"
+		"soundmark": "/tə/ /lɑk/",
+		"vietnamese": "[VI:锁]"
 	},
 	{
-		"chinese": "门",
 		"english": "the door",
-		"soundmark": "/ðə/ /dɔr/"
+		"soundmark": "/ðə/ /dɔr/",
+		"vietnamese": "[VI:门]"
 	},
 	{
-		"chinese": "锁门",
 		"english": "to lock the door",
-		"soundmark": "/tə/ /lɑk/ /ðə/ /dɔr/"
+		"soundmark": "/tə/ /lɑk/ /ðə/ /dɔr/",
+		"vietnamese": "[VI:锁门]"
 	},
 	{
-		"chinese": "你忘记锁门",
 		"english": "you forget to lock the door",
-		"soundmark": "/ju/ /fɚ'ɡɛt/ /tə/ /lɑk/ /ðə/ /dɔr/"
+		"soundmark": "/ju/ /fɚ'ɡɛt/ /tə/ /lɑk/ /ðə/ /dɔr/",
+		"vietnamese": "Bạn忘记锁门"
 	},
 	{
-		"chinese": "你不要忘记锁门",
 		"english": "you don't forget to lock the door",
-		"soundmark": "/ju/ /dont/ /fɚ'ɡɛt/ /tə/ /lɑk/ /ðə/ /dɔr/"
+		"soundmark": "/ju/ /dont/ /fɚ'ɡɛt/ /tə/ /lɑk/ /ðə/ /dɔr/",
+		"vietnamese": "Bạnkhông要忘记锁门"
 	},
 	{
-		"chinese": "不要忘记锁门",
 		"english": "don't forget to lock the door",
-		"soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /lɑk/ /ðə/ /dɔr/"
+		"soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /lɑk/ /ðə/ /dɔr/",
+		"vietnamese": "không要忘记锁门"
 	},
 	{
-		"chinese": "离开",
 		"english": "to leave",
-		"soundmark": "/tə/ /liv/"
+		"soundmark": "/tə/ /liv/",
+		"vietnamese": "[VI:离开]"
 	},
 	{
-		"chinese": "房子；家",
 		"english": "the house",
-		"soundmark": "/ðə/ /haʊs/"
+		"soundmark": "/ðə/ /haʊs/",
+		"vietnamese": "[VI:房子；家]"
 	},
 	{
-		"chinese": "离开家",
 		"english": "to leave the house",
-		"soundmark": "/tə/ /liv/ /ðə/ /haʊs/"
+		"soundmark": "/tə/ /liv/ /ðə/ /haʊs/",
+		"vietnamese": "[VI:离开家]"
 	},
 	{
-		"chinese": "你离开家",
 		"english": "you leave the house",
-		"soundmark": "/ju/ /liv/ /ðə/ /haʊs/"
+		"soundmark": "/ju/ /liv/ /ðə/ /haʊs/",
+		"vietnamese": "Bạn离开家"
 	},
 	{
-		"chinese": "当......的时候",
 		"english": "when",
-		"soundmark": "/wɛn/"
+		"soundmark": "/wɛn/",
+		"vietnamese": "[VI:当......的时候]"
 	},
 	{
-		"chinese": "当你离开家的时候",
 		"english": "when you leave the house",
-		"soundmark": "/wɛn/ /ju/ /liv/ /ðə/ /haʊs/"
+		"soundmark": "/wɛn/ /ju/ /liv/ /ðə/ /haʊs/",
+		"vietnamese": "当Bạn离开家的时候"
 	},
 	{
-		"chinese": "不要忘记锁门当你离开家的时候",
 		"english": "don't forget to lock the door when you leave the house",
-		"soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /lɑk/ /ðə/ /dɔr/ /wɛn/ /ju/ /liv/ /ðə/ /haʊs/"
+		"soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /lɑk/ /ðə/ /dɔr/ /wɛn/ /ju/ /liv/ /ðə/ /haʊs/",
+		"vietnamese": "không要忘记锁门当Bạn离开家的时候"
 	},
 	{
-		"chinese": "记得",
 		"english": "to remember",
-		"soundmark": "/tə/ /rɪ'mɛmbɚ/"
+		"soundmark": "/tə/ /rɪ'mɛmbɚ/",
+		"vietnamese": "[VI:记得]"
 	},
 	{
-		"chinese": "锁门",
 		"english": "to lock the door",
-		"soundmark": "/tə/ /lɑk/ /ðə/ /dɔr/"
+		"soundmark": "/tə/ /lɑk/ /ðə/ /dɔr/",
+		"vietnamese": "[VI:锁门]"
 	},
 	{
-		"chinese": "你记得锁门",
 		"english": "you remember to lock the door",
-		"soundmark": "/ju/ /rɪ'mɛmbɚ/ /tə/ /lɑk/ /ðə/ /dɔr/"
+		"soundmark": "/ju/ /rɪ'mɛmbɚ/ /tə/ /lɑk/ /ðə/ /dɔr/",
+		"vietnamese": "Bạn记得锁门"
 	},
 	{
-		"chinese": "记得锁门",
 		"english": "remember to lock the door",
-		"soundmark": "/rɪ'mɛmbɚ/ /tə/ /lɑk/ /ðə/ /dɔr/"
+		"soundmark": "/rɪ'mɛmbɚ/ /tə/ /lɑk/ /ðə/ /dɔr/",
+		"vietnamese": "[VI:记得锁门]"
 	},
 	{
-		"chinese": "记得锁门当你离开家的时候",
 		"english": "remember to lock the door when you leave the house",
-		"soundmark": "/rɪ'mɛmbɚ/ /tə/ /lɑk/ /ðə/ /dɔr/ /wɛn/ /ju/ /liv/ /ðə/ /haʊs/"
+		"soundmark": "/rɪ'mɛmbɚ/ /tə/ /lɑk/ /ðə/ /dɔr/ /wɛn/ /ju/ /liv/ /ðə/ /haʊs/",
+		"vietnamese": "记得锁门当Bạn离开家的时候"
 	},
 	{
-		"chinese": "告诉",
 		"english": "to tell",
-		"soundmark": "/tə/ /tɛl/"
+		"soundmark": "/tə/ /tɛl/",
+		"vietnamese": "nói"
 	},
 	{
-		"chinese": "告诉她",
 		"english": "to tell her",
-		"soundmark": "/tə/ /tɛl/ /hɚ/"
+		"soundmark": "/tə/ /tɛl/ /hɚ/",
+		"vietnamese": "nóiCô ấy"
 	},
 	{
-		"chinese": "事实",
 		"english": "the truth",
-		"soundmark": "/ðə/ /trʊθ/"
+		"soundmark": "/ðə/ /trʊθ/",
+		"vietnamese": "sự thật"
 	},
 	{
-		"chinese": "告诉她事实",
 		"english": "to tell her the truth",
-		"soundmark": "/tə/ /tɛl/ /hɚ/ /ðə/ /trʊθ/"
+		"soundmark": "/tə/ /tɛl/ /hɚ/ /ðə/ /trʊθ/",
+		"vietnamese": "nóiCô ấysự thật"
 	},
 	{
-		"chinese": "记得告诉她事实",
 		"english": "remember to tell her the truth",
-		"soundmark": "/rɪ'mɛmbɚ/ /tə/ /tɛl/ /hɚ/ /ðə/ /trʊθ/"
+		"soundmark": "/rɪ'mɛmbɚ/ /tə/ /tɛl/ /hɚ/ /ðə/ /trʊθ/",
+		"vietnamese": "记得nóiCô ấysự thật"
 	},
 	{
-		"chinese": "这里",
 		"english": "here",
-		"soundmark": "/hɪr/"
+		"soundmark": "/hɪr/",
+		"vietnamese": "ở đây"
 	},
 	{
-		"chinese": "到达这里",
 		"english": "to get here",
-		"soundmark": "/tə/ /ɡɛt/ /hɪr/"
+		"soundmark": "/tə/ /ɡɛt/ /hɪr/",
+		"vietnamese": "到达ở đây"
 	},
 	{
-		"chinese": "我到达这里",
 		"english": "I get here",
-		"soundmark": "/aɪ/ /ɡɛt/ /hɪr/"
+		"soundmark": "/aɪ/ /ɡɛt/ /hɪr/",
+		"vietnamese": "Tôi到达ở đây"
 	},
 	{
-		"chinese": "她到达这里",
 		"english": "she gets here",
-		"soundmark": "/ʃi/ /ɡɛts/ /hɪr/"
+		"soundmark": "/ʃi/ /ɡɛts/ /hɪr/",
+		"vietnamese": "Cô ấy到达ở đây"
 	},
 	{
-		"chinese": "当......的时候",
 		"english": "when",
-		"soundmark": "/wɛn/"
+		"soundmark": "/wɛn/",
+		"vietnamese": "[VI:当......的时候]"
 	},
 	{
-		"chinese": "当她到达这里的时候",
 		"english": "when she gets here",
-		"soundmark": "/wɛn/ /ʃi/ /ɡɛts/ /hɪr/"
+		"soundmark": "/wɛn/ /ʃi/ /ɡɛts/ /hɪr/",
+		"vietnamese": "当Cô ấy到达ở đây的时候"
 	},
 	{
-		"chinese": "记得告诉她事实当她到达这里的时候",
 		"english": "remember to tell her the truth when she gets here",
-		"soundmark": "/rɪ'mɛmbɚ/ /tə/ /tɛl/ /hɚ/ /ðə/ /trʊθ/ /wɛn/ /ʃi/ /ɡɛts/ /hɪr/"
+		"soundmark": "/rɪ'mɛmbɚ/ /tə/ /tɛl/ /hɚ/ /ðə/ /trʊθ/ /wɛn/ /ʃi/ /ɡɛts/ /hɪr/",
+		"vietnamese": "记得nóiCô ấysự thật当她到达ở đây的时候"
 	},
 	{
-		"chinese": "不要忘记告诉她事实当她到达这里的时候",
 		"english": "don't forget to tell her the truth when she gets here",
-		"soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /tɛl/ /hɚ/ /ðə/ /trʊθ/ /wɛn/ /ʃi/ /ɡɛts/ /hɪr/"
+		"soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /tɛl/ /hɚ/ /ðə/ /trʊθ/ /wɛn/ /ʃi/ /ɡɛts/ /hɪr/",
+		"vietnamese": "không要忘记nóiCô ấysự thật当她到达ở đây的时候"
 	},
 	{
-		"chinese": "支付",
 		"english": "to pay",
-		"soundmark": "/tə/ /pe/"
+		"soundmark": "/tə/ /pe/",
+		"vietnamese": "[VI:支付]"
 	},
 	{
-		"chinese": "账单",
 		"english": "the bill",
-		"soundmark": "/ðə/ /bɪl/"
+		"soundmark": "/ðə/ /bɪl/",
+		"vietnamese": "[VI:账单]"
 	},
 	{
-		"chinese": "支付账单",
 		"english": "to pay the bill",
-		"soundmark": "/tə/ /pe/ /ðə/ /bɪl/"
+		"soundmark": "/tə/ /pe/ /ðə/ /bɪl/",
+		"vietnamese": "[VI:支付账单]"
 	},
 	{
-		"chinese": "记得支付账单",
 		"english": "remember to pay the bill",
-		"soundmark": "/rɪ'mɛmbɚ/ /tə/ /pe/ /ðə/ /bɪl/"
+		"soundmark": "/rɪ'mɛmbɚ/ /tə/ /pe/ /ðə/ /bɪl/",
+		"vietnamese": "[VI:记得支付账单]"
 	},
 	{
-		"chinese": "不要忘记支付账单",
 		"english": "don't forget to pay the bill",
-		"soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /pe/ /ðə/ /bɪl/"
+		"soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /pe/ /ðə/ /bɪl/",
+		"vietnamese": "không要忘记支付账单"
 	},
 	{
-		"chinese": "当......的时候",
 		"english": "when",
-		"soundmark": "/wɛn/"
+		"soundmark": "/wɛn/",
+		"vietnamese": "[VI:当......的时候]"
 	},
 	{
-		"chinese": "当你离开的时候",
 		"english": "when you leave",
-		"soundmark": "/wɛn/ /ju/ /liv/"
+		"soundmark": "/wɛn/ /ju/ /liv/",
+		"vietnamese": "当Bạn离开的时候"
 	},
 	{
-		"chinese": "不要忘记支付账单当你离开的时候",
 		"english": "don't forget to pay the bill when you leave",
-		"soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /pe/ /ðə/ /bɪl/ /wɛn/ /ju/ /liv/"
+		"soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /pe/ /ðə/ /bɪl/ /wɛn/ /ju/ /liv/",
+		"vietnamese": "không要忘记支付账单当Bạn离开的时候"
 	},
 	{
-		"chinese": "记得支付账单当你离开的时候",
 		"english": "remember to pay the bill when you leave",
-		"soundmark": "/rɪ'mɛmbɚ/ /tə/ /pe/ /ðə/ /bɪl/ /wɛn/ /ju/ /liv/"
+		"soundmark": "/rɪ'mɛmbɚ/ /tə/ /pe/ /ðə/ /bɪl/ /wɛn/ /ju/ /liv/",
+		"vietnamese": "记得支付账单当Bạn离开的时候"
 	},
 	{
-		"chinese": "做",
 		"english": "to do",
-		"soundmark": "/tə/ /du/"
+		"soundmark": "/tə/ /du/",
+		"vietnamese": "làm"
 	},
 	{
-		"chinese": "家务",
 		"english": "the housework",
-		"soundmark": "/ðə/ /'haʊswɝk/"
+		"soundmark": "/ðə/ /'haʊswɝk/",
+		"vietnamese": "[VI:家务]"
 	},
 	{
-		"chinese": "做家务",
 		"english": "to do the housework",
-		"soundmark": "/tə/ /du/ /ðə/ /'haʊswɝk/"
+		"soundmark": "/tə/ /du/ /ðə/ /'haʊswɝk/",
+		"vietnamese": "làm家务"
 	},
 	{
-		"chinese": "不要忘记做家务",
 		"english": "don't forget to do the housework",
-		"soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /du/ /ðə/ /'haʊswɝk/"
+		"soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /du/ /ðə/ /'haʊswɝk/",
+		"vietnamese": "không要忘记làm家务"
 	},
 	{
-		"chinese": "记得做家务",
 		"english": "remember to do the housework",
-		"soundmark": "/rɪ'mɛmbɚ/ /tə/ /du/ /ðə/ /'haʊswɝk/"
+		"soundmark": "/rɪ'mɛmbɚ/ /tə/ /du/ /ðə/ /'haʊswɝk/",
+		"vietnamese": "记得làm家务"
 	},
 	{
-		"chinese": "家",
 		"english": "home",
-		"soundmark": "/hom/"
+		"soundmark": "/hom/",
+		"vietnamese": "[VI:家]"
 	},
 	{
-		"chinese": "在家里",
 		"english": "at home",
-		"soundmark": "/ət/ /hom/"
+		"soundmark": "/ət/ /hom/",
+		"vietnamese": "[VI:在家里]"
 	},
 	{
-		"chinese": "你",
 		"english": "you",
-		"soundmark": "/ju/"
+		"soundmark": "/ju/",
+		"vietnamese": "Bạn"
 	},
 	{
-		"chinese": "你在家里",
 		"english": "you are at home",
-		"soundmark": "/ju/ /ɚ/ /ət/ /hom/"
+		"soundmark": "/ju/ /ɚ/ /ət/ /hom/",
+		"vietnamese": "Bạn在家里"
 	},
 	{
-		"chinese": "当......的时候",
 		"english": "when",
-		"soundmark": "/wɛn/"
+		"soundmark": "/wɛn/",
+		"vietnamese": "[VI:当......的时候]"
 	},
 	{
-		"chinese": "当你在家里的时候",
 		"english": "when you are at home",
-		"soundmark": "/wɛn/ /ju/ /ɚ/ /ət/ /hom/"
+		"soundmark": "/wɛn/ /ju/ /ɚ/ /ət/ /hom/",
+		"vietnamese": "当Bạn在家里的时候"
 	},
 	{
-		"chinese": "记得做家务当你在家里的时候",
 		"english": "remember to do the housework when you are at home",
-		"soundmark": "/rɪ'mɛmbɚ/ /tə/ /du/ /ðə/ /'haʊswɝk/ /wɛn/ /ju/ /ɚ/ /ət/ /hom/"
+		"soundmark": "/rɪ'mɛmbɚ/ /tə/ /du/ /ðə/ /'haʊswɝk/ /wɛn/ /ju/ /ɚ/ /ət/ /hom/",
+		"vietnamese": "记得làm家务当Bạn在家里的时候"
 	},
 	{
-		"chinese": "不要忘记做家务当你在家里的时候",
 		"english": "don't forget to do the housework when you are at home",
-		"soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /du/ /ðə/ /'haʊswɝk/ /wɛn/ /ju/ /ɚ/ /ət/ /hom/"
+		"soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /du/ /ðə/ /'haʊswɝk/ /wɛn/ /ju/ /ɚ/ /ət/ /hom/",
+		"vietnamese": "không要忘记làm家务当Bạn在家里的时候"
 	},
 	{
-		"chinese": "手",
 		"english": "hand",
-		"soundmark": "/hænd/"
+		"soundmark": "/hænd/",
+		"vietnamese": "[VI:手]"
 	},
 	{
-		"chinese": "手（复数）",
 		"english": "hands",
-		"soundmark": "/hændz/"
+		"soundmark": "/hændz/",
+		"vietnamese": "[VI:手（复数）]"
 	},
 	{
-		"chinese": "你的手",
 		"english": "your hands",
-		"soundmark": "/jʊr/ /hænds/"
+		"soundmark": "/jʊr/ /hænds/",
+		"vietnamese": "Bạn的手"
 	},
 	{
-		"chinese": "洗",
 		"english": "to wash",
-		"soundmark": "/tə/ /wɑʃ/"
+		"soundmark": "/tə/ /wɑʃ/",
+		"vietnamese": "[VI:洗]"
 	},
 	{
-		"chinese": "洗你的手",
 		"english": "to wash your hands",
-		"soundmark": "/tə/ /wɑʃ/ /jʊr/ /hænds/"
+		"soundmark": "/tə/ /wɑʃ/ /jʊr/ /hænds/",
+		"vietnamese": "洗Bạn的手"
 	},
 	{
-		"chinese": "不要忘记",
 		"english": "don't forget",
-		"soundmark": "/dont/ /fɚ'ɡɛt/"
+		"soundmark": "/dont/ /fɚ'ɡɛt/",
+		"vietnamese": "không要忘记"
 	},
 	{
-		"chinese": "不要忘记洗你的手",
 		"english": "don't forget to wash your hands",
-		"soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /wɑʃ/ /jʊr/ /hænds/"
+		"soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /wɑʃ/ /jʊr/ /hænds/",
+		"vietnamese": "không要忘记洗Bạn的手"
 	},
 	{
-		"chinese": "吃",
 		"english": "to eat",
-		"soundmark": "/tə/ /it/"
+		"soundmark": "/tə/ /it/",
+		"vietnamese": "ăn"
 	},
 	{
-		"chinese": "食物",
 		"english": "the food",
-		"soundmark": "/ðə/ /fud/"
+		"soundmark": "/ðə/ /fud/",
+		"vietnamese": "thức ăn"
 	},
 	{
-		"chinese": "吃食物",
 		"english": "to eat the food",
-		"soundmark": "/tə/ /it/ /ðə/ /fud/"
+		"soundmark": "/tə/ /it/ /ðə/ /fud/",
+		"vietnamese": "ănthức ăn"
 	},
 	{
-		"chinese": "你可以吃食物",
 		"english": "you can eat the food",
-		"soundmark": "/ju/ /kæn/ /it/ /ðə/ /fud/"
+		"soundmark": "/ju/ /kæn/ /it/ /ðə/ /fud/",
+		"vietnamese": "Bạn可以ănthức ăn"
 	},
 	{
-		"chinese": "你吃食物",
 		"english": "you eat the food",
-		"soundmark": "/ju/ /it/ /ðə/ /fud/"
+		"soundmark": "/ju/ /it/ /ðə/ /fud/",
+		"vietnamese": "Bạnănthức ăn"
 	},
 	{
-		"chinese": "在......之前",
 		"english": "before",
-		"soundmark": "/bɪ'fɔr/"
+		"soundmark": "/bɪ'fɔr/",
+		"vietnamese": "[VI:在......之前]"
 	},
 	{
-		"chinese": "在你吃食物之前",
 		"english": "before you eat the food",
-		"soundmark": "/bɪ'fɔr/ /ju/ /it/ /ðə/ /fud/"
+		"soundmark": "/bɪ'fɔr/ /ju/ /it/ /ðə/ /fud/",
+		"vietnamese": "在Bạnănthức ăn之前"
 	},
 	{
-		"chinese": "不要忘记洗你的手在你吃食物之前",
 		"english": "don't forget to wash your hands before you eat the food",
-		"soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /wɑʃ/ /jʊr/ /hænds/ /bɪ'fɔr/ /ju/ /it/ /ðə/ /fud/"
+		"soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /wɑʃ/ /jʊr/ /hænds/ /bɪ'fɔr/ /ju/ /it/ /ðə/ /fud/",
+		"vietnamese": "không要忘记洗Bạn的手在你ănthức ăn之前"
 	},
 	{
-		"chinese": "记得洗你的手在你吃食物之前",
 		"english": "remember to wash your hands before you eat the food",
-		"soundmark": "/rɪ'mɛmbɚ/ /tə/ /wɑʃ/ /jʊr/ /hænds/ /bɪ'fɔr/ /ju/ /it/ /ðə/ /fud/"
+		"soundmark": "/rɪ'mɛmbɚ/ /tə/ /wɑʃ/ /jʊr/ /hænds/ /bɪ'fɔr/ /ju/ /it/ /ðə/ /fud/",
+		"vietnamese": "记得洗Bạn的手在你ănthức ăn之前"
 	},
 	{
-		"chinese": "到达",
 		"english": "to get",
-		"soundmark": "/tə/ /ɡɛt/"
+		"soundmark": "/tə/ /ɡɛt/",
+		"vietnamese": "[VI:到达]"
 	},
 	{
-		"chinese": "到达家；回到家",
 		"english": "to get home",
-		"soundmark": "/tə/ /ɡɛt/ /hom/"
+		"soundmark": "/tə/ /ɡɛt/ /hom/",
+		"vietnamese": "[VI:到达家；回到家]"
 	},
 	{
-		"chinese": "需要",
 		"english": "need",
-		"soundmark": "/nid/"
+		"soundmark": "/nid/",
+		"vietnamese": "cần"
 	},
 	{
-		"chinese": "我需要回家",
 		"english": "I need to get home",
-		"soundmark": "/aɪ/ /nid/ /tə/ /ɡɛt/ /hom/"
+		"soundmark": "/aɪ/ /nid/ /tə/ /ɡɛt/ /hom/",
+		"vietnamese": "Tôi cần回家"
 	},
 	{
-		"chinese": "应该",
 		"english": "should",
-		"soundmark": "/ʃʊd/"
+		"soundmark": "/ʃʊd/",
+		"vietnamese": "[VI:应该]"
 	},
 	{
-		"chinese": "我应该回家",
 		"english": "I should get home",
-		"soundmark": "/aɪ/ /ʃʊd/ /ɡɛt/ /hom/"
+		"soundmark": "/aɪ/ /ʃʊd/ /ɡɛt/ /hom/",
+		"vietnamese": "Tôi应该回家"
 	},
 	{
-		"chinese": "我回家",
 		"english": "I get home",
-		"soundmark": "/aɪ/ /ɡɛt/ /hom/"
+		"soundmark": "/aɪ/ /ɡɛt/ /hom/",
+		"vietnamese": "Tôi回家"
 	},
 	{
-		"chinese": "你回家",
 		"english": "you get home",
-		"soundmark": "/ju/ /ɡɛt/ /hom/"
+		"soundmark": "/ju/ /ɡɛt/ /hom/",
+		"vietnamese": "Bạn回家"
 	},
 	{
-		"chinese": "打电话",
 		"english": "to call",
-		"soundmark": "/tə/ /kɔl/"
+		"soundmark": "/tə/ /kɔl/",
+		"vietnamese": "[VI:打电话]"
 	},
 	{
-		"chinese": "给我打电话",
 		"english": "to call me",
-		"soundmark": "/tə/ /kɔl/ /mi/"
+		"soundmark": "/tə/ /kɔl/ /mi/",
+		"vietnamese": "给Tôi打电话"
 	},
 	{
-		"chinese": "记得给我打电话",
 		"english": "remember to call me",
-		"soundmark": "/rɪ'mɛmbɚ/ /tə/ /kɔl/ /mi/"
+		"soundmark": "/rɪ'mɛmbɚ/ /tə/ /kɔl/ /mi/",
+		"vietnamese": "记得给Tôi打电话"
 	},
 	{
-		"chinese": "当......的时候",
 		"english": "when",
-		"soundmark": "/wɛn/"
+		"soundmark": "/wɛn/",
+		"vietnamese": "[VI:当......的时候]"
 	},
 	{
-		"chinese": "当你回到家的时候",
 		"english": "when you get home",
-		"soundmark": "/wɛn/ /ju/ /ɡɛt/ /hom/"
+		"soundmark": "/wɛn/ /ju/ /ɡɛt/ /hom/",
+		"vietnamese": "当Bạn回到家的时候"
 	},
 	{
-		"chinese": "记得给我打电话当你回到家的时候",
 		"english": "remember to call me when you get home",
-		"soundmark": "/rɪ'mɛmbɚ/ /tə/ /kɔl/ /mi/ /wɛn/ /ju/ /ɡɛt/ /hom/"
+		"soundmark": "/rɪ'mɛmbɚ/ /tə/ /kɔl/ /mi/ /wɛn/ /ju/ /ɡɛt/ /hom/",
+		"vietnamese": "记得给Tôi打电话当Bạn回到家的时候"
 	},
 	{
-		"chinese": "不要忘记",
 		"english": "don't forget",
-		"soundmark": "/dont/ /fɚ'ɡɛt/"
+		"soundmark": "/dont/ /fɚ'ɡɛt/",
+		"vietnamese": "không要忘记"
 	},
 	{
-		"chinese": "不要忘记给我打电话当你回到家的时候",
 		"english": "don't forget to call me when you get home",
-		"soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /kɔl/ /mi/ /wɛn/ /ju/ /ɡɛt/ /hom/"
+		"soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /kɔl/ /mi/ /wɛn/ /ju/ /ɡɛt/ /hom/",
+		"vietnamese": "không要忘记给Tôi打电话当Bạn回到家的时候"
 	},
 	{
-		"chinese": "清理；打扫",
 		"english": "to clean",
-		"soundmark": "/tə/ /klin/"
+		"soundmark": "/tə/ /klin/",
+		"vietnamese": "[VI:清理；打扫]"
 	},
 	{
-		"chinese": "房间",
 		"english": "the room",
-		"soundmark": "/ðə/ /rum/"
+		"soundmark": "/ðə/ /rum/",
+		"vietnamese": "[VI:房间]"
 	},
 	{
-		"chinese": "打扫房间",
 		"english": "to clean the room",
-		"soundmark": "/tə/ /klin/ /ðə/ /rum/"
+		"soundmark": "/tə/ /klin/ /ðə/ /rum/",
+		"vietnamese": "[VI:打扫房间]"
 	},
 	{
-		"chinese": "不要忘记打扫房间",
 		"english": "don't forget to clean the room",
-		"soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /klin/ /ðə/ /rum/"
+		"soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /klin/ /ðə/ /rum/",
+		"vietnamese": "không要忘记打扫房间"
 	},
 	{
-		"chinese": "当你回到家的时候",
 		"english": "when you get home",
-		"soundmark": "/wɛn/ /ju/ /ɡɛt/ /hom/"
+		"soundmark": "/wɛn/ /ju/ /ɡɛt/ /hom/",
+		"vietnamese": "当Bạn回到家的时候"
 	},
 	{
-		"chinese": "不要忘记打扫房间当你回到家的时候",
 		"english": "don't forget to clean the room when you get home",
-		"soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /klin/ /ðə/ /rum/ /wɛn/ /ju/ /ɡɛt/ /hom/"
+		"soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /klin/ /ðə/ /rum/ /wɛn/ /ju/ /ɡɛt/ /hom/",
+		"vietnamese": "không要忘记打扫房间当Bạn回到家的时候"
 	},
 	{
-		"chinese": "记得打扫房间当你回到家的时候",
 		"english": "remember to clean the room when you get home",
-		"soundmark": "/rɪ'mɛmbɚ/ /tə/ /klin/ /ðə/ /rum/ /wɛn/ /ju/ /ɡɛt/ /hom/"
+		"soundmark": "/rɪ'mɛmbɚ/ /tə/ /klin/ /ðə/ /rum/ /wɛn/ /ju/ /ɡɛt/ /hom/",
+		"vietnamese": "记得打扫房间当Bạn回到家的时候"
 	},
 	{
-		"chinese": "找到",
 		"english": "to find",
-		"soundmark": "/tə/ /faɪnd/"
+		"soundmark": "/tə/ /faɪnd/",
+		"vietnamese": "[VI:找到]"
 	},
 	{
-		"chinese": "钥匙",
 		"english": "the key",
-		"soundmark": "/ðə/ /ki/"
+		"soundmark": "/ðə/ /ki/",
+		"vietnamese": "[VI:钥匙]"
 	},
 	{
-		"chinese": "找到钥匙",
 		"english": "to find the key",
-		"soundmark": "/tə/ /faɪnd/ /ðə/ /ki/"
+		"soundmark": "/tə/ /faɪnd/ /ðə/ /ki/",
+		"vietnamese": "[VI:找到钥匙]"
 	},
 	{
-		"chinese": "我需要",
 		"english": "I need",
-		"soundmark": "/aɪ/ /nid/"
+		"soundmark": "/aɪ/ /nid/",
+		"vietnamese": "Tôi cần"
 	},
 	{
-		"chinese": "我需要找到钥匙",
 		"english": "I need to find the key",
-		"soundmark": "/aɪ/ /nid/ /tə/ /faɪnd/ /ðə/ /ki/"
+		"soundmark": "/aɪ/ /nid/ /tə/ /faɪnd/ /ðə/ /ki/",
+		"vietnamese": "Tôi cần找到钥匙"
 	},
 	{
-		"chinese": "门",
 		"english": "the door",
-		"soundmark": "/ðə/ /dɔr/"
+		"soundmark": "/ðə/ /dɔr/",
+		"vietnamese": "[VI:门]"
 	},
 	{
-		"chinese": "门的钥匙",
 		"english": "the key to the door",
-		"soundmark": "/ðə/ /ki/ /tə/ /ðə/ /dɔr/"
+		"soundmark": "/ðə/ /ki/ /tə/ /ðə/ /dɔr/",
+		"vietnamese": "[VI:门的钥匙]"
 	},
 	{
-		"chinese": "房子",
 		"english": "the house",
-		"soundmark": "/ðə/ /haʊs/"
+		"soundmark": "/ðə/ /haʊs/",
+		"vietnamese": "[VI:房子]"
 	},
 	{
-		"chinese": "房子的钥匙",
 		"english": "the key to the house",
-		"soundmark": "/ðə/ /ki/ /tə/ /ðə/ /haʊs/"
+		"soundmark": "/ðə/ /ki/ /tə/ /ðə/ /haʊs/",
+		"vietnamese": "[VI:房子的钥匙]"
 	},
 	{
-		"chinese": "我需要找到门的钥匙",
 		"english": "I need to find the key to the door",
-		"soundmark": "/aɪ/ /nid/ /tə/ /faɪnd/ /ðə/ /ki/ /tə/ /ðə/ /dɔr/"
+		"soundmark": "/aɪ/ /nid/ /tə/ /faɪnd/ /ðə/ /ki/ /tə/ /ðə/ /dɔr/",
+		"vietnamese": "Tôi cần找到门的钥匙"
 	},
 	{
-		"chinese": "我必须找到房子的钥匙",
 		"english": "I have to find the key to the house",
-		"soundmark": "/aɪ/ /nid/ /tə/ /faɪnd/ /ðə/ /ki/ /tə/ /ðə/ /haʊs/"
+		"soundmark": "/aɪ/ /nid/ /tə/ /faɪnd/ /ðə/ /ki/ /tə/ /ðə/ /haʊs/",
+		"vietnamese": "Tôi phải找到房子的钥匙"
 	},
 	{
-		"chinese": "可以；能",
 		"english": "can",
-		"soundmark": "/kæn/"
+		"soundmark": "/kæn/",
+		"vietnamese": "[VI:可以；能]"
 	},
 	{
-		"chinese": "我能找到门的钥匙",
 		"english": "I can find the key to the door",
-		"soundmark": "/aɪ/ /kæn/ /faɪnd/ /ðə/ /ki/ /tə/ /ðə/ /dɔr/"
+		"soundmark": "/aɪ/ /kæn/ /faɪnd/ /ðə/ /ki/ /tə/ /ðə/ /dɔr/",
+		"vietnamese": "Tôi能找到门的钥匙"
 	},
 	{
-		"chinese": "我不能找到门的钥匙",
 		"english": "I can not find the key to the door",
-		"soundmark": "/aɪ/ /kæn/ /nɑt/ /faɪnd/ /ðə/ /ki/ /tə/ /ðə/ /dɔr/"
+		"soundmark": "/aɪ/ /kæn/ /nɑt/ /faɪnd/ /ðə/ /ki/ /tə/ /ðə/ /dɔr/",
+		"vietnamese": "Tôikhông能找到门的钥匙"
 	},
 	{
-		"chinese": "我不能找到房子的钥匙",
 		"english": "I can not find the key to the house",
-		"soundmark": "/aɪ/ /kæn/ /nɑt/ /faɪnd/ /ðə/ /ki/ /tə/ /ðə/ /haʊs/"
+		"soundmark": "/aɪ/ /kæn/ /nɑt/ /faɪnd/ /ðə/ /ki/ /tə/ /ðə/ /haʊs/",
+		"vietnamese": "Tôikhông能找到房子的钥匙"
 	},
 	{
-		"chinese": "弄丢了",
 		"english": "lost",
-		"soundmark": "/lɔst/"
+		"soundmark": "/lɔst/",
+		"vietnamese": "[VI:弄丢了]"
 	},
 	{
-		"chinese": "我弄丢了钥匙",
 		"english": "I lost the key",
-		"soundmark": "/aɪ/ /lɔst/ /ðə/ /ki/"
+		"soundmark": "/aɪ/ /lɔst/ /ðə/ /ki/",
+		"vietnamese": "Tôi弄丢了钥匙"
 	},
 	{
-		"chinese": "门的钥匙",
 		"english": "the key to the door",
-		"soundmark": "/ðə/ /ki/ /tə/ /ðə/ /dɔr/"
+		"soundmark": "/ðə/ /ki/ /tə/ /ðə/ /dɔr/",
+		"vietnamese": "[VI:门的钥匙]"
 	},
 	{
-		"chinese": "我弄丢了门的钥匙",
 		"english": "I lost the key to the door",
-		"soundmark": "/aɪ/ /lɔst/ /ðə/ /ki/ /tə/ /ðə/ /dɔr/"
+		"soundmark": "/aɪ/ /lɔst/ /ðə/ /ki/ /tə/ /ðə/ /dɔr/",
+		"vietnamese": "Tôi弄丢了门的钥匙"
 	},
 	{
-		"chinese": "我觉得；我认为",
 		"english": "I think",
-		"soundmark": "/aɪ/ /θɪŋk/"
+		"soundmark": "/aɪ/ /θɪŋk/",
+		"vietnamese": "Tôi觉得；我认为"
 	},
 	{
-		"chinese": "我觉得我丢掉了门的钥匙",
 		"english": "I think I lost the key to the door",
-		"soundmark": "/aɪ/ /θɪŋk/ /aɪ/ /lɔst/ /ðə/ /ki/ /tə/ /ðə/ /dɔr/"
+		"soundmark": "/aɪ/ /θɪŋk/ /aɪ/ /lɔst/ /ðə/ /ki/ /tə/ /ðə/ /dɔr/",
+		"vietnamese": "Tôi觉得我丢掉了门的钥匙"
 	},
 	{
-		"chinese": "因为",
 		"english": "because",
-		"soundmark": "/bɪ'kɔz/"
+		"soundmark": "/bɪ'kɔz/",
+		"vietnamese": "bởi vì"
 	},
 	{
-		"chinese": "我不能找到它",
 		"english": "I can not find it",
-		"soundmark": "/aɪ/ /kæn/ /nɑt/ /faɪnd/ /ɪt/"
+		"soundmark": "/aɪ/ /kæn/ /nɑt/ /faɪnd/ /ɪt/",
+		"vietnamese": "Tôikhông能找到Nó"
 	},
 	{
-		"chinese": "我觉得我丢掉了门的钥匙因为我不能找到它",
 		"english": "I think I lost the key to the door because I can not find it",
-		"soundmark": "/aɪ/ /θɪŋk/ /aɪ/ /lɔst/ /ðə/ /ki/ /tə/ /ðə/ /dɔr/ /bɪ'kɔz/ /aɪ/ /kæn/ /nɑt/ /faɪnd/ /ɪt/"
+		"soundmark": "/aɪ/ /θɪŋk/ /aɪ/ /lɔst/ /ðə/ /ki/ /tə/ /ðə/ /dɔr/ /bɪ'kɔz/ /aɪ/ /kæn/ /nɑt/ /faɪnd/ /ɪt/",
+		"vietnamese": "Tôi觉得我丢掉了门的钥匙bởi vì我không能找到Nó"
 	},
 	{
-		"chinese": "关闭",
 		"english": "to close",
-		"soundmark": "/tə/ /kloz/"
+		"soundmark": "/tə/ /kloz/",
+		"vietnamese": "[VI:关闭]"
 	},
 	{
-		"chinese": "窗户",
 		"english": "the window",
-		"soundmark": "/ðə/ /'wɪndo/"
+		"soundmark": "/ðə/ /'wɪndo/",
+		"vietnamese": "[VI:窗户]"
 	},
 	{
-		"chinese": "关闭窗户",
 		"english": "to close the window",
-		"soundmark": "/tə/ /kloz/ /ðə/ /'wɪndo/"
+		"soundmark": "/tə/ /kloz/ /ðə/ /'wɪndo/",
+		"vietnamese": "[VI:关闭窗户]"
 	},
 	{
-		"chinese": "我想要关闭窗户",
 		"english": "I want to close the window",
-		"soundmark": "/aɪ/ /wɑnt/ /tə/ /kloz/ /ðə/ /'wɪndo/"
+		"soundmark": "/aɪ/ /wɑnt/ /tə/ /kloz/ /ðə/ /'wɪndo/",
+		"vietnamese": "Tôi muốn关闭窗户"
 	},
 	{
-		"chinese": "记得",
 		"english": "to remember",
-		"soundmark": "/tə/ /rɪ'mɛmbɚ/"
+		"soundmark": "/tə/ /rɪ'mɛmbɚ/",
+		"vietnamese": "[VI:记得]"
 	},
 	{
-		"chinese": "你记得关闭窗户",
 		"english": "you remember to close the window",
-		"soundmark": "/ju/ /rɪ'mɛmbɚ/ /tə/ /kloz/ /ðə/ /'wɪndo/"
+		"soundmark": "/ju/ /rɪ'mɛmbɚ/ /tə/ /kloz/ /ðə/ /'wɪndo/",
+		"vietnamese": "Bạn记得关闭窗户"
 	},
 	{
-		"chinese": "记得关闭窗户",
 		"english": "remember to close the window",
-		"soundmark": "/rɪ'mɛmbɚ/ /tə/ /kloz/ /ðə/ /'wɪndo/"
+		"soundmark": "/rɪ'mɛmbɚ/ /tə/ /kloz/ /ðə/ /'wɪndo/",
+		"vietnamese": "[VI:记得关闭窗户]"
 	},
 	{
-		"chinese": "不要忘记",
 		"english": "don't forget",
-		"soundmark": "/dont/ /fɚ'ɡɛt/"
+		"soundmark": "/dont/ /fɚ'ɡɛt/",
+		"vietnamese": "không要忘记"
 	},
 	{
-		"chinese": "不要忘记关闭窗户",
 		"english": "don't forget to close the window",
-		"soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /kloz/ /ðə/ /'wɪndo/"
+		"soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /kloz/ /ðə/ /'wɪndo/",
+		"vietnamese": "không要忘记关闭窗户"
 	},
 	{
-		"chinese": "当......的时候",
 		"english": "when",
-		"soundmark": "/wɛn/"
+		"soundmark": "/wɛn/",
+		"vietnamese": "[VI:当......的时候]"
 	},
 	{
-		"chinese": "当你离开的时候",
 		"english": "when you leave",
-		"soundmark": "/wɛn/ /ju/ /liv/"
+		"soundmark": "/wɛn/ /ju/ /liv/",
+		"vietnamese": "当Bạn离开的时候"
 	},
 	{
-		"chinese": "房间",
 		"english": "the room",
-		"soundmark": "/ðə/ /rum/"
+		"soundmark": "/ðə/ /rum/",
+		"vietnamese": "[VI:房间]"
 	},
 	{
-		"chinese": "当你离开房间的时候",
 		"english": "when you leave the room",
-		"soundmark": "/wɛn/ /ju/ /liv/ /ðə/ /rum/"
+		"soundmark": "/wɛn/ /ju/ /liv/ /ðə/ /rum/",
+		"vietnamese": "当Bạn离开房间的时候"
 	},
 	{
-		"chinese": "不要忘记关闭窗户当你离开房间的时候",
 		"english": "don't forget to close the window when you leave the room",
-		"soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /kloz/ /ðə/ /'wɪndo/ /wɛn/ /ju/ /liv/ /ðə/ /rum/"
+		"soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /kloz/ /ðə/ /'wɪndo/ /wɛn/ /ju/ /liv/ /ðə/ /rum/",
+		"vietnamese": "không要忘记关闭窗户当Bạn离开房间的时候"
 	},
 	{
-		"chinese": "记得关闭窗户当你离开房间的时候",
 		"english": "remember to close the window when you leave the room",
-		"soundmark": "/rɪ'mɛmbɚ/ /tə/ /kloz/ /ðə/ /'wɪndo/ /wɛn/ /ju/ /liv/ /ðə/ /rum/"
+		"soundmark": "/rɪ'mɛmbɚ/ /tə/ /kloz/ /ðə/ /'wɪndo/ /wɛn/ /ju/ /liv/ /ðə/ /rum/",
+		"vietnamese": "记得关闭窗户当Bạn离开房间的时候"
 	}
 ]

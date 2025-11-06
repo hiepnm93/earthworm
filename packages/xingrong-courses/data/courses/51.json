@@ -1,727 +1,727 @@
 [
 	{
-		"chinese": "做",
 		"english": "to make",
-		"soundmark": "/tə/ /mek/"
+		"soundmark": "/tə/ /mek/",
+		"vietnamese": "làm"
 	},
 	{
-		"chinese": "错误",
 		"english": "mistake",
-		"soundmark": "/mɪ'stek/"
+		"soundmark": "/mɪ'stek/",
+		"vietnamese": "[VI:错误]"
 	},
 	{
-		"chinese": "产生一个错误",
 		"english": "to make a mistake",
-		"soundmark": "/tə/ /mek/ /ə/ /mɪ'stek/"
+		"soundmark": "/tə/ /mek/ /ə/ /mɪ'stek/",
+		"vietnamese": "[VI:产生一个错误]"
 	},
 	{
-		"chinese": "我产生一个错误",
 		"english": "I make a mistake",
-		"soundmark": "/aɪ/ /mek/ /ə/ /mɪ'stek/"
+		"soundmark": "/aɪ/ /mek/ /ə/ /mɪ'stek/",
+		"vietnamese": "Tôi产生一个错误"
 	},
 	{
-		"chinese": "产生（过去分词）",
 		"english": "made",
-		"soundmark": "/med/"
+		"soundmark": "/med/",
+		"vietnamese": "[VI:产生（过去分词）]"
 	},
 	{
-		"chinese": "我（已经）犯了一个错误",
 		"english": "I have made a mistake",
-		"soundmark": "/aɪ/ /hæv/ /med/ /ə/ /mɪ'stek/"
+		"soundmark": "/aɪ/ /hæv/ /med/ /ə/ /mɪ'stek/",
+		"vietnamese": "Tôi（已经）犯了一个错误"
 	},
 	{
-		"chinese": "我没有犯过一个错误",
 		"english": "I have not made a mistake",
-		"soundmark": "/aɪ/ /hæv/ /nɑt/ /med/ /ə/ /mɪ'stek/"
+		"soundmark": "/aɪ/ /hæv/ /nɑt/ /med/ /ə/ /mɪ'stek/",
+		"vietnamese": "Tôi没有犯过一个错误"
 	},
 	{
-		"chinese": "从来没有",
 		"english": "never",
-		"soundmark": "/'nɛvɚ/"
+		"soundmark": "/'nɛvɚ/",
+		"vietnamese": "[VI:从来没有]"
 	},
 	{
-		"chinese": "我从来没有犯过一个错误",
 		"english": "I have never made a mistake",
-		"soundmark": "/aɪ/ /hæv/ /'nɛvɚ/ /med/ /ə/ /mɪ'stek/"
+		"soundmark": "/aɪ/ /hæv/ /'nɛvɚ/ /med/ /ə/ /mɪ'stek/",
+		"vietnamese": "Tôi从来没有犯过一个错误"
 	},
 	{
-		"chinese": "生命",
 		"english": "life",
-		"soundmark": "/laɪf/"
+		"soundmark": "/laɪf/",
+		"vietnamese": "[VI:生命]"
 	},
 	{
-		"chinese": "在我的生命中",
 		"english": "in my life",
-		"soundmark": "/ɪn/ /maɪ/ /laɪf/"
+		"soundmark": "/ɪn/ /maɪ/ /laɪf/",
+		"vietnamese": "在Tôi的生命中"
 	},
 	{
-		"chinese": "我在我的生命中从来没有犯过一个错误",
 		"english": "I have never made a mistake in my life",
-		"soundmark": "/aɪ/ /hæv/ /'nɛvɚ/ /med/ /ə/ /mɪ'stek/ /ɪn/ /maɪ/ /laɪf/"
+		"soundmark": "/aɪ/ /hæv/ /'nɛvɚ/ /med/ /ə/ /mɪ'stek/ /ɪn/ /maɪ/ /laɪf/",
+		"vietnamese": "Tôi在我的生命中从来没有犯过一个错误"
 	},
 	{
-		"chinese": "我从来没有犯过一个错误",
 		"english": "I have never made a mistake",
-		"soundmark": "/aɪ/ /hæv/ /'nɛvɚ/ /med/ /ə/ /mɪ'stek/"
+		"soundmark": "/aɪ/ /hæv/ /'nɛvɚ/ /med/ /ə/ /mɪ'stek/",
+		"vietnamese": "Tôi从来没有犯过一个错误"
 	},
 	{
-		"chinese": "曾经",
 		"english": "ever",
-		"soundmark": "/'ɛvɚ/"
+		"soundmark": "/'ɛvɚ/",
+		"vietnamese": "[VI:曾经]"
 	},
 	{
-		"chinese": "我曾经犯过一个错误",
 		"english": "I have ever made a mistake",
-		"soundmark": "/aɪ/ /hæv/ /'ɛvɚ/ /med/ /ə/ /mɪ'stek/"
+		"soundmark": "/aɪ/ /hæv/ /'ɛvɚ/ /med/ /ə/ /mɪ'stek/",
+		"vietnamese": "Tôi曾经犯过一个错误"
 	},
 	{
-		"chinese": "我曾经......",
 		"english": "I have ever",
-		"soundmark": "/aɪ/ /hæv/ /'ɛvɚ/"
+		"soundmark": "/aɪ/ /hæv/ /'ɛvɚ/",
+		"vietnamese": "Tôi曾经......"
 	},
 	{
-		"chinese": "大",
 		"english": "big",
-		"soundmark": "/bɪɡ/"
+		"soundmark": "/bɪɡ/",
+		"vietnamese": "[VI:大]"
 	},
 	{
-		"chinese": "最大的",
 		"english": "the biggest",
-		"soundmark": "/ðə/ /'bɪgɪst/"
+		"soundmark": "/ðə/ /'bɪgɪst/",
+		"vietnamese": "[VI:最大的]"
 	},
 	{
-		"chinese": "最大的错误",
 		"english": "the biggest mistake",
-		"soundmark": "/ðə/ /'bɪgɪst/ /mɪ'stek/"
+		"soundmark": "/ðə/ /'bɪgɪst/ /mɪ'stek/",
+		"vietnamese": "[VI:最大的错误]"
 	},
 	{
-		"chinese": "我曾经犯过的",
 		"english": "I have ever made",
-		"soundmark": "/aɪ/ /hæv/ /'ɛvɚ/ /med/"
+		"soundmark": "/aɪ/ /hæv/ /'ɛvɚ/ /med/",
+		"vietnamese": "Tôi曾经犯过的"
 	},
 	{
-		"chinese": "我曾经犯过的最大的错误",
 		"english": "the biggest mistake I have ever made",
-		"soundmark": "/ðə/ /'bɪgɪst/ /mɪ'stek/ /aɪ/ /hæv/ /'ɛvɚ/ /med/"
+		"soundmark": "/ðə/ /'bɪgɪst/ /mɪ'stek/ /aɪ/ /hæv/ /'ɛvɚ/ /med/",
+		"vietnamese": "Tôi曾经犯过的最大的错误"
 	},
 	{
-		"chinese": "那是",
 		"english": "that was",
-		"soundmark": "/ðæt/ /wəz/"
+		"soundmark": "/ðæt/ /wəz/",
+		"vietnamese": "那là"
 	},
 	{
-		"chinese": "那是我曾经犯过的最大的错误",
 		"english": "that was the biggest mistake I have ever made",
-		"soundmark": "/ðæt/ /wəz/ /ðə/ /'bɪgɪst/ /mɪ'stek/ /aɪ/ /hæv/ /'ɛvɚ/ /med/"
+		"soundmark": "/ðæt/ /wəz/ /ðə/ /'bɪgɪst/ /mɪ'stek/ /aɪ/ /hæv/ /'ɛvɚ/ /med/",
+		"vietnamese": "那làTôi曾经犯过的最大的错误"
 	},
 	{
-		"chinese": "在我的生命中",
 		"english": "in my life",
-		"soundmark": "/ɪn/ /maɪ/ /laɪf/"
+		"soundmark": "/ɪn/ /maɪ/ /laɪf/",
+		"vietnamese": "在Tôi的生命中"
 	},
 	{
-		"chinese": "那是我在我的生命中曾经犯过的最大的错误",
 		"english": "that was the biggest mistake I have ever made in my life",
-		"soundmark": "/ðæt/ /wəz/ /ðə/ /'bɪgɪst/ /mɪ'stek/ /aɪ/ /hæv/ /'ɛvɚ/ /med/ /ɪn/ /maɪ/ /laɪf/"
+		"soundmark": "/ðæt/ /wəz/ /ðə/ /'bɪgɪst/ /mɪ'stek/ /aɪ/ /hæv/ /'ɛvɚ/ /med/ /ɪn/ /maɪ/ /laɪf/",
+		"vietnamese": "那làTôi在我的生命中曾经犯过的最大的错误"
 	},
 	{
-		"chinese": "挑战",
 		"english": "challenge",
-		"soundmark": "/'tʃælɪndʒ/"
+		"soundmark": "/'tʃælɪndʒ/",
+		"vietnamese": "[VI:挑战]"
 	},
 	{
-		"chinese": "最大的",
 		"english": "the biggest",
-		"soundmark": "/ðə/ /'bɪgɪst/"
+		"soundmark": "/ðə/ /'bɪgɪst/",
+		"vietnamese": "[VI:最大的]"
 	},
 	{
-		"chinese": "最大的挑战",
 		"english": "the biggest challenge",
-		"soundmark": "/ðə/ /'bɪgɪst/ /'tʃælɪndʒ/"
+		"soundmark": "/ðə/ /'bɪgɪst/ /'tʃælɪndʒ/",
+		"vietnamese": "[VI:最大的挑战]"
 	},
 	{
-		"chinese": "面对",
 		"english": "to face",
-		"soundmark": "/tə/ /fes/"
+		"soundmark": "/tə/ /fes/",
+		"vietnamese": "[VI:面对]"
 	},
 	{
-		"chinese": "面对（过去分词）",
 		"english": "faced",
-		"soundmark": "/fest/"
+		"soundmark": "/fest/",
+		"vietnamese": "[VI:面对（过去分词）]"
 	},
 	{
-		"chinese": "我曾经面对",
 		"english": "I have ever faced",
-		"soundmark": "/aɪ/ /hæv/ /'ɛvɚ/ /fest/"
+		"soundmark": "/aɪ/ /hæv/ /'ɛvɚ/ /fest/",
+		"vietnamese": "Tôi曾经面对"
 	},
 	{
-		"chinese": "我曾经面对的最大的挑战",
 		"english": "the biggest challenge I have ever faced",
-		"soundmark": "/ðə/ /'bɪgɪst/ /'tʃælɪndʒ/ /aɪ/ /hæv/ /'ɛvɚ/ /fest/"
+		"soundmark": "/ðə/ /'bɪgɪst/ /'tʃælɪndʒ/ /aɪ/ /hæv/ /'ɛvɚ/ /fest/",
+		"vietnamese": "Tôi曾经面对的最大的挑战"
 	},
 	{
-		"chinese": "那是",
 		"english": "that was",
-		"soundmark": "/ðæt/ /wəz/"
+		"soundmark": "/ðæt/ /wəz/",
+		"vietnamese": "那là"
 	},
 	{
-		"chinese": "那是我曾经面对的最大的挑战",
 		"english": "that was the biggest challenge I have ever faced",
-		"soundmark": "/ðæt/ /wəz/ /ðə/ /'bɪgɪst/ /'tʃælɪndʒ/ /aɪ/ /hæv/ /'ɛvɚ/ /fest/"
+		"soundmark": "/ðæt/ /wəz/ /ðə/ /'bɪgɪst/ /'tʃælɪndʒ/ /aɪ/ /hæv/ /'ɛvɚ/ /fest/",
+		"vietnamese": "那làTôi曾经面对的最大的挑战"
 	},
 	{
-		"chinese": "强壮的",
 		"english": "strong",
-		"soundmark": "/strɔŋ/"
+		"soundmark": "/strɔŋ/",
+		"vietnamese": "[VI:强壮的]"
 	},
 	{
-		"chinese": "最强壮的",
 		"english": "the strongest",
-		"soundmark": "/ðə/ /'strɔŋgəst/"
+		"soundmark": "/ðə/ /'strɔŋgəst/",
+		"vietnamese": "[VI:最强壮的]"
 	},
 	{
-		"chinese": "人",
 		"english": "man",
-		"soundmark": "/mæn/"
+		"soundmark": "/mæn/",
+		"vietnamese": "[VI:人]"
 	},
 	{
-		"chinese": "最强壮的人",
 		"english": "the strongest man",
-		"soundmark": "/ðə/ /'strɔŋgəst/ /mæn/"
+		"soundmark": "/ðə/ /'strɔŋgəst/ /mæn/",
+		"vietnamese": "[VI:最强壮的人]"
 	},
 	{
-		"chinese": "见到",
 		"english": "to meet",
-		"soundmark": "/tə/ /mit/"
+		"soundmark": "/tə/ /mit/",
+		"vietnamese": "gặp"
 	},
 	{
-		"chinese": "见到（过去分词）",
 		"english": "met",
-		"soundmark": "/mɛt/"
+		"soundmark": "/mɛt/",
+		"vietnamese": "gặp（过去分词）"
 	},
 	{
-		"chinese": "我曾经......",
 		"english": "I have ever",
-		"soundmark": "/aɪ/ /hæv/ /'ɛvɚ/"
+		"soundmark": "/aɪ/ /hæv/ /'ɛvɚ/",
+		"vietnamese": "Tôi曾经......"
 	},
 	{
-		"chinese": "我曾经见过",
 		"english": "I have ever met",
-		"soundmark": "/aɪ/ /hæv/ /'ɛvɚ/ /mɛt/"
+		"soundmark": "/aɪ/ /hæv/ /'ɛvɚ/ /mɛt/",
+		"vietnamese": "Tôi曾经见过"
 	},
 	{
-		"chinese": "之前",
 		"english": "before",
-		"soundmark": "/bɪ'fɔr/"
+		"soundmark": "/bɪ'fɔr/",
+		"vietnamese": "[VI:之前]"
 	},
 	{
-		"chinese": "我之前曾经见过",
 		"english": "I have ever met before",
-		"soundmark": "/aɪ/ /hæv/ /'ɛvɚ/ /mɛt/ /bɪ'fɔr/"
+		"soundmark": "/aɪ/ /hæv/ /'ɛvɚ/ /mɛt/ /bɪ'fɔr/",
+		"vietnamese": "Tôi之前曾经见过"
 	},
 	{
-		"chinese": "我之前曾经见过的最强壮的人",
 		"english": "the strongest man I have ever met before",
-		"soundmark": "/ðə/ /'strɔŋgəst/ /mæn/ /aɪ/ /hæv/ /'ɛvɚ/ /mɛt/ /bɪ'fɔr/"
+		"soundmark": "/ðə/ /'strɔŋgəst/ /mæn/ /aɪ/ /hæv/ /'ɛvɚ/ /mɛt/ /bɪ'fɔr/",
+		"vietnamese": "Tôi之前曾经见过的最强壮的人"
 	},
 	{
-		"chinese": "你是",
 		"english": "you are",
-		"soundmark": "/ju/ /ɚ/"
+		"soundmark": "/ju/ /ɚ/",
+		"vietnamese": "Bạn là"
 	},
 	{
-		"chinese": "你是我之前曾经见过的最强壮的人",
 		"english": "you are the strongest man I have ever met before",
-		"soundmark": "/ju/ /ɚ/ /ðə/ /'strɔŋgəst/ /mæn/ /aɪ/ /hæv/ /'ɛvɚ/ /mɛt/ /bɪ'fɔr/"
+		"soundmark": "/ju/ /ɚ/ /ðə/ /'strɔŋgəst/ /mæn/ /aɪ/ /hæv/ /'ɛvɚ/ /mɛt/ /bɪ'fɔr/",
+		"vietnamese": "Bạn làTôi之前曾经见过的最强壮的人"
 	},
 	{
-		"chinese": "漂亮的",
 		"english": "beautiful",
-		"soundmark": "/'bjʊtəfəl/"
+		"soundmark": "/'bjʊtəfəl/",
+		"vietnamese": "đẹp"
 	},
 	{
-		"chinese": "最",
 		"english": "the most",
-		"soundmark": "/ðə/ /most/"
+		"soundmark": "/ðə/ /most/",
+		"vietnamese": "[VI:最]"
 	},
 	{
-		"chinese": "最漂亮的",
 		"english": "the most beautiful",
-		"soundmark": "/ðə/ /most/ /'bjʊtəfəl/"
+		"soundmark": "/ðə/ /most/ /'bjʊtəfəl/",
+		"vietnamese": "最đẹp"
 	},
 	{
-		"chinese": "女人",
 		"english": "woman",
-		"soundmark": "/'wʊmən/"
+		"soundmark": "/'wʊmən/",
+		"vietnamese": "[VI:女人]"
 	},
 	{
-		"chinese": "最漂亮的女人",
 		"english": "the most beautiful woman",
-		"soundmark": "/ðə/ /most/ /'bjʊtəfəl/ /'wʊmən/"
+		"soundmark": "/ðə/ /most/ /'bjʊtəfəl/ /'wʊmən/",
+		"vietnamese": "最đẹp女人"
 	},
 	{
-		"chinese": "认识",
 		"english": "to know",
-		"soundmark": "/tə/ /no/"
+		"soundmark": "/tə/ /no/",
+		"vietnamese": "quen biết"
 	},
 	{
-		"chinese": "认识（过去分词）",
 		"english": "known",
-		"soundmark": "/non/"
+		"soundmark": "/non/",
+		"vietnamese": "quen biết（过去分词）"
 	},
 	{
-		"chinese": "我曾经......",
 		"english": "I have ever",
-		"soundmark": "/aɪ/ /hæv/ /'ɛvɚ/"
+		"soundmark": "/aɪ/ /hæv/ /'ɛvɚ/",
+		"vietnamese": "Tôi曾经......"
 	},
 	{
-		"chinese": "我曾经认识",
 		"english": "I have ever known",
-		"soundmark": "/aɪ/ /hæv/ /'ɛvɚ/ /non/"
+		"soundmark": "/aɪ/ /hæv/ /'ɛvɚ/ /non/",
+		"vietnamese": "Tôi曾经quen biết"
 	},
 	{
-		"chinese": "我曾经认识的最漂亮的女人",
 		"english": "the most beautiful woman I have ever known",
-		"soundmark": "/ðə/ /most/ /'bjʊtəfəl/ /'wʊmən/ /aɪ/ /hæv/ /'ɛvɚ/ /non/"
+		"soundmark": "/ðə/ /most/ /'bjʊtəfəl/ /'wʊmən/ /aɪ/ /hæv/ /'ɛvɚ/ /non/",
+		"vietnamese": "Tôi曾经quen biết的最đẹp女人"
 	},
 	{
-		"chinese": "你是",
 		"english": "you are",
-		"soundmark": "/ju/ /ɚ/"
+		"soundmark": "/ju/ /ɚ/",
+		"vietnamese": "Bạn là"
 	},
 	{
-		"chinese": "你是我曾经认识的最漂亮的女人",
 		"english": "you are the most beautiful woman I have ever known",
-		"soundmark": "/ju/ /ɚ/ /ðə/ /most/ /'bjʊtəfəl/ /'wʊmən/ /aɪ/ /hæv/ /'ɛvɚ/ /non/"
+		"soundmark": "/ju/ /ɚ/ /ðə/ /most/ /'bjʊtəfəl/ /'wʊmən/ /aɪ/ /hæv/ /'ɛvɚ/ /non/",
+		"vietnamese": "Bạn làTôi曾经quen biết的最đẹp女人"
 	},
 	{
-		"chinese": "故事",
 		"english": "story",
-		"soundmark": "/'stɔri/"
+		"soundmark": "/'stɔri/",
+		"vietnamese": "[VI:故事]"
 	},
 	{
-		"chinese": "好的",
 		"english": "good",
-		"soundmark": "/ɡʊd/"
+		"soundmark": "/ɡʊd/",
+		"vietnamese": "tốt"
 	},
 	{
-		"chinese": "好的故事",
 		"english": "good story",
-		"soundmark": "/ɡʊd/ /'stɔri/"
+		"soundmark": "/ɡʊd/ /'stɔri/",
+		"vietnamese": "tốt故事"
 	},
 	{
-		"chinese": "最好的",
 		"english": "the best",
-		"soundmark": "/ðə/ /bɛst/"
+		"soundmark": "/ðə/ /bɛst/",
+		"vietnamese": "最tốt"
 	},
 	{
-		"chinese": "最好的故事",
 		"english": "the best story",
-		"soundmark": "/ðə/ /bɛst/ /'stɔri/"
+		"soundmark": "/ðə/ /bɛst/ /'stɔri/",
+		"vietnamese": "最tốt故事"
 	},
 	{
-		"chinese": "听到",
 		"english": "to hear",
-		"soundmark": "/tə/ /hɪr/"
+		"soundmark": "/tə/ /hɪr/",
+		"vietnamese": "[VI:听到]"
 	},
 	{
-		"chinese": "听到（过去分词）",
 		"english": "heard",
-		"soundmark": "/hɚd/"
+		"soundmark": "/hɚd/",
+		"vietnamese": "[VI:听到（过去分词）]"
 	},
 	{
-		"chinese": "我曾经......",
 		"english": "I have ever",
-		"soundmark": "/aɪ/ /hæv/ /'ɛvɚ/"
+		"soundmark": "/aɪ/ /hæv/ /'ɛvɚ/",
+		"vietnamese": "Tôi曾经......"
 	},
 	{
-		"chinese": "我曾经听到",
 		"english": "I have ever heard",
-		"soundmark": "/aɪ/ /hæv/ /'ɛvɚ/ /hɚd/"
+		"soundmark": "/aɪ/ /hæv/ /'ɛvɚ/ /hɚd/",
+		"vietnamese": "Tôi曾经听到"
 	},
 	{
-		"chinese": "我曾经听到的最好的故事",
 		"english": "the best story I have ever heard",
-		"soundmark": "/ðə/ /bɛst/ /'stɔri/ /aɪ/ /hæv/ /'ɛvɚ/ /hɚd/"
+		"soundmark": "/ðə/ /bɛst/ /'stɔri/ /aɪ/ /hæv/ /'ɛvɚ/ /hɚd/",
+		"vietnamese": "Tôi曾经听到的最tốt故事"
 	},
 	{
-		"chinese": "这是",
 		"english": "this is",
-		"soundmark": "/ðɪs/ /ɪz/"
+		"soundmark": "/ðɪs/ /ɪz/",
+		"vietnamese": "这là"
 	},
 	{
-		"chinese": "这是我曾经听到的最好的故事",
 		"english": "this is the best story I have ever heard",
-		"soundmark": "/ðɪs/ /ɪz/ /ðə/ /bɛst/ /'stɔri/ /aɪ/ /hæv/ /'ɛvɚ/ /hɚd/"
+		"soundmark": "/ðɪs/ /ɪz/ /ðə/ /bɛst/ /'stɔri/ /aɪ/ /hæv/ /'ɛvɚ/ /hɚd/",
+		"vietnamese": "这làTôi曾经听到的最tốt故事"
 	},
 	{
-		"chinese": "好笑的",
 		"english": "funny",
-		"soundmark": "/'fʌni/"
+		"soundmark": "/'fʌni/",
+		"vietnamese": "[VI:好笑的]"
 	},
 	{
-		"chinese": "最好笑的",
 		"english": "the funniest",
-		"soundmark": "/ðə/ /ˈfʌniəst/"
+		"soundmark": "/ðə/ /ˈfʌniəst/",
+		"vietnamese": "[VI:最好笑的]"
 	},
 	{
-		"chinese": "事情",
 		"english": "thing",
-		"soundmark": "/θɪŋ/"
+		"soundmark": "/θɪŋ/",
+		"vietnamese": "[VI:事情]"
 	},
 	{
-		"chinese": "最好笑的事情",
 		"english": "the funniest thing",
-		"soundmark": "/ðə/ /ˈfʌniəst/ /θɪŋ/"
+		"soundmark": "/ðə/ /ˈfʌniəst/ /θɪŋ/",
+		"vietnamese": "[VI:最好笑的事情]"
 	},
 	{
-		"chinese": "看到",
 		"english": "to see",
-		"soundmark": "/tə/ /si/"
+		"soundmark": "/tə/ /si/",
+		"vietnamese": "[VI:看到]"
 	},
 	{
-		"chinese": "看到（过去分词）",
 		"english": "seen",
-		"soundmark": "/sin/"
+		"soundmark": "/sin/",
+		"vietnamese": "[VI:看到（过去分词）]"
 	},
 	{
-		"chinese": "我曾经......",
 		"english": "I have ever",
-		"soundmark": "/aɪ/ /hæv/ /'ɛvɚ/"
+		"soundmark": "/aɪ/ /hæv/ /'ɛvɚ/",
+		"vietnamese": "Tôi曾经......"
 	},
 	{
-		"chinese": "我曾经看到",
 		"english": "I have ever seen",
-		"soundmark": "/aɪ/ /hæv/ /'ɛvɚ/ /sin/"
+		"soundmark": "/aɪ/ /hæv/ /'ɛvɚ/ /sin/",
+		"vietnamese": "Tôi曾经看到"
 	},
 	{
-		"chinese": "我曾经看到的最好笑的事情",
 		"english": "the funniest thing I have ever seen",
-		"soundmark": "/ðə/ /ˈfʌniəst/ /θɪŋ/ /aɪ/ /hæv/ /'ɛvɚ/ /sin/"
+		"soundmark": "/ðə/ /ˈfʌniəst/ /θɪŋ/ /aɪ/ /hæv/ /'ɛvɚ/ /sin/",
+		"vietnamese": "Tôi曾经看到的最好笑的事情"
 	},
 	{
-		"chinese": "那是",
 		"english": "that was",
-		"soundmark": "/ðæt/ /wəz/"
+		"soundmark": "/ðæt/ /wəz/",
+		"vietnamese": "那là"
 	},
 	{
-		"chinese": "那是我曾经看到的最好笑的事情",
 		"english": "that was the funniest thing I have ever seen",
-		"soundmark": "/ðæt/ /wəz/ /ðə/ /ˈfʌniəst/ /θɪŋ/ /aɪ/ /hæv/ /'ɛvɚ/ /sin/"
+		"soundmark": "/ðæt/ /wəz/ /ðə/ /ˈfʌniəst/ /θɪŋ/ /aɪ/ /hæv/ /'ɛvɚ/ /sin/",
+		"vietnamese": "那làTôi曾经看到的最好笑的事情"
 	},
 	{
-		"chinese": "愚蠢的",
 		"english": "stupid",
-		"soundmark": "/'stupɪd/"
+		"soundmark": "/'stupɪd/",
+		"vietnamese": "[VI:愚蠢的]"
 	},
 	{
-		"chinese": "事情",
 		"english": "thing",
-		"soundmark": "/θɪŋ/"
+		"soundmark": "/θɪŋ/",
+		"vietnamese": "[VI:事情]"
 	},
 	{
-		"chinese": "愚蠢的事情",
 		"english": "stupid thing",
-		"soundmark": "/'stupɪd/ /θɪŋ/"
+		"soundmark": "/'stupɪd/ /θɪŋ/",
+		"vietnamese": "[VI:愚蠢的事情]"
 	},
 	{
-		"chinese": "最愚蠢的事情",
 		"english": "the stupidest thing",
-		"soundmark": "/ðə/ /ˈstupɪdəst/ /θɪŋ/"
+		"soundmark": "/ðə/ /ˈstupɪdəst/ /θɪŋ/",
+		"vietnamese": "[VI:最愚蠢的事情]"
 	},
 	{
-		"chinese": "做",
 		"english": "to do",
-		"soundmark": "/tə/ /du/"
+		"soundmark": "/tə/ /du/",
+		"vietnamese": "làm"
 	},
 	{
-		"chinese": "做（过去分词）",
 		"english": "done",
-		"soundmark": "/dʌn/"
+		"soundmark": "/dʌn/",
+		"vietnamese": "làm（过去分词）"
 	},
 	{
-		"chinese": "我曾经......",
 		"english": "I have ever",
-		"soundmark": "/aɪ/ /hæv/ /'ɛvɚ/"
+		"soundmark": "/aɪ/ /hæv/ /'ɛvɚ/",
+		"vietnamese": "Tôi曾经......"
 	},
 	{
-		"chinese": "我曾经做过",
 		"english": "I have ever done",
-		"soundmark": "/aɪ/ /hæv/ /'ɛvɚ/ /dʌn/"
+		"soundmark": "/aɪ/ /hæv/ /'ɛvɚ/ /dʌn/",
+		"vietnamese": "Tôi曾经làm过"
 	},
 	{
-		"chinese": "我曾经做过的最愚蠢的事情",
 		"english": "the stupidest thing I have ever done",
-		"soundmark": "/ðə/ /ˈstupɪdəst/ /θɪŋ/ /aɪ/ /hæv/ /'ɛvɚ/ /dʌn/"
+		"soundmark": "/ðə/ /ˈstupɪdəst/ /θɪŋ/ /aɪ/ /hæv/ /'ɛvɚ/ /dʌn/",
+		"vietnamese": "Tôi曾经làm过的最愚蠢的事情"
 	},
 	{
-		"chinese": "那是",
 		"english": "that was",
-		"soundmark": "/ðæt/ /wəz/"
+		"soundmark": "/ðæt/ /wəz/",
+		"vietnamese": "那là"
 	},
 	{
-		"chinese": "那是我曾经做过的最愚蠢的事情",
 		"english": "that was the stupidest thing I have ever done",
-		"soundmark": "/ðæt/ /wəz/ /ðə/ /ˈstupɪdəst/ /θɪŋ/ /aɪ/ /hæv/ /'ɛvɚ/ /dʌn/"
+		"soundmark": "/ðæt/ /wəz/ /ðə/ /ˈstupɪdəst/ /θɪŋ/ /aɪ/ /hæv/ /'ɛvɚ/ /dʌn/",
+		"vietnamese": "那làTôi曾经làm过的最愚蠢的事情"
 	},
 	{
-		"chinese": "固执的",
 		"english": "stubborn",
-		"soundmark": "/ˈstʌbɚn/"
+		"soundmark": "/ˈstʌbɚn/",
+		"vietnamese": "[VI:固执的]"
 	},
 	{
-		"chinese": "最",
 		"english": "the most",
-		"soundmark": "/ðə/ /most/"
+		"soundmark": "/ðə/ /most/",
+		"vietnamese": "[VI:最]"
 	},
 	{
-		"chinese": "最固执的",
 		"english": "the most stubborn",
-		"soundmark": "/ðə/ /most/ /ˈstʌbɚn/"
+		"soundmark": "/ðə/ /most/ /ˈstʌbɚn/",
+		"vietnamese": "[VI:最固执的]"
 	},
 	{
-		"chinese": "人",
 		"english": "person",
-		"soundmark": "/'pɝsn/"
+		"soundmark": "/'pɝsn/",
+		"vietnamese": "[VI:人]"
 	},
 	{
-		"chinese": "最固执的人",
 		"english": "the most stubborn person",
-		"soundmark": "/ðə/ /most/ /ˈstʌbɚn/ /'pɝsn/"
+		"soundmark": "/ðə/ /most/ /ˈstʌbɚn/ /'pɝsn/",
+		"vietnamese": "[VI:最固执的人]"
 	},
 	{
-		"chinese": "见到",
 		"english": "to meet",
-		"soundmark": "/tə/ /mit/"
+		"soundmark": "/tə/ /mit/",
+		"vietnamese": "gặp"
 	},
 	{
-		"chinese": "见到（过去分词）",
 		"english": "met",
-		"soundmark": "/mɛt/"
+		"soundmark": "/mɛt/",
+		"vietnamese": "gặp（过去分词）"
 	},
 	{
-		"chinese": "我曾经见过",
 		"english": "I have ever met",
-		"soundmark": "/aɪ/ /hæv/ /'ɛvɚ/ /mɛt/"
+		"soundmark": "/aɪ/ /hæv/ /'ɛvɚ/ /mɛt/",
+		"vietnamese": "Tôi曾经见过"
 	},
 	{
-		"chinese": "我曾经见过的最固执的人",
 		"english": "the most stubborn person I have ever met",
-		"soundmark": "/ðə/ /most/ /ˈstʌbɚn/ /'pɝsn/ /aɪ/ /hæv/ /'ɛvɚ/ /mɛt/"
+		"soundmark": "/ðə/ /most/ /ˈstʌbɚn/ /'pɝsn/ /aɪ/ /hæv/ /'ɛvɚ/ /mɛt/",
+		"vietnamese": "Tôi曾经见过的最固执的人"
 	},
 	{
-		"chinese": "在我的生命中",
 		"english": "in my life",
-		"soundmark": "/ɪn/ /maɪ/ /laɪf/"
+		"soundmark": "/ɪn/ /maɪ/ /laɪf/",
+		"vietnamese": "在Tôi的生命中"
 	},
 	{
-		"chinese": "在我的生命中我曾经见过的最固执的人",
 		"english": "the most stubborn person I have ever met in my life",
-		"soundmark": "/ðə/ /most/ /ˈstʌbɚn/ /'pɝsn/ /aɪ/ /hæv/ /'ɛvɚ/ /mɛt/ /ɪn/ /maɪ/ /laɪf/"
+		"soundmark": "/ðə/ /most/ /ˈstʌbɚn/ /'pɝsn/ /aɪ/ /hæv/ /'ɛvɚ/ /mɛt/ /ɪn/ /maɪ/ /laɪf/",
+		"vietnamese": "在Tôi的生命中我曾经见过的最固执的人"
 	},
 	{
-		"chinese": "你是",
 		"english": "you are",
-		"soundmark": "/ju/ /ɚ/"
+		"soundmark": "/ju/ /ɚ/",
+		"vietnamese": "Bạn là"
 	},
 	{
-		"chinese": "你是我在我的生命中曾经见过的最固执的人",
 		"english": "you are the most stubborn person I have ever met in my life",
-		"soundmark": "/ju/ /ɚ/ /ðə/ /most/ /ˈstʌbɚn/ /'pɝsn/ /aɪ/ /hæv/ /'ɛvɚ/ /mɛt/ /ɪn/ /maɪ/ /laɪf/"
+		"soundmark": "/ju/ /ɚ/ /ðə/ /most/ /ˈstʌbɚn/ /'pɝsn/ /aɪ/ /hæv/ /'ɛvɚ/ /mɛt/ /ɪn/ /maɪ/ /laɪf/",
+		"vietnamese": "Bạn làTôi在我的生命中曾经见过的最固执的人"
 	},
 	{
-		"chinese": "决定",
 		"english": "to decide",
-		"soundmark": "/tə/ /dɪ'saɪd/"
+		"soundmark": "/tə/ /dɪ'saɪd/",
+		"vietnamese": "[VI:决定]"
 	},
 	{
-		"chinese": "决定",
 		"english": "decision",
-		"soundmark": "/dɪ'sɪʒn/"
+		"soundmark": "/dɪ'sɪʒn/",
+		"vietnamese": "[VI:决定]"
 	},
 	{
-		"chinese": "做",
 		"english": "to make",
-		"soundmark": "/tə/ /mek/"
+		"soundmark": "/tə/ /mek/",
+		"vietnamese": "làm"
 	},
 	{
-		"chinese": "做决定",
 		"english": "to make a decision",
-		"soundmark": "/tə/ /mek/ /ə/ /dɪ'sɪʒn/"
+		"soundmark": "/tə/ /mek/ /ə/ /dɪ'sɪʒn/",
+		"vietnamese": "làm决定"
 	},
 	{
-		"chinese": "重要的",
 		"english": "important",
-		"soundmark": "/ɪm'pɔrtnt/"
+		"soundmark": "/ɪm'pɔrtnt/",
+		"vietnamese": "quan trọng"
 	},
 	{
-		"chinese": "重要的决定",
 		"english": "important decision",
-		"soundmark": "/ɪm'pɔrtnt/ /dɪ'sɪʒn/"
+		"soundmark": "/ɪm'pɔrtnt/ /dɪ'sɪʒn/",
+		"vietnamese": "quan trọng决定"
 	},
 	{
-		"chinese": "最",
 		"english": "the most",
-		"soundmark": "/ðə/ /most/"
+		"soundmark": "/ðə/ /most/",
+		"vietnamese": "[VI:最]"
 	},
 	{
-		"chinese": "最重要的决定",
 		"english": "the most important decision",
-		"soundmark": "/ðə/ /most/ /ɪm'pɔrtnt/ /dɪ'sɪʒn/"
+		"soundmark": "/ðə/ /most/ /ɪm'pɔrtnt/ /dɪ'sɪʒn/",
+		"vietnamese": "最quan trọng决定"
 	},
 	{
-		"chinese": "做",
 		"english": "to make",
-		"soundmark": "/tə/ /mek/"
+		"soundmark": "/tə/ /mek/",
+		"vietnamese": "làm"
 	},
 	{
-		"chinese": "做（过去分词）",
 		"english": "made",
-		"soundmark": "/med/"
+		"soundmark": "/med/",
+		"vietnamese": "làm（过去分词）"
 	},
 	{
-		"chinese": "我曾经......",
 		"english": "I have ever",
-		"soundmark": "/aɪ/ /hæv/ /'ɛvɚ/"
+		"soundmark": "/aɪ/ /hæv/ /'ɛvɚ/",
+		"vietnamese": "Tôi曾经......"
 	},
 	{
-		"chinese": "我曾经做过",
 		"english": "I have ever made",
-		"soundmark": "/aɪ/ /hæv/ /'ɛvɚ/ /med/"
+		"soundmark": "/aɪ/ /hæv/ /'ɛvɚ/ /med/",
+		"vietnamese": "Tôi曾经làm过"
 	},
 	{
-		"chinese": "我曾经做过的最重要的决定",
 		"english": "the most important decision I have ever made",
-		"soundmark": "/ðə/ /most/ /ɪm'pɔrtnt/ /dɪ'sɪʒn/ /aɪ/ /hæv/ /'ɛvɚ/ /med/"
+		"soundmark": "/ðə/ /most/ /ɪm'pɔrtnt/ /dɪ'sɪʒn/ /aɪ/ /hæv/ /'ɛvɚ/ /med/",
+		"vietnamese": "Tôi曾经làm过的最quan trọng决定"
 	},
 	{
-		"chinese": "这是",
 		"english": "this is",
-		"soundmark": "/ðɪs/ /ɪz/"
+		"soundmark": "/ðɪs/ /ɪz/",
+		"vietnamese": "这là"
 	},
 	{
-		"chinese": "这是我曾经做过的最重要的决定",
 		"english": "this is the most important decision I have ever made",
-		"soundmark": "/ðɪs/ /ɪz/ /ðə/ /most/ /ɪm'pɔrtnt/ /dɪ'sɪʒn/ /aɪ/ /hæv/ /'ɛvɚ/ /med/"
+		"soundmark": "/ðɪs/ /ɪz/ /ðə/ /most/ /ɪm'pɔrtnt/ /dɪ'sɪʒn/ /aɪ/ /hæv/ /'ɛvɚ/ /med/",
+		"vietnamese": "这làTôi曾经làm过的最quan trọng决定"
 	},
 	{
-		"chinese": "漂亮的",
 		"english": "beautiful",
-		"soundmark": "/'bjʊtəfəl/"
+		"soundmark": "/'bjʊtəfəl/",
+		"vietnamese": "đẹp"
 	},
 	{
-		"chinese": "最",
 		"english": "the most",
-		"soundmark": "/ðə/ /most/"
+		"soundmark": "/ðə/ /most/",
+		"vietnamese": "[VI:最]"
 	},
 	{
-		"chinese": "最漂亮的",
 		"english": "the most beautiful",
-		"soundmark": "/ðə/ /most/ /'bjʊtəfəl/"
+		"soundmark": "/ðə/ /most/ /'bjʊtəfəl/",
+		"vietnamese": "最đẹp"
 	},
 	{
-		"chinese": "地方",
 		"english": "place",
-		"soundmark": "/ples/"
+		"soundmark": "/ples/",
+		"vietnamese": "[VI:地方]"
 	},
 	{
-		"chinese": "最漂亮的地方",
 		"english": "the most beautiful place",
-		"soundmark": "/ðə/ /most/ /'bjʊtəfəl/ /ples/"
+		"soundmark": "/ðə/ /most/ /'bjʊtəfəl/ /ples/",
+		"vietnamese": "最đẹp地方"
 	},
 	{
-		"chinese": "参观",
 		"english": "to visit",
-		"soundmark": "/tə/ /'vɪzɪt/"
+		"soundmark": "/tə/ /'vɪzɪt/",
+		"vietnamese": "[VI:参观]"
 	},
 	{
-		"chinese": "参观（过去分词）",
 		"english": "visited",
-		"soundmark": "/'vɪzɪtɪd/"
+		"soundmark": "/'vɪzɪtɪd/",
+		"vietnamese": "[VI:参观（过去分词）]"
 	},
 	{
-		"chinese": "我曾经参观过",
 		"english": "I have ever visited",
-		"soundmark": "/aɪ/ /hæv/ /'ɛvɚ/ /'vɪzɪtɪd/"
+		"soundmark": "/aɪ/ /hæv/ /'ɛvɚ/ /'vɪzɪtɪd/",
+		"vietnamese": "Tôi曾经参观过"
 	},
 	{
-		"chinese": "我曾经参观过的最漂亮的地方",
 		"english": "the most beautiful place I have ever visited",
-		"soundmark": "/ðə/ /most/ /'bjʊtəfəl/ /ples/ /aɪ/ /hæv/ /'ɛvɚ/ /'vɪzɪtɪd/"
+		"soundmark": "/ðə/ /most/ /'bjʊtəfəl/ /ples/ /aɪ/ /hæv/ /'ɛvɚ/ /'vɪzɪtɪd/",
+		"vietnamese": "Tôi曾经参观过的最đẹp地方"
 	},
 	{
-		"chinese": "这是",
 		"english": "this is",
-		"soundmark": "/ðɪs/ /ɪz/"
+		"soundmark": "/ðɪs/ /ɪz/",
+		"vietnamese": "这là"
 	},
 	{
-		"chinese": "这是我曾经参观过的最漂亮的地方",
 		"english": "this is the most beautiful place I have ever visited",
-		"soundmark": "/ðɪs/ /ɪz/ /ðə/ /most/ /'bjʊtəfəl/ /ples/ /aɪ/ /hæv/ /'ɛvɚ/ /'vɪzɪtɪd/"
+		"soundmark": "/ðɪs/ /ɪz/ /ðə/ /most/ /'bjʊtəfəl/ /ples/ /aɪ/ /hæv/ /'ɛvɚ/ /'vɪzɪtɪd/",
+		"vietnamese": "这làTôi曾经参观过的最đẹp地方"
 	},
 	{
-		"chinese": "看",
 		"english": "to watch",
-		"soundmark": "/tə/ /wɑtʃ/"
+		"soundmark": "/tə/ /wɑtʃ/",
+		"vietnamese": "[VI:看]"
 	},
 	{
-		"chinese": "电影",
 		"english": "movie",
-		"soundmark": "/'muvi/"
+		"soundmark": "/'muvi/",
+		"vietnamese": "[VI:电影]"
 	},
 	{
-		"chinese": "看电影",
 		"english": "to watch a movie",
-		"soundmark": "/tə/ /wɑtʃ/ /ə/ /'muvi/"
+		"soundmark": "/tə/ /wɑtʃ/ /ə/ /'muvi/",
+		"vietnamese": "[VI:看电影]"
 	},
 	{
-		"chinese": "恐怖的",
 		"english": "scary",
-		"soundmark": "/ˈskɛri/"
+		"soundmark": "/ˈskɛri/",
+		"vietnamese": "[VI:恐怖的]"
 	},
 	{
-		"chinese": "恐怖的电影",
 		"english": "scary movie",
-		"soundmark": "/ˈskɛri/ /'muvi/"
+		"soundmark": "/ˈskɛri/ /'muvi/",
+		"vietnamese": "[VI:恐怖的电影]"
 	},
 	{
-		"chinese": "最恐怖的",
 		"english": "the scariest",
-		"soundmark": "/ðə/ /ˈskɛriəst/"
+		"soundmark": "/ðə/ /ˈskɛriəst/",
+		"vietnamese": "[VI:最恐怖的]"
 	},
 	{
-		"chinese": "最恐怖的电影",
 		"english": "the scariest movie",
-		"soundmark": "/ðə/ /ˈskɛriəst/ /'muvi/"
+		"soundmark": "/ðə/ /ˈskɛriəst/ /'muvi/",
+		"vietnamese": "[VI:最恐怖的电影]"
 	},
 	{
-		"chinese": "看",
 		"english": "to watch",
-		"soundmark": "/tə/ /wɑtʃ/"
+		"soundmark": "/tə/ /wɑtʃ/",
+		"vietnamese": "[VI:看]"
 	},
 	{
-		"chinese": "看（过去分词）",
 		"english": "watched",
-		"soundmark": "/wɑtʃt/"
+		"soundmark": "/wɑtʃt/",
+		"vietnamese": "[VI:看（过去分词）]"
 	},
 	{
-		"chinese": "我曾经看过",
 		"english": "I have ever watched",
-		"soundmark": "/aɪ/ /hæv/ /'ɛvɚ/ /wɑtʃt/"
+		"soundmark": "/aɪ/ /hæv/ /'ɛvɚ/ /wɑtʃt/",
+		"vietnamese": "Tôi曾经看过"
 	},
 	{
-		"chinese": "我曾经看过的最恐怖的电影",
 		"english": "the scariest movie I have ever watched",
-		"soundmark": "/ðə/ /ˈskɛriəst/ /'muvi/ /aɪ/ /hæv/ /'ɛvɚ/ /wɑtʃt/"
+		"soundmark": "/ðə/ /ˈskɛriəst/ /'muvi/ /aɪ/ /hæv/ /'ɛvɚ/ /wɑtʃt/",
+		"vietnamese": "Tôi曾经看过的最恐怖的电影"
 	},
 	{
-		"chinese": "那是",
 		"english": "that was",
-		"soundmark": "/ðæt/ /wəz/"
+		"soundmark": "/ðæt/ /wəz/",
+		"vietnamese": "那là"
 	},
 	{
-		"chinese": "那是我曾经看过的最恐怖的电影",
 		"english": "that was the scariest movie I have ever watched",
-		"soundmark": "/ðæt/ /wəz/ /ðə/ /ˈskɛriəst/ /'muvi/ /aɪ/ /hæv/ /'ɛvɚ/ /wɑtʃt/"
+		"soundmark": "/ðæt/ /wəz/ /ðə/ /ˈskɛriəst/ /'muvi/ /aɪ/ /hæv/ /'ɛvɚ/ /wɑtʃt/",
+		"vietnamese": "那làTôi曾经看过的最恐怖的电影"
 	}
 ]
