@@ -2,9 +2,13 @@ import { h, render } from "vue";
 
 import MessageConstructor from "./Message.vue";
 
-export enum Type
+export enum Type {
+  SUCCESS = "success",
+  ERROR = "error",
+  WARNING = "warning",
+}
 
-// 使用函数
+// Hàm sử dụng
 type Params = {
   type: Type;
   text: string;

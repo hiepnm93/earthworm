@@ -4,5 +4,7 @@ export interface MembershipDetails {
   type: string;
 }
 
-export enum MembershipType  // 普通会员
-// 创始会员
+export enum MembershipType {
+  REGULAR = "regular", // Thành viên thường
+  FOUNDER = "founder", // Thành viên sáng lập
+}

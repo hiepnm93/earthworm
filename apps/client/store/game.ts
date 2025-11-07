@@ -4,7 +4,12 @@ import { ref } from "vue";
 import { useLearningTimeTracker } from "~/composables/main/learningTimeTracker";
 import { isAuthenticated } from "~/services/auth";
 
-enum GameStatus
+enum GameStatus {
+  NOT_PLAYED = "not_played",
+  STARTED = "started",
+  PAUSED = "paused",
+  LEVEL_COMPLETED = "level_completed",
+}
 
 export const useGameStore = defineStore("game", () => {
   const { startTracking, stopTracking } = useLearningTimeTracker();

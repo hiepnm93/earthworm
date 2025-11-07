@@ -1,1 +1,4 @@
-export enum MembershipType
+export enum MembershipType {
+  REGULAR = "regular",
+  FOUNDER = "founder",
+}

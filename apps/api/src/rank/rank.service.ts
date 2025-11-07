@@ -5,8 +5,12 @@ import Redis from "ioredis";
 import { UserEntity } from "../user/user.decorators";
 import { UserService } from "../user/user.service";
 
-// 定义周期枚举
-export enum RankPeriod
+// Định nghĩa enum chu kỳ
+export enum RankPeriod {
+  WEEKLY = "weekly",
+  MONTHLY = "monthly",
+  YEARLY = "yearly",
+}
 
 export type RankPeriodAlias = "weekly" | "monthly" | "yearly";
 
