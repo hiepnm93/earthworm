@@ -1,13 +1,14 @@
 <template>
-  <button
+   <button
     class="button cursor-pointer bg-white transition-all duration-300 dark:bg-[#05051d]"
     :data-content="route.path === '/' ? 'Back to Top' : 'Go to Home'"
     @click="scrollToTop"
   >
-    <span
+     <span
       class="svgIcon i-ph-arrow-up-bold h-5 w-5 fill-black transition-all duration-300 dark:fill-white"
-    ></span>
-  </button>
+    ></span
+    > </button
+  >
 </template>
 
 <script setup lang="ts">
@@ -77,3 +78,4 @@ const scrollToTop = () => {
   transition-duration: 0.3s;
 }
 </style>
+

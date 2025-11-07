@@ -38,28 +38,31 @@ onMounted(() => {
 </script>
 
 <template>
-  <Transition name="down">
+   <Transition name="down"
+    >
     <div
       class="fixed left-1/2 top-20 z-[99999] flex h-[40px] -translate-x-1/2 items-center justify-center rounded-md bg-opacity-90 px-6 py-0 text-center leading-[40px] shadow-md"
       :class="type"
       :style="style[type]"
       v-if="isShow"
     >
-      <span
+       <span
         v-if="type === Type.SUCCESS"
         class="i-ph-check-circle-bold mr-4 h-4 w-4 shrink-0 stroke-current"
-      ></span>
-      <span
+      ></span
+      > <span
         v-else-if="type === Type.ERROR"
         class="i-ph-x-circle-bold mr-4 h-4 w-4 shrink-0 stroke-current"
-      ></span>
-      <span
+      ></span
+      > <span
         v-else
         class="i-ph-warning-circle-bold mr-4 h-4 w-4 shrink-0 stroke-current"
-      ></span>
-      <span class="text-sm font-medium">{{ text }}</span>
+      ></span
+      > <span class="text-sm font-medium">{{ text }}</span
+      >
     </div>
-  </Transition>
+     </Transition
+  >
 </template>
 
 <style scoped>
@@ -80,3 +83,4 @@ onMounted(() => {
   transform: translate(-50%, 0);
 }
 </style>
+

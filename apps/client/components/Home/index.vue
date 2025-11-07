@@ -1,28 +1,33 @@
 <template>
+
   <div class="mt-8 flex w-full justify-between">
-    <!-- 左侧Ảnh đại diện区域 -->
+     <!-- 左侧Ảnh đại diện区域 -->
     <div class="mr-16 hidden w-72 md:block">
+
       <div
         class="mx-auto h-56 w-56 overflow-hidden rounded-full border-2 border-gray-300 bg-gray-300 dark:border-gray-700 dark:bg-gray-700"
       >
-        <!-- 通过给定高度来自适应拉伸图片，如果图片不存在或者Tải thất bại则Hiện外层的背景色（没有宽度） -->
+         <!-- 通过给定高度来自适应拉伸图片，如果图片不存在或者Tải thất bại则Hiện外层的背景色（没有宽度） -->
         <img
           class="h-full object-cover"
           :src="userStore.user?.avatar"
         />
       </div>
+
       <div class="mt-4 truncate">
+
         <div class="flex gap-2">
+
           <div class="text-3xl font-medium">{{ userStore.user?.username }}</div>
-          <MembershipBadge></MembershipBadge>
+           <MembershipBadge></MembershipBadge>
         </div>
-        <div class="text-md text-gray-400">
-          {{ userStore.user?.name }}
-        </div>
+
+        <div class="text-md text-gray-400"> {{ userStore.user?.name }} </div>
+
       </div>
+
       <hr class="my-5 dark:border-gray-700" />
-      <!-- TODO: 等后续勋chương制作Hoàn thành再放出来 -->
-      <!-- <div class="text-lg font-medium">勋chương</div>
+       <!-- TODO: 等后续勋chương制作Hoàn thành再放出来 --> <!-- <div class="text-lg font-medium">勋chương</div>
       <div class="mt-2 grid grid-cols-4 gap-2">
         <div
           v-for="i in 6"
@@ -30,27 +35,30 @@
         ></div>
       </div> -->
     </div>
-
-    <!-- 右侧Gói khóa học区域 -->
+     <!-- 右侧Gói khóa học区域 -->
     <div class="min-w-0 flex-1">
+
       <div class="mb-4 flex justify-between border-b pb-2 dark:border-gray-700">
+
         <div class="text-xl font-medium">Gần đây使用的Gói khóa học</div>
-        <NuxtLink
+         <NuxtLink
           href="/course-pack"
           class="link text-blue-500 no-underline hover:opacity-75"
-          >ThêmGói khóa học
-        </NuxtLink>
+          >ThêmGói khóa học </NuxtLink
+        >
       </div>
-      <HomeRecentCoursePack />
-      <HomeCalendarGraph
+       <HomeRecentCoursePack /> <HomeCalendarGraph
         class="mt-10"
         :data="learningDailyTimeList"
         :totalLearningTime="learningDailyTotalTime"
         @toggleYear="toggleYear"
       />
     </div>
+
   </div>
+
 </template>
+
 <script setup lang="ts">
 import { useAsyncData } from "#imports";
 import { ref } from "vue";
@@ -90,3 +98,4 @@ function useCalendarGraph() {
 </script>
 
 <style scoped></style>
+

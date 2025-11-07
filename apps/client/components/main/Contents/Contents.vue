@@ -1,29 +1,39 @@
 <template>
+
   <div
     id="contents"
     class="absolute left-0 top-20 z-10 w-80 select-none overflow-y-auto border-l-4 border-fuchsia-500 bg-white shadow dark:bg-slate-800"
     :class="[isShowContents() && 'show']"
     ref="contentsRef"
   >
+
     <div class="px-2">
+
       <div
         v-for="(item, index) in contentsList"
         :key="item.id"
         :class="getItemClassNames(index)"
-        :data-tippy-content="`${item.english}<br>${item.chinese}`"
+        :data-tippy-content="`${item.english}<br>${item.vietnamese}`"
         @click="jumpTo(index, item)"
         @mouseenter="$lazyTippy"
       >
+
         <div class="flex whitespace-pre-wrap border-b py-1 dark:border-slate-600">
+
           <div class="w-12 text-center">{{ index + 1 }}</div>
+
           <div class="flex-1 truncate text-left">
-            {{ item.chinese }}
-            {{ item.isMastered ? "✅" : "" }}
+             {{ item.vietnamese }} {{ item.isMastered ? "✅" : "" }}
           </div>
+
         </div>
+
       </div>
+
     </div>
+
   </div>
+
 </template>
 
 <script setup lang="ts">
@@ -104,3 +114,4 @@ function jumpTo(index: number, item: any) {
   height: 24.6rem;
 }
 </style>
+

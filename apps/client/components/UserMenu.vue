@@ -1,73 +1,90 @@
 <template>
-  <Teleport to="body">
+   <Teleport to="body"
+    >
     <div class="drawer drawer-end z-10">
-      <input
+       <input
         id="my-drawer"
         type="checkbox"
         class="drawer-toggle"
         v-model="open"
       />
       <div class="drawer-content"></div>
+
       <div class="drawer-side">
-        <label
+         <label
           for="my-drawer"
           aria-label="close sidebar"
           class="drawer-overlay"
-        ></label>
+        ></label
+        >
         <aside class="menu min-h-full w-80 bg-base-200 p-4 text-base-content">
+
           <div class="flex items-center justify-between pb-5">
+
             <div class="flex items-center gap-3">
+
               <div class="avatar">
+
                 <div class="mask mask-squircle h-12 w-12">
-                  <img
+                   <img
                     :src="userStore.user?.avatar"
                     alt="Avatar Tailwind CSS Component"
                   />
                 </div>
+
               </div>
+
               <div>
+
                 <div class="flex gap-2">
+
                   <div class="text-xl font-bold">{{ userStore.user?.username }}</div>
-                  <MembershipBadge></MembershipBadge>
+                   <MembershipBadge></MembershipBadge>
                 </div>
+
                 <div class="text-sm opacity-50">{{ userStore.user?.name }}</div>
+
               </div>
+
             </div>
 
             <div>
-              <label
+               <label
                 for="my-drawer"
                 class="btn btn-square btn-ghost drawer-button btn-sm"
+                > <span class="i-ph-x-bold h-6 w-6"></span> </label
               >
-                <span class="i-ph-x-bold h-6 w-6"></span>
-              </label>
             </div>
+
           </div>
 
           <ul>
+
             <li
               v-for="(item, index) in showMenuOptions"
               :index="index"
               :key="item.name"
             >
-              <span
+               <span
                 @click="item.eventName"
                 class=""
-              >
-                <span
+                > <span
                   class="h-6 w-6"
                   :class="item.icon"
-                ></span>
-                <span class="text-sm font-medium">
-                  {{ item.title }}
-                </span>
-              </span>
+                ></span
+                > <span class="text-sm font-medium"> {{ item.title }} </span> </span
+              >
             </li>
+
           </ul>
+
         </aside>
+
       </div>
+
     </div>
-  </Teleport>
+     </Teleport
+  >
 </template>
 
 <script setup lang="ts">
@@ -167,3 +184,4 @@ function handleGoToEditor() {
 </script>
 
 <style scoped></style>
+

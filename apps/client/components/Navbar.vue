@@ -1,4 +1,5 @@
 <template>
+
   <header
     class="w-full px-5 font-customFont transition-all duration-300 ease-linear"
     :class="{
@@ -7,12 +8,16 @@
         isStickyNavBar && isScrolled,
     }"
   >
+
     <div class="mx-auto max-w-screen-xl">
+
       <div class="flex h-16 items-center justify-between">
+
         <div class="flex flex-1 items-center justify-between">
-          <NuxtLink to="/">
+           <NuxtLink to="/"
+            >
             <div class="logo flex items-center">
-              <img
+               <img
                 width="48"
                 height="48"
                 class="mr-6 hidden overflow-hidden rounded-md md:block"
@@ -20,69 +25,76 @@
                 alt="earth-worm-logo"
               />
               <h1 class="text-wrap text-2xl font-extrabold leading-normal dark:text-white">
-                Earthworm
+                 Earthworm
               </h1>
-            </div>
-          </NuxtLink>
 
+            </div>
+             </NuxtLink
+          >
           <nav
             v-if="route.path === '/' && !isAuthenticated()"
             aria-label="Global"
             class="hidden md:block"
           >
+
             <ul class="flex items-center text-base">
+
               <li
                 class="px-4"
                 v-for="(optItem, optIndex) in HEADER_OPTIONS"
                 :key="optIndex"
               >
-                <a
+                 <a
                   class="text-nowrap hover:text-purple-600 dark:text-white dark:hover:text-purple-400"
                   :href="optItem.href"
                   :target="optItem.target ?? '_self'"
+                  > {{ optItem.name }} </a
                 >
-                  {{ optItem.name }}
-                </a>
               </li>
+
             </ul>
+
           </nav>
+
         </div>
 
         <div class="flex items-center">
-          <!-- HiệnNgười dùngThông tin -->
+           <!-- HiệnNgười dùngThông tin -->
           <div
             v-if="isAuthenticated()"
             class="logged-in flex items-center"
           >
+
             <div
               class="h-8 w-8 cursor-pointer overflow-hidden rounded-full bg-gray-300 transition-all hover:scale-125 hover:opacity-90 dark:bg-gray-700"
               @click="handleShowUserMenu"
             >
-              <img
+               <img
                 class="h-full object-cover"
                 :src="userStore.user?.avatar"
               />
             </div>
+
           </div>
-          <!-- Đăng nhập/Đăng ký -->
-          <button
+           <!-- Đăng nhập/Đăng ký --> <button
             v-else
             aria-label="Login"
             class="btn btn-sm mr-1 border-none bg-purple-500 text-white shadow-md hover:bg-purple-600 focus:outline-none"
             @click="signIn()"
           >
-            Đăng nhập
-          </button>
+             Đăng nhập </button
+          >
         </div>
-      </div>
-    </div>
-  </header>
 
-  <UserMenu
+      </div>
+
+    </div>
+
+  </header>
+   <UserMenu
     v-model:open="isOpenUserMenu"
     @logout="handleLogout"
-  />
-  <MainMessageBox
+  /> <MainMessageBox
     v-model:show-modal="isShowModal"
     content="是否Xác nhận thoátĐăng nhập？"
     confirm-btn-text="确认"
@@ -136,3 +148,4 @@ function handleShowUserMenu() {
   isOpenUserMenu.value = true;
 }
 </script>
+

@@ -8,7 +8,7 @@ export enum Type {
   WARNING = "warning",
 }
 
-// 使用函数
+// Hàm sử dụng
 type Params = {
   type: Type;
   text: string;

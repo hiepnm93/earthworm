@@ -1,7 +1,7 @@
 <div align="center">
   <img alt="Earthworm" width="120" height="120" src="./assets/logo/logo-1000.png">
   <h1>Earthworm</h1>
-  <span>English | <a href="./README.zh-CN.md">中文</a></span>
+  <span>English | <a href="./README.zh-CN.md">中文</a> | <a href="./README.vi.md">Tiếng Việt</a></span>
 </div>
 
 <div align="center">
@@ -256,12 +256,10 @@ docker images
 ## 🤝 Frontend Development Guideline
 
 1. Do not Destructure Pinia store.
-
    - The readability will be better when using `store`
    - Destructuring can lead to reactivity loss and using `storeToRefs` is also quite cumbersome
 
 2. Avoid including UI logic in composables.
-
    - Such as `useMessage`
    - We categorize the router as UI logic, and for ease of testing, avoid including routerrelated logic in there
 

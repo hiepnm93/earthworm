@@ -91,19 +91,23 @@ defineExpose({
 </script>
 
 <template>
+
   <dialog
     ref="modalRef"
     class="modal"
     @click="handleClick"
   >
+
     <div
       class="modal-box bg-white dark:bg-gray-800"
       :class="twClass"
       :style="{ marginTop: offsetTop }"
     >
-      <slot />
+       <slot />
     </div>
+
   </dialog>
+
 </template>
 
 <style scoped>
@@ -111,3 +115,4 @@ dialog::backdrop {
   background-color: v-bind(modalColor);
 }
 </style>
+

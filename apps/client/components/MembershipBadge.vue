@@ -1,14 +1,17 @@
 <template>
+
   <div>
-    <span
+     <span
       v-if="userStore.isFounderMembership()"
       class="i-ph-crown-simple-fill relative overflow-hidden bg-yellow-400"
       title="尊贵的创始Thành viên,感谢您对 Earthworm 的大力支持！"
       style="width: 20px; height: 20px"
-    >
+      >
       <div class="glimmer"></div>
-    </span>
+       </span
+    >
   </div>
+
 </template>
 
 <script setup lang="ts">
@@ -56,3 +59,4 @@ const userStore = useUserStore();
   -webkit-animation: glimmer 2s infinite;
 }
 </style>
+

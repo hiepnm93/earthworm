@@ -1,24 +1,29 @@
 <template>
-  <CommonModal :show-modal="authRequireModalState">
+   <CommonModal :show-modal="authRequireModalState"
+    >
     <div className="modal-box">
+
       <h3 className="font-bold text-lg mb-4">✨ 友情Gợi ý</h3>
+
       <p class="py-4 text-center text-xl">Đăng ký以进行下một课的Học tập哦~ 😊</p>
+
       <div className="modal-action">
-        <button
+         <button
           class="btn"
           @click="hideAuthRequireModal"
         >
-          Hủy
-        </button>
-        <button
+           Hủy </button
+        > <button
           class="btn"
           @click="handleSignup"
         >
-          去Đăng ký
-        </button>
+           去Đăng ký </button
+        >
       </div>
+
     </div>
-  </CommonModal>
+     </CommonModal
+  >
 </template>
 
 <script setup lang="ts">
@@ -38,3 +43,4 @@ function handleSignup() {
   signIn();
 }
 </script>
+

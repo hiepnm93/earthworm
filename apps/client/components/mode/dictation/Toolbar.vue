@@ -1,38 +1,37 @@
 <template>
+
   <div class="absolute right-0 top-0 mt-12 text-sm dark:text-gray-50">
-    <template
+     <template
       v-for="option in TOOLBAR_LIST"
       :key="option.key"
-    >
-      <span class="mx-2">{{ option.label }}：</span>
-      <select
+      > <span class="mx-2">{{ option.label }}：</span> <select
         class="select select-ghost h-4 w-24 md:h-8 md:w-24"
         v-model="toolBarData[option.key]"
       >
+
         <option
           v-for="item in option.options"
           :key="item.value"
           :value="item.value"
           class="h-2"
         >
-          {{ item.label }}
+           {{ item.label }}
         </option>
-      </select>
-    </template>
-
-    <button
+         </select
+      > </template
+    > <button
       @click="handleReset"
       class="btn btn-primary mx-3"
     >
-      Đặt lại
-    </button>
-    <button
+       Đặt lại </button
+    > <button
       @click="handlePlay"
       class="btn btn-secondary"
     >
-      重新Phát
-    </button>
+       重新Phát </button
+    >
   </div>
+
 </template>
 
 <script setup lang="ts">
@@ -133,3 +132,4 @@ const TOOLBAR_LIST = [
 </script>
 
 <style scoped></style>
+

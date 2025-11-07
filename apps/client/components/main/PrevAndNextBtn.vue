@@ -1,30 +1,35 @@
 <template>
+
   <div class="absolute flex w-full items-center justify-between">
+
     <div class="h-12 w-12">
-      <button
+       <button
         v-show="courseStore.visibleStatementIndex !== 0"
         class="arrow-btn"
         :data-tippy-content="PREV_BTN_TIP"
         @click="goToPreviousQuestion"
         @mouseenter="$lazyTippy"
       >
-        <span class="i-ph-caret-left h-12 w-12"></span>
-      </button>
+         <span class="i-ph-caret-left h-12 w-12"></span> </button
+      >
     </div>
 
     <div class="h-12 w-12">
-      <button
+       <button
         v-show="courseStore.visibleStatementIndex + 1 !== courseStore.visibleStatementsCount"
         class="arrow-btn"
         :data-tippy-content="NEXT_BTN_TIP"
         @click="goToNextQuestion"
         @mouseenter="$lazyTippy"
       >
-        <span class="i-ph-caret-right h-12 w-12"></span>
-      </button>
+         <span class="i-ph-caret-right h-12 w-12"></span> </button
+      >
     </div>
+
   </div>
+
 </template>
+
 <script setup lang="ts">
 import { onMounted, onUnmounted } from "vue";
 
@@ -77,6 +82,7 @@ function usePrevAndNextQuestion(prevKey: string, nextKey: string) {
   };
 }
 </script>
+
 <style scoped>
 .arrow-btn {
   @apply text-[#475569] hover:text-[#d946ef] dark:text-[#cbd5e1] dark:hover:text-[#d946ef];
@@ -86,3 +92,4 @@ function usePrevAndNextQuestion(prevKey: string, nextKey: string) {
   @apply scale-95;
 }
 </style>
+

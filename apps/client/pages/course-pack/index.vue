@@ -1,16 +1,17 @@
 <template>
+
   <div class="flex w-full flex-col">
+
     <h2 class="mb-4 text-center text-3xl dark:border-gray-600">Gói khóa họcDanh sách</h2>
-    <template v-if="isLoading">
-      <Loading></Loading>
-    </template>
-    <template v-else>
+     <template v-if="isLoading"> <Loading></Loading> </template> <template v-else
+      >
       <div class="h-[79vh] overflow-y-auto overflow-x-hidden scrollbar-hide">
+
         <div
           class="grid auto-rows-fr grid-cols-1 gap-4 px-4 sm:grid-cols-2 sm:px-0 md:grid-cols-3 lg:grid-cols-4"
         >
-          <template v-for="coursePack in coursePackStore.coursePacks">
-            <CoursePackCard
+           <template v-for="coursePack in coursePackStore.coursePacks"
+            > <CoursePackCard
               :coursePack="{
                 id: coursePack.id,
                 title: coursePack.title,
@@ -19,12 +20,16 @@
                 isFree: coursePack.isFree,
               }"
               @cardClick="handleGoToCoursePack"
-            ></CoursePackCard>
-          </template>
+            ></CoursePackCard
+            > </template
+          >
         </div>
+
       </div>
-    </template>
+       </template
+    >
   </div>
+
 </template>
 
 <script setup lang="ts">
@@ -62,3 +67,4 @@ function handleGoToCoursePack(coursePack: CoursePack) {
 </script>
 
 <style></style>
+

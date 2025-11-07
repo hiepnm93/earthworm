@@ -1,11 +1,13 @@
 <template>
-  <CommonModal
+   <CommonModal
     :show-modal="shareModalVisible"
     :modal="true"
     tw-class="flex w-[27rem] flex-col items-center overflow-hidden"
-  >
+    >
     <div class="flex">
+
       <div class="gallery mr-2 py-2">
+
         <div
           v-for="(imgItem, index) in galleryImgs"
           :key="imgItem.src"
@@ -18,18 +20,20 @@
           ]"
           @click="handleSelectImage(index)"
         >
-          <img
+           <img
             v-show="imgItem.src"
             :src="imgItem.src"
             :alt="`Card ${index}`"
           />
         </div>
+
       </div>
+
       <div
         :class="['h-[27rem] w-[19rem]', { skeleton: !shareImageSrc }]"
         ref="imageContainer"
       >
-        <img
+         <img
           v-show="shareImageSrc"
           :src="shareImageSrc"
           alt="Selected Share Image"
@@ -38,22 +42,24 @@
           class="rounded-md"
         />
       </div>
+
     </div>
+
     <div class="modal-action">
-      <button
+       <button
         class="btn btn-primary"
         @click="copyAndClose"
       >
-        Sao chép并Đóng
-      </button>
-      <button
+         Sao chép并Đóng </button
+      > <button
         class="btn"
         @click="hideShareModal"
       >
-        Đóng
-      </button>
+         Đóng </button
+      >
     </div>
-  </CommonModal>
+     </CommonModal
+  >
 </template>
 
 <script setup lang="ts">
@@ -107,3 +113,4 @@ const copyAndClose = () => {
   hideShareModal();
 };
 </script>
+

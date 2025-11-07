@@ -1,17 +1,16 @@
 <template>
-  <HttpErrorProvider>
+   <HttpErrorProvider
+    >
     <div
       class="h-screen w-screen"
       v-if="status === 'pending'"
     >
-      <Loading />
+       <Loading />
     </div>
-    <template v-else>
-      <NuxtLayout>
-        <NuxtPage />
-      </NuxtLayout>
-    </template>
-  </HttpErrorProvider>
+     <template v-else
+      > <NuxtLayout> <NuxtPage /> </NuxtLayout> </template
+    > </HttpErrorProvider
+  >
 </template>
 
 <script setup lang="ts">
@@ -40,3 +39,4 @@ const { status } = useAsyncData("initApplication", async () => {
   display: none !important;
 }
 </style>
+

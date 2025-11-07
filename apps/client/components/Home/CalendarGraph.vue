@@ -14,6 +14,7 @@
         >
           <thead>
             <th></th>
+
             <th
               v-for="{ colSpan, month } in thead"
               class="text-left font-normal"
@@ -23,6 +24,7 @@
               {{ month }}
             </th>
           </thead>
+
           <tbody>
             <tr
               v-for="(row, i) in tbody"
@@ -31,6 +33,7 @@
               <td class="relative hidden w-8 md:block">
                 <span class="absolute">{{ i % 2 !== 0 ? weeksZh[i] : "" }}</span>
               </td>
+
               <td
                 v-for="(cell, j) in row"
                 class="m-0"
@@ -59,16 +62,21 @@
         </span>
         <div class="flex items-center gap-1 text-xs">
           <div class="text-gray-500">更少</div>
+
           <div class="cell"></div>
+
           <div class="cell low"></div>
+
           <div class="cell moderate"></div>
+
           <div class="cell high"></div>
+
           <div class="cell higher"></div>
+
           <div class="text-gray-500">Thêm</div>
         </div>
       </div>
     </div>
-
     <!-- 右侧年份选项 -->
     <!-- TODO: 多年份选择还没做，目前只有 2024，先写死了 -->
     <div
